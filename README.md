@@ -40,10 +40,12 @@ modern web projects.
 - [Beautify](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify): Beautify javascript, JSON, CSS, Sass, and HTML in Visual Studio Code.
 - [VSCode Icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons): Icons for Visual Studio Code (Folders and files)
 - [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer): Launch a development local Server with live reload feature for static & dynamic pages.
+- [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare-pack): his extension pack includes everything you need to start collaboratively editing and debugging in real time, including integrated audio and text chat.
 - [PHP Intelephense](https://marketplace.visualstudio.com/items?itemName=bmewburn.vscode-intelephense-client): High performance, feature rich PHP intellisense. (I use it for PHP indentation)
 - [Power Mode](https://marketplace.visualstudio.com/items?itemName=hoovercj.vscode-power-mode): Your code is powerful, unleash it! The extension made popular by Code in the Dark has finally made its way to VS Code.
 - [Rainbow Brackets](https://marketplace.visualstudio.com/items?itemName=2gua.rainbow-brackets): Provide rainbow colors for the round brackets, the square brackets and the squiggly brackets.
 - [Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode): The Visual Studio IntelliCode extension provides AI-assisted productivity features for Python, TypeScript/JavaScript and Java developers in Visual Studio Code, with insights based on understanding your code context combined with machine learning.
+- [HTML CSS Support](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css): Class and ID completion for HTML with support for remote CSS files (CDN).
 - [VSCode Spotify](https://marketplace.visualstudio.com/items?itemName=shyykoserhiy.vscode-spotify): Use Spotify inside vscode. Provides integration with Spotify Desktop client.
 
 ### Useful commands
