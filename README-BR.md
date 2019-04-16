@@ -1,5 +1,7 @@
 # Ferramentas úteis para Desenvolvedores
 
+### [EN version](README.md)
+
 Algumas das ferramentas abaixo me ajudaram muito quando eu precisei. Sinta-se livre para adicionar mais ferramentas que te ajudaram também! Envie um Pull Request ou abra uma issue com mais ferramentas que te ajudam no dia-a-dia.
 
 ### Ferramentas para Web
