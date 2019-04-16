@@ -1,6 +1,6 @@
 # Useful Developer Tools
 
-Some below tools helped me a lot when i needed it. Feel free to add more tools, if you know more tools and if you want to help the developer's community. Comment below what tool you already know, or what tool you did not know and will help you a lot.
+Some below tools helped me a lot when i needed it. Feel free to add more tools, if you know more tools and if you want to help the developer's community. Please, submit a Pull Request or Open a issue for a tool you already know.
 
 ### Web Tools
 - [KeyCode Info](https://keycode.info/): Easy visualizer for JavaScript KeyCodes.
