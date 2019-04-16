@@ -46,6 +46,7 @@ Algumas das ferramentas abaixo me ajudaram muito quando eu precisei. Sinta-se li
 - [Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode): A extensão IntelliCode do Visual Studio fornece recursos de produtividade assistida por IA para desenvolvedores de Python, TypeScript / JavaScript e Java no Visual Studio Code , com insights baseados em entender seu contexto de código combinado com aprendizado de máquina.
 - [HTML CSS Support](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css): Conclusão de classes e IDs para HTML com suporte para arquivos CSS (CDN) remotos.
 - [VSCode Spotify](https://marketplace.visualstudio.com/items?itemName=shyykoserhiy.vscode-spotify): Use o Spotify dentro do vscode. Fornece integração com o cliente Spotify Desktop.
+- [Discord Presence](https://marketplace.visualstudio.com/items?itemName=icrawl.discord-vscode): Mostre em seu status do Discord que está programando no VSCode com uma linguagem específica (automaticamente.)
 
 ### Comandos úteis
 - `npx add-gitignore` para adicionar um arquivo git ignore ao seu projeto para uma linguagem específica.

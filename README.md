@@ -47,6 +47,7 @@ modern web projects.
 - [Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode): The Visual Studio IntelliCode extension provides AI-assisted productivity features for Python, TypeScript/JavaScript and Java developers in Visual Studio Code, with insights based on understanding your code context combined with machine learning.
 - [HTML CSS Support](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css): Class and ID completion for HTML with support for remote CSS files (CDN).
 - [VSCode Spotify](https://marketplace.visualstudio.com/items?itemName=shyykoserhiy.vscode-spotify): Use Spotify inside vscode. Provides integration with Spotify Desktop client.
+- [Discord Presence](https://marketplace.visualstudio.com/items?itemName=icrawl.discord-vscode): Update your discord status with the newly added rich presence.
 
 ### Useful commands
 - `npx add-gitignore` for adding a git ignore file to your project for a specific language
