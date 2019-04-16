@@ -28,7 +28,7 @@ Algumas das ferramentas abaixo me ajudaram muito quando eu precisei. Sinta-se li
 - [DigitalOcean](https://www.digitalocean.com/): Simplifica o lançamento na nuvem e a ampliação conforme você cresce, esteja você executando uma máquina virtual ou dez mil máquinas virtuais.
 
 ### Ferramentas para Desktop
-- [VSCode](https://code.visualstudio.com/): Um editor de texto avançado da Microsoft para melhorar seu fluxo de trabalho. (Eu amo VSCode <3)
+- [VSCode](https://code.visualstudio.com/): Um editor de texto avançado da Microsoft para melhorar seu fluxo de trabalho. (Eu amo o VSCode <3)
 - [Insomnia](https://insomnia.rest/): API's de depuração como um humano, não um robô.
 - [Postman](https://www.getpostman.com/): Postman simplifica o desenvolvimento de APIs.
 - [Zeit, Now](https://zeit.co/): A plataforma global sem servidor. (CLI)
