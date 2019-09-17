@@ -1,10 +1,11 @@
 # Ferramentas úteis para Desenvolvedores
 
-### [EN version](README.md)
+## [EN version](README.md)
 
 Algumas das ferramentas abaixo me ajudaram muito quando eu precisei. Sinta-se livre para adicionar mais ferramentas que te ajudaram também! Envie um Pull Request ou abra uma issue com mais ferramentas que te ajudam no dia-a-dia.
 
 ### Ferramentas para Web
+
 - [KeyCode Info](https://keycode.info/): Visualizador de código de teclas para JavaScript
 - [Carbon](https://carbon.now.sh): Crie e compartilhe lindas imagens de seu código.
 - [DevHints](https://devhints.io/): Cheatsheets das mais variadas linguagens (ES6, etc.)
@@ -30,13 +31,14 @@ Algumas das ferramentas abaixo me ajudaram muito quando eu precisei. Sinta-se li
 - [DigitalOcean](https://www.digitalocean.com/): Simplifica o lançamento na nuvem e a ampliação conforme você cresce, esteja você executando uma máquina virtual ou dez mil máquinas virtuais.
 
 ### Ferramentas para Desktop
+
 - [VSCode](https://code.visualstudio.com/): Um editor de texto avançado da Microsoft para melhorar seu fluxo de trabalho. (Eu amo o VSCode <3)
 - [Insomnia](https://insomnia.rest/): API's de depuração como um humano, não um robô.
 - [Postman](https://www.getpostman.com/): Postman simplifica o desenvolvimento de APIs.
 - [Zeit, Now](https://zeit.co/): A plataforma global para servir seus sites (CLI.)
 
-
 ### Extensões VSCode
+
 - [Polacode](https://marketplace.visualstudio.com/items?itemName=pnp.polacode): Polaroid para o seu código. É como o [Carbon](https://carbon.now.sh).
 - [Beautify](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify): embelezar javascript, JSON, CSS, Sass e HTML no Visual Studio Code.
 - [VSCode Icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons): ícones para o código do Visual Studio (pastas e arquivos)
@@ -51,4 +53,5 @@ Algumas das ferramentas abaixo me ajudaram muito quando eu precisei. Sinta-se li
 - [Discord Presence](https://marketplace.visualstudio.com/items?itemName=icrawl.discord-vscode): Mostre em seu status do Discord que está programando no VSCode com uma linguagem específica (automaticamente.)
 
 ### Comandos úteis
+
 - `npx add-gitignore` para adicionar um arquivo git ignore ao seu projeto para uma linguagem específica.
