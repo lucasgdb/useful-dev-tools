@@ -49,6 +49,7 @@ Algumas das ferramentas abaixo me ajudaram muito quando eu precisei. Sinta-se li
 - [HTML CSS Support](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css): Conclusão de classes e IDs para HTML com suporte para arquivos CSS (CDN) remotos.
 - [VSCode Spotify](https://marketplace.visualstudio.com/items?itemName=shyykoserhiy.vscode-spotify): Use o Spotify dentro do vscode. Fornece integração com o cliente Spotify Desktop.
 - [Discord Presence](https://marketplace.visualstudio.com/items?itemName=icrawl.discord-vscode): Mostre em seu status do Discord que está programando no VSCode com uma linguagem específica (automaticamente.)
+- [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph): Visualize um gráfico do seu repositório git, e utilize comandos pelo gráfico.
 
 ### Comandos úteis
 - `npx add-gitignore` para adicionar um arquivo git ignore ao seu projeto para uma linguagem específica.
