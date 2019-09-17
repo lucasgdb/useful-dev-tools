@@ -50,6 +50,8 @@ modern web projects.
 - [HTML CSS Support](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css): Class and ID completion for HTML with support for remote CSS files (CDN).
 - [VSCode Spotify](https://marketplace.visualstudio.com/items?itemName=shyykoserhiy.vscode-spotify): Use Spotify inside vscode. Provides integration with Spotify Desktop client.
 - [Discord Presence](https://marketplace.visualstudio.com/items?itemName=icrawl.discord-vscode): Update your discord status with the newly added rich presence.
+- [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint): Markdown linting and style checking for Visual Studio Code
+
 
 ### Useful commands
 - `npx add-gitignore` for adding a git ignore file to your project for a specific language
