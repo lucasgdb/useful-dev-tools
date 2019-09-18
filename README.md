@@ -53,7 +53,7 @@ modern web projects.
 - [VSCode Spotify](https://marketplace.visualstudio.com/items?itemName=shyykoserhiy.vscode-spotify): Use Spotify inside vscode. Provides integration with Spotify Desktop client.
 - [Discord Presence](https://marketplace.visualstudio.com/items?itemName=icrawl.discord-vscode): Update your discord status with the newly added rich presence.
 - [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph): View a Git Graph of your repository, and perform Git actions from the graph.
-- [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint): Markdown linting and style checking for Visual Studio Code
+- [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint): Markdown linting and style checking for Visual Studio Code.
 - [Glassit-VSC](https://marketplace.visualstudio.com/items?itemName=s-nlf-fh.glassit): A VSCode Extension to set window to transparent on Windows platform.
 
 ### Useful commands
