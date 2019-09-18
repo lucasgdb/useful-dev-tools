@@ -1,10 +1,11 @@
 # Useful Developer Tools
 
-### [Versão BR](README-BR.md)
+## [Versão BR](README-BR.md)
 
 Some below tools helped me a lot when i needed it. Feel free to add more tools, if you know more tools and if you want to help the developer's community. Please, submit a Pull Request or Open a issue for a tool you already know.
 
 ### Web Tools
+
 - [KeyCode Info](https://keycode.info/): Easy visualizer for JavaScript KeyCodes.
 - [Carbon](https://carbon.now.sh): Create and share beautiful images of your source code.
 - [DevHints](https://devhints.io/): Rico's cheatsheets.
@@ -31,13 +32,14 @@ modern web projects.
 - [DigitalOcean](https://www.digitalocean.com/): It make it simple to launch in the cloud and scale up as you grow—whether you’re running one virtual machine or ten thousand.
 
 ### Desktop Tools
+
 - [VSCode](https://code.visualstudio.com/): A rich text-editor by Microsoft to improve your workflow. (I love it <3)
 - [Insomnia](https://insomnia.rest/): Debug APIs like a human, not a robot.
 - [Postman](https://www.getpostman.com/): Postman Simplifies API Development.
 - [Zeit, Now](https://zeit.co/): The Global Serverless Platform. (CLI)
 
-
 ### VSCode Extensions
+
 - [Polacode](https://marketplace.visualstudio.com/items?itemName=pnp.polacode): Polaroid for your code. It's like the [Carbon](https://carbon.now.sh).
 - [Beautify](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify): Beautify javascript, JSON, CSS, Sass, and HTML in Visual Studio Code.
 - [VSCode Icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons): Icons for Visual Studio Code (Folders and files)
@@ -51,6 +53,9 @@ modern web projects.
 - [VSCode Spotify](https://marketplace.visualstudio.com/items?itemName=shyykoserhiy.vscode-spotify): Use Spotify inside vscode. Provides integration with Spotify Desktop client.
 - [Discord Presence](https://marketplace.visualstudio.com/items?itemName=icrawl.discord-vscode): Update your discord status with the newly added rich presence.
 - [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph): View a Git Graph of your repository, and perform Git actions from the graph.
+- [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint): Markdown linting and style checking for Visual Studio Code
+- [Glassit-VSC](https://marketplace.visualstudio.com/items?itemName=s-nlf-fh.glassit):VS Code Extension to set window to transparent on Windows platform.
 
 ### Useful commands
+
 - `npx add-gitignore` for adding a git ignore file to your project for a specific language
