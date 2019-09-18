@@ -52,8 +52,8 @@ modern web projects.
 - [HTML CSS Support](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css): Class and ID completion for HTML with support for remote CSS files (CDN).
 - [VSCode Spotify](https://marketplace.visualstudio.com/items?itemName=shyykoserhiy.vscode-spotify): Use Spotify inside vscode. Provides integration with Spotify Desktop client.
 - [Discord Presence](https://marketplace.visualstudio.com/items?itemName=icrawl.discord-vscode): Update your discord status with the newly added rich presence.
+- [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint): Markdown linting and style checking for Visual Studio Code
 - [Glassit-VSC](https://marketplace.visualstudio.com/items?itemName=s-nlf-fh.glassit):VS Code Extension to set window to transparent on Windows platform.
-
 
 ### Useful commands
 
