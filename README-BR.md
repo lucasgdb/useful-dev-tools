@@ -52,7 +52,7 @@ Algumas das ferramentas abaixo me ajudaram muito quando eu precisei. Sinta-se li
 - [VSCode Spotify](https://marketplace.visualstudio.com/items?itemName=shyykoserhiy.vscode-spotify): Use o Spotify dentro do vscode. Fornece integração com o cliente Spotify Desktop.
 - [Discord Presence](https://marketplace.visualstudio.com/items?itemName=icrawl.discord-vscode): Mostre em seu status do Discord que está programando no VSCode com uma linguagem específica (automaticamente.)
 - [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph): Visualize um gráfico do seu repositório git, e utilize comandos pelo gráfico.
-- [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint): Verificação de regras e estilo para Markdown no VsCode
+- [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint): Verificação de regras e estilo para Markdown no VsCode.
 - [Glassit-VSC](https://marketplace.visualstudio.com/items?itemName=s-nlf-fh.glassit): Extensão de código VS para definir a janela como transparente na plataforma Windows.
 
 ### Comandos úteis
