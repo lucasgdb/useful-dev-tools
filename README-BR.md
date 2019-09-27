@@ -29,6 +29,10 @@ Algumas das ferramentas abaixo me ajudaram muito quando eu precisei. Sinta-se li
 - [DevDocs](https://devdocs.io/): Documentação da API e funciona offline.
 - [MDN Docs](https://developer.mozilla.org/en-US/): Recursos para desenvolvedores, por desenvolvedores.
 - [DigitalOcean](https://www.digitalocean.com/): Simplifica o lançamento na nuvem e a ampliação conforme você cresce, esteja você executando uma máquina virtual ou dez mil máquinas virtuais.
+- [Regex101](https://regex101.com/): Validação de expressões regulares.
+- [Gitignore.io](https://www.gitignore.io/): Criação automática de arquivos .gitignore para várias plataformas.
+- [JSONLint](https://jsonlint.com/): Validador e formatador para JSON.
+- [Conventional Commits](https://www.conventionalcommits.org): Especificações para mensagens de commit.
 
 ### Ferramentas para Desktop
 
