@@ -1,7 +1,7 @@
 # Herramientas útiles para desarrolladores
 
-## [EN version](README.md)
-## [Versão BR](README-BR.md)
+- [EN version](README.md)
+- [Versão BR](README-BR.md)
 
 Debajo encontrarás herramientas que resultan de gran ayuda. Si conoces más herramientas, puedes añadirlas a la lista - Solo asegúrate de que hagas el Pull Request acerca de una herramienta que ya conoces.
 
