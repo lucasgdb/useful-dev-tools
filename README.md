@@ -48,6 +48,14 @@ modern web projects.
 - [Agent Ransack](https://www.mythicsoft.com/agentransack/): Agent Ransack is a file search tool for finding files on your PC or network drives.
 - [Fiddler](https://www.telerik.com/fiddler): The web debugging proxy for any browser, system or platform.
 
+### Code Playground (Write a code in the browser)
+
+- [CodePen](https://codepen.io/): Tool for front-end development. You can develop any html, css, modern web frameworks, javascript based code. Integrate your code to github and possible to collaborate. **Features: (examples, github, adding npm packages, download the code, auto reload)**
+- [CodeSandbox](https://codesandbox.io/): You can run both front-end and back-end (javascript, nodejs, any front end frameworks). Easy to fork from github and modify the code **Features: (examples, github, adding npm packages, auto reload, deploy the app)**
+- [Jsbin](https://jsbin.com/): Those who are learning vanilla js, html, css (_intermediate level_). **Features: (examples, adding cdn packages)**
+- [W3schools](https://www.w3schools.com/): Completely for those who start front-end development. You can see the examples, descriptions and use case for each web componet. **Features: (examples)**
+- **Browser Console**: Best place to check small things like getting values from array (with some logics), object manipulations, checking es6 syntax etc...
+
 ### VSCode Extensions
 
 - [Polacode](https://marketplace.visualstudio.com/items?itemName=pnp.polacode): Polaroid for your code. It's like the [Carbon](https://carbon.now.sh).
@@ -65,6 +73,7 @@ modern web projects.
 - [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph): View a Git Graph of your repository, and perform Git actions from the graph.
 - [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint): Markdown linting and style checking for Visual Studio Code.
 - [Glassit-VSC](https://marketplace.visualstudio.com/items?itemName=s-nlf-fh.glassit): A VSCode Extension to set window to transparent on Windows platform.
+- [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens): Useful for viewing commit history for the specific files, line. Comparing the current changes with previous commit and view the last change time when clicking on the specific line
 
 ### Useful commands
 
