@@ -5,11 +5,11 @@
 
 Algumas das ferramentas abaixo me ajudaram muito quando eu precisei. Sinta-se livre para adicionar mais ferramentas que te ajudaram também! Envie um Pull Request ou abra uma issue com mais ferramentas que te ajudam no dia-a-dia.
 
-### Ferramentas para Web
+## Ferramentas para Web 🌐
 
 - [KeyCode Info](https://keycode.info/): Visualizador de código de teclas para JavaScript
 - [Carbon](https://carbon.now.sh): Crie e compartilhe lindas imagens de seu código.
-- [DevHints](https://devhints.io/): Cheatsheets das mais variadas linguagens (ES6, etc.)
+- [DevHints](https://devhints.io/): Cheatsheets das mais variadas linguagens (ES6, entre outras.)
 - [Netlify](https://www.netlify.com/): Crie, implante e gerencie projetos web modernos.
 - [GitHub](https://github.com/): GitHub é uma plataforma de desenvolvimento para todos.
 - [GitHub Pages](https://pages.github.com/): Implante projetos web estáticos de graça.
@@ -34,15 +34,26 @@ Algumas das ferramentas abaixo me ajudaram muito quando eu precisei. Sinta-se li
 - [Gitignore.io](https://www.gitignore.io/): Criação automática de arquivos .gitignore para várias plataformas.
 - [JSONLint](https://jsonlint.com/): Validador e formatador para JSON.
 - [Conventional Commits](https://www.conventionalcommits.org): Especificações para mensagens de commit.
+- [DB Fiddle](https://www.db-fiddle.com/): Um playground de banco de dados SQL online para testar, depurar e compartilhar trechos de SQL. Suporta MySQL, PostgreSQL e SQLite.
+- [Can I use](https://caniuse.com): "Posso usar?" fornece tabelas atualizadas de suporte ao navegador para suporte de tecnologias da Web front-end em navegadores da Web para desktop e dispositivos móveis.
 
-### Ferramentas para Desktop
+## Ferramentas para Desktop 🖥
 
 - [VSCode](https://code.visualstudio.com/): Um editor de texto avançado da Microsoft para melhorar seu fluxo de trabalho. (Eu amo o VSCode <3)
 - [Insomnia](https://insomnia.rest/): API's de depuração como um humano, não um robô.
 - [Postman](https://www.getpostman.com/): Postman simplifica o desenvolvimento de APIs.
 - [Zeit, Now](https://zeit.co/): A plataforma global para servir seus sites (CLI.)
+- [Agent Ransack](https://www.mythicsoft.com/agentransack/): O Agent Ransack é uma ferramenta de busca de arquivos para encontrar arquivos no seu PC ou em unidades de rede.
+- [Fiddler](https://www.telerik.com/fiddler): O proxy de depuração da web para qualquer navegador, sistema ou plataforma.
 
-### Extensões VSCode
+## Code Playground (Escrever e rodar códigos no navegador)
+
+- [CodePen](https://codepen.io/): Ferramenta para desenvolvimento front-end. Você pode desenvolver qualquer HTML, CSS, estruturas modernas da web e código baseado em Javascript. Também é possível integrar seu código ao GitHub e colaborar. **Recursos: (exemplos, github, adicionando pacotes npm, baixe o código, recarregue automaticamente)**
+- [CodeSandbox](https://codesandbox.io/): Você pode executar o front-end e o back-end (JavaScript, Node.js ou qualquer estrutura de front-end). Fácil de extrair do GitHub e modificar o código. **Recursos: (exemplos, github, adicionando pacotes npm, recarregar automaticamente, implantar o aplicativo)**
+- [Jsbin](https://jsbin.com/): Aqueles que estão aprendendo VanillaJS, HTML, CSS (nível intermediário).. **Recursos: (exemplos, adicionando pacotes CDN)**
+- [W3schools](https://www.w3schools.com/): Completamente para quem está iniciando no Desenvolvimento front-end. Você pode ver os exemplos, descrições e casos de uso de cada componente da web. **Recursos: (exemplos)** - **Console do Navegador**: O melhor lugar para verificar pequenas coisas, como obter valores da matriz (com algumas lógicas), manipulações de objetos, verificação da sintaxe ES6, entre outros.
+
+## Extensões para VSCode 🛠
 
 - [Polacode](https://marketplace.visualstudio.com/items?itemName=pnp.polacode): Polaroid para o seu código. É como o [Carbon](https://carbon.now.sh).
 - [Beautify](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify): embelezar javascript, JSON, CSS, Sass e HTML no Visual Studio Code.
@@ -60,6 +71,6 @@ Algumas das ferramentas abaixo me ajudaram muito quando eu precisei. Sinta-se li
 - [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint): Verificação de regras e estilo para Markdown no VsCode.
 - [Glassit-VSC](https://marketplace.visualstudio.com/items?itemName=s-nlf-fh.glassit): Extensão de código VS para definir a janela como transparente na plataforma Windows.
 
-### Comandos úteis
+## Comandos úteis
 
 - `npx add-gitignore` para adicionar um arquivo git ignore ao seu projeto para uma linguagem específica.

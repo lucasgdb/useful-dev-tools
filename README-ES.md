@@ -5,7 +5,7 @@
 
 Debajo encontrarás herramientas que resultan de gran ayuda. Si conoces más herramientas, puedes añadirlas a la lista - Solo asegúrate de que hagas el Pull Request acerca de una herramienta que ya conoces.
 
-### Aplicaciones Web 🌐
+## Aplicaciones Web 🌐
 
 - [KeyCode Info](https://keycode.info/): Visualizador para códigos del teclado (KeyCodes) de JavaScript.
 - [Carbon](https://carbon.now.sh): Crea y comparte imágenes de tu código con estilo.
@@ -35,14 +35,33 @@ Debajo encontrarás herramientas que resultan de gran ayuda. Si conoces más her
 - [Gitignore.io](https://www.gitignore.io/): Plantilla con muchos tipos de .gitignore.
 - [Conventional Commits](https://www.conventionalcommits.org): Plantilla básica para mejorar la redacción de tus commits.
 
-### Aplicaciones de escritorio 🖥
+(¿Qué pasa con un RP para traducir esto?)
+
+- [DB Fiddle](https://www.db-fiddle.com/): An online SQL database playground for testing, debugging and sharing SQL snippets. Supports MySQL, PostgreSQL and SQLite.
+- [Can I use](https://caniuse.com): "Can I use" provides an up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers.
+- [Carbon](https://carbon.now.sh/): Create and share beautiful images of your source code.
+
+## Aplicaciones de escritorio 🖥
 
 - [VSCode](https://code.visualstudio.com/): Editor de código creado por Microsoft. Es OpenSource y está creciendo a una velocidad increíble.
 - [Insomnia](https://insomnia.rest/): Prueba y debuggea APIs como un ser humano, no un robot.
 - [Postman](https://www.getpostman.com/): Postman simplifica el desarrollo de APIs.
 - [Zeit, Now](https://zeit.co/): Plataforma serverless para servir sitios web. (Es un CLI)
 
-### Extensiones de VS Code 🛠
+(¿Qué pasa con un RP para traducir esto?)
+
+- [Agent Ransack](https://www.mythicsoft.com/agentransack/): Agent Ransack is a file search tool for finding files on your PC or network drives.
+- [Fiddler](https://www.telerik.com/fiddler): The web debugging proxy for any browser, system or platform.
+
+## Code Playground (Write a code in the browser) (¿Qué pasa con un RP para traducir esto?)
+
+- [CodePen](https://codepen.io/): Tool for front-end development. You can develop any html, css, modern web frameworks, javascript based code. Integrate your code to github and possible to collaborate. **Features: (examples, github, adding npm packages, download the code, auto reload)**
+- [CodeSandbox](https://codesandbox.io/): You can run both front-end and back-end (javascript, nodejs, any front end frameworks). Easy to fork from github and modify the code **Features: (examples, github, adding npm packages, auto reload, deploy the app)**
+- [Jsbin](https://jsbin.com/): Those who are learning vanilla js, html, css (_intermediate level_). **Features: (examples, adding cdn packages)**
+- [W3schools](https://www.w3schools.com/): Completely for those who start front-end development. You can see the examples, descriptions and use case for each web componet. **Features: (examples)**
+- **Browser Console**: Best place to check small things like getting values from array (with some logics), object manipulations, checking es6 syntax etc...
+
+## Extensiones de VS Code 🛠
 
 - [Polacode](https://marketplace.visualstudio.com/items?itemName=pnp.polacode): Es como [Carbon](https://carbon.now.sh) pero vive dentro de VS Code.
 - [Beautify](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify): Formatea tu código JS, JSON, CSS, Sass, and HTML con un solo click.
@@ -60,6 +79,6 @@ Debajo encontrarás herramientas que resultan de gran ayuda. Si conoces más her
 - [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint): Formatea tu código Markdown.
 - [Glassit-VSC](https://marketplace.visualstudio.com/items?itemName=s-nlf-fh.glassit): Permite hacer tu ventana transparente (Windows).
 
-### Useful commands
+## Useful commands
 
 - `npx add-gitignore`: Agrega un .gitignore a tu proyecto para un lenguaje/stack específico.
