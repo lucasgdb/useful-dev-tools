@@ -1,6 +1,7 @@
 # Useful Developer Tools
 
-## [Versão BR](README-BR.md)
+- [Versão BR](README-BR.md)
+- [Versión ES](README-ES.md)
 
 Some below tools helped me a lot when i needed it. Feel free to add more tools, if you know more tools and if you want to help the developer's community. Please, submit a Pull Request or Open a issue for a tool you already know.
 
