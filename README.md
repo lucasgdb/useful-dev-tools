@@ -34,6 +34,9 @@ modern web projects.
 - [Gitignore.io](https://www.gitignore.io/): Web service designed to help you create .gitignore files for your Git repositories.
 - [JSONLint](https://jsonlint.com/): Validator and reformatter for JSON.
 - [Conventional Commits](https://www.conventionalcommits.org): A lightweight convention on top of commit messages.
+- [DB Fiddle](https://www.db-fiddle.com/): An online SQL database playground for testing, debugging and sharing SQL snippets. Supports MySQL, PostgreSQL and SQLite.
+- [Can I use](https://caniuse.com): "Can I use" provides an up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers.
+- [Carbon](https://carbon.now.sh/): Create and share beautiful images of your source code.
 
 ### Desktop Tools
 
@@ -41,6 +44,8 @@ modern web projects.
 - [Insomnia](https://insomnia.rest/): Debug APIs like a human, not a robot.
 - [Postman](https://www.getpostman.com/): Postman Simplifies API Development.
 - [Zeit, Now](https://zeit.co/): The Global Serverless Platform. (CLI)
+- [Agent Ransack](https://www.mythicsoft.com/agentransack/): Agent Ransack is a file search tool for finding files on your PC or network drives.
+- [Fiddler](https://www.telerik.com/fiddler): The web debugging proxy for any browser, system or platform.
 
 ### VSCode Extensions
 
