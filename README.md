@@ -73,7 +73,88 @@ modern web projects.
 - [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint): Markdown linting and style checking for Visual Studio Code.
 - [Glassit-VSC](https://marketplace.visualstudio.com/items?itemName=s-nlf-fh.glassit): A VSCode Extension to set window to transparent on Windows platform.
 - [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens): Useful for viewing commit history for the specific files, line. Comparing the current changes with previous commit and view the last change time when clicking on the specific line
+- [Prettier - Code Formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode): Prettier is an opinionated code formatter. It enforces a consistent style by parsing your code and re-printing it with its own rules that take the maximum line length into account, wrapping code when necessary.
+- [One Dark Mode](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme): It brings One Dark Mode to VS Code. It provides one of the most polished and less straining themes.
 
 ## Useful commands
 
 - `npx add-gitignore` for adding a git ignore file to your project for a specific language
+
+## Basic Git Commands
+
+_A list of commonly used Git commands_
+
+--
+
+#### Getting & Creating Projects
+
+| Command | Description |
+| ------- | ----------- |
+| `git init` | Initialize a local Git repository |
+| `git clone ssh://git@github.com/[username]/[repository-name].git` | Create a local copy of a remote repository |
+
+#### Basic Snapshotting
+
+| Command | Description |
+| ------- | ----------- |
+| `git status` | Check status what you have changed |
+| `git add [file-name.txt]` | Add a file to the staging |
+| `git add -A` | Add all new and changed files to the staging / locally |
+| `git commit -m "[commit message]"` | Commit changes |
+| `git rm -r [file-name.txt]` | Remove a file (or folder) |
+
+#### Sharing & Updating Projects
+
+| Command | Description |
+| ------- | ----------- |
+| `git push origin [branch name]` | Push a branch to your remote repository |
+| `git push -u origin [branch name]` | Push changes to remote repository (and remember the branch) |
+| `git push` | Push changes to remote repository (remembered branch) |
+| `git push origin --delete [branch name]` | Delete a remote branch |
+| `git pull` | Update local repository to the newest commit |
+| `git pull origin [branch name]` | Pull changes from remote repository |
+| `git remote add origin ssh://git@github.com/[username]/[repository-name].git` | Add a remote repository |
+| `git remote set-url origin ssh://git@github.com/[username]/[repository-name].git` | Set a repository's origin branch to SSH |
+
+#### Branching & Merging
+
+| Command | Description |
+| ------- | ----------- |
+| `git branch` | List branches (the asterisk denotes the current branch) |
+| `git branch -a` | List all branches (local and remote) |
+| `git branch [branch name]` | Create a new branch |
+| `git branch -d [branch name]` | Delete a branch |
+| `git push origin --delete [branch name]` | Delete a remote branch |
+| `git checkout -b [branch name]` | Create a new branch and switch to it |
+| `git checkout -b [branch name] origin/[branch name]` | Clone a remote branch and switch to it |
+| `git checkout [branch name]` | Switch to a branch |
+| `git checkout -` | Switch to the branch last checked out |
+| `git checkout -- [file-name.txt]` | Discard changes to a file |
+| `git merge [branch name]` | Merge a branch into the active branch |
+| `git merge [source branch] [target branch]` | Merge a branch into a target branch |
+| `git stash` | Stash changes in a dirty working directory |
+| `git stash clear` | Remove all stashed entries |
+
+#### Merge Two Branch
+
+| Command | Description | 
+| ------- | ----------- | 
+| `git checkout <Branch_Name_1>`| you will switch to branch <Branch_Name_1> |
+| `git merge <Branch_Name_2`| Merge all changes from branch <Branch_Name_2> into branch <Branch_Name_1> |
+| `git commit -a`| Commit your changes |
+
+#### Comparison & Summary
+
+| Command | Description |
+| ------- | ----------- |
+| `git log` | View changes |
+| `git log --summary` | View changes (detailed) |
+| `git diff [source branch] [target branch]` | Preview changes before merging |
+
+#### Rename Branch
+
+| Command | Description | 
+| ------- | ----------- | 
+| `git branch -m <New_branch_name>`| Change your branch name without losing files locally |
+
+
