@@ -39,6 +39,7 @@ Debajo encontrarás herramientas que resultan de gran ayuda. Si conoces más her
 
 - [DB Fiddle](https://www.db-fiddle.com/): An online SQL database playground for testing, debugging and sharing SQL snippets. Supports MySQL, PostgreSQL and SQLite.
 - [Can I use](https://caniuse.com): "Can I use" provides an up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers.
+- [Python Tutor](http://pythontutor.com/): Python Tutor ayuda a las personas a superar una barrera fundamental para la programación de aprendizaje: comprender lo que sucede cuando la computadora ejecuta cada línea de código en Python, Java, C, C++, JavaScript y Ruby.
 
 ## Aplicaciones de escritorio 🖥
 
