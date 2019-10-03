@@ -71,6 +71,8 @@ Algumas das ferramentas abaixo me ajudaram muito quando eu precisei. Sinta-se li
 - [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph): Visualize um gráfico do seu repositório git, e utilize comandos pelo gráfico.
 - [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint): Verificação de regras e estilo para Markdown no VsCode.
 - [Glassit-VSC](https://marketplace.visualstudio.com/items?itemName=s-nlf-fh.glassit): Extensão de código VS para definir a janela como transparente na plataforma Windows.
+- [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner): Execute o trecho de código ou o arquivo de código para vários idiomas.
+- [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client): O Cliente REST permite enviar uma solicitação HTTP e exibir a resposta diretamente no Código do Visual Studio.
 
 ## Comandos úteis
 
