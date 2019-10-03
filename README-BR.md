@@ -36,6 +36,7 @@ Algumas das ferramentas abaixo me ajudaram muito quando eu precisei. Sinta-se li
 - [Conventional Commits](https://www.conventionalcommits.org): Especificações para mensagens de commit.
 - [DB Fiddle](https://www.db-fiddle.com/): Um playground de banco de dados SQL online para testar, depurar e compartilhar trechos de SQL. Suporta MySQL, PostgreSQL e SQLite.
 - [Can I use](https://caniuse.com): "Posso usar?" fornece tabelas atualizadas de suporte ao navegador para suporte de tecnologias da Web front-end em navegadores da Web para desktop e dispositivos móveis.
+- [Python Tutor](http://pythontutor.com/): O Python Tutor ajuda as pessoas a superar uma barreira fundamental ao aprendizado de programação: entender o que acontece quando o computador executa cada linha de código em Python, Java, C, C++, JavaScript e Ruby.
 
 ## Ferramentas para Desktop 🖥
 
