@@ -22,3 +22,7 @@ Useful VSCode extensions pushed by the community. Please, submit a Pull Request 
 - [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint): Markdown linting and style checking for Visual Studio Code.
 - [Glassit-VSC](https://marketplace.visualstudio.com/items?itemName=s-nlf-fh.glassit): A VSCode Extension to set window to transparent on Windows platform.
 - [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens): Useful for viewing commit history for the specific files, line. Comparing the current changes with previous commit and view the last change time when clicking on the specific line
+- [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments): Improve your code commenting by annotating with alert, informational, TODOs, and more!
+- [#region folding for VS Code](https://marketplace.visualstudio.com/items?itemName=maptz.regionfolder): Provides folding for text wrapped with #region comments in VS Code.
+- [Todo Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree): Show TODO, FIXME, etc. comment tags in a tree view
+
