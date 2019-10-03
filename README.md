@@ -3,7 +3,7 @@
 - [Versão BR](README-BR.md)
 - [Versión ES](README-ES.md)
 
-Some below tools helped me a lot when i needed it. Feel free to add more tools, if you know more tools and if you want to help the developer's community. Please, submit a Pull Request or Open a issue for a tool you already know.
+Some below tools helped me a lot when I needed it. Feel free to add more tools, if you know more tools and if you want to help the developer's community. Please, submit a Pull Request or Open an issue for a tool you already know.
 
 ## Web Tools 🌐
 
@@ -11,7 +11,7 @@ Some below tools helped me a lot when i needed it. Feel free to add more tools, 
 - [Carbon](https://carbon.now.sh): Create and share beautiful images of your source code.
 - [DevHints](https://devhints.io/): Rico's cheatsheets.
 - [Netlify](https://www.netlify.com/): Build, deploy, and manage
-modern web projects.
+  modern web projects.
 - [GitHub](https://github.com/): GitHub is a development platform inspired by the way you work.
 - [GitHub Pages](https://pages.github.com/): Websites for you and your projects (Static projects.)
 - [Gist](https://gist.github.com/): Instantly share code, notes, and snippets.
@@ -39,6 +39,7 @@ modern web projects.
 - [Can I use](https://caniuse.com): "Can I use" provides an up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers.
 - [Gerador de CPF](https://www.geradordecpf.org/): Generate valid Brazilian CPF numbers for testing purposes.
 - [Oh Shit, Git!?](https://ohshitgit.com): Tells you what to do when you find yourself in a pinch with Git.
+- [Python Tutor](http://pythontutor.com/): Python Tutor helps people overcome a fundamental barrier to learning programming: understanding what happens as the computer runs each line of code in Python, Java, C, C++, JavaScript and Ruby.
 
 ## Desktop Tools 🖥
 
@@ -77,6 +78,8 @@ modern web projects.
 - [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens): Useful for viewing commit history for the specific files, line. Comparing the current changes with previous commit and view the last change time when clicking on the specific line
 - [Prettier - Code Formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode): Prettier is an opinionated code formatter. It enforces a consistent style by parsing your code and re-printing it with its own rules that take the maximum line length into account, wrapping code when necessary.
 - [One Dark Mode](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme): It brings One Dark Mode to VS Code. It provides one of the most polished and less straining themes.
+- [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner): Run code snippet or code file for multiple languages.
+- [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client): REST Client allows you to send HTTP request and view the response in Visual Studio Code directly.
 
 ## Useful commands
 
@@ -86,75 +89,73 @@ modern web projects.
 
 _A list of commonly used Git commands_
 
---
-
 #### Getting & Creating Projects
 
-| Command | Description |
-| ------- | ----------- |
-| `git init` | Initialize a local Git repository |
+| Command                                                           | Description                                |
+| ----------------------------------------------------------------- | ------------------------------------------ |
+| `git init`                                                        | Initialize a local Git repository          |
 | `git clone ssh://git@github.com/[username]/[repository-name].git` | Create a local copy of a remote repository |
 
 #### Basic Snapshotting
 
-| Command | Description |
-| ------- | ----------- |
-| `git status` | Check status what you have changed |
-| `git add [file-name.txt]` | Add a file to the staging |
-| `git add -A` | Add all new and changed files to the staging / locally |
-| `git commit -m "[commit message]"` | Commit changes |
-| `git rm -r [file-name.txt]` | Remove a file (or folder) |
+| Command                            | Description                                            |
+| ---------------------------------- | ------------------------------------------------------ |
+| `git status`                       | Check status what you have changed                     |
+| `git add [file-name.txt]`          | Add a file to the staging                              |
+| `git add -A`                       | Add all new and changed files to the staging / locally |
+| `git commit -m "[commit message]"` | Commit changes                                         |
+| `git rm -r [file-name.txt]`        | Remove a file (or folder)                              |
 
 #### Sharing & Updating Projects
 
-| Command | Description |
-| ------- | ----------- |
-| `git push origin [branch name]` | Push a branch to your remote repository |
-| `git push -u origin [branch name]` | Push changes to remote repository (and remember the branch) |
-| `git push` | Push changes to remote repository (remembered branch) |
-| `git push origin --delete [branch name]` | Delete a remote branch |
-| `git pull` | Update local repository to the newest commit |
-| `git pull origin [branch name]` | Pull changes from remote repository |
-| `git remote add origin ssh://git@github.com/[username]/[repository-name].git` | Add a remote repository |
-| `git remote set-url origin ssh://git@github.com/[username]/[repository-name].git` | Set a repository's origin branch to SSH |
+| Command                                                                           | Description                                                 |
+| --------------------------------------------------------------------------------- | ----------------------------------------------------------- |
+| `git push origin [branch name]`                                                   | Push a branch to your remote repository                     |
+| `git push -u origin [branch name]`                                                | Push changes to remote repository (and remember the branch) |
+| `git push`                                                                        | Push changes to remote repository (remembered branch)       |
+| `git push origin --delete [branch name]`                                          | Delete a remote branch                                      |
+| `git pull`                                                                        | Update local repository to the newest commit                |
+| `git pull origin [branch name]`                                                   | Pull changes from remote repository                         |
+| `git remote add origin ssh://git@github.com/[username]/[repository-name].git`     | Add a remote repository                                     |
+| `git remote set-url origin ssh://git@github.com/[username]/[repository-name].git` | Set a repository's origin branch to SSH                     |
 
 #### Branching & Merging
 
-| Command | Description |
-| ------- | ----------- |
-| `git branch` | List branches (the asterisk denotes the current branch) |
-| `git branch -a` | List all branches (local and remote) |
-| `git branch [branch name]` | Create a new branch |
-| `git branch -d [branch name]` | Delete a branch |
-| `git push origin --delete [branch name]` | Delete a remote branch |
-| `git checkout -b [branch name]` | Create a new branch and switch to it |
-| `git checkout -b [branch name] origin/[branch name]` | Clone a remote branch and switch to it |
-| `git checkout [branch name]` | Switch to a branch |
-| `git checkout -` | Switch to the branch last checked out |
-| `git checkout -- [file-name.txt]` | Discard changes to a file |
-| `git merge [branch name]` | Merge a branch into the active branch |
-| `git merge [source branch] [target branch]` | Merge a branch into a target branch |
-| `git stash` | Stash changes in a dirty working directory |
-| `git stash clear` | Remove all stashed entries |
+| Command                                              | Description                                             |
+| ---------------------------------------------------- | ------------------------------------------------------- |
+| `git branch`                                         | List branches (the asterisk denotes the current branch) |
+| `git branch -a`                                      | List all branches (local and remote)                    |
+| `git branch [branch name]`                           | Create a new branch                                     |
+| `git branch -d [branch name]`                        | Delete a branch                                         |
+| `git push origin --delete [branch name]`             | Delete a remote branch                                  |
+| `git checkout -b [branch name]`                      | Create a new branch and switch to it                    |
+| `git checkout -b [branch name] origin/[branch name]` | Clone a remote branch and switch to it                  |
+| `git checkout [branch name]`                         | Switch to a branch                                      |
+| `git checkout -`                                     | Switch to the branch last checked out                   |
+| `git checkout -- [file-name.txt]`                    | Discard changes to a file                               |
+| `git merge [branch name]`                            | Merge a branch into the active branch                   |
+| `git merge [source branch] [target branch]`          | Merge a branch into a target branch                     |
+| `git stash`                                          | Stash changes in a dirty working directory              |
+| `git stash clear`                                    | Remove all stashed entries                              |
 
 #### Merge Two Branch
 
-| Command | Description |
-| ------- | ----------- |
-| `git checkout <Branch_Name_1>`| you will switch to branch <Branch_Name_1> |
-| `git merge <Branch_Name_2`| Merge all changes from branch <Branch_Name_2> into branch <Branch_Name_1> |
-| `git commit -a`| Commit your changes |
+| Command                        | Description                                                               |
+| ------------------------------ | ------------------------------------------------------------------------- |
+| `git checkout <Branch_Name_1>` | you will switch to branch <Branch_Name_1>                                 |
+| `git merge <Branch_Name_2`     | Merge all changes from branch <Branch_Name_2> into branch <Branch_Name_1> |
+| `git commit -a`                | Commit your changes                                                       |
 
 #### Comparison & Summary
 
-| Command | Description |
-| ------- | ----------- |
-| `git log` | View changes |
-| `git log --summary` | View changes (detailed) |
+| Command                                    | Description                    |
+| ------------------------------------------ | ------------------------------ |
+| `git log`                                  | View changes                   |
+| `git log --summary`                        | View changes (detailed)        |
 | `git diff [source branch] [target branch]` | Preview changes before merging |
 
 #### Rename Branch
 
-| Command | Description |
-| ------- | ----------- |
-| `git branch -m <New_branch_name>`| Change your branch name without losing files locally |
+| Command                           | Description                                          |
+| --------------------------------- | ---------------------------------------------------- |
+| `git branch -m <New_branch_name>` | Change your branch name without losing files locally |

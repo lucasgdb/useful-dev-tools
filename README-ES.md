@@ -39,6 +39,7 @@ Debajo encontrarás herramientas que resultan de gran ayuda. Si conoces más her
 
 - [DB Fiddle](https://www.db-fiddle.com/): An online SQL database playground for testing, debugging and sharing SQL snippets. Supports MySQL, PostgreSQL and SQLite.
 - [Can I use](https://caniuse.com): "Can I use" provides an up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers.
+- [Python Tutor](http://pythontutor.com/): Python Tutor ayuda a las personas a superar una barrera fundamental para la programación de aprendizaje: comprender lo que sucede cuando la computadora ejecuta cada línea de código en Python, Java, C, C++, JavaScript y Ruby.
 
 ## Aplicaciones de escritorio 🖥
 
@@ -77,6 +78,8 @@ Debajo encontrarás herramientas que resultan de gran ayuda. Si conoces más her
 - [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph): Muestra el estado de tu repositorio, visualizando las conexiones entre tus ramas (branches).
 - [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint): Formatea tu código Markdown.
 - [Glassit-VSC](https://marketplace.visualstudio.com/items?itemName=s-nlf-fh.glassit): Permite hacer tu ventana transparente (Windows).
+- [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner): Ejecute el fragmento de código o el archivo de código para múltiples lenguajes de programación.
+- [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client): REST Client le permite enviar una solicitud HTTP y ver la respuesta en Visual Studio Code directamente.
 
 ## Useful commands
 

@@ -38,6 +38,7 @@ Algumas das ferramentas abaixo me ajudaram muito quando eu precisei. Sinta-se li
 - [Can I use](https://caniuse.com): "Posso usar?" fornece tabelas atualizadas de suporte ao navegador para suporte de tecnologias da Web front-end em navegadores da Web para desktop e dispositivos móveis.
 - [Gerador de CPF](https://www.geradordecpf.org/): Gera CPFs para testes.
 - [Oh Shit, Git!?](https://ohshitgit.com): Te diz o que fazer quando as coisas dão errado no Git.
+- [Python Tutor](http://pythontutor.com/): O Python Tutor ajuda as pessoas a superar uma barreira fundamental ao aprendizado de programação: entender o que acontece quando o computador executa cada linha de código em Python, Java, C, C++, JavaScript e Ruby.
 
 ## Ferramentas para Desktop 🖥
 
@@ -72,6 +73,8 @@ Algumas das ferramentas abaixo me ajudaram muito quando eu precisei. Sinta-se li
 - [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph): Visualize um gráfico do seu repositório git, e utilize comandos pelo gráfico.
 - [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint): Verificação de regras e estilo para Markdown no VsCode.
 - [Glassit-VSC](https://marketplace.visualstudio.com/items?itemName=s-nlf-fh.glassit): Extensão de código VS para definir a janela como transparente na plataforma Windows.
+- [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner): Execute o trecho de código ou o arquivo de código para vários idiomas.
+- [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client): O Cliente REST permite enviar uma solicitação HTTP e exibir a resposta diretamente no Código do Visual Studio.
 
 ## Comandos úteis
 
