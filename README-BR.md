@@ -16,7 +16,8 @@ Algumas das ferramentas abaixo me ajudaram muito quando eu precisei. Sinta-se li
 - [Gist](https://gist.github.com/): Compartilhe instantaneamente códigos, notas e trechos.
 - [Gitter](https://gitter.im/): Gitter é um chat e uma plataforma de conexão que ajuda a gerenciar, crescer e conectar comunidades através de conversas, conteúdo e descobrimento.
 - [DevHub](https://devhubapp.com/): TweetDeck para GitHub. Veja as atividades de recompra e gerencie suas notificações criando colunas com filtros, salvando itens para mais tarde e muito mais.
-- [Trello](https://trello.com/en): Cards, lists e boards do Trello permitem que você organize e priorize seus projetos de uma maneira divertida, flexível e gratificante. -[Choose An Licene](https://choosealicense.com/): Uma licença de código aberto protege colaboradores e usuários. Empresas e desenvolvedores experientes não tocarão em um projeto sem essa proteção.
+- [Trello](https://trello.com/en): Cards, lists e boards do Trello permitem que você organize e priorize seus projetos de uma maneira divertida, flexível e gratificante.
+-[Choose An Licene](https://choosealicense.com/): Uma licença de código aberto protege colaboradores e usuários. Empresas e desenvolvedores experientes não tocarão em um projeto sem essa proteção.
 - [JS Paint](https://jspaint.app/): é um remake do MS Paint para web.
 - [svgomg](https://jakearchibald.github.io/svgomg/): Web GUI para SVGO.
 - [HTML Minifier](https://www.willpeavy.com/minifier/): Minimize HTML e qualquer CSS ou JS incluído na sua marcação.
