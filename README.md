@@ -37,6 +37,8 @@ modern web projects.
 - [Conventional Commits](https://www.conventionalcommits.org): A lightweight convention on top of commit messages.
 - [DB Fiddle](https://www.db-fiddle.com/): An online SQL database playground for testing, debugging and sharing SQL snippets. Supports MySQL, PostgreSQL and SQLite.
 - [Can I use](https://caniuse.com): "Can I use" provides an up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers.
+- [Gerador de CPF](https://www.geradordecpf.org/): Generate valid Brazilian CPF numbers for testing purposes.
+- [Oh Shit, Git!?](https://ohshitgit.com): Tells you what to do when you find yourself in a pinch with Git.
 
 ## Desktop Tools 🖥
 
@@ -137,8 +139,8 @@ _A list of commonly used Git commands_
 
 #### Merge Two Branch
 
-| Command | Description | 
-| ------- | ----------- | 
+| Command | Description |
+| ------- | ----------- |
 | `git checkout <Branch_Name_1>`| you will switch to branch <Branch_Name_1> |
 | `git merge <Branch_Name_2`| Merge all changes from branch <Branch_Name_2> into branch <Branch_Name_1> |
 | `git commit -a`| Commit your changes |
@@ -153,8 +155,6 @@ _A list of commonly used Git commands_
 
 #### Rename Branch
 
-| Command | Description | 
-| ------- | ----------- | 
+| Command | Description |
+| ------- | ----------- |
 | `git branch -m <New_branch_name>`| Change your branch name without losing files locally |
-
-

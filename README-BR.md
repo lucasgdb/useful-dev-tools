@@ -36,6 +36,8 @@ Algumas das ferramentas abaixo me ajudaram muito quando eu precisei. Sinta-se li
 - [Conventional Commits](https://www.conventionalcommits.org): Especificações para mensagens de commit.
 - [DB Fiddle](https://www.db-fiddle.com/): Um playground de banco de dados SQL online para testar, depurar e compartilhar trechos de SQL. Suporta MySQL, PostgreSQL e SQLite.
 - [Can I use](https://caniuse.com): "Posso usar?" fornece tabelas atualizadas de suporte ao navegador para suporte de tecnologias da Web front-end em navegadores da Web para desktop e dispositivos móveis.
+- [Gerador de CPF](https://www.geradordecpf.org/): Gera CPFs para testes.
+- [Oh Shit, Git!?](https://ohshitgit.com): Te diz o que fazer quando as coisas dão errado no Git.
 
 ## Ferramentas para Desktop 🖥
 
