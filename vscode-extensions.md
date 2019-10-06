@@ -1,7 +1,7 @@
 # VSCode Extensions 🛠
 
 - [Tools](README.md)
-- [Code Playground](code-playgrounds.md)
+- [Code Playgrounds](code-playgrounds.md)
 - [Commands](commands.md)
 
 Useful VSCode extensions pushed by the community. Please, submit a Pull Request or Open an issue for a useful extension that you know.
