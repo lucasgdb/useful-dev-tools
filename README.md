@@ -40,12 +40,15 @@ Web Tool | Description
 [DB Fiddle](https://www.db-fiddle.com/) | An online SQL database playground for testing, debugging and sharing SQL snippets. Supports MySQL, PostgreSQL and SQLite.
 [Can I use](https://caniuse.com) | "Can I use" provides an up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers.
 [Convertio](https://convertio.co/jpeg-pdf/) | "Convertio" is an easy free file format converter that can help you create PNG, JPEG and PDF files.
+[Deployer](https://deployer.org/) | A deployment tool for PHP.
 
 ## Desktop Tools 🖥
 
 Desktop Tool | Description
 ---| ----
 [VSCode](https://code.visualstudio.com/) | A rich text-editor by Microsoft to improve your workflow. (I love it <3)
+[Sublime Text](https://www.sublimetext.com/) | A sophisticated text editor for code, markup and prose.
+[ATOM](https://atom.io/) | A hackable text editor for the 21st Century.
 [Insomnia](https://insomnia.rest/) | Debug APIs like a human, not a robot.
 [Postman](https://www.getpostman.com/) | Postman Simplifies API Development.
 [Zeit, Now](https://zeit.co/) | The Global Serverless Platform. (CLI)
