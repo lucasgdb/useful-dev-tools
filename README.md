@@ -1,8 +1,8 @@
 # Useful Developer Tools
 
-[VSCode Extensions](vscode-extensions.md)
-[Code Playground](code-playground.md)
-[Commands](commands.md)
+- [VSCode Extensions](vscode-extensions.md)
+- [Code Playgrounds](code-playground.md)
+- [Commands](commands.md)
 
 Some below tools helped me a lot when i needed it. Feel free to add more tools, if you know more tools and if you want to help the developer's community. Please, submit a Pull Request or Open an issue for a useful tool that you know.
 

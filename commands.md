@@ -2,7 +2,7 @@
 
 - [Tools](README.md)
 - [VSCode Extensions](vscode-extensions.md)
-- [Code Playground](code-playgrounds.md)
+- [Code Playgrounds](code-playgrounds.md)
 
 Useful commands pushed by the community. Please, submit a Pull Request or Open an issue for a useful command that you know.
 
