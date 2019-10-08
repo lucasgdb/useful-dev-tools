@@ -61,4 +61,4 @@ Desktop Tool | Description
 [Zeit, Now](https://zeit.co/) | The Global Serverless Platform. (CLI)
 [Agent Ransack](https://www.mythicsoft.com/agentransack/) | Agent Ransack is a file search tool for finding files on your PC or network drives.
 [Fiddler](https://www.telerik.com/fiddler) | The web debugging proxy for any browser, system or platform.
-[Sourcetree](https://www.sourcetreeapp.com/) | A simple, powerful, and beautiful Git GUI.
+[iTerm2](https://www.iterm2.com/) | A terminal emulator for macOS to replace Terminal.
