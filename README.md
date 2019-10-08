@@ -60,3 +60,4 @@ Desktop Tool | Description
 [Zeit, Now](https://zeit.co/) | The Global Serverless Platform. (CLI)
 [Agent Ransack](https://www.mythicsoft.com/agentransack/) | Agent Ransack is a file search tool for finding files on your PC or network drives.
 [Fiddler](https://www.telerik.com/fiddler) | The web debugging proxy for any browser, system or platform.
+[pgAdmin](http://postgresapp.com/) | A full-featured PostgreSQL install for MacOS.
