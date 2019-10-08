@@ -45,6 +45,7 @@ Web Tool | Description
 [Can I use](https://caniuse.com) | "Can I use" provides an up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers.
 [Convertio](https://convertio.co/jpeg-pdf/) | "Convertio" is an easy free file format converter that can help you create PNG, JPEG and PDF files.
 [Deployer](https://deployer.org/) | A deployment tool for PHP.
+[Paper Js](http://paperjs.org/) | An open source vector graphics scripting framework that runs on top of the HTML5 Canvas.
 
 ## Desktop Tools 🖥
 
