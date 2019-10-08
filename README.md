@@ -47,6 +47,7 @@ Web Tool | Description
 [Deployer](https://deployer.org/) | A deployment tool for PHP.
 [Paper Js](http://paperjs.org/) | An open source vector graphics scripting framework that runs on top of the HTML5 Canvas.
 [CodeKit](https://codekitapp.com/) | Using this tool, web app development work can be done faster as it minifies, combines and syntax-checks JavaScript.
+[CyberChef](https://gchq.github.io/CyberChef/) | The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis.
 
 ## Desktop Tools 🖥
 
@@ -61,3 +62,5 @@ Desktop Tool | Description
 [Agent Ransack](https://www.mythicsoft.com/agentransack/) | Agent Ransack is a file search tool for finding files on your PC or network drives.
 [Fiddler](https://www.telerik.com/fiddler) | The web debugging proxy for any browser, system or platform.
 [Homebrew](https://brew.sh/) | The missing package manager for macOS (or Linux).
+[pgAdmin](http://postgresapp.com/) | A full-featured PostgreSQL install for MacOS.
+[iTerm2](https://www.iterm2.com/) | A terminal emulator for macOS to replace Terminal.
