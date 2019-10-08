@@ -47,6 +47,7 @@ Web Tool | Description
 [Deployer](https://deployer.org/) | A deployment tool for PHP.
 [Paper Js](http://paperjs.org/) | An open source vector graphics scripting framework that runs on top of the HTML5 Canvas.
 [CodeKit](https://codekitapp.com/) | Using this tool, web app development work can be done faster as it minifies, combines and syntax-checks JavaScript.
+[CyberChef](https://gchq.github.io/CyberChef/) | The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis.
 
 ## Desktop Tools 🖥
 
