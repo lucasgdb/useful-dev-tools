@@ -49,6 +49,7 @@ Web Tool | Description
 [CodeKit](https://codekitapp.com/) | Using this tool, web app development work can be done faster as it minifies, combines and syntax-checks JavaScript.
 [CyberChef](https://gchq.github.io/CyberChef/) | The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis.
 [Wappalyzer](https://www.wappalyzer.com) | Identify technology used on websites.
+[ColorZilla](https://www.colorzilla.com) | Advanced Eyedropper, Color Picker, Gradient Generator.
 
 ## Desktop Tools 🖥
 
@@ -66,3 +67,4 @@ Desktop Tool | Description
 [pgAdmin](http://postgresapp.com/) | A full-featured PostgreSQL install for MacOS.
 [iTerm2](https://www.iterm2.com/) | A terminal emulator for macOS to replace Terminal.
 [Robo 3T](https://robomongo.org/) | A GUI for editing and veiwing MongoDB Data.
+[Github Desktop](https://desktop.github.com/) | A GUI for Github
