@@ -51,6 +51,7 @@ Web Tool | Description
 [Wappalyzer](https://www.wappalyzer.com) | Identify technology used on websites.
 [ColorZilla](https://www.colorzilla.com) | Advanced Eyedropper, Color Picker, Gradient Generator.
 [Get Waves](https://getwaves.io/) | Create SVG waves for your next design.
+[DBDiagram](https://dbdiagram.io/) | A free, simple tool to draw ER diagrams by just writing code.
 
 ## Desktop Tools 🖥
 
