@@ -50,6 +50,7 @@ Web Tool | Description
 [CyberChef](https://gchq.github.io/CyberChef/) | The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis.
 [Wappalyzer](https://www.wappalyzer.com) | Identify technology used on websites.
 [ColorZilla](https://www.colorzilla.com) | Advanced Eyedropper, Color Picker, Gradient Generator.
+[Get Waves](https://getwaves.io/) | Create SVG waves for your next design.
 
 ## Desktop Tools 🖥
 
