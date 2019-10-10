@@ -68,3 +68,4 @@ Desktop Tool | Description
 [iTerm2](https://www.iterm2.com/) | A terminal emulator for macOS to replace Terminal.
 [Robo 3T](https://robomongo.org/) | A GUI for editing and veiwing MongoDB Data.
 [Github Desktop](https://desktop.github.com/) | A GUI for Github
+[CodeLobster](http://www.codelobster.com/) | It is a free as well as a convenient PHP IDE that is used to develop fully featured web applications.
