@@ -51,6 +51,7 @@ Web Tool | Description
 [Wappalyzer](https://www.wappalyzer.com) | Identify technology used on websites.
 [ColorZilla](https://www.colorzilla.com) | Advanced Eyedropper, Color Picker, Gradient Generator.
 [Get Waves](https://getwaves.io/) | Create SVG waves for your next design.
+[DBDiagram](https://dbdiagram.io/) | A free, simple tool to draw ER diagrams by just writing code.
 
 ## Desktop Tools 🖥
 
@@ -72,3 +73,4 @@ Desktop Tool | Description
 [Github Desktop](https://desktop.github.com/) | A GUI for Github.
 [CodeLobster](http://www.codelobster.com/) | It is a free as well as a convenient PHP IDE that is used to develop fully featured web applications.
 [Datagrip](https://www.jetbrains.com/datagrip/) | Database IDE with mostly databases compatibility.
+[vim](https://www.vim.org) | Highly configurable text editor
