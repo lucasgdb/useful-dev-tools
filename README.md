@@ -58,6 +58,7 @@ Web Tool | Description
 Desktop Tool | Description
 ---| ----
 [VSCode](https://code.visualstudio.com/) | A rich text-editor by Microsoft to improve your workflow. (I love it <3)
+[VSCodium](https://code.vscodium.com/) | Open Source Binaries of VSCode.
 [Sublime Text](https://www.sublimetext.com/) | A sophisticated text editor for code, markup and prose.
 [ATOM](https://atom.io/) | A hackable text editor for the 21st Century.
 [Insomnia](https://insomnia.rest/) | Debug APIs like a human, not a robot.
@@ -69,6 +70,7 @@ Desktop Tool | Description
 [pgAdmin](http://postgresapp.com/) | A full-featured PostgreSQL install for MacOS.
 [iTerm2](https://www.iterm2.com/) | A terminal emulator for macOS to replace Terminal.
 [Robo 3T](https://robomongo.org/) | A GUI for editing and veiwing MongoDB Data.
-[Github Desktop](https://desktop.github.com/) | A GUI for Github
+[Github Desktop](https://desktop.github.com/) | A GUI for Github.
 [CodeLobster](http://www.codelobster.com/) | It is a free as well as a convenient PHP IDE that is used to develop fully featured web applications.
+[Datagrip](https://www.jetbrains.com/datagrip/) | Database IDE with mostly databases compatibility.
 [vim](https://www.vim.org) | Highly configurable text editor
