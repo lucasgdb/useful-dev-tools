@@ -37,6 +37,7 @@ modern web projects.
 - [Conventional Commits](https://www.conventionalcommits.org): A lightweight convention on top of commit messages.
 - [DB Fiddle](https://www.db-fiddle.com/): An online SQL database playground for testing, debugging and sharing SQL snippets. Supports MySQL, PostgreSQL and SQLite.
 - [Can I use](https://caniuse.com): "Can I use" provides an up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers.
+- [Dev Hints](https://devhints.io): A ridiculous collection of web development cheatsheets · One-page guide to all tech languages.
 
 ## Desktop Tools 🖥
 
