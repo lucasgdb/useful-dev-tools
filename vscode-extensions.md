@@ -27,3 +27,4 @@ Extension | Description
 [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer) | This extension allows matching brackets to be identified with colours. The user can define which characters to match, and which colours to use.
 [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur) | This extension is useful for Vue.js development. It brings a lot of functionalities like formatting, Emmet, code snippets, linking and errors checking, debugging or highlighting the syntax
 [JavaScript (ES6)](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets) | This is very useful visual code extention or snippet for javascript developers especially who writes code in ES6.
+[Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost) | This extension Display import/require package size in the editor.
