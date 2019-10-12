@@ -53,6 +53,7 @@ Web Tool | Description
 [Get Waves](https://getwaves.io/) | Create SVG waves for your next design.
 [DBDiagram](https://dbdiagram.io/) | A free, simple tool to draw ER diagrams by just writing code.
 [DeployBot](https://deploybot.com/) | Instantly build and ship code anywhere in one consistent process for your entire team.
+[Dev Hints](https://devhints.io): A ridiculous collection of web development cheatsheets · One-page guide to all tech languages.
 
 ## Desktop Tools 🖥
 
