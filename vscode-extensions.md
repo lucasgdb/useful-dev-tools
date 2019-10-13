@@ -28,3 +28,4 @@ Extension | Description
 [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur) | This extension is useful for Vue.js development. It brings a lot of functionalities like formatting, Emmet, code snippets, linking and errors checking, debugging or highlighting the syntax
 [JavaScript (ES6)](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets) | This is very useful visual code extention or snippet for javascript developers especially who writes code in ES6.
 [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost) | This extension Display import/require package size in the editor.
+[Scala Syntax (Official)](https://marketplace.visualstudio.com/items?itemName=scala-lang.scala) | Visual Studio Code extension for syntax highlighting Scala sources.
