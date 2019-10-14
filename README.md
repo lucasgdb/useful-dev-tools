@@ -53,6 +53,7 @@ Web Tool | Description
 [Get Waves](https://getwaves.io/) | Create SVG waves for your next design.
 [DBDiagram](https://dbdiagram.io/) | A free, simple tool to draw ER diagrams by just writing code.
 [DeployBot](https://deploybot.com/) | Instantly build and ship code anywhere in one consistent process for your entire team.
+[Geradorde CPF e CNPJ] (https://chrome.google.com/webstore/detail/gerador-de-cpf-e-cnpj/ieifkajhcbdlbmmjkbmpomooeepmciin?hl=pt-BR) | Perfect for testing.
 
 ## Desktop Tools 🖥
 
@@ -76,4 +77,5 @@ Desktop Tool | Description
 [Datagrip](https://www.jetbrains.com/datagrip/) | Database IDE with mostly databases compatibility.
 [vim](https://www.vim.org) | Highly configurable text editor
 [Chocolatey](https://chocolatey.org) | Software management automation for Windows that wraps installers, executables, zips, and scripts into compiled packages
-[Sourcetree](https://www.sourcetreeapp.com/) | A Simple GIT UI for windows and mac
+[notepad++] (https://notepad-plus-plus.org/downloads/) | text viewer in most languages, easier when you need to open faster code to check something
+[Compare It!] (https://www.grigsoft.com/wincmp3.htm) | Compare texts, indicating the differences. Practical, light and fast.
