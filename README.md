@@ -77,5 +77,6 @@ Desktop Tool | Description
 [Datagrip](https://www.jetbrains.com/datagrip/) | Database IDE with mostly databases compatibility.
 [vim](https://www.vim.org) | Highly configurable text editor
 [Chocolatey](https://chocolatey.org) | Software management automation for Windows that wraps installers, executables, zips, and scripts into compiled packages
+[Sourcetree](https://www.sourcetreeapp.com/) | A Simple GIT UI for windows and mac
 [notepad++] (https://notepad-plus-plus.org/downloads/) | text viewer in most languages, easier when you need to open faster code to check something
 [Compare It!] (https://www.grigsoft.com/wincmp3.htm) | Compare texts, indicating the differences. Practical, light and fast.
