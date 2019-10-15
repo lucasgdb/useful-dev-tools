@@ -55,6 +55,7 @@ Web Tool | Description
 [DeployBot](https://deploybot.com/) | Instantly build and ship code anywhere in one consistent process for your entire team.
 [Gerador de CPF e CNPJ](https://chrome.google.com/webstore/detail/gerador-de-cpf-e-cnpj/ieifkajhcbdlbmmjkbmpomooeepmciin?hl=pt-BR) | Perfect for testing.
 [cssreference](https://cssreference.io/) | cssreference.io is a free visual guide to CSS. It features the most popular properties, and explains them with illustrated and animated examples.
+[W3Schools](https://www.w3schools.com/) | The world's largest website for web tutorials.
 
 ## Desktop Tools 🖥
 
