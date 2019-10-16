@@ -82,3 +82,4 @@ Desktop Tool | Description
 [Sourcetree](https://www.sourcetreeapp.com/) | A Simple GIT UI for windows and mac
 [Notepad++](https://notepad-plus-plus.org/downloads/) | Text viewer in most languages, easier when you need to open faster code to check something.
 [Compare It!](https://www.grigsoft.com/wincmp3.htm) | Compare texts, indicating the differences. Practical, light and fast.
+[Git Kraken](https://www.gitkraken.com/) | Legendary Git Client for windows, mac and linux. Really practical and robust.
