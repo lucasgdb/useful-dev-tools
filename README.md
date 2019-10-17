@@ -8,7 +8,7 @@
 - [Code Playgrounds](code-playgrounds.md)
 - [Commands](commands.md)
 
-Some below tools helped me a lot when i needed it. Feel free to add more tools, if you know more tools and if you want to help the developer's community. Please, submit a Pull Request or Open an issue for a useful tool that you know.
+Some of the tools below helped me a lot when I needed it. Feel free to add more tools, if you know more tools and if you want to help the developer's community. Please, submit a Pull Request or Open an issue for a useful tool that you know.
 
 ## Web Tools 🌐
 
@@ -16,7 +16,7 @@ Web Tool | Description
 ---| ----
 [KeyCode Info](https://keycode.info/) | Easy visualizer for JavaScript KeyCodes.
 [Carbon](https://carbon.now.sh) | Create and share beautiful images of your source code.
-[DevHints](https://devhints.io/) | Rico's cheatsheets.
+[DevHints](https://devhints.io/) | Rico's cheat sheets.
 [Netlify](https://www.netlify.com/) | Build, deploy, and manage modern web projects.
 [GitHub](https://github.com/) | GitHub is a development platform inspired by the way you work.
 [GitHub Pages](https://pages.github.com/) | Websites for you and your projects (Static projects.)
@@ -33,7 +33,7 @@ Web Tool | Description
 [Web Resizer](http://webresizer.com/resizer/) | Make photos faster. (Step 1)
 [JPEG and PNG Compactor](https://compresspng.com/pt/) | Make photos faster. (Step 2)
 [TinyPNG](https://tinypng.com/) | Smart PNG and JPEG compression.
-[MarkDown Editor](https://jbt.github.io/markdown-editor/) | Live (Github-flavored) Markdown Editor.
+[MarkDown Editor](https://jbt.github.io/markdown-editor/) | Live (GitHub-flavored) Markdown Editor.
 [DevDocs](https://devdocs.io/) | API documentation and works offline.
 [MDN Docs](https://developer.mozilla.org/en-US/) | Resources for developers, by developers.
 [DigitalOcean](https://www.digitalocean.com/) | It make it simple to launch in the cloud and scale up as you grow—whether you’re running one virtual machine or ten thousand.
@@ -56,6 +56,7 @@ Web Tool | Description
 [Gerador de CPF e CNPJ](https://chrome.google.com/webstore/detail/gerador-de-cpf-e-cnpj/ieifkajhcbdlbmmjkbmpomooeepmciin?hl=pt-BR) | Perfect for testing.
 [cssreference](https://cssreference.io/) | cssreference.io is a free visual guide to CSS. It features the most popular properties, and explains them with illustrated and animated examples.
 [W3Schools](https://www.w3schools.com/) | The world's largest website for web tutorials.
+[HTML Cleaner](https://html-cleaner.com) | Free HTML, CSS, and JavaScript beautifier. 
 
 ## Desktop Tools 🖥
 
@@ -73,8 +74,8 @@ Desktop Tool | Description
 [Homebrew](https://brew.sh/) | The missing package manager for macOS (or Linux).
 [pgAdmin](http://postgresapp.com/) | A full-featured PostgreSQL install for MacOS.
 [iTerm2](https://www.iterm2.com/) | A terminal emulator for macOS to replace Terminal.
-[Robo 3T](https://robomongo.org/) | A GUI for editing and veiwing MongoDB Data.
-[Github Desktop](https://desktop.github.com/) | A GUI for Github.
+[Robo 3T](https://robomongo.org/) | A GUI for editing and viewing MongoDB Data.
+[GitHub Desktop](https://desktop.github.com/) | A GUI for GitHub.
 [CodeLobster](http://www.codelobster.com/) | It is a free as well as a convenient PHP IDE that is used to develop fully featured web applications.
 [Datagrip](https://www.jetbrains.com/datagrip/) | Database IDE with mostly databases compatibility.
 [vim](https://www.vim.org) | Highly configurable text editor
