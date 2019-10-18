@@ -4,8 +4,9 @@
 
 ### Thank you for want to help to contribute to this project! :)
 
-- clone this repo.
-  - `git clone https://github.com/lucasnaja/useful-dev-tools.git`
+- fork this repo on github.
+- clone the forked repository to your local system.
+  - `git clone https://github.com/YourUsername/useful-dev-tools.git`
 - make another branch.
   - `git branch new-branch`
   - `git switch new-branch`
