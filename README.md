@@ -39,6 +39,7 @@ Web Tool | Description
 [DigitalOcean](https://www.digitalocean.com/) | It make it simple to launch in the cloud and scale up as you grow—whether you’re running one virtual machine or ten thousand.
 [Regex101](https://regex101.com/) | Validator for regex.
 [Gitignore.io](https://www.gitignore.io/) | Web service designed to help you create .gitignore files for your Git repositories.
+[Git Explorer](https://gitexplorer.com/) | Find the right git commands without digging through the web.
 [JSONLint](https://jsonlint.com/) | Validator and reformatter for JSON.
 [Conventional Commits](https://www.conventionalcommits.org) | A lightweight convention on top of commit messages.
 [DB Fiddle](https://www.db-fiddle.com/) | An online SQL database playground for testing, debugging and sharing SQL snippets. Supports MySQL, PostgreSQL and SQLite.
