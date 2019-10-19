@@ -33,5 +33,4 @@ Extension | Description
 [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) | Visual Studio Live Share enables you to collaboratively edit and debug with others in real time, regardless what programming languages you're using or app types you're building.
 [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome) | Debug your JavaScript code running in Google Chrome from VS Code.
 [Debugger for Firefox](https://marketplace.visualstudio.com/items?itemName=firefox-devtools.vscode-firefox-debug) | Debug your JavaScript code running in Firefox from VS Code.
-
-
+[Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) | The Material Icon Theme provides lots of icons based on Material Design for Visual Studio Code.
