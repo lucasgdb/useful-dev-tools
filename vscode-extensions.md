@@ -35,3 +35,5 @@ Extension | Description
 [Debugger for Firefox](https://marketplace.visualstudio.com/items?itemName=firefox-devtools.vscode-firefox-debug) | Debug your JavaScript code running in Firefox from VS Code.
 [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) | The Material Icon Theme provides lots of icons based on Material Design for Visual Studio Code.
 [Java Extension Pack](https:marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack) | Java Extension Pack is a collection of popular extensions that can help write, test and debug Java applications in Visual Studio Code.
+[Dracula Official](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula) | A dark theme for Visual Studio Code. 
+[Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) | Prettier is an opinionated code formatter. It enforces a consistent style by parsing your code and re-printing it with its own rules that take the maximum line length into account, wrapping code when necessary.
