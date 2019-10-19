@@ -60,7 +60,8 @@ Web Tool | Description
 [HTML Cleaner](https://html-cleaner.com) | Free HTML, CSS, and JavaScript beautifier.
 [Requestbin](https://requestbin.com) | Inspect HTTP events, webhooks, etc.
 [Postwoman](https://postwoman.io/) | Api request builder
-
+[Heroku](https://heroku.com) | Build, run and deploy applications entirely in the cloud.
+[Firebase](https://firebase.google.com) | A Google SaaS backend solutions for cross-plataform applications
 ## Desktop Tools 🖥
 
 Desktop Tool | Description
@@ -90,3 +91,5 @@ Desktop Tool | Description
 [Git Kraken](https://www.gitkraken.com/) | Legendary Git Client for windows, mac and linux. Really practical and robust.
 [Brackets](http://brackets.io/) | An open Source and Modern text editor for web design.
 [Termius](https://termius.com/) | A modern cross-plataform SSH/SFTP Client
+[Docker](https://docker.com) | Easily run local linux-based containers 
+
