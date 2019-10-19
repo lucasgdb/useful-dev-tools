@@ -34,3 +34,4 @@ Extension | Description
 [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome) | Debug your JavaScript code running in Google Chrome from VS Code.
 [Debugger for Firefox](https://marketplace.visualstudio.com/items?itemName=firefox-devtools.vscode-firefox-debug) | Debug your JavaScript code running in Firefox from VS Code.
 [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) | The Material Icon Theme provides lots of icons based on Material Design for Visual Studio Code.
+[Java Extension Pack](https:marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack) | Java Extension Pack is a collection of popular extensions that can help write, test and debug Java applications in Visual Studio Code.
