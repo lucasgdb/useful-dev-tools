@@ -88,3 +88,4 @@ Desktop Tool | Description
 [DBeaver](https://dbeaver.io) | Free multi-platform database tool for developers, SQL programmers, database administrators and analysts. Supports all popular databases: MySQL, PostgreSQL, SQLite, Oracle, DB2, SQL Server...
 [Git Kraken](https://www.gitkraken.com/) | Legendary Git Client for windows, mac and linux. Really practical and robust.
 [Brackets](http://brackets.io/) | An open Source and Modern text editor for web design.
+[Termius](https://termius.com/) | A modern cross-plataform SSH/SFTP Client
