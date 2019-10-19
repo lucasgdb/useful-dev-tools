@@ -63,6 +63,7 @@ Web Tool | Description
 [P5.js](https://p5js.org/) | A JS client-side library for creating graphic and interactive experiences, based on the core principles of Processing.
 [Heroku](https://heroku.com) | Build, run and deploy applications entirely in the cloud.
 [Firebase](https://firebase.google.com) | A Google SaaS backend solutions for cross-plataform applications
+[Figma](https://www.figma.com) | Figma is a cloud-based design tool that is similar to Sketch in functionality and features, but with big differences that make Figma better for team collaboration.
 
 ## Desktop Tools 🖥
 
