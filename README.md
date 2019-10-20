@@ -98,3 +98,5 @@ Desktop Tool | Description
 [Docker](https://docker.com) | Easily run local linux-based containers.
 [Indri](https://www.lemurproject.org/indri.php) | Tool for creating index and querying the index for any size dataset. 
 [OWASP ZAP](https://www.zaproxy.org/) | Useful open-source proxy tool for developing with security in mind.
+[Protege](https://protege.stanford.edu/) | Open source ontology editor and knowledge management system.
+
