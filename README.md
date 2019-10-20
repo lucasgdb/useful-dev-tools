@@ -94,4 +94,5 @@ Desktop Tool | Description
 [Brackets](http://brackets.io/) | An open Source and Modern text editor for web design.
 [Termius](https://termius.com/) | A modern cross-plataform SSH/SFTP Client
 [Docker](https://docker.com) | Easily run local linux-based containers 
+[Indri](https://www.lemurproject.org/indri.php) | Tool for creating index and querying the index for any size dataset. 
 
