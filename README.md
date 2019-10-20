@@ -94,6 +94,7 @@ Desktop Tool | Description
 [DBeaver](https://dbeaver.io) | Free multi-platform database tool for developers, SQL programmers, database administrators and analysts. Supports all popular databases: MySQL, PostgreSQL, SQLite, Oracle, DB2, SQL Server...
 [Git Kraken](https://www.gitkraken.com/) | Legendary Git Client for windows, mac and linux. Really practical and robust.
 [Brackets](http://brackets.io/) | An open Source and Modern text editor for web design.
-[Termius](https://termius.com/) | A modern cross-plataform SSH/SFTP Client
-[Docker](https://docker.com) | Easily run local linux-based containers
+[Termius](https://termius.com/) | A modern cross-plataform SSH/SFTP Client.
+[Docker](https://docker.com) | Easily run local linux-based containers.
+[Indri](https://www.lemurproject.org/indri.php) | Tool for creating index and querying the index for any size dataset. 
 [OWASP ZAP](https://www.zaproxy.org/) | Useful open-source proxy tool for developing with security in mind.
