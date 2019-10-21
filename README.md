@@ -67,6 +67,8 @@ Web Tool | Description
 [Figma](https://www.figma.com) | Figma is a cloud-based design tool that is similar to Sketch in functionality and features, but with big differences that make Figma better for team collaboration.
 [AWS](https://aws.amazon.com/) | Amazon Web Services, an on-demand cloud computing platform.
 [Repl.it](https://repl.it) | Powerful and simple online compiler, IDE, interpreter, and REPL
+[Git Branching](https://learngitbranching.js.org/) | This app was developed to help beginners learning powerful concepts behind git branching. We hope you like this app and maybe even learn something! - Learn git by doing!
+
 ## Desktop Tools 🖥
 
 Desktop Tool | Description
