@@ -37,3 +37,4 @@ Extension | Description
 [Java Extension Pack](https:marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack) | Java Extension Pack is a collection of popular extensions that can help write, test and debug Java applications in Visual Studio Code.
 [Dracula Official](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula) | A dark theme for Visual Studio Code. 
 [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) | Prettier is an opinionated code formatter. It enforces a consistent style by parsing your code and re-printing it with its own rules that take the maximum line length into account, wrapping code when necessary.
+[Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync) | Synchronize Settings, Snippets, Themes, File Icons, Launch, Keybindings, Workspaces and Extensions Across Multiple Machines Using GitHub Gist.
