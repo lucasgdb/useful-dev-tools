@@ -31,7 +31,7 @@ Web Tool | Description
 [CSS Compressor](https://csscompressor.com/) | Use CSS Compressor to compress CSS (CSS 1, CSS 2, CSS 2.1 & CSS 3) to reduce CSS code size and make your website load faster.
 [JS Compressor](https://jscompress.com/) | It's an online JavaScript compressor that allows you to compress and minify all of your JS files by up to 80% of their original size.
 [Web Resizer](http://webresizer.com/resizer/) | Make photos faster. (Step 1)
-[JPEG and PNG Compactor](https://compresspng.com/pt/) | Make photos faster. (Step 2)
+[JPEG and PNG Compactor](https://compresspng.com/pt/) | Make photos faster.And are much better than initial variants. (Step 2)
 [TinyPNG](https://tinypng.com/) | Smart PNG and JPEG compression.
 [MarkDown Editor](https://jbt.github.io/markdown-editor/) | Live (GitHub-flavored) Markdown Editor.
 [DevDocs](https://devdocs.io/) | API documentation and works offline.
