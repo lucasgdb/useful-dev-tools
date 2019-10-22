@@ -67,6 +67,7 @@ Web Tool | Description
 [Figma](https://www.figma.com) | Figma is a cloud-based design tool that is similar to Sketch in functionality and features, but with big differences that make Figma better for team collaboration.
 [AWS](https://aws.amazon.com/) | Amazon Web Services, an on-demand cloud computing platform.
 [Repl.it](https://repl.it) | Powerful and simple online compiler, IDE, interpreter, and REPL
+[Slack](https://www.slack.com) | American cloud-based set of proprietary team collaboration software tools and online services.
 ## Desktop Tools 🖥
 
 Desktop Tool | Description
