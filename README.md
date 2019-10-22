@@ -101,3 +101,4 @@ Desktop Tool | Description
 [OWASP ZAP](https://www.zaproxy.org/) | Useful open-source proxy tool for developing with security in mind.
 [Toggl](https://www.toggl.com) | A smart and usefull time tracker for teams containing helpful integrations like with Github for all plans.
 [Protege](https://protege.stanford.edu/) | Open source ontology editor and knowledge management system.
+[PyCharm](https://www.jetbrains.com/pycharm/) | Integrated development environment (IDE) specifically for the Python language developed by JetBrains.
