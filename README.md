@@ -105,3 +105,4 @@ Desktop Tool | Description
 [Toggl](https://www.toggl.com) | A smart and usefull time tracker for teams containing helpful integrations like with Github for all plans.
 [Protege](https://protege.stanford.edu/) | Open source ontology editor and knowledge management system.
 [PyCharm](https://www.jetbrains.com/pycharm/) | Integrated development environment (IDE) specifically for the Python language developed by JetBrains.
+[RealVNC](https://www.realvnc.com/en/) | Tool to securely access remote desktop.
