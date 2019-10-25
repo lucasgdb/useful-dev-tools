@@ -39,6 +39,8 @@ Web Tool | Description
 [MDN Docs](https://developer.mozilla.org/en-US/) | Resources for developers, by developers.
 [DigitalOcean](https://www.digitalocean.com/) | It make it simple to launch in the cloud and scale up as you grow—whether you’re running one virtual machine or ten thousand.
 [Regex101](https://regex101.com/) | Validator for regex.
+[Regexr](https://regexr.com/) | Regex parser
+[Freeformatter](https://www.freeformatter.com/java-regex-tester.html) | Regex validator for Java
 [Gitignore.io](https://www.gitignore.io/) | Web service designed to help you create .gitignore files for your Git repositories.
 [Git Explorer](https://gitexplorer.com/) | Find the right git commands without digging through the web.
 [JSONLint](https://jsonlint.com/) | Validator and reformatter for JSON.
@@ -60,7 +62,7 @@ Web Tool | Description
 [W3Schools](https://www.w3schools.com/) | The world's largest website for web tutorials.
 [HTML Cleaner](https://html-cleaner.com) | Free HTML, CSS, and JavaScript beautifier.
 [Requestbin](https://requestbin.com) | Inspect HTTP events, webhooks, etc.
-[Postwoman](https://postwoman.io/) | Api request builder
+[Postwoman](https://postwoman.io/) | Api request builder.
 [P5.js](https://p5js.org/) | A JS client-side library for creating graphic and interactive experiences, based on the core principles of Processing.
 [Heroku](https://heroku.com) | Build, run and deploy applications entirely in the cloud.
 [Firebase](https://firebase.google.com) | A Google SaaS backend solutions for cross-plataform applications
@@ -68,8 +70,10 @@ Web Tool | Description
 [AWS](https://aws.amazon.com/) | Amazon Web Services, an on-demand cloud computing platform.
 [Repl.it](https://repl.it) | Powerful and simple online compiler, IDE, interpreter, and REPL
 [Git Branching](https://learngitbranching.js.org/) | This app was developed to help beginners learning powerful concepts behind git branching. We hope you like this app and maybe even learn something! - Learn git by doing!
+[Stack Overflow](https://stackoverflow.com) | Stack Overflow is an open community for anyone that codes. It help you get answers to your toughest coding questions, share knowledge with your coworkers in private, and find your next dream job.
 [Animista](http://animista.net/) | CSS ANIMATIONS ON DEMAND
-[Hacktoberfest Checker](https://hacktoberfestchecker.jenko.me/) | A website to know the PR count of hacktoberfest participants
+[Hacktoberfest Checker](https://hacktoberfestchecker.jenko.me/) | A website to know the PR count of hacktoberfest participants.
+[Photopea](https://www.photopea.com/) | A online image editor. Very Similar to photoshop.
 
 ## Desktop Tools 🖥
 
@@ -108,3 +112,4 @@ Desktop Tool | Description
 [PyCharm](https://www.jetbrains.com/pycharm/) | Integrated development environment (IDE) specifically for the Python language developed by JetBrains.
 [RealVNC](https://www.realvnc.com/en/) | Tool to securely access remote desktop.
 [HTTPie](https://httpie.org/) | A command line HTTP client, similar to cURL, but with a nicer output and syntax.
+[TablePlus](https://tableplus.com//) | Database management made easy. Modern, native, and friendly GUI tool for relational databases: MySQL, PostgreSQL, SQLite & more
