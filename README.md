@@ -62,18 +62,18 @@ Web Tool | Description
 [W3Schools](https://www.w3schools.com/) | The world's largest website for web tutorials.
 [HTML Cleaner](https://html-cleaner.com) | Free HTML, CSS, and JavaScript beautifier.
 [Requestbin](https://requestbin.com) | Inspect HTTP events, webhooks, etc.
-[Postwoman](https://postwoman.io/) | Api request builder
+[Postwoman](https://postwoman.io/) | Api request builder.
 [P5.js](https://p5js.org/) | A JS client-side library for creating graphic and interactive experiences, based on the core principles of Processing.
 [Heroku](https://heroku.com) | Build, run and deploy applications entirely in the cloud.
 [Firebase](https://firebase.google.com) | A Google SaaS backend solutions for cross-plataform applications
-[Firebase](https://firebase.google.com) | A Google SaaS backend solutions for cross-plataform applications.
 [Figma](https://www.figma.com) | Figma is a cloud-based design tool that is similar to Sketch in functionality and features, but with big differences that make Figma better for team collaboration.
 [AWS](https://aws.amazon.com/) | Amazon Web Services, an on-demand cloud computing platform.
 [Repl.it](https://repl.it) | Powerful and simple online compiler, IDE, interpreter, and REPL
 [Git Branching](https://learngitbranching.js.org/) | This app was developed to help beginners learning powerful concepts behind git branching. We hope you like this app and maybe even learn something! - Learn git by doing!
 [Stack Overflow](https://stackoverflow.com) | Stack Overflow is an open community for anyone that codes. It help you get answers to your toughest coding questions, share knowledge with your coworkers in private, and find your next dream job.
 [Animista](http://animista.net/) | CSS ANIMATIONS ON DEMAND
-[Photopea](https://www.photopea.com/) | A online image editor. Very Similar to photoshop!
+[Hacktoberfest Checker](https://hacktoberfestchecker.jenko.me/) | A website to know the PR count of hacktoberfest participants.
+[Photopea](https://www.photopea.com/) | A online image editor. Very Similar to photoshop.
 
 ## Desktop Tools 🖥
 
