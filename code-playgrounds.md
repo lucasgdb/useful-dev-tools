@@ -1,9 +1,5 @@
 # Code Playground (Write a code in the browser)
 
-- [Tools](README.md)
-- [VSCode Extensions](vscode-extensions.md)
-- [Commands](commands.md)
-
 Useful code playgrounds pushed by the community. Please, submit a Pull Request or Open an issue for a useful code playground that you know.
 
 Code Playground | Description
