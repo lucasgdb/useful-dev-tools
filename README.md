@@ -73,6 +73,7 @@ Web Tool | Description
 [Git Branching](https://learngitbranching.js.org/) | This app was developed to help beginners learning powerful concepts behind git branching. We hope you like this app and maybe even learn something! - Learn git by doing!
 [Stack Overflow](https://stackoverflow.com) | Stack Overflow is an open community for anyone that codes. It help you get answers to your toughest coding questions, share knowledge with your coworkers in private, and find your next dream job.
 [Animista](http://animista.net/) | CSS ANIMATIONS ON DEMAND
+[Photopea](https://www.photopea.com/) | A online image editor. Very Similar to photoshop!
 
 ## Desktop Tools 🖥
 
