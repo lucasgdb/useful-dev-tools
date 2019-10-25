@@ -2,8 +2,8 @@ A set of useful developer tools ranging from web-tools to your favourite code-pl
 
 ## Sections
 * [Code Playgrounds](code-playgrounds.md)
-- [Tools](tools.md)
-- [VSCode Extensions](vscode-extensions.md)
+* [Tools](tools.md)
+* [VSCode Extensions](vscode-extensions.md)
 
-## *Want to contribute?*
+### *Want to contribute?*
 - [How to contribute](CONTRIBUTING.md)
