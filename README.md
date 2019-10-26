@@ -74,6 +74,7 @@ Web Tool | Description
 [Animista](http://animista.net/) | CSS ANIMATIONS ON DEMAND
 [Hacktoberfest Checker](https://hacktoberfestchecker.jenko.me/) | A website to know the PR count of hacktoberfest participants.
 [Photopea](https://www.photopea.com/) | A online image editor. Very Similar to photoshop.
+[Powtoon](https://www.powtoon.com/) | A video maker for presentations.
 
 ## Desktop Tools 🖥
 
@@ -112,4 +113,6 @@ Desktop Tool | Description
 [PyCharm](https://www.jetbrains.com/pycharm/) | Integrated development environment (IDE) specifically for the Python language developed by JetBrains.
 [RealVNC](https://www.realvnc.com/en/) | Tool to securely access remote desktop.
 [HTTPie](https://httpie.org/) | A command line HTTP client, similar to cURL, but with a nicer output and syntax.
+[Arduino](https://www.arduino.cc) | Text-editor tools for make any robot or IoT.
 [TablePlus](https://tableplus.com//) | Database management made easy. Modern, native, and friendly GUI tool for relational databases: MySQL, PostgreSQL, SQLite & more
+
