@@ -45,4 +45,9 @@ Extension | Description
 [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag) | Automatically add HTML/XML close tag, same as Visual Studio IDE or Sublime Text does.
 [Babel JavaScript](https://marketplace.visualstudio.com/items?itemName=mgmcdermott.vscode-language-babel) | 
 VSCode syntax highlighting for today's JavaScript, ported from gandm's language-babel for Atom.
-
+[Angular Inline](https://marketplace.visualstudio.com/items?itemName=natewallace.angular2-inline&wt.mc_id=devto-blog-jopapa) | This extension extends the javascript and typescript languages to add Angular2 specific features for inline templates and stylesheets. When you define an inline template or inline style sheet using the back-tick character(`) the content will be processed by this extension.
+[Blueberry Banana](https://marketplace.visualstudio.com/items?itemName=pshershov.blueberry-banana) | Blueberry Banana is an easy-on-the-eyes theme with a cyberpunkish feeling.
+[Highlight Matching Tag](https://marketplace.visualstudio.com/items?itemName=vincaslt.highlight-matching-tag) | This extension is intended to provide the missing functionality that should be built-in out of the box in VSCode - to highlight matching opening or closing tags. Optionally it also shows path to tag in the status bar.
+[indent-rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow) | This extension colorizes the indentation in front of your text alternating four different colors on each step. Some may find it helpful in writing code for Nim or Python.
+[TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight) | Highlight TODO, FIXME and other annotations within your code.
+[Trailing Spaces](https://marketplace.visualstudio.com/items?itemName=shardulm94.trailing-spaces) | A VS Code extension that allows you to highlight trailing spaces and delete them in a flash!
