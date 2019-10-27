@@ -8,6 +8,7 @@ Useful VSCode extensions pushed by the community. Please, submit a Pull Request 
 
 Extension | Description
 ---- | ----
+[Bracket Pair Visualizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2) | This will autohighlight matching brackets with the same colour to make it easier to identify multiple bracket pairs apart
 [Auto-Save on Window Change](https://marketplace.visualstudio.com/items?itemName=mcright.auto-save) | This will auto-save code each time you switch windows; really useful for JS when switching from editor to browser window a lot.
 [Polacode](https://marketplace.visualstudio.com/items?itemName=pnp.polacode) | Polaroid for your code. It's like the [Carbon](https://carbon.now.sh).
 [Beautify](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify) | Beautify javascript, JSON, CSS, Sass, and HTML in Visual Studio Code.
