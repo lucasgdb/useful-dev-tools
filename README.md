@@ -75,6 +75,7 @@ Web Tool | Description
 [Hacktoberfest Checker](https://hacktoberfestchecker.jenko.me/) | A website to know the PR count of hacktoberfest participants.
 [Photopea](https://www.photopea.com/) | A online image editor. Very Similar to photoshop.
 [Powtoon](https://www.powtoon.com/) | A video maker for presentations.
+[Swagger](https://editor.swagger.io/) | an online swagger editor for creating interactive Rest API documentations.
 
 ## Desktop Tools 🖥
 
