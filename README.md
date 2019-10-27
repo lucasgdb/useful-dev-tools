@@ -119,3 +119,4 @@ Desktop Tool | Description
 [TablePlus](https://tableplus.com//) | Database management made easy. Modern, native, and friendly GUI tool for relational databases: MySQL, PostgreSQL, SQLite & more
 [Wakatime](https://wakatime.com/) | Quantify your coding. Open source plugins for automatic programming metrics.
 [uPyCraft](http://docs.dfrobot.com/upycraft/) | IDE for programming Micropython in microntoller boards.
+[Mailspring](https://getmailspring.com/) | Powerful n' fancy cross-plataform mail client.
