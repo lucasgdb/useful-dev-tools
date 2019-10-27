@@ -75,7 +75,7 @@ Web Tool | Description
 [Hacktoberfest Checker](https://hacktoberfestchecker.jenko.me/) | A website to know the PR count of hacktoberfest participants.
 [Photopea](https://www.photopea.com/) | A online image editor. Very Similar to photoshop.
 [Powtoon](https://www.powtoon.com/) | A video maker for presentations.
-[AWS Cloud9](https://aws.amazon.com/cloud9/) | AWS Cloud9 is a cloud-based integrated development environment (IDE) that lets you write, run, and debug your code with just a browser. It includes a code editor, debugger, and terminal.
+[AWS Cloud9](https://aws.amazon.com/cloud9/) | AWS Cloud9 is a cloud-based integrated development environment (IDE) that lets you write, run, and debug your code with just a browser.
 
 ## Desktop Tools 🖥
 
