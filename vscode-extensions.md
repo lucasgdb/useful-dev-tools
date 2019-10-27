@@ -8,6 +8,7 @@ Useful VSCode extensions pushed by the community. Please, submit a Pull Request 
 
 Extension | Description
 ---- | ----
+[Auto-Save on Window Change](https://marketplace.visualstudio.com/items?itemName=mcright.auto-save) | This will auto-save code each time you switch windows; really useful for JS when switching from editor to browser window a lot.
 [Polacode](https://marketplace.visualstudio.com/items?itemName=pnp.polacode) | Polaroid for your code. It's like the [Carbon](https://carbon.now.sh).
 [Beautify](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify) | Beautify javascript, JSON, CSS, Sass, and HTML in Visual Studio Code.
 [VSCode Icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons) | Icons for Visual Studio Code (Folders and files).
@@ -35,5 +36,19 @@ Extension | Description
 [Debugger for Firefox](https://marketplace.visualstudio.com/items?itemName=firefox-devtools.vscode-firefox-debug) | Debug your JavaScript code running in Firefox from VS Code.
 [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) | The Material Icon Theme provides lots of icons based on Material Design for Visual Studio Code.
 [Java Extension Pack](https:marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack) | Java Extension Pack is a collection of popular extensions that can help write, test and debug Java applications in Visual Studio Code.
-[Dracula Official](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula) | A dark theme for Visual Studio Code. 
+[Dracula Official](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula) | A dark theme for Visual Studio Code.
 [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) | Prettier is an opinionated code formatter. It enforces a consistent style by parsing your code and re-printing it with its own rules that take the maximum line length into account, wrapping code when necessary.
+[Checkstyle for Java](https://marketplace.visualstudio.com/items?itemName=shengchen.vscode-checkstyle) | A easy way to check problems and fix them.
+[Cucumber (Gherkin) Full Support](https://marketplace.visualstudio.com/items?itemName=alexkrechik.cucumberautocomplete) | This extension adds rich language support for the Cucumber (Gherkin) language.
+[Feature Syntax Highlight and Snippets README](https://marketplace.visualstudio.com/items?itemName=Blodwynn.featurehighlight) | This extension provides syntax highlight and snippets for .feature files to enhance productivity. (and make .feature files look pretty)
+[Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync) | Synchronize Settings, Snippets, Themes, File Icons, Launch, Keybindings, Workspaces and Extensions Across Multiple Machines Using GitHub Gist.
+[Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks) | It helps you to navigate in your code, moving between important positions easily and quickly. No more need to search for code. It also supports a set of selection commands, which allows you to select bookmarked lines and regions between bookmarked lines. It's really useful for log file analysis.
+[Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag) | Automatically add HTML/XML close tag, same as Visual Studio IDE or Sublime Text does.
+[Babel JavaScript](https://marketplace.visualstudio.com/items?itemName=mgmcdermott.vscode-language-babel) | 
+VSCode syntax highlighting for today's JavaScript, ported from gandm's language-babel for Atom.
+[Angular Inline](https://marketplace.visualstudio.com/items?itemName=natewallace.angular2-inline&wt.mc_id=devto-blog-jopapa) | This extension extends the javascript and typescript languages to add Angular2 specific features for inline templates and stylesheets. When you define an inline template or inline style sheet using the back-tick character(`) the content will be processed by this extension.
+[Blueberry Banana](https://marketplace.visualstudio.com/items?itemName=pshershov.blueberry-banana) | Blueberry Banana is an easy-on-the-eyes theme with a cyberpunkish feeling.
+[Highlight Matching Tag](https://marketplace.visualstudio.com/items?itemName=vincaslt.highlight-matching-tag) | This extension is intended to provide the missing functionality that should be built-in out of the box in VSCode - to highlight matching opening or closing tags. Optionally it also shows path to tag in the status bar.
+[indent-rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow) | This extension colorizes the indentation in front of your text alternating four different colors on each step. Some may find it helpful in writing code for Nim or Python.
+[TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight) | Highlight TODO, FIXME and other annotations within your code.
+[Trailing Spaces](https://marketplace.visualstudio.com/items?itemName=shardulm94.trailing-spaces) | A VS Code extension that allows you to highlight trailing spaces and delete them in a flash!

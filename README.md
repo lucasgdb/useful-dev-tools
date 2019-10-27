@@ -24,6 +24,7 @@ Web Tool | Description
 [Gitter](https://gitter.im/) | Gitter is a chat and networking platform that helps to manage, grow and connect communities through messaging, content and discovery.
 [DevHub](https://devhubapp.com/) | TweetDeck for GitHub. See repo activities and manage your notifications by creating columns with filters, saving items for later and more.
 [Trello](https://trello.com/en) | Trello’s boards, lists, and cards enable you to organize and prioritize your projects in a fun, flexible, and rewarding way.
+[Notion](https://notion.so) | The all-in-one workspace for your notes, tasks, wikis, and databases.
 [Choose an License](https://choosealicense.com/) | An open source license protects contributors and users. Businesses and savvy developers won’t touch a project without this protection.
 [JS Paint](https://jspaint.app/) | it's a web-based remake of MS Paint.
 [svgomg](https://jakearchibald.github.io/svgomg/) | Web GUI for SVGO.
@@ -38,6 +39,8 @@ Web Tool | Description
 [MDN Docs](https://developer.mozilla.org/en-US/) | Resources for developers, by developers.
 [DigitalOcean](https://www.digitalocean.com/) | It make it simple to launch in the cloud and scale up as you grow—whether you’re running one virtual machine or ten thousand.
 [Regex101](https://regex101.com/) | Validator for regex.
+[Regexr](https://regexr.com/) | Regex parser
+[Freeformatter](https://www.freeformatter.com/java-regex-tester.html) | Regex validator for Java
 [Gitignore.io](https://www.gitignore.io/) | Web service designed to help you create .gitignore files for your Git repositories.
 [Git Explorer](https://gitexplorer.com/) | Find the right git commands without digging through the web.
 [JSONLint](https://jsonlint.com/) | Validator and reformatter for JSON.
@@ -59,14 +62,22 @@ Web Tool | Description
 [W3Schools](https://www.w3schools.com/) | The world's largest website for web tutorials.
 [HTML Cleaner](https://html-cleaner.com) | Free HTML, CSS, and JavaScript beautifier.
 [Requestbin](https://requestbin.com) | Inspect HTTP events, webhooks, etc.
-[Postwoman](https://postwoman.io/) | Api request builder
+[Postwoman](https://postwoman.io/) | Api request builder.
 [P5.js](https://p5js.org/) | A JS client-side library for creating graphic and interactive experiences, based on the core principles of Processing.
 [Heroku](https://heroku.com) | Build, run and deploy applications entirely in the cloud.
 [Firebase](https://firebase.google.com) | A Google SaaS backend solutions for cross-plataform applications
-[Firebase](https://firebase.google.com) | A Google SaaS backend solutions for cross-plataform applications.
 [Figma](https://www.figma.com) | Figma is a cloud-based design tool that is similar to Sketch in functionality and features, but with big differences that make Figma better for team collaboration.
 [AWS](https://aws.amazon.com/) | Amazon Web Services, an on-demand cloud computing platform.
 [Repl.it](https://repl.it) | Powerful and simple online compiler, IDE, interpreter, and REPL
+[Git Branching](https://learngitbranching.js.org/) | This app was developed to help beginners learning powerful concepts behind git branching. We hope you like this app and maybe even learn something! - Learn git by doing!
+[Stack Overflow](https://stackoverflow.com) | Stack Overflow is an open community for anyone that codes. It help you get answers to your toughest coding questions, share knowledge with your coworkers in private, and find your next dream job.
+[Animista](http://animista.net/) | CSS ANIMATIONS ON DEMAND
+[Hacktoberfest Checker](https://hacktoberfestchecker.jenko.me/) | A website to know the PR count of hacktoberfest participants.
+[Photopea](https://www.photopea.com/) | A online image editor. Very Similar to photoshop.
+[Powtoon](https://www.powtoon.com/) | A video maker for presentations.
+[Swagger](https://editor.swagger.io/) | an online swagger editor for creating interactive Rest API documentations.
+[AWS Cloud9](https://aws.amazon.com/cloud9/) | AWS Cloud9 is a cloud-based integrated development environment (IDE) that lets you write, run, and debug your code with just a browser.
+
 ## Desktop Tools 🖥
 
 Desktop Tool | Description
@@ -97,6 +108,15 @@ Desktop Tool | Description
 [Brackets](http://brackets.io/) | An open Source and Modern text editor for web design.
 [Termius](https://termius.com/) | A modern cross-plataform SSH/SFTP Client.
 [Docker](https://docker.com) | Easily run local linux-based containers.
-[Indri](https://www.lemurproject.org/indri.php) | Tool for creating index and querying the index for any size dataset. 
+[Indri](https://www.lemurproject.org/indri.php) | Tool for creating index and querying the index for any size dataset.
 [OWASP ZAP](https://www.zaproxy.org/) | Useful open-source proxy tool for developing with security in mind.
+[Toggl](https://www.toggl.com) | A smart and usefull time tracker for teams containing helpful integrations like with Github for all plans.
+[Protege](https://protege.stanford.edu/) | Open source ontology editor and knowledge management system.
+[PyCharm](https://www.jetbrains.com/pycharm/) | Integrated development environment (IDE) specifically for the Python language developed by JetBrains.
+[RealVNC](https://www.realvnc.com/en/) | Tool to securely access remote desktop.
+[HTTPie](https://httpie.org/) | A command line HTTP client, similar to cURL, but with a nicer output and syntax.
+[Arduino](https://www.arduino.cc) | Text-editor tools for make any robot or IoT.
+[TablePlus](https://tableplus.com//) | Database management made easy. Modern, native, and friendly GUI tool for relational databases: MySQL, PostgreSQL, SQLite & more
+[Wakatime](https://wakatime.com/) | Quantify your coding. Open source plugins for automatic programming metrics.
+[uPyCraft](http://docs.dfrobot.com/upycraft/) | IDE for programming Micropython in microntoller boards.
 [Mailspring](https://getmailspring.com/) | Powerful n' fancy cross-plataform mail client.
