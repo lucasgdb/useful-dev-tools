@@ -116,4 +116,6 @@ Desktop Tool | Description
 [HTTPie](https://httpie.org/) | A command line HTTP client, similar to cURL, but with a nicer output and syntax.
 [Arduino](https://www.arduino.cc) | Text-editor tools for make any robot or IoT.
 [TablePlus](https://tableplus.com//) | Database management made easy. Modern, native, and friendly GUI tool for relational databases: MySQL, PostgreSQL, SQLite & more
+[Wakatime](https://wakatime.com/) | Quantify your coding. Open source plugins for automatic programming metrics.
+[uPyCraft](http://docs.dfrobot.com/upycraft/) | IDE for programming Micropython in microntoller boards.
 
