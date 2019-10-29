@@ -53,4 +53,4 @@ VSCode syntax highlighting for today's JavaScript, ported from gandm's language-
 [indent-rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow) | This extension colorizes the indentation in front of your text alternating four different colors on each step. Some may find it helpful in writing code for Nim or Python.
 [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight) | Highlight TODO, FIXME and other annotations within your code.
 [Trailing Spaces](https://marketplace.visualstudio.com/items?itemName=shardulm94.trailing-spaces) | A VS Code extension that allows you to highlight trailing spaces and delete them in a flash!
-[Poomchaio/useful-dev-tools](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag) | https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag
+[Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag) | https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag
