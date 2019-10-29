@@ -77,6 +77,7 @@ Web Tool | Description
 [Powtoon](https://www.powtoon.com/) | A video maker for presentations.
 [Swagger](https://editor.swagger.io/) | an online swagger editor for creating interactive Rest API documentations.
 [AWS Cloud9](https://aws.amazon.com/cloud9/) | AWS Cloud9 is a cloud-based integrated development environment (IDE) that lets you write, run, and debug your code with just a browser.
+[Big Text](https://coolsymbol.com/big-text-generator.html) | Convert text to big text as easy as you think.
 
 ## Desktop Tools 🖥
 
