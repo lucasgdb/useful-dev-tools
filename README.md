@@ -78,6 +78,7 @@ Web Tool | Description
 [Swagger](https://editor.swagger.io/) | an online swagger editor for creating interactive Rest API documentations.
 [AWS Cloud9](https://aws.amazon.com/cloud9/) | AWS Cloud9 is a cloud-based integrated development environment (IDE) that lets you write, run, and debug your code with just a browser.
 [Big Text](https://coolsymbol.com/big-text-generator.html) | Convert text to big text as easy as you think.
+[Frisby.js](https://www.frisbyjs.com/) | The Easiest REST API Testing Framework Out There.
 
 ## Desktop Tools 🖥
 
@@ -122,3 +123,5 @@ Desktop Tool | Description
 [uPyCraft](http://docs.dfrobot.com/upycraft/) | IDE for programming Micropython in microntoller boards.
 [Mailspring](https://getmailspring.com/) | Powerful n' fancy cross-plataform mail client.
 [Carbonize](https://www.dangercove.com/carbonize) | Generate gorgeous, highly customizable images from your code snippets. Ready to save or share. (macOS client for Carbon)
+[Appium](http://appium.io/) | Appium is an open source test automation framework for use with native, hybrid and mobile web apps.
+[Cypress.io](https://www.cypress.io/) | Fast, easy and reliable testing for anything that runs in a browser.
