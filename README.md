@@ -123,3 +123,4 @@ Desktop Tool | Description
 [Mailspring](https://getmailspring.com/) | Powerful n' fancy cross-plataform mail client.
 [Carbonize](https://www.dangercove.com/carbonize) | Generate gorgeous, highly customizable images from your code snippets. Ready to save or share. (macOS client for Carbon)
 [ASCIinema](https://asciinema.org/) | Record and share your terminal sessions, the right way. 
+[Dash](https://kapeli.com/dash) | API Documentation, Cheat sheets, Snippet manager with instant search everything for macOS
