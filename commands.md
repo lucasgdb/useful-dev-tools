@@ -14,6 +14,7 @@ Command | Description
 `git status` | for getting the status of the cloned repository folder to see what changes have been made, if any
 `git checkout -b <new-branch-name> upstream/master` | for creating a new branch from the latest upstream version
 `git add <filepath>` | for adding your changes to the <filepath>
+`git add --interactive` or `git add -i` | add modified contents in the working tree interactively to the index
 `git commit -m "<description of changes>"` | for committing your changes to github
 `git push origin <your-branch-name>` | for pushing your changes to your github repo clone
 `npx add-gitignore` | for adding a git ignore file to your project for a specific language
