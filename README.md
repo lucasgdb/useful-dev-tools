@@ -24,6 +24,7 @@ Web Tool | Description
 [Gitter](https://gitter.im/) | Gitter is a chat and networking platform that helps to manage, grow and connect communities through messaging, content and discovery.
 [DevHub](https://devhubapp.com/) | TweetDeck for GitHub. See repo activities and manage your notifications by creating columns with filters, saving items for later and more.
 [Trello](https://trello.com/en) | Trello’s boards, lists, and cards enable you to organize and prioritize your projects in a fun, flexible, and rewarding way.
+[Taiga](https://taiga.io/) | Taiga is a project management platform for agile developers & designers and project managers who want a beautiful tool that makes work truly enjoyable.
 [Notion](https://notion.so) | The all-in-one workspace for your notes, tasks, wikis, and databases.
 [Choose an License](https://choosealicense.com/) | An open source license protects contributors and users. Businesses and savvy developers won’t touch a project without this protection.
 [JS Paint](https://jspaint.app/) | it's a web-based remake of MS Paint.
