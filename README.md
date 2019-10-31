@@ -80,6 +80,7 @@ Web Tool | Description
 [AWS Cloud9](https://aws.amazon.com/cloud9/) | AWS Cloud9 is a cloud-based integrated development environment (IDE) that lets you write, run, and debug your code with just a browser.
 [Big Text](https://coolsymbol.com/big-text-generator.html) | Convert text to big text as easy as you think.
 [Frisby.js](https://www.frisbyjs.com/) | The Easiest REST API Testing Framework Out There.
+[JSON Editor Online](https://jsoneditoronline.org/) | JSON Editor Online is a web-based tool to view, edit, and format JSON. It shows your data side by side in a clear, editable treeview and in a code editor.
 
 ## Desktop Tools 🖥
 
@@ -126,5 +127,7 @@ Desktop Tool | Description
 [Carbonize](https://www.dangercove.com/carbonize) | Generate gorgeous, highly customizable images from your code snippets. Ready to save or share. (macOS client for Carbon)
 [Appium](http://appium.io/) | Appium is an open source test automation framework for use with native, hybrid and mobile web apps.
 [Cypress.io](https://www.cypress.io/) | Fast, easy and reliable testing for anything that runs in a browser.
-[ASCIinema](https://asciinema.org/) | Record and share your terminal sessions, the right way. 
+[ASCIinema](https://asciinema.org/) | Record and share your terminal sessions, the right way.
 [Dash](https://kapeli.com/dash) | API Documentation, Cheat sheets, Snippet manager with instant search everything for macOS
+[Burp Suite](https://portswigger.net/burp) | Burp Suite is a leading range of cybersecurity tools, brought to you by PortSwigger.
+[Apache JMeter](https://jmeter.apache.org/) | The Apache JMeter™ application is open source software, a 100% pure Java application designed to load test functional behavior and measure performance.
