@@ -126,3 +126,4 @@ Desktop Tool | Description
 [Appium](http://appium.io/) | Appium is an open source test automation framework for use with native, hybrid and mobile web apps.
 [Cypress.io](https://www.cypress.io/) | Fast, easy and reliable testing for anything that runs in a browser.
 [ASCIinema](https://asciinema.org/) | Record and share your terminal sessions, the right way. 
+[Dash](https://kapeli.com/dash) | API Documentation, Cheat sheets, Snippet manager with instant search everything for macOS
