@@ -55,3 +55,5 @@ Extension | Description
 [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag) | Automatically rename paired HTML/XML tag, same as Visual Studio IDE does.
 [Firestore Rules](https://marketplace.visualstudio.com/items?itemName=ChFlick.firecode) |Firestore security rule support for Visual Studio Code. (Works for .rule and .rules files.)
 [GLSL Canvas](https://marketplace.visualstudio.com/items?itemName=circledev.glsl-canvas) |The extension opens a live WebGL preview of GLSL shaders within VSCode by providing a Show glslCanvas command. (Works for .glsl, .frag, and .vert files.)
+[EditorConfig](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) | EditorConfig Support for Visual Studio Code
+[Debugger for Firefox](https://marketplace.visualstudio.com/items?itemName=firefox-devtools.vscode-firefox-debug) | Debug your web application or browser extension in Firefox
