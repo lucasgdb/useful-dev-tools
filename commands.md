@@ -18,3 +18,4 @@ Command | Description
 `git commit -m "<description of changes>"` | for committing your changes to github
 `git push origin <your-branch-name>` | for pushing your changes to your github repo clone
 `npx add-gitignore` | for adding a git ignore file to your project for a specific language
+`git branch` | for listing, creating, or deleting branches.
