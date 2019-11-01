@@ -131,6 +131,7 @@ Desktop Tool | Description
 [Dash](https://kapeli.com/dash) | API Documentation, Cheat sheets, Snippet manager with instant search everything for macOS
 [Burp Suite](https://portswigger.net/burp) | Burp Suite is a leading range of cybersecurity tools, brought to you by PortSwigger.
 [Apache JMeter](https://jmeter.apache.org/) | The Apache JMeter™ application is open source software, a 100% pure Java application designed to load test functional behavior and measure performance.
+[Wireshark](https://www.wireshark.org/) | Wireshark is an open source, network protocol analyzer.
 [MobaXterm](https://mobaxterm.mobatek.net/) | Free X server for Windows with tabbed SSH terminal, telnet, RDP, VNC, Xdmcp, Mosh and X11-forwarding.
 [ngrok](https://ngrok.com/) | ngrok secure introspectable tunnels to localhost webhook development tool and debugging tool.
 [Genymotion Android Emulator](https://www.genymotion.com/) | Cross-platform Android emulator for developers & QA engineers. Develop & automate your tests to deliver best quality apps. On desktop, AWS, GCP & SaaS.
