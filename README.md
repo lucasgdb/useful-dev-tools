@@ -117,6 +117,7 @@ Desktop Tool | Description
 [Toggl](https://www.toggl.com) | A smart and usefull time tracker for teams containing helpful integrations like with Github for all plans.
 [Protege](https://protege.stanford.edu/) | Open source ontology editor and knowledge management system.
 [PyCharm](https://www.jetbrains.com/pycharm/) | Integrated development environment (IDE) specifically for the Python language developed by JetBrains.
+[VirtualBox](https://www.virtualbox.org/) | An open source virtualization product developed by Oracle.
 [RealVNC](https://www.realvnc.com/en/) | Tool to securely access remote desktop.
 [HTTPie](https://httpie.org/) | A command line HTTP client, similar to cURL, but with a nicer output and syntax.
 [Arduino](https://www.arduino.cc) | Text-editor tools for make any robot or IoT.
