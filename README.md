@@ -82,6 +82,7 @@ Web Tool | Description
 [Frisby.js](https://www.frisbyjs.com/) | The Easiest REST API Testing Framework Out There.
 [JSON Editor Online](https://jsoneditoronline.org/) | JSON Editor Online is a web-based tool to view, edit, and format JSON. It shows your data side by side in a clear, editable treeview and in a code editor.
 [CodePen](https://codepen.io) | Online community for testing and sharing HTML, CSS and JavaScript code snippets.
+[ExtendsClass](https://extendsclass.com/) | Online developer tools: Playgrounds (Regex, XPath, SQLite), API clients (REST, SOAP), diff (XML, CSV, JSON) and data generators (JSON, CSV).
 
 ## Desktop Tools 🖥
 
