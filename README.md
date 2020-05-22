@@ -16,6 +16,7 @@ Web Tool | Description
 ---| ----
 [KeyCode Info](https://keycode.info/) | Easy visualizer for JavaScript KeyCodes.
 [Carbon](https://carbon.now.sh) | Create and share beautiful images of your source code.
+[Shield.io](https://shields.io/) | Create beautiful badges for your markdown document.
 [DevHints](https://devhints.io/) | Rico's cheat sheets.
 [Netlify](https://www.netlify.com/) | Build, deploy, and manage modern web projects.
 [GitHub](https://github.com/) | GitHub is a development platform inspired by the way you work.
@@ -84,7 +85,7 @@ Web Tool | Description
 [CodePen](https://codepen.io) | Online community for testing and sharing HTML, CSS and JavaScript code snippets.
 [ExtendsClass](https://extendsclass.com/) | Online developer tools: Playgrounds (Regex, XPath, SQLite), API clients (REST, SOAP), diff (XML, CSV, JSON) and data generators (JSON, CSV).
 [FontSee](https://fontsee.com/) | Online webfont viewer: Preview how font files look like in the browser.
-
+[ASCII Art Generator](https://www.ascii-art-generator.org/) | This free online Ascii Art creator allows you to convert images to color or monochrome Ascii Art.
 ## Desktop Tools 🖥
 
 Desktop Tool | Description
