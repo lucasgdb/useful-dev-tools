@@ -86,6 +86,7 @@ Web Tool | Description
 [ExtendsClass](https://extendsclass.com/) | Online developer tools: Playgrounds (Regex, XPath, SQLite), API clients (REST, SOAP), diff (XML, CSV, JSON) and data generators (JSON, CSV).
 [FontSee](https://fontsee.com/) | Online webfont viewer: Preview how font files look like in the browser.
 [ASCII Art Generator](https://www.ascii-art-generator.org/) | This free online Ascii Art creator allows you to convert images to color or monochrome Ascii Art.
+[Screenshot.rocks](https://screenshot.rocks/) | Create beautiful browser mockups in seconds
 
 ## Desktop Tools 🖥
 
