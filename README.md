@@ -89,6 +89,14 @@ Web Tool | Description
 [ASCII Art Generator](https://www.ascii-art-generator.org/) | This free online Ascii Art creator allows you to convert images to color or monochrome Ascii Art.
 [Screenshot.rocks](https://screenshot.rocks/) | Create beautiful browser mockups in seconds
 [Hackmd](https://hackmd.io/) | Real time, multi-platform, collaborative markdown knowledge base. You can write markdown file together with other people :)
+[JSON Utils](https://jsonutils.com/) | Convert JSON to C#, VB.NET, JavaScript, Java, PHP and TypeScript classes
+[Tabs to Spaces](https://tabstospaces.com/) | Convert tabs to spaces. As simple as it sounds
+[Epoch Converter](https://www.epochconverter.com/) | Convert epoch to human-readable dates and viceversa
+[XML Viewer](https://codebeautify.org/xmlviewer#) | Beautify XML files
+[NimbleText](https://nimbletext.com/Live) | NimbleText is a text manipulation and code generation tool. It generates text from a pattern and some input values
+[BASE64 Decode and Encode](https://www.base64decode.org/) | Encode/Decode BASE64 strings or files
+
+
 
 ## Desktop Tools 🖥
 
