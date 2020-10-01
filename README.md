@@ -89,6 +89,7 @@ Web Tool | Description
 [ASCII Art Generator](https://www.ascii-art-generator.org/) | This free online Ascii Art creator allows you to convert images to color or monochrome Ascii Art.
 [Screenshot.rocks](https://screenshot.rocks/) | Create beautiful browser mockups in seconds
 [Hackmd](https://hackmd.io/) | Real time, multi-platform, collaborative markdown knowledge base. You can write markdown file together with other people :)
+[Azure DevOps Services](https://azure.microsoft.com/pt-br/services/devops/) | A full solution for managing projects, including git and pipelines.
 [JSON Utils](https://jsonutils.com/) | Convert JSON to C#, VB.NET, JavaScript, Java, PHP and TypeScript classes
 [Tabs to Spaces](https://tabstospaces.com/) | Convert tabs to spaces. As simple as it sounds
 [Epoch Converter](https://www.epochconverter.com/) | Convert epoch to human-readable dates and viceversa
