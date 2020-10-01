@@ -4,7 +4,10 @@
 
 ## Sections
 
+- [Code IDEs](code-ides.md)
 - [VSCode Extensions](vscode-extensions.md)
+- [Atom Extensions](atom-extensions.md)
+- [Code Courses](code-courses.md)
 - [Code Playgrounds](code-playgrounds.md)
 - [Commands](commands.md)
 
@@ -98,10 +101,6 @@ Web Tool | Description
 
 Desktop Tool | Description
 ---| ----
-[VSCode](https://code.visualstudio.com/) | A rich text-editor by Microsoft to improve your workflow. (I love it <3)
-[VSCodium](https://code.vscodium.com/) | Open Source Binaries of VSCode.
-[Sublime Text](https://www.sublimetext.com/) | A sophisticated text editor for code, markup and prose.
-[ATOM](https://atom.io/) | A hackable text editor for the 21st Century.
 [Insomnia](https://insomnia.rest/) | Debug APIs like a human, not a robot.
 [Postman](https://www.getpostman.com/) | Postman Simplifies API Development.
 [Zeit, Now](https://zeit.co/) | The Global Serverless Platform. (CLI)
