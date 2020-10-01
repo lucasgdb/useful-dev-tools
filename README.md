@@ -92,6 +92,8 @@ Web Tool | Description
 [Android Asset Studio](http://romannurik.github.io/AndroidAssetStudio/) | A collection of tools to easily generate assets such as launcher icons for your Android app.
 [CSS Separator Generator](https://wweb.dev/resources/css-separator-generator) | A generator for section separators.
 [Color Shades Generator](https://javisperez.github.io/tailwindcolorshades/#/) | Color Shades Generator for Tailwind CSS.
+[GitHub CLI](https://cli.github.com/) | Github's official CLI tool - Bring github to your terminal.
+[Marcdown](https://liyasthomas.github.io/marcdown) | A Lightweight markdown viewer and editor
 
 ## Desktop Tools 🖥
 
