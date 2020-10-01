@@ -2,6 +2,7 @@
 
 - [Tools](README.md)
 - [VSCode Extensions](vscode-extensions.md)
+- [Atom Extensions](atom-extensions.md)
 - [Commands](commands.md)
 
 Useful code playgrounds pushed by the community. Please, submit a Pull Request or Open an issue for a useful code playground that you know.
@@ -22,3 +23,4 @@ Code Playground | Description
 [3v4l.org](https://3v4l.org/) | 3v4l.org (leetspeak for eval) is a online PHP shell which allows you run code on more than 250 PHP versions, and compare performance, output and support of features. **Features: (linting, debugger, sharing)**
 [Trinket.io](https://trinket.io/) | Trinket is a website that allows you to create and test code without creating an account. Mainly it is used for python but they have other languages as well. **Features(examples, plans, tutorials)**
 [Postdrop.io](https://app.postdrop.io) | Postdrop. A simple tool to help developers with HTML email.
+
