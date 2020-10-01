@@ -89,6 +89,7 @@ Web Tool | Description
 [ASCII Art Generator](https://www.ascii-art-generator.org/) | This free online Ascii Art creator allows you to convert images to color or monochrome Ascii Art.
 [Screenshot.rocks](https://screenshot.rocks/) | Create beautiful browser mockups in seconds
 [Hackmd](https://hackmd.io/) | Real time, multi-platform, collaborative markdown knowledge base. You can write markdown file together with other people :)
+[Android Asset Studio](http://romannurik.github.io/AndroidAssetStudio/) | A collection of tools to easily generate assets such as launcher icons for your Android app.
 
 ## Desktop Tools 🖥
 
