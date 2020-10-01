@@ -65,7 +65,7 @@ Web Tool | Description
 [W3Schools](https://www.w3schools.com/) | The world's largest website for web tutorials.
 [HTML Cleaner](https://html-cleaner.com) | Free HTML, CSS, and JavaScript beautifier.
 [Requestbin](https://requestbin.com) | Inspect HTTP events, webhooks, etc.
-[Postwoman](https://postwoman.io/) | Api request builder.
+[Hoppscotch](https://hoppscotch.io/) | Web based Api request builder with PWA and Chrome/Firefox extensions.
 [P5.js](https://p5js.org/) | A JS client-side library for creating graphic and interactive experiences, based on the core principles of Processing.
 [Heroku](https://heroku.com) | Build, run and deploy applications entirely in the cloud.
 [Firebase](https://firebase.google.com) | A Google SaaS backend solutions for cross-plataform applications
