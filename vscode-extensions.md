@@ -60,3 +60,4 @@ Extension | Description
 [Auto Import](https://marketplace.visualstudio.com/items?itemName=steoates.autoimport) | Automatically finds, parses and provides code actions and code completion for all available imports. Works with Typescript and TSX.
 [Aural Coding (Keyboard sounds)](https://marketplace.visualstudio.com/items?itemName=jeng.aural-coding-vscode) | A Visual Studio Code extension that creates sweet melodies based on what you type.
 [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) | An extension that integrates ESLint into VS Code.
+[Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) | Launch a development local Server with live reload feature for static & dynamic pages.
