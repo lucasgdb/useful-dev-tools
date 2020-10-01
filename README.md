@@ -95,8 +95,10 @@ Web Tool | Description
 [XML Viewer](https://codebeautify.org/xmlviewer#) | Beautify XML files
 [NimbleText](https://nimbletext.com/Live) | NimbleText is a text manipulation and code generation tool. It generates text from a pattern and some input values
 [BASE64 Decode and Encode](https://www.base64decode.org/) | Encode/Decode BASE64 strings or files
-
-
+[Glitch](https://glitch.com/) | Build fast, full-stack web apps in your browser with instant hosting, automated deployment, and live help from community members.
+[Android Asset Studio](http://romannurik.github.io/AndroidAssetStudio/) | A collection of tools to easily generate assets such as launcher icons for your Android app.
+[CSS Separator Generator](https://wweb.dev/resources/css-separator-generator) | A generator for section separators.
+[Color Shades Generator](https://javisperez.github.io/tailwindcolorshades/#/) | Color Shades Generator for Tailwind CSS.
 
 ## Desktop Tools 🖥
 
@@ -152,3 +154,4 @@ Desktop Tool | Description
 [MobaXterm](https://mobaxterm.mobatek.net/) | Free X server for Windows with tabbed SSH terminal, telnet, RDP, VNC, Xdmcp, Mosh and X11-forwarding.
 [ngrok](https://ngrok.com/) | ngrok secure introspectable tunnels to localhost webhook development tool and debugging tool.
 [Genymotion Android Emulator](https://www.genymotion.com/) | Cross-platform Android emulator for developers & QA engineers. Develop & automate your tests to deliver best quality apps. On desktop, AWS, GCP & SaaS.
+[ClickUp](https://clickup.com/) | All your work in one place: Tasks, docs, chat, goals, & more
