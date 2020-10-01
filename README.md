@@ -155,6 +155,8 @@ Desktop Tool | Description
 [MobaXterm](https://mobaxterm.mobatek.net/) | Free X server for Windows with tabbed SSH terminal, telnet, RDP, VNC, Xdmcp, Mosh and X11-forwarding.
 [ngrok](https://ngrok.com/) | ngrok secure introspectable tunnels to localhost webhook development tool and debugging tool.
 [Genymotion Android Emulator](https://www.genymotion.com/) | Cross-platform Android emulator for developers & QA engineers. Develop & automate your tests to deliver best quality apps. On desktop, AWS, GCP & SaaS.
+[ClickUp](https://clickup.com/) | All your work in one place: Tasks, docs, chat, goals, & more
+[IntelliJ IDEA](https://www.jetbrains.com/idea/) | Integrated Development Environment (IDE) for JVM.
+[Android Studio](https://developer.android.com/studio) | Android Studio is the official Integrated Development Environment (IDE) for Android app development, based on IntelliJ IDEA.
 [PuTTY](https://www.putty.org/) | PuTTY is a free and open-source terminal emulator, serial console and network file transfer application. It supports several network protocols, including SCP, SSH, Telnet, rlogin, and raw socket connection.
 [WinsCP](https://winscp.net/) | WinSCP is a free and open-source SFTP, FTP, WebDAV, Amazon S3 and SCP client for Microsoft Windows.
-[ClickUp](https://clickup.com/) | All your work in one place: Tasks, docs, chat, goals, & more
