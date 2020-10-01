@@ -102,6 +102,8 @@ Web Tool | Description
 [Color Shades Generator](https://javisperez.github.io/tailwindcolorshades/#/) | Color Shades Generator for Tailwind CSS.
 [cron-job.org](https://cron-job.org/en/) | Free Cron job scheduler.
 [Crontab guru](https://crontab.guru/) | A cron expression generator.
+[DiffNow](https://www.diffnow.com/) | Very useful for comparing codes, files, folders or urls.
+
 
 ## Desktop Tools 🖥
 
