@@ -144,3 +144,4 @@ Desktop Tool | Description
 [MobaXterm](https://mobaxterm.mobatek.net/) | Free X server for Windows with tabbed SSH terminal, telnet, RDP, VNC, Xdmcp, Mosh and X11-forwarding.
 [ngrok](https://ngrok.com/) | ngrok secure introspectable tunnels to localhost webhook development tool and debugging tool.
 [Genymotion Android Emulator](https://www.genymotion.com/) | Cross-platform Android emulator for developers & QA engineers. Develop & automate your tests to deliver best quality apps. On desktop, AWS, GCP & SaaS.
+[ClickUp](https://clickup.com/) | All your work in one place: Tasks, docs, chat, goals, & more
