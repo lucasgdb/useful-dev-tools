@@ -91,6 +91,7 @@ Web Tool | Description
 [Hackmd](https://hackmd.io/) | Real time, multi-platform, collaborative markdown knowledge base. You can write markdown file together with other people :)
 [Android Asset Studio](http://romannurik.github.io/AndroidAssetStudio/) | A collection of tools to easily generate assets such as launcher icons for your Android app.
 [CSS Separator Generator](https://wweb.dev/resources/css-separator-generator) | A generator for section separators.
+[Color Shades Generator](https://javisperez.github.io/tailwindcolorshades/#/) | Color Shades Generator for Tailwind CSS.
 
 ## Desktop Tools 🖥
 
