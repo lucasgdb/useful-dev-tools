@@ -103,6 +103,7 @@ Web Tool | Description
 [cron-job.org](https://cron-job.org/en/) | Free Cron job scheduler.
 [Crontab guru](https://crontab.guru/) | A cron expression generator.
 [DiffNow](https://www.diffnow.com/) | Very useful for comparing codes, files, folders or urls.
+[4Devs](https://www.4devs.com.br/) | Personal data generator and validator. Very useful mainly for Brazilians due to CPF, CEP, CNPJ and others.
 
 
 ## Desktop Tools 🖥
