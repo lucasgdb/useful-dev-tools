@@ -89,10 +89,24 @@ Web Tool | Description
 [ASCII Art Generator](https://www.ascii-art-generator.org/) | This free online Ascii Art creator allows you to convert images to color or monochrome Ascii Art.
 [Screenshot.rocks](https://screenshot.rocks/) | Create beautiful browser mockups in seconds
 [Hackmd](https://hackmd.io/) | Real time, multi-platform, collaborative markdown knowledge base. You can write markdown file together with other people :)
+[Azure DevOps Services](https://azure.microsoft.com/pt-br/services/devops/) | A full solution for managing projects, including git and pipelines.
+[JSON Utils](https://jsonutils.com/) | Convert JSON to C#, VB.NET, JavaScript, Java, PHP and TypeScript classes
+[Tabs to Spaces](https://tabstospaces.com/) | Convert tabs to spaces. As simple as it sounds
+[Epoch Converter](https://www.epochconverter.com/) | Convert epoch to human-readable dates and viceversa
+[XML Viewer](https://codebeautify.org/xmlviewer#) | Beautify XML files
+[NimbleText](https://nimbletext.com/Live) | NimbleText is a text manipulation and code generation tool. It generates text from a pattern and some input values
+[BASE64 Decode and Encode](https://www.base64decode.org/) | Encode/Decode BASE64 strings or files
+[Glitch](https://glitch.com/) | Build fast, full-stack web apps in your browser with instant hosting, automated deployment, and live help from community members.
 [Android Asset Studio](http://romannurik.github.io/AndroidAssetStudio/) | A collection of tools to easily generate assets such as launcher icons for your Android app.
 [CSS Separator Generator](https://wweb.dev/resources/css-separator-generator) | A generator for section separators.
 [Color Shades Generator](https://javisperez.github.io/tailwindcolorshades/#/) | Color Shades Generator for Tailwind CSS.
 [Canva](https://www.canva.com/) | Canva is a graphic design platform that allows users to create social media graphics, presentations, posters, logos, documents and other visual content.
+[cron-job.org](https://cron-job.org/en/) | Free Cron job scheduler.
+[Crontab guru](https://crontab.guru/) | A cron expression generator.
+[DiffNow](https://www.diffnow.com/) | Very useful for comparing codes, files, folders or urls.
+
+
+
 ## Desktop Tools 🖥
 
 Desktop Tool | Description
@@ -148,3 +162,8 @@ Desktop Tool | Description
 [ngrok](https://ngrok.com/) | ngrok secure introspectable tunnels to localhost webhook development tool and debugging tool.
 [Genymotion Android Emulator](https://www.genymotion.com/) | Cross-platform Android emulator for developers & QA engineers. Develop & automate your tests to deliver best quality apps. On desktop, AWS, GCP & SaaS.
 [ClickUp](https://clickup.com/) | All your work in one place: Tasks, docs, chat, goals, & more
+[IntelliJ IDEA](https://www.jetbrains.com/idea/) | Integrated Development Environment (IDE) for JVM.
+[Android Studio](https://developer.android.com/studio) | Android Studio is the official Integrated Development Environment (IDE) for Android app development, based on IntelliJ IDEA.
+[PuTTY](https://www.putty.org/) | PuTTY is a free and open-source terminal emulator, serial console and network file transfer application. It supports several network protocols, including SCP, SSH, Telnet, rlogin, and raw socket connection.
+[WinsCP](https://winscp.net/) | WinSCP is a free and open-source SFTP, FTP, WebDAV, Amazon S3 and SCP client for Microsoft Windows.
+
