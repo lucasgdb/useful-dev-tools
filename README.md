@@ -103,6 +103,7 @@ Web Tool | Description
 [cron-job.org](https://cron-job.org/en/) | Free Cron job scheduler.
 [Crontab guru](https://crontab.guru/) | A cron expression generator.
 [DiffNow](https://www.diffnow.com/) | Very useful for comparing codes, files, folders or urls.
+[Vercel](https://vercel.com/) | Build and deploy apps with 30+ JAMSTACK frameworks.
 
 
 ## Desktop Tools 🖥
