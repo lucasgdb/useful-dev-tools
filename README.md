@@ -164,3 +164,5 @@ Desktop Tool | Description
 [Android Studio](https://developer.android.com/studio) | Android Studio is the official Integrated Development Environment (IDE) for Android app development, based on IntelliJ IDEA.
 [PuTTY](https://www.putty.org/) | PuTTY is a free and open-source terminal emulator, serial console and network file transfer application. It supports several network protocols, including SCP, SSH, Telnet, rlogin, and raw socket connection.
 [WinsCP](https://winscp.net/) | WinSCP is a free and open-source SFTP, FTP, WebDAV, Amazon S3 and SCP client for Microsoft Windows.
+[Postbird](https://www.electronjs.org/apps/postbird) | App to graphically manage your PostgreSQL BDs 
+[Typora](https://typora.io/) | Typora is a great program for reading and writing MarkDown files. 

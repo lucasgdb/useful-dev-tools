@@ -19,3 +19,4 @@ Command | Description
 `git push origin <your-branch-name>` | for pushing your changes to your github repo clone
 `npx add-gitignore` | for adding a git ignore file to your project for a specific language
 `git branch` | for listing, creating, or deleting branches.
+`git pull origin <branch-name>` | downloads the most recent changes to a branch (very useful when working as a team) 
