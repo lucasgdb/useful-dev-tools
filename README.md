@@ -100,10 +100,12 @@ Web Tool | Description
 [Android Asset Studio](http://romannurik.github.io/AndroidAssetStudio/) | A collection of tools to easily generate assets such as launcher icons for your Android app.
 [CSS Separator Generator](https://wweb.dev/resources/css-separator-generator) | A generator for section separators.
 [Color Shades Generator](https://javisperez.github.io/tailwindcolorshades/#/) | Color Shades Generator for Tailwind CSS.
+[Canva](https://www.canva.com/) | Canva is a graphic design platform that allows users to create social media graphics, presentations, posters, logos, documents and other visual content.
 [cron-job.org](https://cron-job.org/en/) | Free Cron job scheduler.
 [Crontab guru](https://crontab.guru/) | A cron expression generator.
 [DiffNow](https://www.diffnow.com/) | Very useful for comparing codes, files, folders or urls.
 [4Devs](https://www.4devs.com.br/) | Personal data generator and validator. Very useful mainly for Brazilians due to CPF, CEP, CNPJ and others.
+
 
 
 ## Desktop Tools 🖥
@@ -165,3 +167,4 @@ Desktop Tool | Description
 [Android Studio](https://developer.android.com/studio) | Android Studio is the official Integrated Development Environment (IDE) for Android app development, based on IntelliJ IDEA.
 [PuTTY](https://www.putty.org/) | PuTTY is a free and open-source terminal emulator, serial console and network file transfer application. It supports several network protocols, including SCP, SSH, Telnet, rlogin, and raw socket connection.
 [WinsCP](https://winscp.net/) | WinSCP is a free and open-source SFTP, FTP, WebDAV, Amazon S3 and SCP client for Microsoft Windows.
+
