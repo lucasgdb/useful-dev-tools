@@ -25,10 +25,12 @@ Extension | Description
 [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint) | Markdown linting and style checking for Visual Studio Code.
 [Glassit-VSC](https://marketplace.visualstudio.com/items?itemName=s-nlf-fh.glassit) | A VSCode Extension to set window to transparent on Windows platform.
 [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) | Useful for viewing commit history for the specific files, line. Comparing the current changes with previous commit and view the last change time when clicking on the specific line.
+[GitHub Pull Requests and Issues](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github) | This extension allows you to review and manage GitHub pull requests and issues in Visual Studio Code.
 [Swagger Viewer](https://marketplace.visualstudio.com/items?itemName=Arjun.swagger-viewer) | Allows you to display Swagger / OpenAPI specifications written in YAML or JSON in a user-friendly and interactive HTML format
 [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer) | This extension allows matching brackets to be identified with colours. The user can define which characters to match, and which colours to use.
 [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur) | This extension is useful for Vue.js development. It brings a lot of functionalities like formatting, Emmet, code snippets, linking and errors checking, debugging or highlighting the syntax
 [JavaScript (ES6)](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets) | This is very useful visual code extention or snippet for javascript developers especially who writes code in ES6.
+[C/C++](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools) | This is very useful visual code extention  for C or C++ either for competitive coders or developers.
 [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost) | This extension Display import/require package size in the editor.
 [Scala Syntax (Official)](https://marketplace.visualstudio.com/items?itemName=scala-lang.scala) | Visual Studio Code extension for syntax highlighting Scala sources.
 [:emojisense:](https://marketplace.visualstudio.com/items?itemName=bierner.emojisense) | Adds suggestions and autocomplete for emoji to VS Code.
