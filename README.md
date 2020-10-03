@@ -14,6 +14,9 @@ Some of the tools below helped me a lot when I needed it. Feel free to add more 
 
 Web Tool | Description
 ---| ----
+[Color Hunt](https://colorhunt.co/) | Color Hunt is a free and open platform for color inspiration with thousands of trendy hand-picked color palettes.
+[The Noun Project](https://thenounproject.com/) | Icons and Photos For Everything.
+[Taskade](https://www.taskade.com/) | All-in-One Collaboration. Chat, Organize, Get Things Done.
 [Codeclimate](https://codeclimate.com/) | Online code quality metrics analyzer
 [KeyCode Info](https://keycode.info/) | Easy visualizer for JavaScript KeyCodes.
 [Carbon](https://carbon.now.sh) | Create and share beautiful images of your source code.
@@ -114,6 +117,7 @@ Web Tool | Description
 
 Desktop Tool | Description
 ---| ----
+[GNU Emacs](https://www.gnu.org/software/emacs/) | An extensible, customizable, free/libre text editor — and more.
 [VSCode](https://code.visualstudio.com/) | A rich text-editor by Microsoft to improve your workflow. (I love it <3)
 [VSCodium](https://code.vscodium.com/) | Open Source Binaries of VSCode.
 [Sublime Text](https://www.sublimetext.com/) | A sophisticated text editor for code, markup and prose.
