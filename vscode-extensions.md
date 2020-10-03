@@ -67,3 +67,4 @@ Extension | Description
 [Node.js Exec](https://marketplace.visualstudio.com/items?itemName=miramac.vscode-exec-node) | Execute the current file or your selected code with node.js.
 [SQLite](https://marketplace.visualstudio.com/items?itemName=alexcvzz.vscode-sqlite) | VSCode extension to explore and query SQLite databases.
 [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight) | This extension styles css/web colors found in your document.
+[MongoDB](https://marketplace.visualstudio.com/items?itemName=mongodb.mongodb-vscode) | Connect to MongoDB and Atlas directly from your VS Code environment, navigate your databases and collections, inspect your schema and use playgrounds to prototype queries and aggregations.

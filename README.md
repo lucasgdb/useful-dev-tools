@@ -16,6 +16,7 @@ Web Tool | Description
 ---| ----
 [KeyCode Info](https://keycode.info/) | Easy visualizer for JavaScript KeyCodes.
 [Carbon](https://carbon.now.sh) | Create and share beautiful images of your source code.
+[CodeAbbey](https://www.codeabbey.com/) | Website that contains collection of programming problems to practice solving, learn to program and code, and win certificates.
 [Shield.io](https://shields.io/) | Create beautiful badges for your markdown document.
 [DevHints](https://devhints.io/) | Rico's cheat sheets.
 [Netlify](https://www.netlify.com/) | Build, deploy, and manage modern web projects.
@@ -100,10 +101,12 @@ Web Tool | Description
 [Android Asset Studio](http://romannurik.github.io/AndroidAssetStudio/) | A collection of tools to easily generate assets such as launcher icons for your Android app.
 [CSS Separator Generator](https://wweb.dev/resources/css-separator-generator) | A generator for section separators.
 [Color Shades Generator](https://javisperez.github.io/tailwindcolorshades/#/) | Color Shades Generator for Tailwind CSS.
+[Canva](https://www.canva.com/) | Canva is a graphic design platform that allows users to create social media graphics, presentations, posters, logos, documents and other visual content.
 [cron-job.org](https://cron-job.org/en/) | Free Cron job scheduler.
 [Crontab guru](https://crontab.guru/) | A cron expression generator.
 [DiffNow](https://www.diffnow.com/) | Very useful for comparing codes, files, folders or urls.
-
+[Vercel](https://vercel.com/) | Build and deploy apps with 30+ JAMSTACK frameworks.
+[4Devs](https://www.4devs.com.br/) | Personal data generator and validator. Very useful mainly for Brazilians due to CPF, CEP, CNPJ and others.
 
 ## Desktop Tools 🖥
 
