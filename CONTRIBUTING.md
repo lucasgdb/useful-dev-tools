@@ -11,6 +11,7 @@
   - `git branch new-branch`
   - `git switch new-branch`
 - make the new changes.
+  - when making changes in the lists please be aware to insert new items in alphabetical order.
 - `git add .`
 - `git commit -m "added new tools and vscode extensions"` (example)
 - `git push origin new-branch`
