@@ -25,6 +25,7 @@ Extension | Description
 [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint) | Markdown linting and style checking for Visual Studio Code.
 [Glassit-VSC](https://marketplace.visualstudio.com/items?itemName=s-nlf-fh.glassit) | A VSCode Extension to set window to transparent on Windows platform.
 [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) | Useful for viewing commit history for the specific files, line. Comparing the current changes with previous commit and view the last change time when clicking on the specific line.
+[GitHub Pull Requests and Issues](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github) | This extension allows you to review and manage GitHub pull requests and issues in Visual Studio Code.
 [Swagger Viewer](https://marketplace.visualstudio.com/items?itemName=Arjun.swagger-viewer) | Allows you to display Swagger / OpenAPI specifications written in YAML or JSON in a user-friendly and interactive HTML format
 [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer) | This extension allows matching brackets to be identified with colours. The user can define which characters to match, and which colours to use.
 [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur) | This extension is useful for Vue.js development. It brings a lot of functionalities like formatting, Emmet, code snippets, linking and errors checking, debugging or highlighting the syntax
