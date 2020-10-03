@@ -16,6 +16,7 @@ Web Tool | Description
 ---| ----
 [KeyCode Info](https://keycode.info/) | Easy visualizer for JavaScript KeyCodes.
 [Carbon](https://carbon.now.sh) | Create and share beautiful images of your source code.
+[CodeAbbey](https://www.codeabbey.com/) | Website that contains collection of programming problems to practice solving, learn to program and code, and win certificates.
 [Shield.io](https://shields.io/) | Create beautiful badges for your markdown document.
 [DevHints](https://devhints.io/) | Rico's cheat sheets.
 [Netlify](https://www.netlify.com/) | Build, deploy, and manage modern web projects.
