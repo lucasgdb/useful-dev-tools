@@ -112,6 +112,7 @@ Web Tool | Description
 [DiffNow](https://www.diffnow.com/) | Very useful for comparing codes, files, folders or urls.
 [Vercel](https://vercel.com/) | Build and deploy apps with 30+ JAMSTACK frameworks.
 [4Devs](https://www.4devs.com.br/) | Personal data generator and validator. Very useful mainly for Brazilians due to CPF, CEP, CNPJ and others.
+[Web Developer Chrome Extension](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm) | A Google Chrome extension that adds a toolbar button to the browser with various web developer tools.
 
 ## Desktop Tools 🖥
 
