@@ -32,12 +32,14 @@ Web Tool | Description
 [Carbon](https://carbon.now.sh) | Create and share beautiful images of your source code.
 [Choose an License](https://choosealicense.com/) | An open source license protects contributors and users. Businesses and savvy developers won’t touch a project without this protection.
 [CodeAbbey](https://www.codeabbey.com/) | Website that contains collection of programming problems to practice solving, learn to program and code, and win certificates.
+[Codeclimate](https://codeclimate.com/) | Online code quality metrics analyzer
 [CodeKit](https://codekitapp.com/) | Using this tool, web app development work can be done faster as it minifies, combines and syntax-checks JavaScript.
 [CodePen](https://codepen.io) | Online community for testing and sharing HTML, CSS and JavaScript code snippets.
 [Color Hunt](https://colorhunt.co/) | Color Hunt is a free and open platform for color inspiration with thousands of trendy hand-picked color palettes.
 [ColorZilla](https://www.colorzilla.com) | Advanced Eyedropper, Color Picker, Gradient Generator.
 [Conventional Commits](https://www.conventionalcommits.org) | A lightweight convention on top of commit messages.
 [Convertio](https://convertio.co/jpeg-pdf/) | "Convertio" is an easy free file format converter that can help you create PNG, JPEG and PDF files.
+[Coolors](https://coolors.co/) | The super fast color schemes generator! Create the perfect palette or get inspired by thousands of beautiful color schemes.
 [cron-job.org](https://cron-job.org/en/) | Free Cron job scheduler.
 [Crontab guru](https://crontab.guru/) | A cron expression generator.
 [CSS Compressor](https://csscompressor.com/) | Use CSS Compressor to compress CSS (CSS 1, CSS 2, CSS 2.1 & CSS 3) to reduce CSS code size and make your website load faster.
