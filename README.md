@@ -102,6 +102,7 @@ Web Tool | Description
 [Android Asset Studio](http://romannurik.github.io/AndroidAssetStudio/) | A collection of tools to easily generate assets such as launcher icons for your Android app.
 [CSS Separator Generator](https://wweb.dev/resources/css-separator-generator) | A generator for section separators.
 [Color Shades Generator](https://javisperez.github.io/tailwindcolorshades/#/) | Color Shades Generator for Tailwind CSS.
+[Coolors](https://coolors.co/) | The super fast color schemes generator! Create the perfect palette or get inspired by thousands of beautiful color schemes.
 [Canva](https://www.canva.com/) | Canva is a graphic design platform that allows users to create social media graphics, presentations, posters, logos, documents and other visual content.
 [cron-job.org](https://cron-job.org/en/) | Free Cron job scheduler.
 [Crontab guru](https://crontab.guru/) | A cron expression generator.
