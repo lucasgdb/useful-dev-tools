@@ -176,3 +176,4 @@ Desktop Tool | Description
 [WinsCP](https://winscp.net/) | WinSCP is a free and open-source SFTP, FTP, WebDAV, Amazon S3 and SCP client for Microsoft Windows.
 [Postbird](https://www.electronjs.org/apps/postbird) | App to graphically manage your PostgreSQL BDs 
 [Typora](https://typora.io/) | Typora is a great program for reading and writing MarkDown files. 
+[Lens](https://k8slens.dev/) | Lens is the only IDE you’ll ever need to take control of your Kubernetes clusters. It's open source and free.
