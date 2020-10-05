@@ -20,3 +20,4 @@ Command | Description
 `npx add-gitignore` | for adding a git ignore file to your project for a specific language
 `git branch` | for listing, creating, or deleting branches.
 `git pull origin <branch-name>` | downloads the most recent changes to a branch (very useful when working as a team) 
+`git merge <branch-name>` | merges branch-name into your current branch
