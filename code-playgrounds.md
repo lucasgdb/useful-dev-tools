@@ -23,4 +23,3 @@ Code Playground | Description
 [Trinket.io](https://trinket.io/) | Trinket is a website that allows you to create and test code without creating an account. Mainly it is used for python but they have other languages as well. **Features(examples, plans, tutorials)**
 [Postdrop.io](https://app.postdrop.io) | Postdrop. A simple tool to help developers with HTML email.
 [StackBlitz](https://stackblitz.com) | StackBlitz. A nice playground to create, edit & deploy fullstack apps. It supports JavaScript frameworks such as Angular, React, Ionic, TypeScript, Svelte, and RxJs.
-[Pexels](https://www.pexels.com) | Pexels. Free stock images, photos and videos.
