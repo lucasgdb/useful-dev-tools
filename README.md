@@ -180,3 +180,4 @@ Desktop Tool | Description
 [Peek](https://github.com/phw/peek) | App for recording screen areas, e.g. for easily showing UI features of your own apps or for showing a bug in bug reports. 
 [Typora](https://typora.io/) | Typora is a great program for reading and writing MarkDown files. 
 [Lens](https://k8slens.dev/) | Lens is the only IDE you’ll ever need to take control of your Kubernetes clusters. It's open source and free.
+[Flutter](https://flutter.dev/) | Flutter is Google’s UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase. It is free and open source. 
