@@ -125,65 +125,67 @@ Some of the tools below helped me a lot when I needed it. Feel free to add more 
 
 ## Desktop Tools 🖥
 
-| Desktop Tool                                               | Description                                                                                                                                                                                                    |
-| ---------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [GNU Emacs](https://www.gnu.org/software/emacs/)           | An extensible, customizable, free/libre text editor — and more.                                                                                                                                                |
-| [VSCode](https://code.visualstudio.com/)                   | A rich text-editor by Microsoft to improve your workflow. (I love it <3)                                                                                                                                       |
-| [VSCodium](https://code.vscodium.com/)                     | Open Source Binaries of VSCode.                                                                                                                                                                                |
-| [Sublime Text](https://www.sublimetext.com/)               | A sophisticated text editor for code, markup and prose.                                                                                                                                                        |
-| [ATOM](https://atom.io/)                                   | A hackable text editor for the 21st Century.                                                                                                                                                                   |
-| [Insomnia](https://insomnia.rest/)                         | Debug APIs like a human, not a robot.                                                                                                                                                                          |
-| [Postman](https://www.getpostman.com/)                     | Postman Simplifies API Development.                                                                                                                                                                            |
-| [Zeit, Now](https://zeit.co/)                              | The Global Serverless Platform. (CLI)                                                                                                                                                                          |
-| [Agent Ransack](https://www.mythicsoft.com/agentransack/)  | Agent Ransack is a file search tool for finding files on your PC or network drives.                                                                                                                            |
-| [Fiddler](https://www.telerik.com/fiddler)                 | The web debugging proxy for any browser, system or platform.                                                                                                                                                   |
-| [Homebrew](https://brew.sh/)                               | The missing package manager for macOS (or Linux).                                                                                                                                                              |
-| [pgAdmin](http://postgresapp.com/)                         | A full-featured PostgreSQL install for MacOS.                                                                                                                                                                  |
-| [iTerm2](https://www.iterm2.com/)                          | A terminal emulator for macOS to replace Terminal.                                                                                                                                                             |
-| [Robo 3T](https://robomongo.org/)                          | A GUI for editing and viewing MongoDB Data.                                                                                                                                                                    |
-| [GitHub Desktop](https://desktop.github.com/)              | A GUI for GitHub.                                                                                                                                                                                              |
-| [CodeLobster](http://www.codelobster.com/)                 | It is a free as well as a convenient PHP IDE that is used to develop fully featured web applications.                                                                                                          |
-| [Datagrip](https://www.jetbrains.com/datagrip/)            | Database IDE with mostly databases compatibility.                                                                                                                                                              |
-| [vim](https://www.vim.org)                                 | Highly configurable text editor                                                                                                                                                                                |
-| [Chocolatey](https://chocolatey.org)                       | Software management automation for Windows that wraps installers, executables, zips, and scripts into compiled packages                                                                                        |
-| [Sourcetree](https://www.sourcetreeapp.com/)               | A Simple GIT UI for windows and mac                                                                                                                                                                            |
-| [Notepad++](https://notepad-plus-plus.org/downloads/)      | Text viewer in most languages, easier when you need to open faster code to check something.                                                                                                                    |
-| [Compare It!](https://www.grigsoft.com/wincmp3.htm)        | Compare texts, indicating the differences. Practical, light and fast.                                                                                                                                          |
-| [DBeaver](https://dbeaver.io)                              | Free multi-platform database tool for developers, SQL programmers, database administrators and analysts. Supports all popular databases: MySQL, PostgreSQL, SQLite, Oracle, DB2, SQL Server...                 |
-| [Git Kraken](https://www.gitkraken.com/)                   | Legendary Git Client for windows, mac and linux. Really practical and robust.                                                                                                                                  |
-| [Brackets](http://brackets.io/)                            | An open Source and Modern text editor for web design.                                                                                                                                                          |
-| [Termius](https://termius.com/)                            | A modern cross-plataform SSH/SFTP Client.                                                                                                                                                                      |
-| [Docker](https://docker.com)                               | Easily run local linux-based containers.                                                                                                                                                                       |
-| [Indri](https://www.lemurproject.org/indri.php)            | Tool for creating index and querying the index for any size dataset.                                                                                                                                           |
-| [OWASP ZAP](https://www.zaproxy.org/)                      | Useful open-source proxy tool for developing with security in mind.                                                                                                                                            |
-| [Toggl](https://www.toggl.com)                             | A smart and usefull time tracker for teams containing helpful integrations like with Github for all plans.                                                                                                     |
-| [Protege](https://protege.stanford.edu/)                   | Open source ontology editor and knowledge management system.                                                                                                                                                   |
-| [PyCharm](https://www.jetbrains.com/pycharm/)              | Integrated development environment (IDE) specifically for the Python language developed by JetBrains.                                                                                                          |
-| [VirtualBox](https://www.virtualbox.org/)                  | An open source virtualization product developed by Oracle.                                                                                                                                                     |
-| [RealVNC](https://www.realvnc.com/en/)                     | Tool to securely access remote desktop.                                                                                                                                                                        |
-| [HTTPie](https://httpie.org/)                              | A command line HTTP client, similar to cURL, but with a nicer output and syntax.                                                                                                                               |
-| [Arduino](https://www.arduino.cc)                          | Text-editor tools for make any robot or IoT.                                                                                                                                                                   |
-| [TablePlus](https://tableplus.com//)                       | Database management made easy. Modern, native, and friendly GUI tool for relational databases: MySQL, PostgreSQL, SQLite & more                                                                                |
-| [Wakatime](https://wakatime.com/)                          | Quantify your coding. Open source plugins for automatic programming metrics.                                                                                                                                   |
-| [uPyCraft](http://docs.dfrobot.com/upycraft/)              | IDE for programming Micropython in microntoller boards.                                                                                                                                                        |
-| [Mailspring](https://getmailspring.com/)                   | Powerful n' fancy cross-plataform mail client.                                                                                                                                                                 |
-| [Carbonize](https://www.dangercove.com/carbonize)          | Generate gorgeous, highly customizable images from your code snippets. Ready to save or share. (macOS client for Carbon)                                                                                       |
-| [Appium](http://appium.io/)                                | Appium is an open source test automation framework for use with native, hybrid and mobile web apps.                                                                                                            |
-| [Cypress.io](https://www.cypress.io/)                      | Fast, easy and reliable testing for anything that runs in a browser.                                                                                                                                           |
-| [ASCIinema](https://asciinema.org/)                        | Record and share your terminal sessions, the right way.                                                                                                                                                        |
-| [Dash](https://kapeli.com/dash)                            | API Documentation, Cheat sheets, Snippet manager with instant search everything for macOS                                                                                                                      |
-| [Burp Suite](https://portswigger.net/burp)                 | Burp Suite is a leading range of cybersecurity tools, brought to you by PortSwigger.                                                                                                                           |
-| [Apache JMeter](https://jmeter.apache.org/)                | The Apache JMeter™ application is open source software, a 100% pure Java application designed to load test functional behavior and measure performance.                                                        |
-| [Wireshark](https://www.wireshark.org/)                    | Wireshark is an open source, network protocol analyzer.                                                                                                                                                        |
-| [MobaXterm](https://mobaxterm.mobatek.net/)                | Free X server for Windows with tabbed SSH terminal, telnet, RDP, VNC, Xdmcp, Mosh and X11-forwarding.                                                                                                          |
-| [ngrok](https://ngrok.com/)                                | ngrok secure introspectable tunnels to localhost webhook development tool and debugging tool.                                                                                                                  |
-| [Genymotion Android Emulator](https://www.genymotion.com/) | Cross-platform Android emulator for developers & QA engineers. Develop & automate your tests to deliver best quality apps. On desktop, AWS, GCP & SaaS.                                                        |
-| [ClickUp](https://clickup.com/)                            | All your work in one place: Tasks, docs, chat, goals, & more                                                                                                                                                   |
-| [IntelliJ IDEA](https://www.jetbrains.com/idea/)           | Integrated Development Environment (IDE) for JVM.                                                                                                                                                              |
-| [Android Studio](https://developer.android.com/studio)     | Android Studio is the official Integrated Development Environment (IDE) for Android app development, based on IntelliJ IDEA.                                                                                   |
-| [PuTTY](https://www.putty.org/)                            | PuTTY is a free and open-source terminal emulator, serial console and network file transfer application. It supports several network protocols, including SCP, SSH, Telnet, rlogin, and raw socket connection. |
-| [WinsCP](https://winscp.net/)                              | WinSCP is a free and open-source SFTP, FTP, WebDAV, Amazon S3 and SCP client for Microsoft Windows.                                                                                                            |
-| [Postbird](https://www.electronjs.org/apps/postbird)       | App to graphically manage your PostgreSQL BDs                                                                                                                                                                  |
-| [Peek](https://github.com/phw/peek)                        | App for recording screen areas, e.g. for easily showing UI features of your own apps or for showing a bug in bug reports.                                                                                      |
-| [Typora](https://typora.io/)                               | Typora is a great program for reading and writing MarkDown files.                                                                                                                                              |
-| [Lens](https://k8slens.dev/)                               | Lens is the only IDE you’ll ever need to take control of your Kubernetes clusters. It's open source and free.                                                                                                  |
+Desktop Tool | Description
+---| ----
+[GNU Emacs](https://www.gnu.org/software/emacs/) | An extensible, customizable, free/libre text editor — and more.
+[VSCode](https://code.visualstudio.com/) | A rich text-editor by Microsoft to improve your workflow. (I love it <3)
+[VSCodium](https://code.vscodium.com/) | Open Source Binaries of VSCode.
+[Sublime Text](https://www.sublimetext.com/) | A sophisticated text editor for code, markup and prose.
+[ATOM](https://atom.io/) | A hackable text editor for the 21st Century.
+[Insomnia](https://insomnia.rest/) | Debug APIs like a human, not a robot.
+[Postman](https://www.getpostman.com/) | Postman Simplifies API Development.
+[Zeit, Now](https://zeit.co/) | The Global Serverless Platform. (CLI)
+[Agent Ransack](https://www.mythicsoft.com/agentransack/) | Agent Ransack is a file search tool for finding files on your PC or network drives.
+[Fiddler](https://www.telerik.com/fiddler) | The web debugging proxy for any browser, system or platform.
+[Homebrew](https://brew.sh/) | The missing package manager for macOS (or Linux).
+[pgAdmin](http://postgresapp.com/) | A full-featured PostgreSQL install for MacOS.
+[iTerm2](https://www.iterm2.com/) | A terminal emulator for macOS to replace Terminal.
+[Robo 3T](https://robomongo.org/) | A GUI for editing and viewing MongoDB Data.
+[GitHub Desktop](https://desktop.github.com/) | A GUI for GitHub.
+[CodeLobster](http://www.codelobster.com/) | It is a free as well as a convenient PHP IDE that is used to develop fully featured web applications.
+[Datagrip](https://www.jetbrains.com/datagrip/) | Database IDE with mostly databases compatibility.
+[vim](https://www.vim.org) | Highly configurable text editor
+[Chocolatey](https://chocolatey.org) | Software management automation for Windows that wraps installers, executables, zips, and scripts into compiled packages
+[Sourcetree](https://www.sourcetreeapp.com/) | A Simple GIT UI for windows and mac
+[Notepad++](https://notepad-plus-plus.org/downloads/) | Text viewer in most languages, easier when you need to open faster code to check something.
+[Compare It!](https://www.grigsoft.com/wincmp3.htm) | Compare texts, indicating the differences. Practical, light and fast.
+[DBeaver](https://dbeaver.io) | Free multi-platform database tool for developers, SQL programmers, database administrators and analysts. Supports all popular databases: MySQL, PostgreSQL, SQLite, Oracle, DB2, SQL Server...
+[Git Kraken](https://www.gitkraken.com/) | Legendary Git Client for windows, mac and linux. Really practical and robust.
+[Brackets](http://brackets.io/) | An open Source and Modern text editor for web design.
+[Termius](https://termius.com/) | A modern cross-plataform SSH/SFTP Client.
+[Docker](https://docker.com) | Easily run local linux-based containers.
+[Indri](https://www.lemurproject.org/indri.php) | Tool for creating index and querying the index for any size dataset.
+[OWASP ZAP](https://www.zaproxy.org/) | Useful open-source proxy tool for developing with security in mind.
+[Toggl](https://www.toggl.com) | A smart and usefull time tracker for teams containing helpful integrations like with Github for all plans.
+[Protege](https://protege.stanford.edu/) | Open source ontology editor and knowledge management system.
+[PyCharm](https://www.jetbrains.com/pycharm/) | Integrated development environment (IDE) specifically for the Python language developed by JetBrains.
+[VirtualBox](https://www.virtualbox.org/) | An open source virtualization product developed by Oracle.
+[RealVNC](https://www.realvnc.com/en/) | Tool to securely access remote desktop.
+[HTTPie](https://httpie.org/) | A command line HTTP client, similar to cURL, but with a nicer output and syntax.
+[Arduino](https://www.arduino.cc) | Text-editor tools for make any robot or IoT.
+[TablePlus](https://tableplus.com//) | Database management made easy. Modern, native, and friendly GUI tool for relational databases: MySQL, PostgreSQL, SQLite & more
+[Wakatime](https://wakatime.com/) | Quantify your coding. Open source plugins for automatic programming metrics.
+[uPyCraft](http://docs.dfrobot.com/upycraft/) | IDE for programming Micropython in microntoller boards.
+[Mailspring](https://getmailspring.com/) | Powerful n' fancy cross-plataform mail client.
+[Carbonize](https://www.dangercove.com/carbonize) | Generate gorgeous, highly customizable images from your code snippets. Ready to save or share. (macOS client for Carbon)
+[Appium](http://appium.io/) | Appium is an open source test automation framework for use with native, hybrid and mobile web apps.
+[Cypress.io](https://www.cypress.io/) | Fast, easy and reliable testing for anything that runs in a browser.
+[ASCIinema](https://asciinema.org/) | Record and share your terminal sessions, the right way.
+[Dash](https://kapeli.com/dash) | API Documentation, Cheat sheets, Snippet manager with instant search everything for macOS
+[Burp Suite](https://portswigger.net/burp) | Burp Suite is a leading range of cybersecurity tools, brought to you by PortSwigger.
+[Apache JMeter](https://jmeter.apache.org/) | The Apache JMeter™ application is open source software, a 100% pure Java application designed to load test functional behavior and measure performance.
+[Wireshark](https://www.wireshark.org/) | Wireshark is an open source, network protocol analyzer.
+[MobaXterm](https://mobaxterm.mobatek.net/) | Free X server for Windows with tabbed SSH terminal, telnet, RDP, VNC, Xdmcp, Mosh and X11-forwarding.
+[ngrok](https://ngrok.com/) | ngrok secure introspectable tunnels to localhost webhook development tool and debugging tool.
+[Genymotion Android Emulator](https://www.genymotion.com/) | Cross-platform Android emulator for developers & QA engineers. Develop & automate your tests to deliver best quality apps. On desktop, AWS, GCP & SaaS.
+[ClickUp](https://clickup.com/) | All your work in one place: Tasks, docs, chat, goals, & more
+[IntelliJ IDEA](https://www.jetbrains.com/idea/) | Integrated Development Environment (IDE) for JVM.
+[Android Studio](https://developer.android.com/studio) | Android Studio is the official Integrated Development Environment (IDE) for Android app development, based on IntelliJ IDEA.
+[PuTTY](https://www.putty.org/) | PuTTY is a free and open-source terminal emulator, serial console and network file transfer application. It supports several network protocols, including SCP, SSH, Telnet, rlogin, and raw socket connection.
+[WinsCP](https://winscp.net/) | WinSCP is a free and open-source SFTP, FTP, WebDAV, Amazon S3 and SCP client for Microsoft Windows.
+[Postbird](https://www.electronjs.org/apps/postbird) | App to graphically manage your PostgreSQL BDs 
+[Peek](https://github.com/phw/peek) | App for recording screen areas, e.g. for easily showing UI features of your own apps or for showing a bug in bug reports. 
+[Typora](https://typora.io/) | Typora is a great program for reading and writing MarkDown files. 
+[Lens](https://k8slens.dev/) | Lens is the only IDE you’ll ever need to take control of your Kubernetes clusters. It's open source and free.
+[Flutter](https://flutter.dev/) | Flutter is Google’s UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase. It is free and open source. 
+[Pexels](https://www.pexels.com) | Pexels. Free stock images, photos and videos.
