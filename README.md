@@ -14,6 +14,14 @@ Some of the tools below helped me a lot when I needed it. Feel free to add more 
 
 Web Tool | Description
 ---| ----
+[Coolors](https://coolors.co/) | The super fast color schemes generator.
+[Boxicons](https://boxicons.com/) | High Quality Web Icons Set.
+[JSHint](https://jshint.com/) | A tool that helps to detect errors and potential problems in your JavaScript code.
+[Pesticide for Chrome](https://chrome.google.com/webstore/detail/pesticide-for-chrome-with/eipbgplchlidkojmppclhkechkhmlefi/related) | Inserts the Pesticide CSS into the current page, outlining each element to better see placement on the page.
+[React DevTools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) | Extension to add react developer tools to Google chrome.
+[REdux DevTools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd) | Extension to add redux developer tools to Google chrome.
+[Vue.js DevTools](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd) | Extension to add VueJs developer tools to Google chrome.
+[Color Hunt](https://colorhunt.co/) | Color Hunt is a free and open platform for color inspiration with thousands of trendy hand-picked color palettes.
 [Color Hunt](https://colorhunt.co/) | Color Hunt is a free and open platform for color inspiration with thousands of trendy hand-picked color palettes.
 [The Noun Project](https://thenounproject.com/) | Icons and Photos For Everything.
 [Taskade](https://www.taskade.com/) | All-in-One Collaboration. Chat, Organize, Get Things Done.
