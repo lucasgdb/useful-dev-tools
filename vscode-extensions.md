@@ -84,3 +84,4 @@ Useful VSCode extensions pushed by the community. Please, submit a Pull Request 
 [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight) | This extension styles css/web colors found in your document.
 [MongoDB](https://marketplace.visualstudio.com/items?itemName=mongodb.mongodb-vscode) | Connect to MongoDB and Atlas directly from your VS Code environment, navigate your databases and collections, inspect your schema and use playgrounds to prototype queries and aggregations.
 [Code Time](https://marketplace.visualstudio.com/items?itemName=softwaredotcom.swdc-vscode) | Code Time is an open source plugin for automatic programming metrics and time tracking.
+[100 Days of Code](https://marketplace.visualstudio.com/items?itemName=softwaredotcom.swdc-100-days-of-code) | 100 Days of Code is a VS Code extension that helps you reach your goals and complete the #100DaysOfCode Challenge.
