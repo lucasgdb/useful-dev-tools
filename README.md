@@ -47,11 +47,11 @@ Tool | Description
 [Azure DevOps Services](https://azure.microsoft.com/pt-br/services/devops/) | A full solution for managing projects, including git and pipelines.
 [DigitalOcean](https://www.digitalocean.com/) | It make it simple to launch in the cloud and scale up as you grow—whether you’re running one virtual machine or ten thousand.
 
-
 ### Data Testing / Converters / Generators
 Tool | Description
 ---  | ----
 [4Devs](https://www.4devs.com.br/) | Personal data generator and validator. Very useful mainly for Brazilians due to CPF, CEP, CNPJ and others.
+[Codeclimate](https://codeclimate.com/) | Online code quality metrics analyzer
 [cron-job.org](https://cron-job.org/en/) | Free Cron job scheduler.
 [Crontab guru](https://crontab.guru/) | A cron expression generator.
 [Epoch Converter](https://www.epochconverter.com/) | Convert epoch to human-readable dates and viceversa
@@ -60,6 +60,13 @@ Tool | Description
 [Regex101](https://regex101.com/) | Validator for regex.
 [Regexr](https://regexr.com/) | Regex parser
 [Wappalyzer](https://www.wappalyzer.com) | Identify technology used on websites.
+
+### Extensions 
+
+Tool | Description
+---  | ----
+[Fake Filler Chrome Extension](https://chrome.google.com/webstore/detail/fake-filler/bnjjngeaknajbdcgpfkgnonkmififhfo) | A Google Chrome extension that fills all input fields on a page with randomly generated fake data.
+[Web Developer Chrome Extension](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm) | A Google Chrome extension that adds a toolbar button to the browser with various web developer tools.
 
 ### Frontend
 
@@ -82,7 +89,7 @@ Tool | Description
 
 Tool | Description
 ---  | ----
-[Choose an License](https://choosealicense.com/) | An open source license protects contributors and users. Businesses and savvy developers won’t touch a project without this protection.
+[Choose a License](https://choosealicense.com/) | An open source license protects contributors and users. Businesses and savvy developers won’t touch a project without this protection.
 [Codeclimate](https://codeclimate.com/) | Online code quality metrics analyzer
 [Conventional Commits](https://www.conventionalcommits.org) | A lightweight convention on top of commit messages.
 [DiffNow](https://www.diffnow.com/) | Very useful for comparing codes, files, folders or urls.
@@ -90,6 +97,7 @@ Tool | Description
 [Gitignore.io](https://www.gitignore.io/) | Web service designed to help you create .gitignore files for your Git repositories.
 [Git Branching](https://learngitbranching.js.org/) | This app was developed to help beginners learning powerful concepts behind git branching. We hope you like this app and maybe even learn something! - Learn git by doing!
 [Git Explorer](https://gitexplorer.com/) | Find the right git commands without digging through the web.
+[Google Tables](https://tables.area120.google.com/about) | Tables helps teams easily track & automate tasks, enabling them to save time and work smarter.
 
 ### Learn / Study / Share / Communities
 
@@ -108,6 +116,7 @@ Tool | Description
 [DevHub](https://devhubapp.com/) | TweetDeck for GitHub. See repo activities and manage your notifications by creating columns with filters, saving items for later and more.
 [Notion](https://notion.so) | The all-in-one workspace for your notes, tasks, wikis, and databases.
 [Taiga](https://taiga.io/) | Taiga is a project management platform for agile developers & designers and project managers who want a beautiful tool that makes work truly enjoyable.
+[Taskade](https://www.taskade.com/) | All-in-One Collaboration. Chat, Organize, Get Things Done.
 [Trello](https://trello.com/en) | Trello’s boards, lists, and cards enable you to organize and prioritize your projects in a fun, flexible, and rewarding way.
 
 ### Markdown
@@ -152,6 +161,7 @@ Tool | Description
 [Big Text](https://coolsymbol.com/big-text-generator.html) | Convert text to big text as easy as you think.
 [Canva](https://www.canva.com/) | Canva is a graphic design platform that allows users to create social media graphics, presentations, posters, logos, documents and other visual content.
 [ColorZilla](https://www.colorzilla.com) | Advanced Eyedropper, Color Picker, Gradient Generator.
+[Color Hunt](https://colorhunt.co/) | Color Hunt is a free and open platform for color inspiration with thousands of trendy hand-picked color palettes.
 [Color Shades Generator](https://javisperez.github.io/tailwindcolorshades/#/) | Color Shades Generator for Tailwind CSS.
 [Coolors](https://coolors.co/) | The super fast color schemes generator! Create the perfect palette or get inspired by thousands of beautiful color schemes.
 [Convertio](https://convertio.co/jpeg-pdf/) | "Convertio" is an easy free file format converter that can help you create PNG, JPEG and PDF files.
@@ -160,10 +170,12 @@ Tool | Description
 [JPEG and PNG Compactor](https://compresspng.com/pt/) | Make photos faster. (Step 2)
 [JS Paint](https://jspaint.app/) | it's a web-based remake of MS Paint.
 [Paper Js](http://paperjs.org/) | An open source vector graphics scripting framework that runs on top of the HTML5 Canvas.
+[Pexels](https://www.pexels.com) | Pexels. Free stock images, photos and videos.
 [Photopea](https://www.photopea.com/) | A online image editor. Very Similar to photoshop.
 [Powtoon](https://www.powtoon.com/) | A video maker for presentations.
 [Screenshot.rocks](https://screenshot.rocks/) | Create beautiful browser mockups in seconds
 [svgomg](https://jakearchibald.github.io/svgomg/) | Web GUI for SVGO.
+[The Noun Project](https://thenounproject.com/) | Icons and Photos For Everything.
 [TinyPNG](https://tinypng.com/) | Smart PNG and JPEG compression.
 [Web Resizer](http://webresizer.com/resizer/) | Make photos faster. (Step 1)
 
@@ -206,6 +218,7 @@ Tool | Description
 [GitHub Desktop](https://desktop.github.com/) | A GUI for GitHub.
 [ngrok](https://ngrok.com/) | ngrok secure introspectable tunnels to localhost webhook development tool and debugging tool.
 [OWASP ZAP](https://www.zaproxy.org/) | Useful open-source proxy tool for developing with security in mind.
+[Peek](https://github.com/phw/peek) | App for recording screen areas, e.g. for easily showing UI features of your own apps or for showing a bug in bug reports. 
 [Sourcetree](https://www.sourcetreeapp.com/) | A Simple GIT UI for windows and mac
 [Wakatime](https://wakatime.com/) | Quantify your coding. Open source plugins for automatic programming metrics.
 [Wireshark](https://www.wireshark.org/) | Wireshark is an open source, network protocol analyzer.
@@ -219,6 +232,7 @@ Desktop Tool | Description
 [CodeLobster](http://www.codelobster.com/) | It is a free as well as a convenient PHP IDE that is used to develop fully featured web applications.
 [Genymotion Android Emulator](https://www.genymotion.com/) | Cross-platform Android emulator for developers & QA engineers. Develop & automate your tests to deliver best quality apps. On desktop, AWS, GCP & SaaS.
 [IntelliJ IDEA](https://www.jetbrains.com/idea/) | Integrated Development Environment (IDE) for JVM.
+[Lens](https://k8slens.dev/) | Lens is the only IDE you’ll ever need to take control of your Kubernetes clusters. It's open source and free.
 [Protege](https://protege.stanford.edu/) | Open source ontology editor and knowledge management system.
 [PyCharm](https://www.jetbrains.com/pycharm/) | Integrated development environment (IDE) specifically for the Python language developed by JetBrains.
 [uPyCraft](http://docs.dfrobot.com/upycraft/) | IDE for programming Micropython in microntoller boards.
@@ -231,6 +245,12 @@ Desktop Tool | Description
 ---| ----
 [ClickUp](https://clickup.com/) | All your work in one place: Tasks, docs, chat, goals, & more
 [Toggl](https://www.toggl.com) | A smart and usefull time tracker for teams containing helpful integrations like with Github for all plans.
+
+### Mobile
+
+Desktop Tool | Description
+---| ----
+[Flutter](https://flutter.dev/) | Flutter is Google’s UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase. It is free and open source. 
 
 ### Package / Software Management
 
@@ -256,9 +276,10 @@ Desktop Tool | Description
 ---| ----
 [Arduino](https://www.arduino.cc) | Text-editor tools for make any robot or IoT.
 [Brackets](http://brackets.io/) | An open Source and Modern text editor for web design.
-[vim](https://www.vim.org) | Highly configurable text editor
+[GNU Emacs](https://www.gnu.org/software/emacs/) | An extensible, customizable, free/libre text editor — and more.
 [Notepad++](https://notepad-plus-plus.org/downloads/) | Text viewer in most languages, easier when you need to open faster code to check something.
 [Sublime Text](https://www.sublimetext.com/) | A sophisticated text editor for code, markup and prose.
+[vim](https://www.vim.org) | Highly configurable text editor
 
 ### Utilities
 
@@ -274,23 +295,3 @@ Desktop Tool | Description
 [Typora](https://typora.io/) | Typora is a great program for reading and writing MarkDown files. 
 [VirtualBox](https://www.virtualbox.org/) | An open source virtualization product developed by Oracle.
 [WinsCP](https://winscp.net/) | WinSCP is a free and open-source SFTP, FTP, WebDAV, Amazon S3 and SCP client for Microsoft Windows.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
