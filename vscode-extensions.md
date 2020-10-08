@@ -86,3 +86,7 @@ Useful VSCode extensions pushed by the community. Please, submit a Pull Request 
 [Code Time](https://marketplace.visualstudio.com/items?itemName=softwaredotcom.swdc-vscode) | Code Time is an open source plugin for automatic programming metrics and time tracking.
 [100 Days of Code](https://marketplace.visualstudio.com/items?itemName=softwaredotcom.swdc-100-days-of-code) | 100 Days of Code is a VS Code extension that helps you reach your goals and complete the #100DaysOfCode Challenge.
 [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur) | linter, snippet, and auto-completion to help developer developing Vue.js web applications
+[Pink-Cat-Boo Theme](https://marketplace.visualstudio.com/items?itemName=ftsamoyed.theme-pink-cat-boo) | It is a cute theme for coder girls. The mainly colours are rose pink, light purple, banana yellow and sky blue.
+[Nyan the cat](https://marketplace.visualstudio.com/items?itemName=zhengrenzhe.nyan-cat)  | Put Nyan the cat in your status bar.
+[Open in browser](https://marketplace.visualstudio.com/items?itemName=techer.open-in-browser) | You can open your htlm work in the browser and see how it is.
+[Rest client] (https://marketplace.visualstudio.com/items?itemName=humao.rest-client) | It allows you to send all the HTTP request you need and view the response in your VS use to the work.
