@@ -17,8 +17,8 @@ Useful VSCode extensions pushed by the community. Please, submit a Pull Request 
 [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker) | The Docker extension makes it easy to build, manage, and deploy containerized applications from Visual Studio Code.
 [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) | The goal of this spell checker is to help catch common spelling errors while keeping the number of false positives low.
 [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments) | The Better Comments extension will help you create more human-friendly comments in your code.
-[TabNine](https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode) Advanced AI based autocomplete for all programming languages.
-[Peacock](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock) Subtly change the workspace color of your workspace.
+[TabNine](https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode) | Advanced AI based autocomplete for all programming languages.
+[Peacock](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock) | Subtly change the workspace color of your workspace.
 [ES7 React/Redux/GraphQL/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets) | Code snippets for JavaScript(ES6), React, Redux, GraphQL, React-Native.
 [Bracket Pair Visualizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2) | This will autohighlight matching brackets with the same colour to make it easier to identify multiple bracket pairs apart.
 [Auto-Save on Window Change](https://marketplace.visualstudio.com/items?itemName=mcright.auto-save) | This will auto-save code each time you switch windows; really useful for JS when switching from editor to browser window a lot.
@@ -89,4 +89,4 @@ Useful VSCode extensions pushed by the community. Please, submit a Pull Request 
 [Pink-Cat-Boo Theme](https://marketplace.visualstudio.com/items?itemName=ftsamoyed.theme-pink-cat-boo) | It is a cute theme for coder girls. The mainly colours are rose pink, light purple, banana yellow and sky blue.
 [Nyan the cat](https://marketplace.visualstudio.com/items?itemName=zhengrenzhe.nyan-cat)  | Put Nyan the cat in your status bar.
 [Open in browser](https://marketplace.visualstudio.com/items?itemName=techer.open-in-browser) | You can open your htlm work in the browser and see how it is.
-[Rest client] (https://marketplace.visualstudio.com/items?itemName=humao.rest-client) | It allows you to send all the HTTP request you need and view the response in your VS use to the work.
+[Rest client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client) | It allows you to send all the HTTP request you need and view the response in your VS use to the work.
