@@ -146,6 +146,8 @@ Desktop Tool | Description
 [CodeLobster](http://www.codelobster.com/) | It is a free as well as a convenient PHP IDE that is used to develop fully featured web applications.
 [Datagrip](https://www.jetbrains.com/datagrip/) | Database IDE with mostly databases compatibility.
 [vim](https://www.vim.org) | Highly configurable text editor
+[ohmyzsh](https://ohmyz.sh/) | A delightful, open source, community-driven framework for managing Zsh configuration
+[Tmux](https://github.com/tmux/tmux/wiki) | A terminal multiplexer which allows multiple terminal sessions to be accessed simultaneously
 [Chocolatey](https://chocolatey.org) | Software management automation for Windows that wraps installers, executables, zips, and scripts into compiled packages
 [Sourcetree](https://www.sourcetreeapp.com/) | A Simple GIT UI for windows and mac
 [Notepad++](https://notepad-plus-plus.org/downloads/) | Text viewer in most languages, easier when you need to open faster code to check something.
