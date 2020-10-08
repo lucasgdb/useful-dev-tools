@@ -155,6 +155,7 @@ Desktop Tool | Description
 [Brackets](http://brackets.io/) | An open Source and Modern text editor for web design.
 [Termius](https://termius.com/) | A modern cross-plataform SSH/SFTP Client.
 [Docker](https://docker.com) | Easily run local linux-based containers.
+[Docker Compose](https://docs.docker.com/compose/) | Tool for defining and running multi-container Docker applications.
 [Indri](https://www.lemurproject.org/indri.php) | Tool for creating index and querying the index for any size dataset.
 [OWASP ZAP](https://www.zaproxy.org/) | Useful open-source proxy tool for developing with security in mind.
 [Toggl](https://www.toggl.com) | A smart and usefull time tracker for teams containing helpful integrations like with Github for all plans.
