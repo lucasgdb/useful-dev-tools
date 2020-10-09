@@ -123,6 +123,7 @@ Web Tool | Description
 [Fake Filler Chrome Extension](https://chrome.google.com/webstore/detail/fake-filler/bnjjngeaknajbdcgpfkgnonkmififhfo) | A Google Chrome extension that fills all input fields on a page with randomly generated fake data.
 [Web Developer Chrome Extension](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm) | A Google Chrome extension that adds a toolbar button to the browser with various web developer tools.
 [Google Tables](https://tables.area120.google.com/about) | Tables helps teams easily track & automate tasks, enabling them to save time and work smarter.
+[Octotree Chrome Extension](https://www.octotree.io/) |  Octotree is loaded with features that make GitHub code review and exploration awesome. Make your GitHub Dark-Mode.
 
 ## Desktop Tools 🖥
 
