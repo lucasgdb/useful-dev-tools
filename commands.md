@@ -29,3 +29,4 @@ Command | Description
 `git stash` | Stores the current working changes so they can be restored at a later time if desired.
 `git stash pop` | Restores the most recently stashed changes.
 `git reset --hard` | Resets the current branch to the latest commit.
+`ssh <username>@<some address> (-p <port number>)` | Remotely connect to different server/computer for those that doesn't want to use additional file (e.g. PuTTY)

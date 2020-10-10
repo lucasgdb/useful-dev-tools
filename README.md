@@ -195,6 +195,8 @@ Desktop Tool | Description
 [Flutter](https://flutter.dev/) | Flutter is Google’s UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase. It is free and open source. 
 [Pexels](https://www.pexels.com) | Pexels. Free stock images, photos and videos.
 [WSL2](https://docs.microsoft.com/en-us/windows/wsl/) | Windows Subsystem for Linux allows you to run a Linux shell and run Linux commands on Windows 10.
+[Adobe XD](https://www.adobe.com/products/xd.html?ef_id=EAIaIQobChMI7qXd4u2p7AIVNz6tBh2Idw-OEAAYASAAEgJYXvD_BwE:G:s&s_kwcid=AL!3085!3!372875864628!b!!g!!!2075907083!76930640392) | UI/UX design tool that is good for making wireframe model for mobile and web app
+[Expo](https://expo.io/) | Mobile application development which can run JavaScript. Useful for React Native
 [GitHub CLI](https://cli.github.com/) | GitHub CLI brings GitHub to your terminal. Free and open source.
 [Icon8](https://icons8.com/app) | Icons8 allows designers to express their ideas giving the right design elements at the right time.
 [Principle](https://principleformac.com/) | Principle makes it easy to design animated and interactive user interfaces.
