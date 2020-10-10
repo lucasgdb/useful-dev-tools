@@ -123,6 +123,7 @@ Web Tool | Description
 [Fake Filler Chrome Extension](https://chrome.google.com/webstore/detail/fake-filler/bnjjngeaknajbdcgpfkgnonkmififhfo) | A Google Chrome extension that fills all input fields on a page with randomly generated fake data.
 [Web Developer Chrome Extension](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm) | A Google Chrome extension that adds a toolbar button to the browser with various web developer tools.
 [Google Tables](https://tables.area120.google.com/about) | Tables helps teams easily track & automate tasks, enabling them to save time and work smarter.
+[Octotree Chrome Extension](https://www.octotree.io/) |  Octotree is loaded with features that make GitHub code review and exploration awesome. Make your GitHub Dark-Mode.
 
 ## Desktop Tools 🖥
 
@@ -194,5 +195,9 @@ Desktop Tool | Description
 [Flutter](https://flutter.dev/) | Flutter is Google’s UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase. It is free and open source. 
 [Pexels](https://www.pexels.com) | Pexels. Free stock images, photos and videos.
 [WSL2](https://docs.microsoft.com/en-us/windows/wsl/) | Windows Subsystem for Linux allows you to run a Linux shell and run Linux commands on Windows 10.
+[GitHub CLI](https://cli.github.com/) | GitHub CLI brings GitHub to your terminal. Free and open source.
+[Icon8](https://icons8.com/app) | Icons8 allows designers to express their ideas giving the right design elements at the right time.
+[Principle](https://principleformac.com/) | Principle makes it easy to design animated and interactive user interfaces.
+[Alfred](https://www.alfredapp.com/) | Alfred is a productivity application for macOS, which boosts your efficiency with hotkeys, keywords and text expansion.
 [Eclipse](https://www.eclipse.org/ide/) | The Eclipse IDE is famous for Java Integrated Development Environment (IDE)
 [yEd](https://www.yworks.com/products/yed) | yEd is a powerful desktop application that can be used to quickly and effectively generate high-quality diagrams.
