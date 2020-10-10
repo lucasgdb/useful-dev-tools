@@ -199,3 +199,5 @@ Desktop Tool | Description
 [Icon8](https://icons8.com/app) | Icons8 allows designers to express their ideas giving the right design elements at the right time.
 [Principle](https://principleformac.com/) | Principle makes it easy to design animated and interactive user interfaces.
 [Alfred](https://www.alfredapp.com/) | Alfred is a productivity application for macOS, which boosts your efficiency with hotkeys, keywords and text expansion.
+[Eclipse](https://www.eclipse.org/ide/) | The Eclipse IDE is famous for Java Integrated Development Environment (IDE)
+[yEd](https://www.yworks.com/products/yed) | yEd is a powerful desktop application that can be used to quickly and effectively generate high-quality diagrams.
