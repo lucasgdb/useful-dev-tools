@@ -196,6 +196,6 @@ Desktop Tool | Description
 [Pexels](https://www.pexels.com) | Pexels. Free stock images, photos and videos.
 [WSL2](https://docs.microsoft.com/en-us/windows/wsl/) | Windows Subsystem for Linux allows you to run a Linux shell and run Linux commands on Windows 10.
 [GitHub CLI](https://cli.github.com/) | GitHub CLI brings GitHub to your terminal. Free and open source.
-[Icon8](https://icons8.com/) | Icons8 allows designers to express their ideas giving the right design elements at the right time.
+[Icon8](https://icons8.com/app) | Icons8 allows designers to express their ideas giving the right design elements at the right time.
 [Principle](https://principleformac.com/) | Principle makes it easy to design animated and interactive user interfaces.
 [Alfred](https://www.alfredapp.com/) | Alfred is a productivity application for macOS, which boosts your efficiency with hotkeys, keywords and text expansion.
