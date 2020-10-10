@@ -90,3 +90,4 @@ Useful VSCode extensions pushed by the community. Please, submit a Pull Request 
 [Nyan the cat](https://marketplace.visualstudio.com/items?itemName=zhengrenzhe.nyan-cat)  | Put Nyan the cat in your status bar.
 [Open in browser](https://marketplace.visualstudio.com/items?itemName=techer.open-in-browser) | You can open your htlm work in the browser and see how it is.
 [Rest client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client) | It allows you to send all the HTTP request you need and view the response in your VS use to the work.
+[Browser Preview](https://marketplace.visualstudio.com/items?itemName=auchenberg.vscode-browser-preview) | Browser Preview for VS Code enables you to open a real browser preview inside your editor that you can debug.
