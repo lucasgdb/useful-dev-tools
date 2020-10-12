@@ -22,7 +22,6 @@ Web Tool | Description
 [REdux DevTools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd) | Extension to add redux developer tools to Google chrome.
 [Vue.js DevTools](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd) | Extension to add VueJs developer tools to Google chrome.
 [Color Hunt](https://colorhunt.co/) | Color Hunt is a free and open platform for color inspiration with thousands of trendy hand-picked color palettes.
-[Color Hunt](https://colorhunt.co/) | Color Hunt is a free and open platform for color inspiration with thousands of trendy hand-picked color palettes.
 [The Noun Project](https://thenounproject.com/) | Icons and Photos For Everything.
 [Taskade](https://www.taskade.com/) | All-in-One Collaboration. Chat, Organize, Get Things Done.
 [Codeclimate](https://codeclimate.com/) | Online code quality metrics analyzer
