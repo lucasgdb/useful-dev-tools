@@ -94,3 +94,4 @@ Useful VSCode extensions pushed by the community. Please, submit a Pull Request 
 [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) | A plugin that autocompletes filenames. Intellisense will automatically fill or show suggestions as you try and type a path in quotations.
 [VSCode Styled Components](https://marketplace.visualstudio.com/items?itemName=jpoissonnier.vscode-styled-components) | Syntax highlighting for styled-components. Very useful to develop using styled-components.
 [Vuln Cost - Security Scanner](https://marketplace.visualstudio.com/items?itemName=snyk-security.vscode-vuln-cost) | Find security vulnerabilities in open source packages while you code in JavaScript, TypeScript and HTML.
+[Indented Block Highlighting](https://marketplace.visualstudio.com/items?itemName=byi8220.indented-block-highlighting) | Highlights lines of the block that has the indentation level of the cursor.
