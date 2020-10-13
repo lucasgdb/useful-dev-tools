@@ -126,6 +126,8 @@ Web Tool | Description
 [D3.js](https://d3js.org) | JavaScript library for manipulating documents based on data.
 [GeeksforGeeks](https://www.geeksforgeeks.org/) | A Computer Science portal for geeks. It contains well written computer science and programming articles, tutorials and implementations for most of the concepts of Software Engineering field.
 [DB-engines](https://db-engines.com/) | Ranks database management systems by popularity. Ranking criteria include number of search engine results, Stack Overflow discussions etc.
+[Codeforces](https://codeforces.com/) | Codeforces is a website that hosts competitive programming contests and helps you so much in Problem Solving.
+[LeetCode](https://leetcode.com/) | It's an amazing platform to help you enhance your skills and prepare for technical interviews.
 
 ## Desktop Tools 🖥
 
