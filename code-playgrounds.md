@@ -2,6 +2,7 @@
 
 - [Tools](README.md)
 - [VSCode Extensions](vscode-extensions.md)
+- [Chrome Extensions](chrome-extensions.md)
 - [Commands](commands.md)
 
 Useful code playgrounds pushed by the community. Please, submit a Pull Request or Open an issue for a useful code playground that you know.

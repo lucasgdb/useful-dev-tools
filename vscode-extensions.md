@@ -1,6 +1,7 @@
 # VSCode Extensions 🛠
 
 - [Tools](README.md)
+- [Chrome Extensions](chrome-extensions.md)
 - [Code Playgrounds](code-playgrounds.md)
 - [Commands](commands.md)
 
