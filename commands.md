@@ -19,3 +19,14 @@ Command | Description
 `git push origin <your-branch-name>` | for pushing your changes to your github repo clone
 `npx add-gitignore` | for adding a git ignore file to your project for a specific language
 `git branch` | for listing, creating, or deleting branches.
+`git pull origin <branch-name>` | downloads the most recent changes to a branch (very useful when working as a team) 
+`git merge <branch-name>` | merges branch-name into your current branch
+`git push --set-upstream <remote> <name-of-your-branch>` or `git push -u origin <branch_name>` | upload newly created branch to remote 
+`git log` | Show commit logs 
+`git show [ commit id ]` | This command is used to list the metadata for the specified commit 
+`git revert <commit id>` | Reverts changes made by specified commit 
+`git cherry-pick <commmit id(s)>` | This command will apply the changes of the listed git commit hashes in the current branch.
+`git stash` | Stores the current working changes so they can be restored at a later time if desired.
+`git stash pop` | Restores the most recently stashed changes.
+`git reset --hard` | Resets the current branch to the latest commit.
+`ssh <username>@<some address> (-p <port number>)` | Remotely connect to different server/computer for those that doesn't want to use additional file (e.g. PuTTY)

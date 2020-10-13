@@ -14,8 +14,20 @@ Some of the tools below helped me a lot when I needed it. Feel free to add more 
 
 Web Tool | Description
 ---| ----
+[Coolors](https://coolors.co/) | The super fast color schemes generator.
+[Boxicons](https://boxicons.com/) | High Quality Web Icons Set.
+[JSHint](https://jshint.com/) | A tool that helps to detect errors and potential problems in your JavaScript code.
+[Pesticide for Chrome](https://chrome.google.com/webstore/detail/pesticide-for-chrome-with/eipbgplchlidkojmppclhkechkhmlefi/related) | Inserts the Pesticide CSS into the current page, outlining each element to better see placement on the page.
+[React DevTools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) | Extension to add react developer tools to Google chrome.
+[REdux DevTools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd) | Extension to add redux developer tools to Google chrome.
+[Vue.js DevTools](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd) | Extension to add VueJs developer tools to Google chrome.
+[Color Hunt](https://colorhunt.co/) | Color Hunt is a free and open platform for color inspiration with thousands of trendy hand-picked color palettes.
+[The Noun Project](https://thenounproject.com/) | Icons and Photos For Everything.
+[Taskade](https://www.taskade.com/) | All-in-One Collaboration. Chat, Organize, Get Things Done.
+[Codeclimate](https://codeclimate.com/) | Online code quality metrics analyzer
 [KeyCode Info](https://keycode.info/) | Easy visualizer for JavaScript KeyCodes.
 [Carbon](https://carbon.now.sh) | Create and share beautiful images of your source code.
+[CodeAbbey](https://www.codeabbey.com/) | Website that contains collection of programming problems to practice solving, learn to program and code, and win certificates.
 [Shield.io](https://shields.io/) | Create beautiful badges for your markdown document.
 [DevHints](https://devhints.io/) | Rico's cheat sheets.
 [Netlify](https://www.netlify.com/) | Build, deploy, and manage modern web projects.
@@ -89,14 +101,37 @@ Web Tool | Description
 [ASCII Art Generator](https://www.ascii-art-generator.org/) | This free online Ascii Art creator allows you to convert images to color or monochrome Ascii Art.
 [Screenshot.rocks](https://screenshot.rocks/) | Create beautiful browser mockups in seconds
 [Hackmd](https://hackmd.io/) | Real time, multi-platform, collaborative markdown knowledge base. You can write markdown file together with other people :)
+[Azure DevOps Services](https://azure.microsoft.com/pt-br/services/devops/) | A full solution for managing projects, including git and pipelines.
+[JSON Utils](https://jsonutils.com/) | Convert JSON to C#, VB.NET, JavaScript, Java, PHP and TypeScript classes
+[Tabs to Spaces](https://tabstospaces.com/) | Convert tabs to spaces. As simple as it sounds
+[Epoch Converter](https://www.epochconverter.com/) | Convert epoch to human-readable dates and viceversa
+[XML Viewer](https://codebeautify.org/xmlviewer#) | Beautify XML files
+[NimbleText](https://nimbletext.com/Live) | NimbleText is a text manipulation and code generation tool. It generates text from a pattern and some input values
+[BASE64 Decode and Encode](https://www.base64decode.org/) | Encode/Decode BASE64 strings or files
+[Glitch](https://glitch.com/) | Build fast, full-stack web apps in your browser with instant hosting, automated deployment, and live help from community members.
 [Android Asset Studio](http://romannurik.github.io/AndroidAssetStudio/) | A collection of tools to easily generate assets such as launcher icons for your Android app.
 [CSS Separator Generator](https://wweb.dev/resources/css-separator-generator) | A generator for section separators.
 [Color Shades Generator](https://javisperez.github.io/tailwindcolorshades/#/) | Color Shades Generator for Tailwind CSS.
+[Coolors](https://coolors.co/) | The super fast color schemes generator! Create the perfect palette or get inspired by thousands of beautiful color schemes.
 [Canva](https://www.canva.com/) | Canva is a graphic design platform that allows users to create social media graphics, presentations, posters, logos, documents and other visual content.
+[cron-job.org](https://cron-job.org/en/) | Free Cron job scheduler.
+[Crontab guru](https://crontab.guru/) | A cron expression generator.
+[DiffNow](https://www.diffnow.com/) | Very useful for comparing codes, files, folders or urls.
+[Vercel](https://vercel.com/) | Build and deploy apps with 30+ JAMSTACK frameworks.
+[4Devs](https://www.4devs.com.br/) | Personal data generator and validator. Very useful mainly for Brazilians due to CPF, CEP, CNPJ and others.
+[Fake Filler Chrome Extension](https://chrome.google.com/webstore/detail/fake-filler/bnjjngeaknajbdcgpfkgnonkmififhfo) | A Google Chrome extension that fills all input fields on a page with randomly generated fake data.
+[Web Developer Chrome Extension](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm) | A Google Chrome extension that adds a toolbar button to the browser with various web developer tools.
+[Google Tables](https://tables.area120.google.com/about) | Tables helps teams easily track & automate tasks, enabling them to save time and work smarter.
+[Octotree Chrome Extension](https://www.octotree.io/) |  Octotree is loaded with features that make GitHub code review and exploration awesome. Make your GitHub Dark-Mode.
+[D3.js](https://d3js.org) | JavaScript library for manipulating documents based on data.
+[GeeksforGeeks](https://www.geeksforgeeks.org/) | A Computer Science portal for geeks. It contains well written computer science and programming articles, tutorials and implementations for most of the concepts of Software Engineering field.
+[DB-engines](https://db-engines.com/) | Ranks database management systems by popularity. Ranking criteria include number of search engine results, Stack Overflow discussions etc.
+
 ## Desktop Tools 🖥
 
 Desktop Tool | Description
 ---| ----
+[GNU Emacs](https://www.gnu.org/software/emacs/) | An extensible, customizable, free/libre text editor — and more.
 [VSCode](https://code.visualstudio.com/) | A rich text-editor by Microsoft to improve your workflow. (I love it <3)
 [VSCodium](https://code.vscodium.com/) | Open Source Binaries of VSCode.
 [Sublime Text](https://www.sublimetext.com/) | A sophisticated text editor for code, markup and prose.
@@ -114,6 +149,8 @@ Desktop Tool | Description
 [CodeLobster](http://www.codelobster.com/) | It is a free as well as a convenient PHP IDE that is used to develop fully featured web applications.
 [Datagrip](https://www.jetbrains.com/datagrip/) | Database IDE with mostly databases compatibility.
 [vim](https://www.vim.org) | Highly configurable text editor
+[ohmyzsh](https://ohmyz.sh/) | A delightful, open source, community-driven framework for managing Zsh configuration
+[Tmux](https://github.com/tmux/tmux/wiki) | A terminal multiplexer which allows multiple terminal sessions to be accessed simultaneously
 [Chocolatey](https://chocolatey.org) | Software management automation for Windows that wraps installers, executables, zips, and scripts into compiled packages
 [Sourcetree](https://www.sourcetreeapp.com/) | A Simple GIT UI for windows and mac
 [Notepad++](https://notepad-plus-plus.org/downloads/) | Text viewer in most languages, easier when you need to open faster code to check something.
@@ -123,6 +160,7 @@ Desktop Tool | Description
 [Brackets](http://brackets.io/) | An open Source and Modern text editor for web design.
 [Termius](https://termius.com/) | A modern cross-plataform SSH/SFTP Client.
 [Docker](https://docker.com) | Easily run local linux-based containers.
+[Docker Compose](https://docs.docker.com/compose/) | Tool for defining and running multi-container Docker applications.
 [Indri](https://www.lemurproject.org/indri.php) | Tool for creating index and querying the index for any size dataset.
 [OWASP ZAP](https://www.zaproxy.org/) | Useful open-source proxy tool for developing with security in mind.
 [Toggl](https://www.toggl.com) | A smart and usefull time tracker for teams containing helpful integrations like with Github for all plans.
@@ -148,3 +186,23 @@ Desktop Tool | Description
 [ngrok](https://ngrok.com/) | ngrok secure introspectable tunnels to localhost webhook development tool and debugging tool.
 [Genymotion Android Emulator](https://www.genymotion.com/) | Cross-platform Android emulator for developers & QA engineers. Develop & automate your tests to deliver best quality apps. On desktop, AWS, GCP & SaaS.
 [ClickUp](https://clickup.com/) | All your work in one place: Tasks, docs, chat, goals, & more
+[IntelliJ IDEA](https://www.jetbrains.com/idea/) | Integrated Development Environment (IDE) for JVM.
+[Android Studio](https://developer.android.com/studio) | Android Studio is the official Integrated Development Environment (IDE) for Android app development, based on IntelliJ IDEA.
+[PuTTY](https://www.putty.org/) | PuTTY is a free and open-source terminal emulator, serial console and network file transfer application. It supports several network protocols, including SCP, SSH, Telnet, rlogin, and raw socket connection.
+[WinsCP](https://winscp.net/) | WinSCP is a free and open-source SFTP, FTP, WebDAV, Amazon S3 and SCP client for Microsoft Windows.
+[Postbird](https://www.electronjs.org/apps/postbird) | App to graphically manage your PostgreSQL BDs 
+[Peek](https://github.com/phw/peek) | App for recording screen areas, e.g. for easily showing UI features of your own apps or for showing a bug in bug reports. 
+[Typora](https://typora.io/) | Typora is a great program for reading and writing MarkDown files. 
+[Lens](https://k8slens.dev/) | Lens is the only IDE you’ll ever need to take control of your Kubernetes clusters. It's open source and free.
+[Flutter](https://flutter.dev/) | Flutter is Google’s UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase. It is free and open source. 
+[Pexels](https://www.pexels.com) | Pexels. Free stock images, photos and videos.
+[WSL2](https://docs.microsoft.com/en-us/windows/wsl/) | Windows Subsystem for Linux allows you to run a Linux shell and run Linux commands on Windows 10.
+[Adobe XD](https://www.adobe.com/products/xd.html?ef_id=EAIaIQobChMI7qXd4u2p7AIVNz6tBh2Idw-OEAAYASAAEgJYXvD_BwE:G:s&s_kwcid=AL!3085!3!372875864628!b!!g!!!2075907083!76930640392) | UI/UX design tool that is good for making wireframe model for mobile and web app
+[Expo](https://expo.io/) | Mobile application development which can run JavaScript. Useful for React Native
+[GitHub CLI](https://cli.github.com/) | GitHub CLI brings GitHub to your terminal. Free and open source.
+[Icon8](https://icons8.com/app) | Icons8 allows designers to express their ideas giving the right design elements at the right time.
+[Principle](https://principleformac.com/) | Principle makes it easy to design animated and interactive user interfaces.
+[Alfred](https://www.alfredapp.com/) | Alfred is a productivity application for macOS, which boosts your efficiency with hotkeys, keywords and text expansion.
+[Eclipse](https://www.eclipse.org/ide/) | The Eclipse IDE is famous for Java Integrated Development Environment (IDE)
+[yEd](https://www.yworks.com/products/yed) | yEd is a powerful desktop application that can be used to quickly and effectively generate high-quality diagrams.
+[Terraform](https://www.terraform.io/) | Terraform is a tool for building, changing, and versioning infrastructure (IaC). Supports tons of providers not only the major clouds. Essencialy great way to codify your infrastrcuture.

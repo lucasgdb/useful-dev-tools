@@ -6,8 +6,20 @@
 
 Useful VSCode extensions pushed by the community. Please, submit a Pull Request or Open an issue for a useful extension that you know.
 
-Extension | Description
----- | ----
+| Extension | Description |
+| --------- | ----------- |
+[Python Indent](https://marketplace.visualstudio.com/items?itemName=KevinRose.vsc-python-indent) | Correct python indentation.
+[Python Docstring Generator](https://marketplace.visualstudio.com/items?itemName=njpwerner.autodocstring) | Automatically generates detailed docstrings for python functions.
+[Pylance](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance) | A performant, feature-rich language server for Python in VS Code.
+[Project Manager](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager) | Easily switch between projects.
+[GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) | It helps you to visualize code authorship at a glance via Git blame annotations and code lens, seamlessly navigate and explore Git repositories, gain valuable insights via powerful comparison commands, and so much more.
+[Gather](https://github.com/microsoft/vscode-gather) | With one button click on any notebook or Interactive Window cell, Gather uses a static analysis technique to find and then copy all of the dependent code that was used to generate that cell's result into a new notebook or script.
+[Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker) | The Docker extension makes it easy to build, manage, and deploy containerized applications from Visual Studio Code.
+[Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) | The goal of this spell checker is to help catch common spelling errors while keeping the number of false positives low.
+[Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments) | The Better Comments extension will help you create more human-friendly comments in your code.
+[TabNine](https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode) | Advanced AI based autocomplete for all programming languages.
+[Peacock](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock) | Subtly change the workspace color of your workspace.
+[ES7 React/Redux/GraphQL/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets) | Code snippets for JavaScript(ES6), React, Redux, GraphQL, React-Native.
 [Bracket Pair Visualizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2) | This will autohighlight matching brackets with the same colour to make it easier to identify multiple bracket pairs apart.
 [Auto-Save on Window Change](https://marketplace.visualstudio.com/items?itemName=mcright.auto-save) | This will auto-save code each time you switch windows; really useful for JS when switching from editor to browser window a lot.
 [Polacode](https://marketplace.visualstudio.com/items?itemName=pnp.polacode) | Polaroid for your code. It's like the [Carbon](https://carbon.now.sh).
@@ -25,10 +37,12 @@ Extension | Description
 [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint) | Markdown linting and style checking for Visual Studio Code.
 [Glassit-VSC](https://marketplace.visualstudio.com/items?itemName=s-nlf-fh.glassit) | A VSCode Extension to set window to transparent on Windows platform.
 [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) | Useful for viewing commit history for the specific files, line. Comparing the current changes with previous commit and view the last change time when clicking on the specific line.
+[GitHub Pull Requests and Issues](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github) | This extension allows you to review and manage GitHub pull requests and issues in Visual Studio Code.
 [Swagger Viewer](https://marketplace.visualstudio.com/items?itemName=Arjun.swagger-viewer) | Allows you to display Swagger / OpenAPI specifications written in YAML or JSON in a user-friendly and interactive HTML format
 [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer) | This extension allows matching brackets to be identified with colours. The user can define which characters to match, and which colours to use.
 [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur) | This extension is useful for Vue.js development. It brings a lot of functionalities like formatting, Emmet, code snippets, linking and errors checking, debugging or highlighting the syntax
 [JavaScript (ES6)](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets) | This is very useful visual code extention or snippet for javascript developers especially who writes code in ES6.
+[C/C++](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools) | This is very useful visual code extention for C or C++ either for competitive coders or developers.
 [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost) | This extension Display import/require package size in the editor.
 [Scala Syntax (Official)](https://marketplace.visualstudio.com/items?itemName=scala-lang.scala) | Visual Studio Code extension for syntax highlighting Scala sources.
 [:emojisense:](https://marketplace.visualstudio.com/items?itemName=bierner.emojisense) | Adds suggestions and autocomplete for emoji to VS Code.
@@ -60,3 +74,28 @@ Extension | Description
 [Auto Import](https://marketplace.visualstudio.com/items?itemName=steoates.autoimport) | Automatically finds, parses and provides code actions and code completion for all available imports. Works with Typescript and TSX.
 [Aural Coding (Keyboard sounds)](https://marketplace.visualstudio.com/items?itemName=jeng.aural-coding-vscode) | A Visual Studio Code extension that creates sweet melodies based on what you type.
 [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) | An extension that integrates ESLint into VS Code.
+[.run](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner) | Run code snippet or code file for multiple languages: C, C++, Java, JavaScript, PHP, Python, Perl, Perl 6, Ruby, Go, Lua, Groovy, PowerShell, BAT/CMD, BASH/SH, F# Script, F# (.NET Core), C# Script, C# (.NET Core), VBScript, TypeScript, CoffeeScript, Scala, Swift, Julia, Crystal, OCaml Script, R, AppleScript, Elixir, Visual Basic .NET, Clojure, Haxe, Objective-C, Rust, Racket, Scheme, AutoHotkey, AutoIt, Kotlin, Dart, Free Pascal, Haskell, Nim, D, Lisp, Kit, V, SCSS, Sass, CUDA, Less, and custom command
+[Remote - WSL](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl) | Open any folder in the Windows Subsystem for Linux (WSL) and take advantage of Visual Studio Code's full feature set.
+[Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced) | Realtime markdown preview inside vscode.
+[dotENV](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv) | An extension that supports syntax highlighting for environment settings (.env files).
+[Horizon Theme](https://marketplace.visualstudio.com/items?itemName=jolaleye.horizon-theme-vscode) | Gorgeous theme that gives VSCode a more modern pink look
+[Node.js Exec](https://marketplace.visualstudio.com/items?itemName=miramac.vscode-exec-node) | Execute the current file or your selected code with node.js.
+[SQLite](https://marketplace.visualstudio.com/items?itemName=alexcvzz.vscode-sqlite) | VSCode extension to explore and query SQLite databases.
+[Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight) | This extension styles css/web colors found in your document.
+[MongoDB](https://marketplace.visualstudio.com/items?itemName=mongodb.mongodb-vscode) | Connect to MongoDB and Atlas directly from your VS Code environment, navigate your databases and collections, inspect your schema and use playgrounds to prototype queries and aggregations.
+[Code Time](https://marketplace.visualstudio.com/items?itemName=softwaredotcom.swdc-vscode) | Code Time is an open source plugin for automatic programming metrics and time tracking.
+[100 Days of Code](https://marketplace.visualstudio.com/items?itemName=softwaredotcom.swdc-100-days-of-code) | 100 Days of Code is a VS Code extension that helps you reach your goals and complete the #100DaysOfCode Challenge.
+[Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur) | linter, snippet, and auto-completion to help developer developing Vue.js web applications
+[Pink-Cat-Boo Theme](https://marketplace.visualstudio.com/items?itemName=ftsamoyed.theme-pink-cat-boo) | It is a cute theme for coder girls. The mainly colours are rose pink, light purple, banana yellow and sky blue.
+[Nyan the cat](https://marketplace.visualstudio.com/items?itemName=zhengrenzhe.nyan-cat)  | Put Nyan the cat in your status bar.
+[Open in browser](https://marketplace.visualstudio.com/items?itemName=techer.open-in-browser) | You can open your htlm work in the browser and see how it is.
+[Rest client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client) | It allows you to send all the HTTP request you need and view the response in your VS use to the work.
+[Browser Preview](https://marketplace.visualstudio.com/items?itemName=auchenberg.vscode-browser-preview) | Browser Preview for VS Code enables you to open a real browser preview inside your editor that you can debug.
+[Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) | A plugin that autocompletes filenames. Intellisense will automatically fill or show suggestions as you try and type a path in quotations.
+[VSCode Styled Components](https://marketplace.visualstudio.com/items?itemName=jpoissonnier.vscode-styled-components) | Syntax highlighting for styled-components. Very useful to develop using styled-components.
+[indent-rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow) | This extension colorizes the indentation in front of your text alternating four different colors on each step. This makes it easier to find your lines of code, making the process more practical.
+[Vuln Cost - Security Scanner](https://marketplace.visualstudio.com/items?itemName=snyk-security.vscode-vuln-cost) | Find security vulnerabilities in open source packages while you code in JavaScript, TypeScript and HTML.
+[Indented Block Highlighting](https://marketplace.visualstudio.com/items?itemName=byi8220.indented-block-highlighting) | Highlights lines of the block that has the indentation level of the cursor.
+[Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner) | Run code snippet or code file for multiple languages.
+[Git History](https://github.com/DonJayamanne/gitHistoryVSCode) | Git History, Search and More (including git log).
+[Sass Lint](https://github.com/glen-84/vscode-sass-lint) | Integrates sass-lint parser into VSCode.

@@ -22,3 +22,5 @@ Code Playground | Description
 [3v4l.org](https://3v4l.org/) | 3v4l.org (leetspeak for eval) is a online PHP shell which allows you run code on more than 250 PHP versions, and compare performance, output and support of features. **Features: (linting, debugger, sharing)**
 [Trinket.io](https://trinket.io/) | Trinket is a website that allows you to create and test code without creating an account. Mainly it is used for python but they have other languages as well. **Features(examples, plans, tutorials)**
 [Postdrop.io](https://app.postdrop.io) | Postdrop. A simple tool to help developers with HTML email.
+[StackBlitz](https://stackblitz.com) | StackBlitz. A nice playground to create, edit & deploy fullstack apps. It supports JavaScript frameworks such as Angular, React, Ionic, TypeScript, Svelte, and RxJs.
+[Jupyter Notebook](https://jupyter.org/) | Project Jupyter exists to develop open-source software, open-standards, and services for interactive computing across dozens of programming languages.
