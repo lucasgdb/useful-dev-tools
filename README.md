@@ -5,6 +5,7 @@
 ## Sections
 
 - [VSCode Extensions](vscode-extensions.md)
+- [Chrome Extensions](chrome-extensions.md)
 - [Code Playgrounds](code-playgrounds.md)
 - [Commands](commands.md)
 
@@ -18,9 +19,6 @@ Web Tool | Description
 [Boxicons](https://boxicons.com/) | High Quality Web Icons Set.
 [JSHint](https://jshint.com/) | A tool that helps to detect errors and potential problems in your JavaScript code.
 [Pesticide for Chrome](https://chrome.google.com/webstore/detail/pesticide-for-chrome-with/eipbgplchlidkojmppclhkechkhmlefi/related) | Inserts the Pesticide CSS into the current page, outlining each element to better see placement on the page.
-[React DevTools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) | Extension to add react developer tools to Google chrome.
-[REdux DevTools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd) | Extension to add redux developer tools to Google chrome.
-[Vue.js DevTools](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd) | Extension to add VueJs developer tools to Google chrome.
 [Color Hunt](https://colorhunt.co/) | Color Hunt is a free and open platform for color inspiration with thousands of trendy hand-picked color palettes.
 [The Noun Project](https://thenounproject.com/) | Icons and Photos For Everything.
 [Taskade](https://www.taskade.com/) | All-in-One Collaboration. Chat, Organize, Get Things Done.
@@ -119,10 +117,7 @@ Web Tool | Description
 [DiffNow](https://www.diffnow.com/) | Very useful for comparing codes, files, folders or urls.
 [Vercel](https://vercel.com/) | Build and deploy apps with 30+ JAMSTACK frameworks.
 [4Devs](https://www.4devs.com.br/) | Personal data generator and validator. Very useful mainly for Brazilians due to CPF, CEP, CNPJ and others.
-[Fake Filler Chrome Extension](https://chrome.google.com/webstore/detail/fake-filler/bnjjngeaknajbdcgpfkgnonkmififhfo) | A Google Chrome extension that fills all input fields on a page with randomly generated fake data.
-[Web Developer Chrome Extension](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm) | A Google Chrome extension that adds a toolbar button to the browser with various web developer tools.
 [Google Tables](https://tables.area120.google.com/about) | Tables helps teams easily track & automate tasks, enabling them to save time and work smarter.
-[Octotree Chrome Extension](https://www.octotree.io/) |  Octotree is loaded with features that make GitHub code review and exploration awesome. Make your GitHub Dark-Mode.
 [D3.js](https://d3js.org) | JavaScript library for manipulating documents based on data.
 [GeeksforGeeks](https://www.geeksforgeeks.org/) | A Computer Science portal for geeks. It contains well written computer science and programming articles, tutorials and implementations for most of the concepts of Software Engineering field.
 [DB-engines](https://db-engines.com/) | Ranks database management systems by popularity. Ranking criteria include number of search engine results, Stack Overflow discussions etc.
