@@ -1,5 +1,10 @@
 # Google Chrome Extensions 🛠
 
+- [Tools](README.md)
+- [VSCode Extensions](vscode-extensions.md)
+- [Code Playgrounds](code-playgrounds.md)
+- [Commands](commands.md)
+
 Useful Chrome extensions extensions he community. Please, submit a Pull Request or Open an issue for a useful extension that you know.
 
 | Extension | Description |
