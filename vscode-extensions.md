@@ -96,3 +96,6 @@ Useful VSCode extensions pushed by the community. Please, submit a Pull Request 
 [indent-rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow) | This extension colorizes the indentation in front of your text alternating four different colors on each step. This makes it easier to find your lines of code, making the process more practical.
 [Vuln Cost - Security Scanner](https://marketplace.visualstudio.com/items?itemName=snyk-security.vscode-vuln-cost) | Find security vulnerabilities in open source packages while you code in JavaScript, TypeScript and HTML.
 [Indented Block Highlighting](https://marketplace.visualstudio.com/items?itemName=byi8220.indented-block-highlighting) | Highlights lines of the block that has the indentation level of the cursor.
+[Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner) | Run code snippet or code file for multiple languages.
+[Git History](https://github.com/DonJayamanne/gitHistoryVSCode) | Git History, Search and More (including git log).
+[Sass Lint](https://github.com/glen-84/vscode-sass-lint) | Integrates sass-lint parser into VSCode.
