@@ -138,7 +138,7 @@ Desktop Tool | Description
 [ATOM](https://atom.io/) | A hackable text editor for the 21st Century.
 [Insomnia](https://insomnia.rest/) | Debug APIs like a human, not a robot.
 [Postman](https://www.getpostman.com/) | Postman Simplifies API Development.
-[Zeit, Now](https://zeit.co/) | The Global Serverless Platform. (CLI)
+[Vercel](https://vercel.com) | The Global Serverless Platform. (CLI)
 [Agent Ransack](https://www.mythicsoft.com/agentransack/) | Agent Ransack is a file search tool for finding files on your PC or network drives.
 [Fiddler](https://www.telerik.com/fiddler) | The web debugging proxy for any browser, system or platform.
 [Homebrew](https://brew.sh/) | The missing package manager for macOS (or Linux).
