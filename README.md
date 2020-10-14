@@ -5,6 +5,7 @@
 ## Sections
 
 - [VSCode Extensions](vscode-extensions.md)
+- [Chrome Extensions](chrome-extensions.md)
 - [Code Playgrounds](code-playgrounds.md)
 - [Commands](commands.md)
 
@@ -18,10 +19,6 @@ Web Tool | Description
 [Boxicons](https://boxicons.com/) | High Quality Web Icons Set.
 [JSHint](https://jshint.com/) | A tool that helps to detect errors and potential problems in your JavaScript code.
 [Pesticide for Chrome](https://chrome.google.com/webstore/detail/pesticide-for-chrome-with/eipbgplchlidkojmppclhkechkhmlefi/related) | Inserts the Pesticide CSS into the current page, outlining each element to better see placement on the page.
-[React DevTools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) | Extension to add react developer tools to Google chrome.
-[REdux DevTools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd) | Extension to add redux developer tools to Google chrome.
-[Vue.js DevTools](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd) | Extension to add VueJs developer tools to Google chrome.
-[Color Hunt](https://colorhunt.co/) | Color Hunt is a free and open platform for color inspiration with thousands of trendy hand-picked color palettes.
 [Color Hunt](https://colorhunt.co/) | Color Hunt is a free and open platform for color inspiration with thousands of trendy hand-picked color palettes.
 [The Noun Project](https://thenounproject.com/) | Icons and Photos For Everything.
 [Taskade](https://www.taskade.com/) | All-in-One Collaboration. Chat, Organize, Get Things Done.
@@ -120,9 +117,12 @@ Web Tool | Description
 [DiffNow](https://www.diffnow.com/) | Very useful for comparing codes, files, folders or urls.
 [Vercel](https://vercel.com/) | Build and deploy apps with 30+ JAMSTACK frameworks.
 [4Devs](https://www.4devs.com.br/) | Personal data generator and validator. Very useful mainly for Brazilians due to CPF, CEP, CNPJ and others.
-[Fake Filler Chrome Extension](https://chrome.google.com/webstore/detail/fake-filler/bnjjngeaknajbdcgpfkgnonkmififhfo) | A Google Chrome extension that fills all input fields on a page with randomly generated fake data.
-[Web Developer Chrome Extension](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm) | A Google Chrome extension that adds a toolbar button to the browser with various web developer tools.
 [Google Tables](https://tables.area120.google.com/about) | Tables helps teams easily track & automate tasks, enabling them to save time and work smarter.
+[D3.js](https://d3js.org) | JavaScript library for manipulating documents based on data.
+[GeeksforGeeks](https://www.geeksforgeeks.org/) | A Computer Science portal for geeks. It contains well written computer science and programming articles, tutorials and implementations for most of the concepts of Software Engineering field.
+[DB-engines](https://db-engines.com/) | Ranks database management systems by popularity. Ranking criteria include number of search engine results, Stack Overflow discussions etc.
+[Codeforces](https://codeforces.com/) | Codeforces is a website that hosts competitive programming contests and helps you so much in Problem Solving.
+[LeetCode](https://leetcode.com/) | It's an amazing platform to help you enhance your skills and prepare for technical interviews.
 
 ## Desktop Tools 🖥
 
@@ -135,7 +135,7 @@ Desktop Tool | Description
 [ATOM](https://atom.io/) | A hackable text editor for the 21st Century.
 [Insomnia](https://insomnia.rest/) | Debug APIs like a human, not a robot.
 [Postman](https://www.getpostman.com/) | Postman Simplifies API Development.
-[Zeit, Now](https://zeit.co/) | The Global Serverless Platform. (CLI)
+[Vercel](https://vercel.com) | The Global Serverless Platform. (CLI)
 [Agent Ransack](https://www.mythicsoft.com/agentransack/) | Agent Ransack is a file search tool for finding files on your PC or network drives.
 [Fiddler](https://www.telerik.com/fiddler) | The web debugging proxy for any browser, system or platform.
 [Homebrew](https://brew.sh/) | The missing package manager for macOS (or Linux).
@@ -146,6 +146,8 @@ Desktop Tool | Description
 [CodeLobster](http://www.codelobster.com/) | It is a free as well as a convenient PHP IDE that is used to develop fully featured web applications.
 [Datagrip](https://www.jetbrains.com/datagrip/) | Database IDE with mostly databases compatibility.
 [vim](https://www.vim.org) | Highly configurable text editor
+[ohmyzsh](https://ohmyz.sh/) | A delightful, open source, community-driven framework for managing Zsh configuration
+[Tmux](https://github.com/tmux/tmux/wiki) | A terminal multiplexer which allows multiple terminal sessions to be accessed simultaneously
 [Chocolatey](https://chocolatey.org) | Software management automation for Windows that wraps installers, executables, zips, and scripts into compiled packages
 [Sourcetree](https://www.sourcetreeapp.com/) | A Simple GIT UI for windows and mac
 [Notepad++](https://notepad-plus-plus.org/downloads/) | Text viewer in most languages, easier when you need to open faster code to check something.
@@ -155,6 +157,7 @@ Desktop Tool | Description
 [Brackets](http://brackets.io/) | An open Source and Modern text editor for web design.
 [Termius](https://termius.com/) | A modern cross-plataform SSH/SFTP Client.
 [Docker](https://docker.com) | Easily run local linux-based containers.
+[Docker Compose](https://docs.docker.com/compose/) | Tool for defining and running multi-container Docker applications.
 [Indri](https://www.lemurproject.org/indri.php) | Tool for creating index and querying the index for any size dataset.
 [OWASP ZAP](https://www.zaproxy.org/) | Useful open-source proxy tool for developing with security in mind.
 [Toggl](https://www.toggl.com) | A smart and usefull time tracker for teams containing helpful integrations like with Github for all plans.
@@ -191,3 +194,12 @@ Desktop Tool | Description
 [Flutter](https://flutter.dev/) | Flutter is Google’s UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase. It is free and open source. 
 [Pexels](https://www.pexels.com) | Pexels. Free stock images, photos and videos.
 [WSL2](https://docs.microsoft.com/en-us/windows/wsl/) | Windows Subsystem for Linux allows you to run a Linux shell and run Linux commands on Windows 10.
+[Adobe XD](https://www.adobe.com/products/xd.html?ef_id=EAIaIQobChMI7qXd4u2p7AIVNz6tBh2Idw-OEAAYASAAEgJYXvD_BwE:G:s&s_kwcid=AL!3085!3!372875864628!b!!g!!!2075907083!76930640392) | UI/UX design tool that is good for making wireframe model for mobile and web app
+[Expo](https://expo.io/) | Mobile application development which can run JavaScript. Useful for React Native
+[GitHub CLI](https://cli.github.com/) | GitHub CLI brings GitHub to your terminal. Free and open source.
+[Icon8](https://icons8.com/app) | Icons8 allows designers to express their ideas giving the right design elements at the right time.
+[Principle](https://principleformac.com/) | Principle makes it easy to design animated and interactive user interfaces.
+[Alfred](https://www.alfredapp.com/) | Alfred is a productivity application for macOS, which boosts your efficiency with hotkeys, keywords and text expansion.
+[Eclipse](https://www.eclipse.org/ide/) | The Eclipse IDE is famous for Java Integrated Development Environment (IDE)
+[yEd](https://www.yworks.com/products/yed) | yEd is a powerful desktop application that can be used to quickly and effectively generate high-quality diagrams.
+[Terraform](https://www.terraform.io/) | Terraform is a tool for building, changing, and versioning infrastructure (IaC). Supports tons of providers not only the major clouds. Essencialy great way to codify your infrastrcuture.
