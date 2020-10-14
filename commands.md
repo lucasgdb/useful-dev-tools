@@ -2,6 +2,7 @@
 
 - [Tools](README.md)
 - [VSCode Extensions](vscode-extensions.md)
+- [Chrome Extensions](chrome-extensions.md)
 - [Code Playgrounds](code-playgrounds.md)
 
 Useful commands pushed by the community. Please, submit a Pull Request or Open an issue for a useful command that you know.
@@ -24,5 +25,10 @@ Command | Description
 `git push --set-upstream <remote> <name-of-your-branch>` or `git push -u origin <branch_name>` | upload newly created branch to remote 
 `git log` | Show commit logs 
 `git show [ commit id ]` | This command is used to list the metadata for the specified commit 
-`git revert <commit id>` | Reverts changes made by specified commit
+`git revert <commit id>` | Reverts changes made by specified commit 
+`git cherry-pick <commmit id(s)>` | This command will apply the changes of the listed git commit hashes in the current branch.
+`git stash` | Stores the current working changes so they can be restored at a later time if desired.
+`git stash pop` | Restores the most recently stashed changes.
+`git reset --hard` | Resets the current branch to the latest commit.
+`ssh <username>@<some address> (-p <port number>)` | Remotely connect to different server/computer for those that doesn't want to use additional file (e.g. PuTTY)
 `git rebase <branch-name>` | Reapply commits from <branch-name> on top of branch that is currently in, help to sync between branch to avoid "n commit behind master"
