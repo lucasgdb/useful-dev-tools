@@ -71,7 +71,6 @@ Useful VSCode extensions pushed by the community. Please, submit a Pull Request 
 [Firestore Rules](https://marketplace.visualstudio.com/items?itemName=ChFlick.firecode) |Firestore security rule support for Visual Studio Code. (Works for .rule and .rules files.)
 [GLSL Canvas](https://marketplace.visualstudio.com/items?itemName=circledev.glsl-canvas) |The extension opens a live WebGL preview of GLSL shaders within VSCode by providing a Show glslCanvas command. (Works for .glsl, .frag, and .vert files.)
 [EditorConfig](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) | EditorConfig Support for Visual Studio Code
-[Debugger for Firefox](https://marketplace.visualstudio.com/items?itemName=firefox-devtools.vscode-firefox-debug) | Debug your web application or browser extension in Firefox
 [Auto Import](https://marketplace.visualstudio.com/items?itemName=steoates.autoimport) | Automatically finds, parses and provides code actions and code completion for all available imports. Works with Typescript and TSX.
 [Aural Coding (Keyboard sounds)](https://marketplace.visualstudio.com/items?itemName=jeng.aural-coding-vscode) | A Visual Studio Code extension that creates sweet melodies based on what you type.
 [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) | An extension that integrates ESLint into VS Code.
@@ -86,7 +85,6 @@ Useful VSCode extensions pushed by the community. Please, submit a Pull Request 
 [MongoDB](https://marketplace.visualstudio.com/items?itemName=mongodb.mongodb-vscode) | Connect to MongoDB and Atlas directly from your VS Code environment, navigate your databases and collections, inspect your schema and use playgrounds to prototype queries and aggregations.
 [Code Time](https://marketplace.visualstudio.com/items?itemName=softwaredotcom.swdc-vscode) | Code Time is an open source plugin for automatic programming metrics and time tracking.
 [100 Days of Code](https://marketplace.visualstudio.com/items?itemName=softwaredotcom.swdc-100-days-of-code) | 100 Days of Code is a VS Code extension that helps you reach your goals and complete the #100DaysOfCode Challenge.
-[Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur) | linter, snippet, and auto-completion to help developer developing Vue.js web applications
 [Pink-Cat-Boo Theme](https://marketplace.visualstudio.com/items?itemName=ftsamoyed.theme-pink-cat-boo) | It is a cute theme for coder girls. The mainly colours are rose pink, light purple, banana yellow and sky blue.
 [Nyan the cat](https://marketplace.visualstudio.com/items?itemName=zhengrenzhe.nyan-cat)  | Put Nyan the cat in your status bar.
 [Open in browser](https://marketplace.visualstudio.com/items?itemName=techer.open-in-browser) | You can open your htlm work in the browser and see how it is.
