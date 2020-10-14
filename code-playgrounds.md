@@ -24,3 +24,4 @@ Code Playground | Description
 [Postdrop.io](https://app.postdrop.io) | Postdrop. A simple tool to help developers with HTML email.
 [StackBlitz](https://stackblitz.com) | StackBlitz. A nice playground to create, edit & deploy fullstack apps. It supports JavaScript frameworks such as Angular, React, Ionic, TypeScript, Svelte, and RxJs.
 [Jupyter Notebook](https://jupyter.org/) | Project Jupyter exists to develop open-source software, open-standards, and services for interactive computing across dozens of programming languages.
+[W3Schools Online Code Editor](https://www.w3schools.com/tryit/) | With W3Schools online code editor, you can edit HTML, CSS and JavaScript code, and view the result in your browser.
