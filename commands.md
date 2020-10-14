@@ -31,3 +31,4 @@ Command | Description
 `git stash pop` | Restores the most recently stashed changes.
 `git reset --hard` | Resets the current branch to the latest commit.
 `ssh <username>@<some address> (-p <port number>)` | Remotely connect to different server/computer for those that doesn't want to use additional file (e.g. PuTTY)
+`git rebase <branch-name>` | Reapply commits from <branch-name> on top of branch that is currently in, help to sync between branch to avoid "n commit behind master"
