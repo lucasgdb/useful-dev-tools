@@ -24,4 +24,5 @@ Command | Description
 `git push --set-upstream <remote> <name-of-your-branch>` or `git push -u origin <branch_name>` | upload newly created branch to remote 
 `git log` | Show commit logs 
 `git show [ commit id ]` | This command is used to list the metadata for the specified commit 
-`git revert <commit id>` | Reverts changes made by specified commit 
+`git revert <commit id>` | Reverts changes made by specified commit
+`git rebase <branch-name>` | Reapply commits from <branch-name> on top of branch that is currently in, help to sync between branch to avoid "n commit behind master"
