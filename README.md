@@ -204,3 +204,4 @@ Desktop Tool | Description
 [Eclipse](https://www.eclipse.org/ide/) | The Eclipse IDE is famous for Java Integrated Development Environment (IDE)
 [yEd](https://www.yworks.com/products/yed) | yEd is a powerful desktop application that can be used to quickly and effectively generate high-quality diagrams.
 [Terraform](https://www.terraform.io/) | Terraform is a tool for building, changing, and versioning infrastructure (IaC). Supports tons of providers not only the major clouds. Essencialy great way to codify your infrastrcuture.
+[Terminator](https://gnometerminator.blogspot.com/p/introduction.html) | A Terminal replacement for Linux (GNOME) that supports tabs and grids.
