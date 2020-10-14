@@ -123,6 +123,7 @@ Web Tool | Description
 [DB-engines](https://db-engines.com/) | Ranks database management systems by popularity. Ranking criteria include number of search engine results, Stack Overflow discussions etc.
 [Codeforces](https://codeforces.com/) | Codeforces is a website that hosts competitive programming contests and helps you so much in Problem Solving.
 [LeetCode](https://leetcode.com/) | It's an amazing platform to help you enhance your skills and prepare for technical interviews.
+[Mockaroo](http://mockaroo.com/) | Mockaroo lets you generate up realistic test data in CSV, JSON, SQL, and Excel formats.
 
 ## Desktop Tools 🖥
 
@@ -187,11 +188,11 @@ Desktop Tool | Description
 [Android Studio](https://developer.android.com/studio) | Android Studio is the official Integrated Development Environment (IDE) for Android app development, based on IntelliJ IDEA.
 [PuTTY](https://www.putty.org/) | PuTTY is a free and open-source terminal emulator, serial console and network file transfer application. It supports several network protocols, including SCP, SSH, Telnet, rlogin, and raw socket connection.
 [WinsCP](https://winscp.net/) | WinSCP is a free and open-source SFTP, FTP, WebDAV, Amazon S3 and SCP client for Microsoft Windows.
-[Postbird](https://www.electronjs.org/apps/postbird) | App to graphically manage your PostgreSQL BDs 
-[Peek](https://github.com/phw/peek) | App for recording screen areas, e.g. for easily showing UI features of your own apps or for showing a bug in bug reports. 
-[Typora](https://typora.io/) | Typora is a great program for reading and writing MarkDown files. 
+[Postbird](https://www.electronjs.org/apps/postbird) | App to graphically manage your PostgreSQL BDs
+[Peek](https://github.com/phw/peek) | App for recording screen areas, e.g. for easily showing UI features of your own apps or for showing a bug in bug reports.
+[Typora](https://typora.io/) | Typora is a great program for reading and writing MarkDown files.
 [Lens](https://k8slens.dev/) | Lens is the only IDE you’ll ever need to take control of your Kubernetes clusters. It's open source and free.
-[Flutter](https://flutter.dev/) | Flutter is Google’s UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase. It is free and open source. 
+[Flutter](https://flutter.dev/) | Flutter is Google’s UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase. It is free and open source.
 [Pexels](https://www.pexels.com) | Pexels. Free stock images, photos and videos.
 [WSL2](https://docs.microsoft.com/en-us/windows/wsl/) | Windows Subsystem for Linux allows you to run a Linux shell and run Linux commands on Windows 10.
 [Adobe XD](https://www.adobe.com/products/xd.html?ef_id=EAIaIQobChMI7qXd4u2p7AIVNz6tBh2Idw-OEAAYASAAEgJYXvD_BwE:G:s&s_kwcid=AL!3085!3!372875864628!b!!g!!!2075907083!76930640392) | UI/UX design tool that is good for making wireframe model for mobile and web app
