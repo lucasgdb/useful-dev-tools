@@ -129,6 +129,8 @@ Web Tool | Description
 
 Desktop Tool | Description
 ---| ----
+[Meld](https://meldmerge.org) | An open source and cross-platform visual diff and merge tool to compare files and directories. (Version control comparison)
+[Barrier](https://github.com/debauchee/barrier) | An open source and cross-platform KVM Emulator that allows developers to share mice/keyboards between multiple computers. (Awesome if you are developing on multiple devices over LAN i.e. Sockets, Webservers etc)
 [GNU Emacs](https://www.gnu.org/software/emacs/) | An extensible, customizable, free/libre text editor — and more.
 [VSCode](https://code.visualstudio.com/) | A rich text-editor by Microsoft to improve your workflow. (I love it <3)
 [VSCodium](https://code.vscodium.com/) | Open Source Binaries of VSCode.
