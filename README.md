@@ -28,6 +28,7 @@ Web Tool | Description
 [CodeAbbey](https://www.codeabbey.com/) | Website that contains collection of programming problems to practice solving, learn to program and code, and win certificates.
 [Shield.io](https://shields.io/) | Create beautiful badges for your markdown document.
 [DevHints](https://devhints.io/) | Rico's cheat sheets.
+[Favicon Generator](https://realfavicongenerator.net) | Favicon generator.
 [Netlify](https://www.netlify.com/) | Build, deploy, and manage modern web projects.
 [GitHub](https://github.com/) | GitHub is a development platform inspired by the way you work.
 [GitHub Pages](https://pages.github.com/) | Websites for you and your projects (Static projects.)
