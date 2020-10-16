@@ -164,6 +164,7 @@ Desktop Tool | Description
 [Git Kraken](https://www.gitkraken.com/) | Legendary Git Client for windows, mac and linux. Really practical and robust.
 [GitHub CLI](https://cli.github.com/) | GitHub CLI brings GitHub to your terminal. Free and open source.
 [GitHub Desktop](https://desktop.github.com/) | A GUI for GitHub.
+[Helm](https://helm.sh) | A package manager for kubernetes that allows simple but powerful software installs on a Kubernetes cluster.
 [HTTPie](https://httpie.org/) | A command line HTTP client, similar to cURL, but with a nicer output and syntax.
 [Homebrew](https://brew.sh/) | The missing package manager for macOS (or Linux).
 [Icon8](https://icons8.com/app) | Icons8 allows designers to express their ideas giving the right design elements at the right time.
