@@ -98,3 +98,6 @@ Useful VSCode extensions pushed by the community. Please, submit a Pull Request 
 [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner) | Run code snippet or code file for multiple languages.
 [Git History](https://github.com/DonJayamanne/gitHistoryVSCode) | Git History, Search and More (including git log).
 [Sass Lint](https://github.com/glen-84/vscode-sass-lint) | Integrates sass-lint parser into VSCode.
+[Remote - SSH](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh-edit) | The Remote - SSH extension lets you use any remote machine with a SSH server as your development environment.
+[Vue VSCode Snippets](https://marketplace.visualstudio.com/items?itemName=sdras.vue-vscode-snippets) | Vue.js code snippets for VSCode.
+[Glitch](https://marketplace.visualstudio.com/items?itemName=glitch.glitch) | Collaborative editing and instant application deployment on Glitch from VS Code.
