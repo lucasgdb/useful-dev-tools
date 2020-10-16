@@ -75,7 +75,7 @@ Web Tool | Description
 [W3Schools](https://www.w3schools.com/) | The world's largest website for web tutorials.
 [HTML Cleaner](https://html-cleaner.com) | Free HTML, CSS, and JavaScript beautifier.
 [Requestbin](https://requestbin.com) | Inspect HTTP events, webhooks, etc.
-[Postwoman](https://postwoman.io/) | Api request builder.
+[Hoppscotch](https://hoppscotch.io/) | API request builder.
 [P5.js](https://p5js.org/) | A JS client-side library for creating graphic and interactive experiences, based on the core principles of Processing.
 [Heroku](https://heroku.com) | Build, run and deploy applications entirely in the cloud.
 [Firebase](https://firebase.google.com) | A Google SaaS backend solutions for cross-plataform applications
@@ -98,6 +98,7 @@ Web Tool | Description
 [FontSee](https://fontsee.com/) | Online webfont viewer: Preview how font files look like in the browser.
 [ASCII Art Generator](https://www.ascii-art-generator.org/) | This free online Ascii Art creator allows you to convert images to color or monochrome Ascii Art.
 [Screenshot.rocks](https://screenshot.rocks/) | Create beautiful browser mockups in seconds
+[Screely.com] | Instantly turn a screenshot into a browser mockup. 
 [Hackmd](https://hackmd.io/) | Real time, multi-platform, collaborative markdown knowledge base. You can write markdown file together with other people :)
 [Azure DevOps Services](https://azure.microsoft.com/pt-br/services/devops/) | A full solution for managing projects, including git and pipelines.
 [JSON Utils](https://jsonutils.com/) | Convert JSON to C#, VB.NET, JavaScript, Java, PHP and TypeScript classes
@@ -124,6 +125,7 @@ Web Tool | Description
 [Codeforces](https://codeforces.com/) | Codeforces is a website that hosts competitive programming contests and helps you so much in Problem Solving.
 [LeetCode](https://leetcode.com/) | It's an amazing platform to help you enhance your skills and prepare for technical interviews.
 [Mockaroo](http://mockaroo.com/) | Mockaroo lets you generate up realistic test data in CSV, JSON, SQL, and Excel formats.
+[Marcdown](https://liyasthomas.github.io/marcdown) | A lightweight markdown viewer and editor.
 
 ## Desktop Tools 🖥
 
