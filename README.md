@@ -127,6 +127,7 @@ Web Tool | Description
 [LeetCode](https://leetcode.com/) | It's an amazing platform to help you enhance your skills and prepare for technical interviews.
 [Mockaroo](http://mockaroo.com/) | Mockaroo lets you generate up realistic test data in CSV, JSON, SQL, and Excel formats.
 [Marcdown](https://liyasthomas.github.io/marcdown) | A lightweight markdown viewer and editor.
+[HackerRank](https://www.hackerrank.com/) | An awesome platform to help you enhance your skills by providing problems to solve in a wide range of Computer Science domains.
 
 ## Desktop Tools 🖥
 
