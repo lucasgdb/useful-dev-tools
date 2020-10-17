@@ -99,7 +99,7 @@ Web Tool | Description
 [FontSee](https://fontsee.com/) | Online webfont viewer: Preview how font files look like in the browser.
 [ASCII Art Generator](https://www.ascii-art-generator.org/) | This free online Ascii Art creator allows you to convert images to color or monochrome Ascii Art.
 [Screenshot.rocks](https://screenshot.rocks/) | Create beautiful browser mockups in seconds
-[Screely.com] | Instantly turn a screenshot into a browser mockup. 
+[Screely.com] | Instantly turn a screenshot into a browser mockup.
 [Hackmd](https://hackmd.io/) | Real time, multi-platform, collaborative markdown knowledge base. You can write markdown file together with other people :)
 [Azure DevOps Services](https://azure.microsoft.com/pt-br/services/devops/) | A full solution for managing projects, including git and pipelines.
 [JSON Utils](https://jsonutils.com/) | Convert JSON to C#, VB.NET, JavaScript, Java, PHP and TypeScript classes
@@ -186,6 +186,7 @@ Desktop Tool | Description
 [Postbird](https://www.electronjs.org/apps/postbird) | App to graphically manage your PostgreSQL BDs
 [Postman](https://www.getpostman.com/) | Postman Simplifies API Development.
 [Principle](https://principleformac.com/) | Principle makes it easy to design animated and interactive user interfaces.
+[Process Explorer](https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer) | Process Explorer is a freeware task manager and system monitor for Microsoft Windows.
 [Protege](https://protege.stanford.edu/) | Open source ontology editor and knowledge management system.
 [PuTTY](https://www.putty.org/) | PuTTY is a free and open-source terminal emulator, serial console and network file transfer application. It supports several network protocols, including SCP, SSH, Telnet, rlogin, and raw socket connection.
 [PyCharm](https://www.jetbrains.com/pycharm/) | Integrated development environment (IDE) specifically for the Python language developed by JetBrains.
