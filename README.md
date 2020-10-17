@@ -191,6 +191,7 @@ Desktop Tool | Description
 [PyCharm](https://www.jetbrains.com/pycharm/) | Integrated development environment (IDE) specifically for the Python language developed by JetBrains.
 [RealVNC](https://www.realvnc.com/en/) | Tool to securely access remote desktop.
 [Robo 3T](https://robomongo.org/) | A GUI for editing and viewing MongoDB Data.
+[Scoop](https://scoop.sh/) | Scoop is a command-line installer for Windows.
 [Sourcetree](https://www.sourcetreeapp.com/) | A Simple GIT UI for windows and mac
 [Sublime Text](https://www.sublimetext.com/) | A sophisticated text editor for code, markup and prose.
 [TablePlus](https://tableplus.com//) | Database management made easy. Modern, native, and friendly GUI tool for relational databases: MySQL, PostgreSQL, SQLite & more
