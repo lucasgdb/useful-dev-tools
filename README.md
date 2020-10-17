@@ -63,6 +63,7 @@ Web Tool | Description
 [Convertio](https://convertio.co/jpeg-pdf/) | "Convertio" is an easy free file format converter that can help you create PNG, JPEG and PDF files.
 [Deployer](https://deployer.org/) | A deployment tool for PHP.
 [Paper Js](http://paperjs.org/) | An open source vector graphics scripting framework that runs on top of the HTML5 Canvas.
+[PhpStorm](https://www.jetbrains.com/phpstorm/) | The Best IDE for PHP. PhpStorm = WebStorm + PHP + DB/SQL. Paid, [check here](https://www.jetbrains.com/community/) if you apply for a free license.
 [CodeKit](https://codekitapp.com/) | Using this tool, web app development work can be done faster as it minifies, combines and syntax-checks JavaScript.
 [CyberChef](https://gchq.github.io/CyberChef/) | The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis.
 [Wappalyzer](https://www.wappalyzer.com) | Identify technology used on websites.
@@ -140,6 +141,7 @@ Desktop Tool | Description
 [Alfred](https://www.alfredapp.com/) | Alfred is a productivity application for macOS, which boosts your efficiency with hotkeys, keywords and text expansion.
 [Android Studio](https://developer.android.com/studio) | Android Studio is the official Integrated Development Environment (IDE) for Android app development, based on IntelliJ IDEA.
 [Apache JMeter](https://jmeter.apache.org/) | The Apache JMeter™ application is open source software, a 100% pure Java application designed to load test functional behavior and measure performance.
+[AppCode](https://www.jetbrains.com/objc/) | Smart IDE for iOS/macOS development. Paid, [check here](https://www.jetbrains.com/community/) if you apply for a free license.
 [Appium](http://appium.io/) | Appium is an open source test automation framework for use with native, hybrid and mobile web apps.
 [Arduino](https://www.arduino.cc) | Text-editor tools for make any robot or IoT.
 [Barrier](https://github.com/debauchee/barrier) | An open source and cross-platform KVM Emulator that allows developers to share mice/keyboards between multiple computers. (Awesome if you are developing on multiple devices over LAN i.e. Sockets, Webservers etc)
@@ -147,13 +149,14 @@ Desktop Tool | Description
 [Burp Suite](https://portswigger.net/burp) | Burp Suite is a leading range of cybersecurity tools, brought to you by PortSwigger.
 [Carbonize](https://www.dangercove.com/carbonize) | Generate gorgeous, highly customizable images from your code snippets. Ready to save or share. (macOS client for Carbon)
 [Chocolatey](https://chocolatey.org) | Software management automation for Windows that wraps installers, executables, zips, and scripts into compiled packages
+[CLIon](https://www.jetbrains.com/clion/) | A cross-platform IDE for C and C++. Paid, [check here](https://www.jetbrains.com/community/) if you apply for a free license.
 [ClickUp](https://clickup.com/) | All your work in one place: Tasks, docs, chat, goals, & more
 [CodeLobster](http://www.codelobster.com/) | It is a free as well as a convenient PHP IDE that is used to develop fully featured web applications.
 [Compare It!](https://www.grigsoft.com/wincmp3.htm) | Compare texts, indicating the differences. Practical, light and fast.
 [Cypress.io](https://www.cypress.io/) | Fast, easy and reliable testing for anything that runs in a browser.
 [DBeaver](https://dbeaver.io) | Free multi-platform database tool for developers, SQL programmers, database administrators and analysts. Supports all popular databases: MySQL, PostgreSQL, SQLite, Oracle, DB2, SQL Server...
 [Dash](https://kapeli.com/dash) | API Documentation, Cheat sheets, Snippet manager with instant search everything for macOS
-[Datagrip](https://www.jetbrains.com/datagrip/) | Database IDE with mostly databases compatibility.
+[Datagrip](https://www.jetbrains.com/datagrip/) | Database IDE with mostly databases compatibility. Paid, [check here](https://www.jetbrains.com/community/) if you apply for a free license.
 [Docker](https://docker.com) | Easily run local linux-based containers.
 [Docker Compose](https://docs.docker.com/compose/) | Tool for defining and running multi-container Docker applications.
 [Eclipse](https://www.eclipse.org/ide/) | The Eclipse IDE is famous for Java Integrated Development Environment (IDE)
@@ -165,13 +168,14 @@ Desktop Tool | Description
 [Git Kraken](https://www.gitkraken.com/) | Legendary Git Client for windows, mac and linux. Really practical and robust.
 [GitHub CLI](https://cli.github.com/) | GitHub CLI brings GitHub to your terminal. Free and open source.
 [GitHub Desktop](https://desktop.github.com/) | A GUI for GitHub.
+[GoLand](https://www.jetbrains.com/go/) | A cross-platform IDE built specially for Go developers. Paid, [check here](https://www.jetbrains.com/community/) if you apply for a free license.
 [Helm](https://helm.sh) | A package manager for kubernetes that allows simple but powerful software installs on a Kubernetes cluster.
 [HTTPie](https://httpie.org/) | A command line HTTP client, similar to cURL, but with a nicer output and syntax.
 [Homebrew](https://brew.sh/) | The missing package manager for macOS (or Linux).
 [Icon8](https://icons8.com/app) | Icons8 allows designers to express their ideas giving the right design elements at the right time.
 [Indri](https://www.lemurproject.org/indri.php) | Tool for creating index and querying the index for any size dataset.
 [Insomnia](https://insomnia.rest/) | Debug APIs like a human, not a robot.
-[IntelliJ IDEA](https://www.jetbrains.com/idea/) | Integrated Development Environment (IDE) for JVM.
+[IntelliJ IDEA](https://www.jetbrains.com/idea/) | Integrated Development Environment (IDE) for JVM. Paid, [check here](https://www.jetbrains.com/community/) if you apply for a free license.
 [iTerm2](https://www.iterm2.com/) | A terminal emulator for macOS to replace Terminal.
 [Lens](https://k8slens.dev/) | Lens is the only IDE you’ll ever need to take control of your Kubernetes clusters. It's open source and free.
 [Mailspring](https://getmailspring.com/) | Powerful n' fancy cross-plataform mail client.
@@ -189,7 +193,7 @@ Desktop Tool | Description
 [Principle](https://principleformac.com/) | Principle makes it easy to design animated and interactive user interfaces.
 [Protege](https://protege.stanford.edu/) | Open source ontology editor and knowledge management system.
 [PuTTY](https://www.putty.org/) | PuTTY is a free and open-source terminal emulator, serial console and network file transfer application. It supports several network protocols, including SCP, SSH, Telnet, rlogin, and raw socket connection.
-[PyCharm](https://www.jetbrains.com/pycharm/) | Integrated development environment (IDE) specifically for the Python language developed by JetBrains.
+[PyCharm](https://www.jetbrains.com/pycharm/) | The Python IDE for Professional Developers. Available in two versions Community (free), Professional (paid). [Check here](https://www.jetbrains.com/community/) if you apply for a free license.
 [RealVNC](https://www.realvnc.com/en/) | Tool to securely access remote desktop.
 [Robo 3T](https://robomongo.org/) | A GUI for editing and viewing MongoDB Data.
 [Scoop](https://scoop.sh/) | Scoop is a command-line installer for Windows.
