@@ -130,6 +130,7 @@ Web Tool | Description
 [Marcdown](https://liyasthomas.github.io/marcdown) | A lightweight markdown viewer and editor.
 [HackerRank](https://www.hackerrank.com/) | An awesome platform to help you enhance your skills by providing problems to solve in a wide range of Computer Science domains.
 [Vimium](https://github.com/philc/vimium) | The Hacker's Browser. Forget about your mouse. Use VIM to navigate on your browser.
+[Sejda PDF Editor](https://www.sejda.com/pdf-editor) | The best online PDF editor tool, easily edit text, put whiteout over text which is not needed and much more.
 
 ## Desktop Tools 🖥
 
