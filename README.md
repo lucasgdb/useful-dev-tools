@@ -100,7 +100,7 @@ Web Tool | Description
 [FontSee](https://fontsee.com/) | Online webfont viewer: Preview how font files look like in the browser.
 [ASCII Art Generator](https://www.ascii-art-generator.org/) | This free online Ascii Art creator allows you to convert images to color or monochrome Ascii Art.
 [Screenshot.rocks](https://screenshot.rocks/) | Create beautiful browser mockups in seconds
-[Screely.com] | Instantly turn a screenshot into a browser mockup.
+[Screely.com](https://www.screely.com/) | Instantly turn a screenshot into a browser mockup.
 [Hackmd](https://hackmd.io/) | Real time, multi-platform, collaborative markdown knowledge base. You can write markdown file together with other people :)
 [Azure DevOps Services](https://azure.microsoft.com/pt-br/services/devops/) | A full solution for managing projects, including git and pipelines.
 [JSON Utils](https://jsonutils.com/) | Convert JSON to C#, VB.NET, JavaScript, Java, PHP and TypeScript classes
