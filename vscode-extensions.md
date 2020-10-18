@@ -1,12 +1,5 @@
 # VSCode Extensions 🛠
 
-- [Tools](README.md)
-- [Chrome Extensions](chrome-extensions.md)
-- [Code Playgrounds](code-playgrounds.md)
-- [Commands](commands.md)
-
-Useful VSCode extensions pushed by the community. Please, submit a Pull Request or Open an issue for a useful extension that you know.
-
 | Extension | Description |
 | --------- | ----------- |
 [Python Indent](https://marketplace.visualstudio.com/items?itemName=KevinRose.vsc-python-indent) | Correct python indentation.
