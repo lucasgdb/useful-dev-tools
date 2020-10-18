@@ -27,4 +27,4 @@ Code Playground | Description
 [Jupyter Notebook](https://jupyter.org/) | Project Jupyter exists to develop open-source software, open-standards, and services for interactive computing across dozens of programming languages.
 [W3Schools Online Code Editor](https://www.w3schools.com/tryit/) | With W3Schools online code editor, you can edit HTML, CSS and JavaScript code, and view the result in your browser.
 [apiDoc](https://apidocjs.com/) | Creates a documentation from API annotations in your source code.
-[GDB online](https://www.onlinegdb.com/) |  online compiler and debugger tool for C, C++, Python, PHP, Ruby, C#, VB, Perl, Swift, Prolog, Javascript, Pascal, HTML, CSS, JS. Code, Compile, Run and Debug online from anywhere in world.
+[GDB online](https://www.onlinegdb.com/) |  Online compiler and debugger tool for C, C++, Python, PHP, Ruby, C#, VB, Perl, Swift, Prolog, Javascript, Pascal, HTML, CSS, JS. Code, Compile, Run and Debug online from anywhere in world.
