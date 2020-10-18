@@ -220,3 +220,4 @@ Desktop Tool | Description
 [WinsCP](https://winscp.net/) | WinSCP is a free and open-source SFTP, FTP, WebDAV, Amazon S3 and SCP client for Microsoft Windows.
 [Wireshark](https://www.wireshark.org/) | Wireshark is an open source, network protocol analyzer.
 [yEd](https://www.yworks.com/products/yed) | yEd is a powerful desktop application that can be used to quickly and effectively generate high-quality diagrams.
+[portainer](https://github.com/portainer/portainer) | Portainer is a lightweight management UI which allows you to easily manage your different Docker environments 
