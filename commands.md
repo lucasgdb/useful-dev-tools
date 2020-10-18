@@ -1,14 +1,7 @@
-# Useful commands
+# Useful Commands
 
-- [Tools](README.md)
-- [VSCode Extensions](vscode-extensions.md)
-- [Chrome Extensions](chrome-extensions.md)
-- [Code Playgrounds](code-playgrounds.md)
-
-Useful commands pushed by the community. Please, submit a Pull Request or Open an issue for a useful command that you know.
-
-Command | Description
----- | ----
+| Command | Description |
+| ------- | ----------- |
 `git clone <url copied from github>` | for creating a clone of your repository on your local machine
 `cd <file path name>` | for setting the directory inside the cmd window to the desired path name
 `git remote add upstream <original repository url>` | for setting the original as the upstream remote
