@@ -157,6 +157,7 @@ Desktop Tool | Description
 [DBeaver](https://dbeaver.io) | Free multi-platform database tool for developers, SQL programmers, database administrators and analysts. Supports all popular databases: MySQL, PostgreSQL, SQLite, Oracle, DB2, SQL Server...
 [Dash](https://kapeli.com/dash) | API Documentation, Cheat sheets, Snippet manager with instant search everything for macOS
 [Datagrip](https://www.jetbrains.com/datagrip/) | Database IDE with mostly databases compatibility. Paid, [check here](https://www.jetbrains.com/community/) if you apply for a free license.
+[DirEnv](https://direnv.net) | DirEnv is a shell extension that augments existing shells with a new feature that can load and unload environment variables depending on the current directory.
 [Docker](https://docker.com) | Easily run local linux-based containers.
 [Docker Compose](https://docs.docker.com/compose/) | Tool for defining and running multi-container Docker applications.
 [Eclipse](https://www.eclipse.org/ide/) | The Eclipse IDE is famous for Java Integrated Development Environment (IDE)
