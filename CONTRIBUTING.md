@@ -4,7 +4,7 @@
 
 You are encouraged to contribute to this repository during the hacktoberfest event! 🎉
 
-### Thank you for want to help to contribute to this project! :)
+## Follow these steps:
 
 - Fork this repository on Github.
 - Clone the forked repository:
