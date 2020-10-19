@@ -97,3 +97,5 @@
 [PHPCS](https://marketplace.visualstudio.com/items?itemName=ikappas.phpcs) | php cs adalahThe PHP Coding Standards Fixer (PHP CS Fixer) tool fixes your code to follow standards.
 [React native tools](https://marketplace.visualstudio.com/items?itemName=msjsdiag.vscode-react-native) | 
 Extension that provides a development environment for React Native Projects.
+[Numbered Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.numbered-bookmarks) | 
+It helps you to navigate in your code by setting the marker, moving between important markers easily and quickly.
