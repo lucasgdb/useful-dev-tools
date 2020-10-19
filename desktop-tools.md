@@ -61,6 +61,7 @@
 [Postman](https://www.getpostman.com/) | Postman Simplifies API Development.
 [Principle](https://principleformac.com/) | Principle makes it easy to design animated and interactive user interfaces.
 [Protege](https://protege.stanford.edu/) | Open source ontology editor and knowledge management system.
+[Process Explorer](https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer) | Process Explorer is a freeware task manager and system monitor for Microsoft Windows.
 [PuTTY](https://www.putty.org/) | PuTTY is a free and open-source terminal emulator, serial console and network file transfer application. It supports several network protocols, including SCP, SSH, Telnet, rlogin, and raw socket connection.
 [PyCharm](https://www.jetbrains.com/pycharm/) | The Python IDE for Professional Developers. Available in two versions Community (free), Professional (paid). [Check here](https://www.jetbrains.com/community/) if you apply for a free license.
 [RealVNC](https://www.realvnc.com/en/) | Tool to securely access remote desktop.
@@ -86,4 +87,4 @@
 [WinsCP](https://winscp.net/) | WinSCP is a free and open-source SFTP, FTP, WebDAV, Amazon S3 and SCP client for Microsoft Windows.
 [Wireshark](https://www.wireshark.org/) | Wireshark is an open source, network protocol analyzer.
 [yEd](https://www.yworks.com/products/yed) | yEd is a powerful desktop application that can be used to quickly and effectively generate high-quality diagrams.
-[portainer](https://github.com/portainer/portainer) | Portainer is a lightweight management UI which allows you to easily manage your different Docker environments 
+[portainer](https://github.com/portainer/portainer) | Portainer is a lightweight management UI which allows you to easily manage your different Docker environments
