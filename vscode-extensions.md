@@ -95,3 +95,5 @@
 [Vue VSCode Snippets](https://marketplace.visualstudio.com/items?itemName=sdras.vue-vscode-snippets) | Vue.js code snippets for VSCode.
 [Glitch](https://marketplace.visualstudio.com/items?itemName=glitch.glitch) | Collaborative editing and instant application deployment on Glitch from VS Code.
 [PHPCS](https://marketplace.visualstudio.com/items?itemName=ikappas.phpcs) | php cs adalahThe PHP Coding Standards Fixer (PHP CS Fixer) tool fixes your code to follow standards.
+[React native tools](https://marketplace.visualstudio.com/items?itemName=msjsdiag.vscode-react-native) | 
+Extension that provides a development environment for React Native Projects.

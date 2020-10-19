@@ -22,3 +22,4 @@
 [apiDoc](https://apidocjs.com/) | Creates a documentation from API annotations in your source code.
 [GDB online](https://www.onlinegdb.com/) |  Online compiler and debugger tool for C, C++, Python, PHP, Ruby, C#, VB, Perl, Swift, Prolog, Javascript, Pascal, HTML, CSS, JS. Code, Compile, Run and Debug online from anywhere in world.
 [Scrimba](https://scrimba.com/) | Learn to Code with Interactive Tutorials.
+[Google Colab](https://colab.research.google.com/) | Colab notebooks doesn't require configuration and allows anybody to write and execute arbitrary python code through the browser. Is especially great to machine learning, data analysis and education.
