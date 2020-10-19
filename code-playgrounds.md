@@ -29,4 +29,4 @@ Code Playground | Description
 [apiDoc](https://apidocjs.com/) | Creates a documentation from API annotations in your source code.
 [GDB online](https://www.onlinegdb.com/) |  Online compiler and debugger tool for C, C++, Python, PHP, Ruby, C#, VB, Perl, Swift, Prolog, Javascript, Pascal, HTML, CSS, JS. Code, Compile, Run and Debug online from anywhere in world.
 [Scrimba](https://scrimba.com/) | Learn to Code with Interactive Tutorials.
-[Scrimba](https://play.rust-lang.org/) | A browser interface to the Rust compiler to experiment with the language.
+[Rust online IDE](https://play.rust-lang.org/) | A browser interface to the Rust compiler to experiment with the language.
