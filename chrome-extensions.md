@@ -8,3 +8,5 @@
 [Fake Filler Chrome Extension](https://chrome.google.com/webstore/detail/fake-filler/bnjjngeaknajbdcgpfkgnonkmififhfo) | A Google Chrome extension that fills all input fields on a page with randomly generated fake data.
 [Web Developer Chrome Extension](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm) | A Google Chrome extension that adds a toolbar button to the browser with various web developer tools.
 [Octotree Chrome Extension](https://www.octotree.io/) |  Octotree is loaded with features that make GitHub code review and exploration awesome. Make your GitHub Dark-Mode.
+[WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm) | Great extension for developers that allows you to inspect web fonts by just hovering on them.
+[Colorzilla](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp) | ColorZilla allows you to get a color reading from any point in the browser. You can quickly adjust the selected color and paste it into your program.
