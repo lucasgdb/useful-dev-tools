@@ -25,6 +25,7 @@
 `git rebase <branch-name>` | Reapply commits from <branch-name> on top of branch that is currently in, help to sync between branch to avoid "n commit behind master"
 | **Terminal** |
 `cd <file path name>` | for setting the directory inside the cmd window to the desired path name
+`rmdir /S <folder name>` | remove a directory (folder) along with all the files in it
 | **Other** |
 `npx add-gitignore` | for adding a git ignore file to your project for a specific language
 `ssh <username>@<some address> (-p <port number>)` | Remotely connect to different server/computer for those that doesn't want to use additional file (e.g. PuTTY)
