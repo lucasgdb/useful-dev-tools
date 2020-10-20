@@ -97,3 +97,7 @@
 [PHPCS](https://marketplace.visualstudio.com/items?itemName=ikappas.phpcs) | php cs adalahThe PHP Coding Standards Fixer (PHP CS Fixer) tool fixes your code to follow standards.
 [React native tools](https://marketplace.visualstudio.com/items?itemName=msjsdiag.vscode-react-native) | Extension that provides a development environment for React Native Projects.
 [Numbered Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.numbered-bookmarks) | It helps you to navigate in your code by setting the marker, moving between important markers easily and quickly.
+[hadolint](https://marketplace.visualstudio.com/items?itemName=exiasr.hadolint) | A smarter Dockerfile linter that helps you build best practice Docker images. The linter is parsing the Dockerfile into an AST and performs rules on top of the AST. It is standing on the shoulders of ShellCheck to lint the Bash code inside RUN instructions.
+[CodeMetrics](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-codemetrics) | Computes complexity in TypeScript / JavaScript / Lua files.
+
+
