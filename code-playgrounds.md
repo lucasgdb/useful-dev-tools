@@ -24,3 +24,4 @@
 [Scrimba](https://scrimba.com/) | Learn to Code with Interactive Tutorials.
 [Google Colab](https://colab.research.google.com/) | Colab notebooks doesn't require configuration and allows anybody to write and execute arbitrary python code through the browser. Is especially great to machine learning, data analysis and education.
 [Kotlin Playground](https://play.kotlinlang.org/) | Kotlin Playground is an online sandbox to explore Kotlin programming language. Browse code samples directly in the browser.
+[Rust online IDE](https://play.rust-lang.org/) | A browser interface to the Rust compiler to experiment with the language.
