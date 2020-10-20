@@ -119,3 +119,4 @@
 [Vimium](https://github.com/philc/vimium) | The Hacker's Browser. Forget about your mouse. Use VIM to navigate on your browser.
 [Sejda PDF Editor](https://www.sejda.com/pdf-editor) | The best online PDF editor tool, easily edit text, put whiteout over text which is not needed and much more.
 [CSS Animate](https://cssanimate.com/) | Online tool for creating native CSS3 Keyframes Animation
+[Tinkercad](https://www.tinkercad.com/) | Tinkercad is a free, easy-to-use app for 3D design, electronics, and coding. It's used by teachers, kids, hobbyists, and designers to imagine, design, and make anything!
