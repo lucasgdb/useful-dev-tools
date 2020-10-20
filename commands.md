@@ -24,8 +24,16 @@
 `git reset --hard` | Resets the current branch to the latest commit.
 `git rebase <branch-name>` | Reapply commits from <branch-name> on top of branch that is currently in, help to sync between branch to avoid "n commit behind master"
 | **Terminal** |
-`cd <file path name>` | for setting the directory inside the cmd window to the desired path name
-`rmdir /S <folder name>` | remove a directory (folder) along with all the files in it
+`cd <file path name>` | For setting the directory inside the cmd window to the desired path name.
+`ls –option directory_name` | The output will be the listing of the directory contents.
+`clear` | The command line screen will be cleared.
+`pwd` | The current working directory will be displayed.
+`mkdir new_directory_name` | The user running this command must have suitable rights over the parent directory to create a directory or they will receive an error.
+`rmdir directory_name`| The user running this command must have suitable rights over the parent directory to remove a directory or they will receive an error
+`rm file_name` | Remove files from the directory.
+`mv Source_File_name Destination_File_Name` | Move file from source to destination.
+`cd <file path name>` | For setting the directory inside the cmd window to the desired path name
+`rmdir /S <folder name>` | Remove a directory (folder) along with all the files in it
 | **Other** |
-`npx add-gitignore` | for adding a git ignore file to your project for a specific language
+`npx add-gitignore` | For adding a git ignore file to your project for a specific language
 `ssh <username>@<some address> (-p <port number>)` | Remotely connect to different server/computer for those that doesn't want to use additional file (e.g. PuTTY)
