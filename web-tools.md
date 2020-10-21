@@ -35,6 +35,7 @@
 [JPEG and PNG Compactor](https://compresspng.com/pt/) | Make photos faster. (Step 2)
 [TinyPNG](https://tinypng.com/) | Smart PNG and JPEG compression.
 [MarkDown Editor](https://jbt.github.io/markdown-editor/) | Live (GitHub-flavored) Markdown Editor.
+[Lighthouse](https://developers.google.com/web/tools/lighthouse) | Lighthouse is an open-source, automated tool for verify the score and quality of web pages.
 [DevDocs](https://devdocs.io/) | API documentation and works offline.
 [MDN Docs](https://developer.mozilla.org/en-US/) | Resources for developers, by developers.
 [DigitalOcean](https://www.digitalocean.com/) | It make it simple to launch in the cloud and scale up as you grow—whether you’re running one virtual machine or ten thousand.
