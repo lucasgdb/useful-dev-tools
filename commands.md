@@ -34,6 +34,7 @@
 `mv Source_File_name Destination_File_Name` | Move file from source to destination.
 `cd <file path name>` | For setting the directory inside the cmd window to the desired path name
 `rmdir /S <folder name>` | Remove a directory (folder) along with all the files in it
+`touch` | The touch command is used to create a file
 | **Other** |
 `npx add-gitignore` | For adding a git ignore file to your project for a specific language
 `ssh <username>@<some address> (-p <port number>)` | Remotely connect to different server/computer for those that doesn't want to use additional file (e.g. PuTTY)
