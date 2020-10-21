@@ -19,6 +19,7 @@
 [Chocolatey](https://chocolatey.org) | Software management automation for Windows that wraps installers, executables, zips, and scripts into compiled packages
 [CLIon](https://www.jetbrains.com/clion/) | A cross-platform IDE for C and C++. Paid, [check here](https://www.jetbrains.com/community/) if you apply for a free license.
 [ClickUp](https://clickup.com/) | All your work in one place: Tasks, docs, chat, goals, & more
+[Cmder](https://cmder.net/) | Cmder is software package that provides great console experience even on Windows.
 [CodeLobster](http://www.codelobster.com/) | It is a free as well as a convenient PHP IDE that is used to develop fully featured web applications.
 [Compare It!](https://www.grigsoft.com/wincmp3.htm) | Compare texts, indicating the differences. Practical, light and fast.
 [Cypress.io](https://www.cypress.io/) | Fast, easy and reliable testing for anything that runs in a browser.
