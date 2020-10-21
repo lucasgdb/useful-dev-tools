@@ -45,6 +45,7 @@
 [Git Explorer](https://gitexplorer.com/) | Find the right git commands without digging through the web.
 [JSONLint](https://jsonlint.com/) | Validator and reformatter for JSON.
 [Conventional Commits](https://www.conventionalcommits.org) | A lightweight convention on top of commit messages.
+[Gitmoji](https://gitmoji.carloscuesta.me/) | An emoji guide for your commit messages
 [DB Fiddle](https://www.db-fiddle.com/) | An online SQL database playground for testing, debugging and sharing SQL snippets. Supports MySQL, PostgreSQL and SQLite.
 [Can I use](https://caniuse.com) | "Can I use" provides an up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers.
 [Convertio](https://convertio.co/jpeg-pdf/) | "Convertio" is an easy free file format converter that can help you create PNG, JPEG and PDF files.
