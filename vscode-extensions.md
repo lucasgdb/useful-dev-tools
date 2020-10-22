@@ -100,5 +100,5 @@
 [hadolint](https://marketplace.visualstudio.com/items?itemName=exiasr.hadolint) | A smarter Dockerfile linter that helps you build best practice Docker images. The linter is parsing the Dockerfile into an AST and performs rules on top of the AST. It is standing on the shoulders of ShellCheck to lint the Bash code inside RUN instructions.
 [CodeMetrics](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-codemetrics) | Computes complexity in TypeScript / JavaScript / Lua files.
 [Code Time](https://marketplace.visualstudio.com/items?itemName=softwaredotcom.swdc-vscode) | Code Time is an open source plugin for automatic programming metrics and time tracking.
-
+[HTML Boilerplate](https://marketplace.visualstudio.com/items?itemName=sidthesloth.html5-boilerplate) | Provides the standard HTML boilerplate used in all web applications.
 
