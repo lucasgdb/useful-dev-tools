@@ -13,3 +13,4 @@
 [Checkbot](https://www.checkbot.io/) | Browser extension that tests if your website follows 50+ SEO, speed and security best practices. Free tier for smaller websites.
 [Angular State Inspector](https://chrome.google.com/webstore/detail/angular-state-inspector/nelkodgfpddgpdbcjinaaalphkfffbem) | Helps you debug Angular component state
 [JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc?hl=en) | Validate and view JSON documents.
+[Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg?hl=en) |Wappalyzer is a technology profiler that shows you what websites are built with. 
