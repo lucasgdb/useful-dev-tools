@@ -123,3 +123,5 @@
 [CSS Animate](https://cssanimate.com/) | Online tool for creating native CSS3 Keyframes Animation
 [Tinkercad](https://www.tinkercad.com/) | Tinkercad is a free, easy-to-use app for 3D design, electronics, and coding. It's used by teachers, kids, hobbyists, and designers to imagine, design, and make anything!
 [JSON Formatter](https://jsonformatter.org/) | Online JSON Formatter and JSON Validator will format JSON data, and helps to validate, convert JSON to XML, JSON to CSV. Save and Share JSON.
+[Teachable Machine](https://teachablemachine.withgoogle.com/) | A fast, easy way to create machine learning models for your sites, apps, and more – no expertise or coding required.
+
