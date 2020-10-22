@@ -14,6 +14,7 @@
 [Arduino](https://www.arduino.cc) | Text-editor tools for make any robot or IoT.
 [Barrier](https://github.com/debauchee/barrier) | An open source and cross-platform KVM Emulator that allows developers to share mice/keyboards between multiple computers. (Awesome if you are developing on multiple devices over LAN i.e. Sockets, Webservers etc)
 [Brackets](http://brackets.io/) | An open Source and Modern text editor for web design.
+[Brave Browser](https://brave.com) | A Chrome-based browser without the tracking and analytics with builtin adblocking.
 [Burp Suite](https://portswigger.net/burp) | Burp Suite is a leading range of cybersecurity tools, brought to you by PortSwigger.
 [Carbonize](https://www.dangercove.com/carbonize) | Generate gorgeous, highly customizable images from your code snippets. Ready to save or share. (macOS client for Carbon)
 [Chocolatey](https://chocolatey.org) | Software management automation for Windows that wraps installers, executables, zips, and scripts into compiled packages
