@@ -12,3 +12,7 @@
 [Colorzilla](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp) | ColorZilla allows you to get a color reading from any point in the browser. You can quickly adjust the selected color and paste it into your program.
 [Checkbot](https://www.checkbot.io/) | Browser extension that tests if your website follows 50+ SEO, speed and security best practices. Free tier for smaller websites.
 [Angular State Inspector](https://chrome.google.com/webstore/detail/angular-state-inspector/nelkodgfpddgpdbcjinaaalphkfffbem) | Helps you debug Angular component state
+[JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc?hl=en) | Validate and view JSON documents. You can configure JSON parsing method in options page:
+- the default method (JSON content is extracted from displayed page) is faster but can (in some rare cases) alter or fail to parse the JSON content.
+- the safe method costs an extra XMLHttpRequest request (JSON content is extracted from the HTTP response) but is 100% safe.
+
