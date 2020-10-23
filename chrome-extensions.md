@@ -18,4 +18,5 @@
 [Edit this Cookie](https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg) | Add, delete, edit cookies.
 [Full Page Screen Capture](https://chrome.google.com/webstore/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl?hl=en) | Take a screenshot of your current page. 
 [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) | Block Ads and other annoying things on the web
+[Svg Export](https://chrome.google.com/webstore/detail/svg-export/naeaaedieihlkmdajjefioajbbdbdjgp?hl=en-GB) | This is great for designers and developers wanting to pull SVGs from sites without having to dive into the source code.
 
