@@ -40,6 +40,7 @@
 [GitHub CLI](https://cli.github.com/) | GitHub CLI brings GitHub to your terminal. Free and open source.
 [GitHub Desktop](https://desktop.github.com/) | A GUI for GitHub.
 [GoLand](https://www.jetbrains.com/go/) | A cross-platform IDE built specially for Go developers. Paid, [check here](https://www.jetbrains.com/community/) if you apply for a free license.
+[Git Bash](https://gitforwindows.org/) | Git for Windows provides a BASH emulation used to run Git from the command line. NIX users should feel right at home, as the BASH emulation behaves just like the "git" command in LINUX and UNIX environments.
 [Helm](https://helm.sh) | A package manager for kubernetes that allows simple but powerful software installs on a Kubernetes cluster.
 [HTTPie](https://httpie.org/) | A command line HTTP client, similar to cURL, but with a nicer output and syntax.
 [Homebrew](https://brew.sh/) | The missing package manager for macOS (or Linux).
@@ -78,6 +79,7 @@
 [Tmux](https://github.com/tmux/tmux/wiki) | A terminal multiplexer which allows multiple terminal sessions to be accessed simultaneously
 [Toggl](https://www.toggl.com) | A smart and usefull time tracker for teams containing helpful integrations like with Github for all plans.
 [Typora](https://typora.io/) | Typora is a great program for reading and writing MarkDown files.
+[TortoiseGit](https://tortoisegit.org/) | TortoiseGit is a Git revision control client, implemented as an extension to the Windows Shell and based on TortoiseSVN. Open source, it is licensed under the GNU General Public License.
 [uPyCraft](http://docs.dfrobot.com/upycraft/) | IDE for programming Micropython in microntoller boards.
 [VSCode](https://code.visualstudio.com/) | A rich text-editor by Microsoft to improve your workflow. (I love it <3)
 [VSCodium](https://code.vscodium.com/) | Open Source Binaries of VSCode.
