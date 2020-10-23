@@ -126,3 +126,5 @@
 [Coggle](https://coggle.it/) | Coggle is a free mind mapping web app. It helps in making hierarchical structures like branching trees to brainstorm ideas, visualize connections across concepts, and collaborate with others.
 [Teachable Machine](https://teachablemachine.withgoogle.com/) | A fast, easy way to create machine learning models for your sites, apps, and more – no expertise or coding required.
 [Free Code Camp](https://freecodecamp.org/) | Free training to become a web developer with several modules to study at your own pace. Also has several thousand user contributed YouTube videos in their channel. 
+[BrowserStack](https://www.browserstack.com/) | Browser and app testing.  This paid web tool allows a dev to test their application across multiple browsers running on different operating systems including mobile.
+[Write PHP Online](http://www.writephponline.com/) | Simple free website that allows you to execute PHP code.
