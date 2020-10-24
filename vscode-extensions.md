@@ -103,4 +103,5 @@
 [HTML Boilerplate](https://marketplace.visualstudio.com/items?itemName=sidthesloth.html5-boilerplate) | Provides the standard HTML boilerplate used in all web applications.
 [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag) | Automatically rename paired HTML/XML tag, same as Visual Studio IDE does.
 [Intellij Idea Keybindings](https://marketplace.visualstudio.com/items?itemName=k--kato.intellij-idea-keybindings) | For those who once were used to use Intellij or other tools from Jetbrains, this plugin allow you to include the keymaps for popular JetBrains products like IntelliJ Ultimate, WebStorm, PyCharm, PHP Storm, etc.
+[Solargraph](https://github.com/castwide/vscode-solargraph) | Solargraph is a language server that provides intellisense, code completion, and inline documentation for Ruby.
 
