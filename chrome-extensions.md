@@ -19,4 +19,4 @@
 [Full Page Screen Capture](https://chrome.google.com/webstore/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl?hl=en) | Take a screenshot of your current page. 
 [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) | Block Ads and other annoying things on the web
 [Svg Export](https://chrome.google.com/webstore/detail/svg-export/naeaaedieihlkmdajjefioajbbdbdjgp?hl=en-GB) | This is great for designers and developers wanting to pull SVGs from sites without having to dive into the source code.
-
+[Stylus](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne?hl=en) | Stylus allows you to easily install themes and skins for many popular sites.
