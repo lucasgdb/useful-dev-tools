@@ -30,6 +30,8 @@
 [VSCodium](https://code.vscodium.com/) | Open Source Binaries of VSCode.
 
 | **Infrastucture/DevOps** |
+[Apache JMeter](https://jmeter.apache.org/) | The Apache JMeter™ application is open source software, a 100% pure Java application designed to load test functional behavior and measure performance.
+[Appium](http://appium.io/) | Appium is an open source test automation framework for use with native, hybrid and mobile web apps.
 [Docker](https://docker.com) | Easily run local linux-based containers.
 [Docker Compose](https://docs.docker.com/compose/) | Tool for defining and running multi-container Docker applications.
 [portainer](https://github.com/portainer/portainer) | Portainer is a lightweight management UI which allows you to easily manage your different Docker environments
@@ -38,6 +40,7 @@
 [VirtualBox](https://www.virtualbox.org/) | An open source virtualization product developed by Oracle.
 [WSL2](https://docs.microsoft.com/en-us/windows/wsl/) | Windows Subsystem for Linux allows you to run a Linux shell and run Linux commands on Windows 10.
 [Wireshark](https://www.wireshark.org/) | Wireshark is an open source, network protocol analyzer.
+[Wakatime](https://wakatime.com/) | Quantify your coding. Open source plugins for automatic programming metrics.
 
 
 
@@ -53,6 +56,8 @@
 [StarShip](https://starship.rs/) | A beatiful, minimal and customizable prompt for most existent shells (included PowerShell).
 [DirEnv](https://direnv.net) | DirEnv is a shell extension that augments existing shells with a new feature that can load and unload environment variables depending on the current directory.
 [ohmyzsh](https://ohmyz.sh/) | A delightful, open source, community-driven framework for managing Zsh configuration
+[HTTPie](https://httpie.org/) | A command line HTTP client, similar to cURL, but with a nicer output and syntax.
+[nmap](https://github.com/nmap/nmap) | Nmap the most powerful network mapper.
 
 
 | **Version Control** |
@@ -65,52 +70,59 @@
 [Sourcetree](https://www.sourcetreeapp.com/) | A Simple GIT UI for windows and mac
 [Toggl](https://www.toggl.com) | A smart and usefull time tracker for teams containing helpful integrations like with Github for all plans.
 
+
 | **Utils** |
 [Alfred](https://www.alfredapp.com/) | Alfred is a productivity application for macOS, which boosts your efficiency with hotkeys, keywords and text expansion.
 [Barrier](https://github.com/debauchee/barrier) | An open source and cross-platform KVM Emulator that allows developers to share mice/keyboards between multiple computers. (Awesome if you are developing on multiple devices over LAN i.e. Sockets, Webservers etc)
 [ClickUp](https://clickup.com/) | All your work in one place: Tasks, docs, chat, goals, & more
 [Dash](https://kapeli.com/dash) | API Documentation, Cheat sheets, Snippet manager with instant search everything for macOS
 [Icon8](https://icons8.com/app) | Icons8 allows designers to express their ideas giving the right design elements at the right time.
+[Pexels](https://www.pexels.com) | Pexels. Free stock images, photos and videos.
 [Mailspring](https://getmailspring.com/) | Powerful n' fancy cross-plataform mail client.
 [Peek](https://github.com/phw/peek) | App for recording screen areas, e.g. for easily showing UI features of your own apps or for showing a bug in bug reports.
 [Process Explorer](https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer) | Process Explorer is a freeware task manager and system monitor for Microsoft Windows.
 [yEd](https://www.yworks.com/products/yed) | yEd is a powerful desktop application that can be used to quickly and effectively generate high-quality diagrams.
 [ColorPicker](https://github.com/keshavbhatt/ColorPicker) | A colour picker and colour editor for web designers and digital artists, With Color Picker, identifying the colours, saving and editing is a quick and simple job.
+[Agent Ransack](https://www.mythicsoft.com/agentransack/) | Agent Ransack is a file search tool for finding files on your PC or network drives.
+[WinsCP](https://winscp.net/) | WinSCP is a free and open-source SFTP, FTP, WebDAV, Amazon S3 and SCP client for Microsoft Windows.
+[Termius](https://termius.com/) | A modern cross-plataform SSH/SFTP Client.
+
+
+
+| **Debug/Security** |
+[Burp Suite](https://portswigger.net/burp) | Burp Suite is a leading range of cybersecurity tools, brought to you by PortSwigger.
+[Compare It!](https://www.grigsoft.com/wincmp3.htm) | Compare texts, indicating the differences. Practical, light and fast.
+[Cypress.io](https://www.cypress.io/) | Fast, easy and reliable testing for anything that runs in a browser.
+[Fiddler](https://www.telerik.com/fiddler) | The web debugging proxy for any browser, system or platform.
+[Insomnia](https://insomnia.rest/) | Debug APIs like a human, not a robot.
+[ngrok](https://ngrok.com/) | ngrok secure introspectable tunnels to localhost webhook development tool and debugging tool.
+[RealVNC](https://www.realvnc.com/en/) | Tool to securely access remote desktop.
+[OWASP ZAP](https://www.zaproxy.org/) | Useful open-source proxy tool for developing with security in mind.
+[Postman](https://www.getpostman.com/) | Postman Simplifies API Development.
+
+
+| **Database** |
+
+
+
+
 
 
 
 [Adobe XD](https://www.adobe.com/products/xd.html?ef_id=EAIaIQobChMI7qXd4u2p7AIVNz6tBh2Idw-OEAAYASAAEgJYXvD_BwE:G:s&s_kwcid=AL!3085!3!372875864628!b!!g!!!2075907083!76930640392) | UI/UX design tool that is good for making wireframe model for mobile and web app
-[Agent Ransack](https://www.mythicsoft.com/agentransack/) | Agent Ransack is a file search tool for finding files on your PC or network drives.
-[Apache JMeter](https://jmeter.apache.org/) | The Apache JMeter™ application is open source software, a 100% pure Java application designed to load test functional behavior and measure performance.
-[Appium](http://appium.io/) | Appium is an open source test automation framework for use with native, hybrid and mobile web apps.
 [Brave Browser](https://brave.com) | A Chrome-based browser without the tracking and analytics with builtin adblocking.
-[Burp Suite](https://portswigger.net/burp) | Burp Suite is a leading range of cybersecurity tools, brought to you by PortSwigger.
 [Chocolatey](https://chocolatey.org) | Software management automation for Windows that wraps installers, executables, zips, and scripts into compiled packages
-[Compare It!](https://www.grigsoft.com/wincmp3.htm) | Compare texts, indicating the differences. Practical, light and fast.
-[Cypress.io](https://www.cypress.io/) | Fast, easy and reliable testing for anything that runs in a browser.
 [DBeaver](https://dbeaver.io) | Free multi-platform database tool for developers, SQL programmers, database administrators and analysts. Supports all popular databases: MySQL, PostgreSQL, SQLite, Oracle, DB2, SQL Server...
 [Expo](https://expo.io/) | Mobile application development which can run JavaScript. Useful for React Native
-[Fiddler](https://www.telerik.com/fiddler) | The web debugging proxy for any browser, system or platform.
 [Flutter](https://flutter.dev/) | Flutter is Google’s UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase. It is free and open source.
 [Genymotion Android Emulator](https://www.genymotion.com/) | Cross-platform Android emulator for developers & QA engineers. Develop & automate your tests to deliver best quality apps. On desktop, AWS, GCP & SaaS.
-[HTTPie](https://httpie.org/) | A command line HTTP client, similar to cURL, but with a nicer output and syntax.
 [Homebrew](https://brew.sh/) | The missing package manager for macOS (or Linux).
 [Indri](https://www.lemurproject.org/indri.php) | Tool for creating index and querying the index for any size dataset.
-[Insomnia](https://insomnia.rest/) | Debug APIs like a human, not a robot.
-[ngrok](https://ngrok.com/) | ngrok secure introspectable tunnels to localhost webhook development tool and debugging tool.
-[OWASP ZAP](https://www.zaproxy.org/) | Useful open-source proxy tool for developing with security in mind.
-[Pexels](https://www.pexels.com) | Pexels. Free stock images, photos and videos.
 [pgAdmin](http://postgresapp.com/) | A full-featured PostgreSQL install for MacOS.
 [Postbird](https://www.electronjs.org/apps/postbird) | App to graphically manage your PostgreSQL BDs
-[Postman](https://www.getpostman.com/) | Postman Simplifies API Development.
 [Principle](https://principleformac.com/) | Principle makes it easy to design animated and interactive user interfaces.
 
-[RealVNC](https://www.realvnc.com/en/) | Tool to securely access remote desktop.
 [Robo 3T](https://robomongo.org/) | A GUI for editing and viewing MongoDB Data.
 [Scoop](https://scoop.sh/) | Scoop is a command-line installer for Windows.
 [TablePlus](https://tableplus.com//) | Database management made easy. Modern, native, and friendly GUI tool for relational databases: MySQL, PostgreSQL, SQLite & more
-[Termius](https://termius.com/) | A modern cross-plataform SSH/SFTP Client.
 [Vercel](https://vercel.com) | The Global Serverless Platform. (CLI).
-[Wakatime](https://wakatime.com/) | Quantify your coding. Open source plugins for automatic programming metrics.
-[WinsCP](https://winscp.net/) | WinSCP is a free and open-source SFTP, FTP, WebDAV, Amazon S3 and SCP client for Microsoft Windows.
-[nmap](https://github.com/nmap/nmap) | Nmap the most powerful network mapper.
