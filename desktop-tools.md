@@ -102,27 +102,27 @@
 
 
 | **Database** |
+[DBeaver](https://dbeaver.io) | Free multi-platform database tool for developers, SQL programmers, database administrators and analysts. Supports all popular databases: MySQL, PostgreSQL, SQLite, Oracle, DB2, SQL Server...
+[TablePlus](https://tableplus.com//) | Database management made easy. Modern, native, and friendly GUI tool for relational databases: MySQL, PostgreSQL, SQLite & more
+[pgAdmin](http://postgresapp.com/) | A full-featured PostgreSQL install for MacOS.
+[Postbird](https://www.electronjs.org/apps/postbird) | App to graphically manage your PostgreSQL BDs
+[Robo 3T](https://robomongo.org/) | A GUI for editing and viewing MongoDB Data.
 
-
-
+| **Package Manager** |
+[Chocolatey](https://chocolatey.org) | Software management automation for Windows that wraps installers, executables, zips, and scripts into compiled packages
+[Scoop](https://scoop.sh/) | Scoop is a command-line installer for Windows.
+[Yarn](https://yarnpkg.com/) | Yarn is a package manager that doubles down as project manager. Whether you work on one-shot projects or large monorepos, as a hobbyist or an enterprise user, we've got you covered.
+[Homebrew](https://brew.sh/) | The missing package manager for macOS (or Linux).
 
 
 
 
 [Adobe XD](https://www.adobe.com/products/xd.html?ef_id=EAIaIQobChMI7qXd4u2p7AIVNz6tBh2Idw-OEAAYASAAEgJYXvD_BwE:G:s&s_kwcid=AL!3085!3!372875864628!b!!g!!!2075907083!76930640392) | UI/UX design tool that is good for making wireframe model for mobile and web app
 [Brave Browser](https://brave.com) | A Chrome-based browser without the tracking and analytics with builtin adblocking.
-[Chocolatey](https://chocolatey.org) | Software management automation for Windows that wraps installers, executables, zips, and scripts into compiled packages
-[DBeaver](https://dbeaver.io) | Free multi-platform database tool for developers, SQL programmers, database administrators and analysts. Supports all popular databases: MySQL, PostgreSQL, SQLite, Oracle, DB2, SQL Server...
 [Expo](https://expo.io/) | Mobile application development which can run JavaScript. Useful for React Native
 [Flutter](https://flutter.dev/) | Flutter is Google’s UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase. It is free and open source.
 [Genymotion Android Emulator](https://www.genymotion.com/) | Cross-platform Android emulator for developers & QA engineers. Develop & automate your tests to deliver best quality apps. On desktop, AWS, GCP & SaaS.
-[Homebrew](https://brew.sh/) | The missing package manager for macOS (or Linux).
 [Indri](https://www.lemurproject.org/indri.php) | Tool for creating index and querying the index for any size dataset.
-[pgAdmin](http://postgresapp.com/) | A full-featured PostgreSQL install for MacOS.
-[Postbird](https://www.electronjs.org/apps/postbird) | App to graphically manage your PostgreSQL BDs
 [Principle](https://principleformac.com/) | Principle makes it easy to design animated and interactive user interfaces.
 
-[Robo 3T](https://robomongo.org/) | A GUI for editing and viewing MongoDB Data.
-[Scoop](https://scoop.sh/) | Scoop is a command-line installer for Windows.
-[TablePlus](https://tableplus.com//) | Database management made easy. Modern, native, and friendly GUI tool for relational databases: MySQL, PostgreSQL, SQLite & more
 [Vercel](https://vercel.com) | The Global Serverless Platform. (CLI).
