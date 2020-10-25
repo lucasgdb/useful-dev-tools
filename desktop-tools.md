@@ -1,6 +1,5 @@
 # Desktop Tools 🖥
 
-
 | Tool | Description |
 | ---- | ----------- |
 | **IDE/Text Editor** |
