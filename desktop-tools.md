@@ -1,5 +1,6 @@
 # Desktop Tools 🖥
 
+| ------ Topic ----- |
 | Tool | Description |
 | ---- | ----------- |
 
@@ -99,6 +100,7 @@
 [RealVNC](https://www.realvnc.com/en/) | Tool to securely access remote desktop.
 [OWASP ZAP](https://www.zaproxy.org/) | Useful open-source proxy tool for developing with security in mind.
 [Postman](https://www.getpostman.com/) | Postman Simplifies API Development.
+[Vercel](https://vercel.com) | The Global Serverless Platform. (CLI).
 
 
 | **Database** |
@@ -107,6 +109,7 @@
 [pgAdmin](http://postgresapp.com/) | A full-featured PostgreSQL install for MacOS.
 [Postbird](https://www.electronjs.org/apps/postbird) | App to graphically manage your PostgreSQL BDs
 [Robo 3T](https://robomongo.org/) | A GUI for editing and viewing MongoDB Data.
+[Indri](https://www.lemurproject.org/indri.php) | Tool for creating index and querying the index for any size dataset.
 
 | **Package Manager** |
 [Chocolatey](https://chocolatey.org) | Software management automation for Windows that wraps installers, executables, zips, and scripts into compiled packages
@@ -123,7 +126,10 @@
 [Flutter](https://flutter.dev/) | Flutter is Google’s UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase. It is free and open source.
 [Principle](https://principleformac.com/) | Principle makes it easy to design animated and interactive user interfaces.
 
-[Brave Browser](https://brave.com) | A Chrome-based browser without the tracking and analytics with builtin adblocking.
-[Indri](https://www.lemurproject.org/indri.php) | Tool for creating index and querying the index for any size dataset.
 
-[Vercel](https://vercel.com) | The Global Serverless Platform. (CLI).
+| **Browser** |
+[Brave Browser](https://brave.com) | A Chrome-based browser without the tracking and analytics with builtin adblocking.
+[Chromium](https://www.chromium.org/Home) | Chromium is an open-source browser project that aims to build a safer, faster, and more stable way for all Internet users to experience the web.
+[FireFox Developer Edition](https://www.mozilla.org/pt-BR/firefox/developer/) | The Firefox Developer Edition is a version of Firefox that's tailored for web developers.
+[Google Chrome Dev](https://www.google.com/intl/pt-BR/chrome/dev/) | Chrome version to build sites to the next version of the web. Updated Weekly.
+
