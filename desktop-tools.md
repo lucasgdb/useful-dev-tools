@@ -81,10 +81,11 @@
 [Typora](https://typora.io/) | Typora is a great program for reading and writing MarkDown files.
 [TortoiseGit](https://tortoisegit.org/) | TortoiseGit is a Git revision control client, implemented as an extension to the Windows Shell and based on TortoiseSVN. Open source, it is licensed under the GNU General Public License.
 [uPyCraft](http://docs.dfrobot.com/upycraft/) | IDE for programming Micropython in microntoller boards.
-[VSCode](https://code.visualstudio.com/) | A rich text-editor by Microsoft to improve your workflow. (I love it <3)
+[VSCode](https://code.visualstudio.com/) | A rich text-editor by Microsoft to improve your workflow. (I love it <3).
 [VSCodium](https://code.vscodium.com/) | Open Source Binaries of VSCode.
-[Vercel](https://vercel.com) | The Global Serverless Platform. (CLI)
-[vim](https://www.vim.org) | Highly configurable text editor
+[Vercel](https://vercel.com) | The Global Serverless Platform. (CLI).
+[vim](https://www.vim.org) | Highly configurable text editor.
+[NeoVIm](https:https://neovim.io/) | NeoVim is a fork of the original Vim more focus on community contribution, and has new features, such as plugins, more customization and a opensource driven project.
 [VirtualBox](https://www.virtualbox.org/) | An open source virtualization product developed by Oracle.
 [WSL2](https://docs.microsoft.com/en-us/windows/wsl/) | Windows Subsystem for Linux allows you to run a Linux shell and run Linux commands on Windows 10.
 [Wakatime](https://wakatime.com/) | Quantify your coding. Open source plugins for automatic programming metrics.
@@ -92,5 +93,6 @@
 [Wireshark](https://www.wireshark.org/) | Wireshark is an open source, network protocol analyzer.
 [yEd](https://www.yworks.com/products/yed) | yEd is a powerful desktop application that can be used to quickly and effectively generate high-quality diagrams.
 [portainer](https://github.com/portainer/portainer) | Portainer is a lightweight management UI which allows you to easily manage your different Docker environments
-[nmap](https://github.com/nmap/nmap) | Nmap the most powerful network mapper
+[nmap](https://github.com/nmap/nmap) | Nmap the most powerful network mapper.
 [ColorPicker](https://github.com/keshavbhatt/ColorPicker) | A colour picker and colour editor for web designers and digital artists, With Color Picker, identifying the colours, saving and editing is a quick and simple job.
+[StarShip](https://starship.rs/) | A beatiful, minimal and customizable prompt for most existent shells (included PowerShell).
