@@ -34,24 +34,26 @@
 `mv Source_File_name Destination_File_Name` | Move file from source to destination.
 `cd <file path name>` | For setting the directory inside the cmd window to the desired path name
 `rmdir /S <folder name>` | Remove a directory (folder) along with all the files in it
-  | **Docker** |
-  ` docker ps ` |  List only active containers.
-  ` docker ps -a` |  List all containers.
-  ` docker stop [container-name/container-id] ` |  Stop a container.
-  ` docker stop -t1 ` | Stop a container (timeout = 1 second).
-  ` docker rm [container-name/container-id] ` |  Remove a stopped container.
-  `docker rm -f [container-name/container-id] ` | Force stop and remove a container.
-  ` docker rm -f $(docker ps-aq) ` |  Remove all containers.
-  ` docker rm $(docker ps -q -f “status=exited”) ` | Remove all stopped containers.
-  ` docker exec -it mywildfly bash` |  Execute and access bash inside a WildFly container.
-  ` docker build -t [username/]<image-name>[:tag] <dockerfile-path> ` | Build an image.
-  ` docker build -t myimage:latest . ` | Build an image called myimage using the Dockerfile in the same folder where the command was executed.
-  ` docker history [username/]<image-name>[:tag] ` | Check the history of an image.
-  ` docker images` | List the images.
-  ` docker rmi [username/]<image-name>[:tag] ` | Remove an image from the local registry.
-  ` docker tag <image-name> <new-image-name> ` | Creates a new image with the latest tag.
-  ` docker tag <image-name>[:tag][username/] <new-image-name>.[:new-tag] ` | Creates a new image specifying the “new tag” from an existing image and tag.
-  `docker push [registry/][username/]<image-name>[:tag] ` | Push an image to a registry.
+`touch` | The touch command is used to create a file
+`history` | Display or manipulate the history list
+| **Docker** |
+`docker ps` |  List only active containers.
+`docker ps -a` |  List all containers.
+`docker stop [container-name/container-id]` |  Stop a container.
+`docker stop -t1` | Stop a container (timeout = 1 second).
+`docker rm [container-name/container-id]` |  Remove a stopped container.
+`docker rm -f [container-name/container-id]` | Force stop and remove a container.
+`docker rm -f $(docker ps-aq)` |  Remove all containers.
+`docker rm $(docker ps -q -f “status=exited”)` | Remove all stopped containers.
+`docker exec -it mywildfly bash` |  Execute and access bash inside a WildFly container.
+`docker build -t [username/]<image-name>[:tag] <dockerfile-path>` | Build an image.
+`docker build -t myimage:latest .` | Build an image called myimage using the Dockerfile in the same folder where the command was executed.
+`docker history [username/]<image-name>[:tag]` | Check the history of an image.
+`docker images` | List the images.
+`docker rmi [username/]<image-name>[:tag]` | Remove an image from the local registry.
+`docker tag <image-name> <new-image-name>` | Creates a new image with the latest tag.
+`docker tag <image-name>[:tag][username/] <new-image-name>.[:new-tag]` | Creates a new image specifying the “new tag” from an existing image and tag.
+`docker push [registry/][username/]<image-name>[:tag]` | Push an image to a registry.
 | **Other** |
 `npx add-gitignore` | For adding a git ignore file to your project for a specific language
 `ssh <username>@<some address> (-p <port number>)` | Remotely connect to different server/computer for those that doesn't want to use additional file (e.g. PuTTY)

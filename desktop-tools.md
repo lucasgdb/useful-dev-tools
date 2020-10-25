@@ -14,11 +14,13 @@
 [Arduino](https://www.arduino.cc) | Text-editor tools for make any robot or IoT.
 [Barrier](https://github.com/debauchee/barrier) | An open source and cross-platform KVM Emulator that allows developers to share mice/keyboards between multiple computers. (Awesome if you are developing on multiple devices over LAN i.e. Sockets, Webservers etc)
 [Brackets](http://brackets.io/) | An open Source and Modern text editor for web design.
+[Brave Browser](https://brave.com) | A Chrome-based browser without the tracking and analytics with builtin adblocking.
 [Burp Suite](https://portswigger.net/burp) | Burp Suite is a leading range of cybersecurity tools, brought to you by PortSwigger.
 [Carbonize](https://www.dangercove.com/carbonize) | Generate gorgeous, highly customizable images from your code snippets. Ready to save or share. (macOS client for Carbon)
 [Chocolatey](https://chocolatey.org) | Software management automation for Windows that wraps installers, executables, zips, and scripts into compiled packages
 [CLIon](https://www.jetbrains.com/clion/) | A cross-platform IDE for C and C++. Paid, [check here](https://www.jetbrains.com/community/) if you apply for a free license.
 [ClickUp](https://clickup.com/) | All your work in one place: Tasks, docs, chat, goals, & more
+[Cmder](https://cmder.net/) | Cmder is software package that provides great console experience even on Windows.
 [CodeLobster](http://www.codelobster.com/) | It is a free as well as a convenient PHP IDE that is used to develop fully featured web applications.
 [Compare It!](https://www.grigsoft.com/wincmp3.htm) | Compare texts, indicating the differences. Practical, light and fast.
 [Cypress.io](https://www.cypress.io/) | Fast, easy and reliable testing for anything that runs in a browser.
@@ -38,6 +40,7 @@
 [GitHub CLI](https://cli.github.com/) | GitHub CLI brings GitHub to your terminal. Free and open source.
 [GitHub Desktop](https://desktop.github.com/) | A GUI for GitHub.
 [GoLand](https://www.jetbrains.com/go/) | A cross-platform IDE built specially for Go developers. Paid, [check here](https://www.jetbrains.com/community/) if you apply for a free license.
+[Git Bash](https://gitforwindows.org/) | Git for Windows provides a BASH emulation used to run Git from the command line. NIX users should feel right at home, as the BASH emulation behaves just like the "git" command in LINUX and UNIX environments.
 [Helm](https://helm.sh) | A package manager for kubernetes that allows simple but powerful software installs on a Kubernetes cluster.
 [HTTPie](https://httpie.org/) | A command line HTTP client, similar to cURL, but with a nicer output and syntax.
 [Homebrew](https://brew.sh/) | The missing package manager for macOS (or Linux).
@@ -76,6 +79,7 @@
 [Tmux](https://github.com/tmux/tmux/wiki) | A terminal multiplexer which allows multiple terminal sessions to be accessed simultaneously
 [Toggl](https://www.toggl.com) | A smart and usefull time tracker for teams containing helpful integrations like with Github for all plans.
 [Typora](https://typora.io/) | Typora is a great program for reading and writing MarkDown files.
+[TortoiseGit](https://tortoisegit.org/) | TortoiseGit is a Git revision control client, implemented as an extension to the Windows Shell and based on TortoiseSVN. Open source, it is licensed under the GNU General Public License.
 [uPyCraft](http://docs.dfrobot.com/upycraft/) | IDE for programming Micropython in microntoller boards.
 [VSCode](https://code.visualstudio.com/) | A rich text-editor by Microsoft to improve your workflow. (I love it <3)
 [VSCodium](https://code.vscodium.com/) | Open Source Binaries of VSCode.
@@ -89,3 +93,4 @@
 [yEd](https://www.yworks.com/products/yed) | yEd is a powerful desktop application that can be used to quickly and effectively generate high-quality diagrams.
 [portainer](https://github.com/portainer/portainer) | Portainer is a lightweight management UI which allows you to easily manage your different Docker environments
 [nmap](https://github.com/nmap/nmap) | Nmap the most powerful network mapper
+[ColorPicker](https://github.com/keshavbhatt/ColorPicker) | A colour picker and colour editor for web designers and digital artists, With Color Picker, identifying the colours, saving and editing is a quick and simple job.

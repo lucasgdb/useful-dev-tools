@@ -35,6 +35,7 @@
 [JPEG and PNG Compactor](https://compresspng.com/pt/) | Make photos faster. (Step 2)
 [TinyPNG](https://tinypng.com/) | Smart PNG and JPEG compression.
 [MarkDown Editor](https://jbt.github.io/markdown-editor/) | Live (GitHub-flavored) Markdown Editor.
+[Lighthouse](https://developers.google.com/web/tools/lighthouse) | Lighthouse is an open-source, automated tool for verify the score and quality of web pages.
 [DevDocs](https://devdocs.io/) | API documentation and works offline.
 [MDN Docs](https://developer.mozilla.org/en-US/) | Resources for developers, by developers.
 [DigitalOcean](https://www.digitalocean.com/) | It make it simple to launch in the cloud and scale up as you grow—whether you’re running one virtual machine or ten thousand.
@@ -45,6 +46,7 @@
 [Git Explorer](https://gitexplorer.com/) | Find the right git commands without digging through the web.
 [JSONLint](https://jsonlint.com/) | Validator and reformatter for JSON.
 [Conventional Commits](https://www.conventionalcommits.org) | A lightweight convention on top of commit messages.
+[Gitmoji](https://gitmoji.carloscuesta.me/) | An emoji guide for your commit messages
 [DB Fiddle](https://www.db-fiddle.com/) | An online SQL database playground for testing, debugging and sharing SQL snippets. Supports MySQL, PostgreSQL and SQLite.
 [Can I use](https://caniuse.com) | "Can I use" provides an up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers.
 [Convertio](https://convertio.co/jpeg-pdf/) | "Convertio" is an easy free file format converter that can help you create PNG, JPEG and PDF files.
@@ -120,3 +122,10 @@
 [Sejda PDF Editor](https://www.sejda.com/pdf-editor) | The best online PDF editor tool, easily edit text, put whiteout over text which is not needed and much more.
 [CSS Animate](https://cssanimate.com/) | Online tool for creating native CSS3 Keyframes Animation
 [Tinkercad](https://www.tinkercad.com/) | Tinkercad is a free, easy-to-use app for 3D design, electronics, and coding. It's used by teachers, kids, hobbyists, and designers to imagine, design, and make anything!
+[JSON Formatter](https://jsonformatter.org/) | Online JSON Formatter and JSON Validator will format JSON data, and helps to validate, convert JSON to XML, JSON to CSV. Save and Share JSON.
+[Coggle](https://coggle.it/) | Coggle is a free mind mapping web app. It helps in making hierarchical structures like branching trees to brainstorm ideas, visualize connections across concepts, and collaborate with others.
+[Teachable Machine](https://teachablemachine.withgoogle.com/) | A fast, easy way to create machine learning models for your sites, apps, and more – no expertise or coding required.
+[Free Code Camp](https://freecodecamp.org/) | Free training to become a web developer with several modules to study at your own pace. Also has several thousand user contributed YouTube videos in their channel. 
+[BrowserStack](https://www.browserstack.com/) | Browser and app testing.  This paid web tool allows a dev to test their application across multiple browsers running on different operating systems including mobile.
+[Write PHP Online](http://www.writephponline.com/) | Simple free website that allows you to execute PHP code.
+[Exercism](https://exercism.io/) | Exercism is an online, open source and free access platform that offers code practice and guidance in 50 different programming languages.
