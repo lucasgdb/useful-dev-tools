@@ -3,7 +3,6 @@
 | Tool | Description |
 | ---- | ----------- |
 
-| **IDE/Text Editor** |
 [ATOM](https://atom.io/) | A hackable text editor for the 21st Century.
 [Android Studio](https://developer.android.com/studio) | Android Studio is the official Integrated Development Environment (IDE) for Android app development, based on IntelliJ IDEA.
 [Arduino](https://www.arduino.cc) | Text-editor tools for make any robot or IoT.
@@ -28,8 +27,6 @@
 [VSCode](https://code.visualstudio.com/) | A rich text-editor by Microsoft to improve your workflow. (I love it <3).
 [Protege](https://protege.stanford.edu/) | Open source ontology editor and knowledge management system.
 [VSCodium](https://code.vscodium.com/) | Open Source Binaries of VSCode.
-
-| **Infrastucture/DevOps** |
 [Apache JMeter](https://jmeter.apache.org/) | The Apache JMeter™ application is open source software, a 100% pure Java application designed to load test functional behavior and measure performance.
 [Appium](http://appium.io/) | Appium is an open source test automation framework for use with native, hybrid and mobile web apps.
 [Docker](https://docker.com) | Easily run local linux-based containers.
@@ -41,11 +38,6 @@
 [WSL2](https://docs.microsoft.com/en-us/windows/wsl/) | Windows Subsystem for Linux allows you to run a Linux shell and run Linux commands on Windows 10.
 [Wireshark](https://www.wireshark.org/) | Wireshark is an open source, network protocol analyzer.
 [Wakatime](https://wakatime.com/) | Quantify your coding. Open source plugins for automatic programming metrics.
-
-
-
-
-| **Bashs/Terminals/Consoles/Prompts** |
 [ASCIinema](https://asciinema.org/) | Record and share your terminal sessions, the right way.
 [Cmder](https://cmder.net/) | Cmder is software package that provides great console experience even on Windows.
 [iTerm2](https://www.iterm2.com/) | A terminal emulator for macOS to replace Terminal.
@@ -58,9 +50,6 @@
 [ohmyzsh](https://ohmyz.sh/) | A delightful, open source, community-driven framework for managing Zsh configuration
 [HTTPie](https://httpie.org/) | A command line HTTP client, similar to cURL, but with a nicer output and syntax.
 [nmap](https://github.com/nmap/nmap) | Nmap the most powerful network mapper.
-
-
-| **Version Control** |
 [GitHub CLI](https://cli.github.com/) | GitHub CLI brings GitHub to your terminal. Free and open source.
 [GitHub Desktop](https://desktop.github.com/) | A GUI for GitHub.
 [TortoiseGit](https://tortoisegit.org/) | TortoiseGit is a Git revision control client, implemented as an extension to the Windows Shell and based on TortoiseSVN. Open source, it is licensed under the GNU General Public License.
@@ -69,9 +58,6 @@
 [Git Bash](https://gitforwindows.org/) | Git for Windows provides a BASH emulation used to run Git from the command line. NIX users should feel right at home, as the BASH emulation behaves just like the "git" command in LINUX and UNIX environments.
 [Sourcetree](https://www.sourcetreeapp.com/) | A Simple GIT UI for windows and mac
 [Toggl](https://www.toggl.com) | A smart and usefull time tracker for teams containing helpful integrations like with Github for all plans.
-
-
-| **Utils** |
 [Alfred](https://www.alfredapp.com/) | Alfred is a productivity application for macOS, which boosts your efficiency with hotkeys, keywords and text expansion.
 [Barrier](https://github.com/debauchee/barrier) | An open source and cross-platform KVM Emulator that allows developers to share mice/keyboards between multiple computers. (Awesome if you are developing on multiple devices over LAN i.e. Sockets, Webservers etc)
 [ClickUp](https://clickup.com/) | All your work in one place: Tasks, docs, chat, goals, & more
@@ -86,10 +72,6 @@
 [Agent Ransack](https://www.mythicsoft.com/agentransack/) | Agent Ransack is a file search tool for finding files on your PC or network drives.
 [WinsCP](https://winscp.net/) | WinSCP is a free and open-source SFTP, FTP, WebDAV, Amazon S3 and SCP client for Microsoft Windows.
 [Termius](https://termius.com/) | A modern cross-plataform SSH/SFTP Client.
-
-
-
-| **Debug/Security** |
 [Burp Suite](https://portswigger.net/burp) | Burp Suite is a leading range of cybersecurity tools, brought to you by PortSwigger.
 [Compare It!](https://www.grigsoft.com/wincmp3.htm) | Compare texts, indicating the differences. Practical, light and fast.
 [Cypress.io](https://www.cypress.io/) | Fast, easy and reliable testing for anything that runs in a browser.
@@ -100,33 +82,21 @@
 [OWASP ZAP](https://www.zaproxy.org/) | Useful open-source proxy tool for developing with security in mind.
 [Postman](https://www.getpostman.com/) | Postman Simplifies API Development.
 [Vercel](https://vercel.com) | The Global Serverless Platform. (CLI).
-
-
-| **Database** |
 [DBeaver](https://dbeaver.io) | Free multi-platform database tool for developers, SQL programmers, database administrators and analysts. Supports all popular databases: MySQL, PostgreSQL, SQLite, Oracle, DB2, SQL Server...
 [TablePlus](https://tableplus.com//) | Database management made easy. Modern, native, and friendly GUI tool for relational databases: MySQL, PostgreSQL, SQLite & more
 [pgAdmin](http://postgresapp.com/) | A full-featured PostgreSQL install for MacOS.
 [Postbird](https://www.electronjs.org/apps/postbird) | App to graphically manage your PostgreSQL BDs
 [Robo 3T](https://robomongo.org/) | A GUI for editing and viewing MongoDB Data.
 [Indri](https://www.lemurproject.org/indri.php) | Tool for creating index and querying the index for any size dataset.
-
-| **Package Manager** |
 [Chocolatey](https://chocolatey.org) | Software management automation for Windows that wraps installers, executables, zips, and scripts into compiled packages
 [Scoop](https://scoop.sh/) | Scoop is a command-line installer for Windows.
 [Yarn](https://yarnpkg.com/) | Yarn is a package manager that doubles down as project manager. Whether you work on one-shot projects or large monorepos, as a hobbyist or an enterprise user, we've got you covered.
 [Homebrew](https://brew.sh/) | The missing package manager for macOS (or Linux).
-
-
-
-| **Mobile** |
 [Adobe XD](https://www.adobe.com/products/xd.html?ef_id=EAIaIQobChMI7qXd4u2p7AIVNz6tBh2Idw-OEAAYASAAEgJYXvD_BwE:G:s&s_kwcid=AL!3085!3!372875864628!b!!g!!!2075907083!76930640392) | UI/UX design tool that is good for making wireframe model for mobile and web app
 [Genymotion Android Emulator](https://www.genymotion.com/) | Cross-platform Android emulator for developers & QA engineers. Develop & automate your tests to deliver best quality apps. On desktop, AWS, GCP & SaaS.
 [Expo](https://expo.io/) | Mobile application development which can run JavaScript. Useful for React Native
 [Flutter](https://flutter.dev/) | Flutter is Google’s UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase. It is free and open source.
 [Principle](https://principleformac.com/) | Principle makes it easy to design animated and interactive user interfaces.
-
-
-| **Browser** |
 [Brave Browser](https://brave.com) | A Chrome-based browser without the tracking and analytics with builtin adblocking.
 [Chromium](https://www.chromium.org/Home) | Chromium is an open-source browser project that aims to build a safer, faster, and more stable way for all Internet users to experience the web.
 [FireFox Developer Edition](https://www.mozilla.org/pt-BR/firefox/developer/) | The Firefox Developer Edition is a version of Firefox that's tailored for web developers.
