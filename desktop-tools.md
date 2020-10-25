@@ -116,13 +116,14 @@
 
 
 
-
+| **Mobile** |
 [Adobe XD](https://www.adobe.com/products/xd.html?ef_id=EAIaIQobChMI7qXd4u2p7AIVNz6tBh2Idw-OEAAYASAAEgJYXvD_BwE:G:s&s_kwcid=AL!3085!3!372875864628!b!!g!!!2075907083!76930640392) | UI/UX design tool that is good for making wireframe model for mobile and web app
-[Brave Browser](https://brave.com) | A Chrome-based browser without the tracking and analytics with builtin adblocking.
+[Genymotion Android Emulator](https://www.genymotion.com/) | Cross-platform Android emulator for developers & QA engineers. Develop & automate your tests to deliver best quality apps. On desktop, AWS, GCP & SaaS.
 [Expo](https://expo.io/) | Mobile application development which can run JavaScript. Useful for React Native
 [Flutter](https://flutter.dev/) | Flutter is Google’s UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase. It is free and open source.
-[Genymotion Android Emulator](https://www.genymotion.com/) | Cross-platform Android emulator for developers & QA engineers. Develop & automate your tests to deliver best quality apps. On desktop, AWS, GCP & SaaS.
-[Indri](https://www.lemurproject.org/indri.php) | Tool for creating index and querying the index for any size dataset.
 [Principle](https://principleformac.com/) | Principle makes it easy to design animated and interactive user interfaces.
+
+[Brave Browser](https://brave.com) | A Chrome-based browser without the tracking and analytics with builtin adblocking.
+[Indri](https://www.lemurproject.org/indri.php) | Tool for creating index and querying the index for any size dataset.
 
 [Vercel](https://vercel.com) | The Global Serverless Platform. (CLI).
