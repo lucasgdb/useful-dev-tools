@@ -1,6 +1,5 @@
 # Desktop Tools 🖥
 
-| ------ Topic ----- |
 | Tool | Description |
 | ---- | ----------- |
 
