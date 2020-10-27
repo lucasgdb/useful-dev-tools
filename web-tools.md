@@ -130,3 +130,4 @@
 [Write PHP Online](http://www.writephponline.com/) | Simple free website that allows you to execute PHP code.
 [Exercism](https://exercism.io/) | Exercism is an online, open source and free access platform that offers code practice and guidance in 50 different programming languages.
 [Shape Divider](https://www.shapedivider.app/) | Shape Divider is a tool that you can easily create custom shape dividers and get ready code of it.
+[Online GDB](https://www.onlinegdb.com/) | GDB online is an online compiler and debugger tool for C, C++, Python, PHP, Ruby,C#, VB, Perl, Swift, Prolog, Javascript, Pascal, HTML, CSS, JS
