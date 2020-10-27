@@ -27,6 +27,7 @@
 [VSCode](https://code.visualstudio.com/) | A rich text-editor by Microsoft to improve your workflow. (I love it <3).
 [Protege](https://protege.stanford.edu/) | Open source ontology editor and knowledge management system.
 [VSCodium](https://code.vscodium.com/) | Open Source Binaries of VSCode.
+[Thonny Python IDE](https://thonny.org/) | Thonny is an integrated development environment for Python that is designed for beginners.
 | **Infrastucture/DevOps** |
 [Apache JMeter](https://jmeter.apache.org/) | The Apache JMeter™ application is open source software, a 100% pure Java application designed to load test functional behavior and measure performance.
 [Appium](http://appium.io/) | Appium is an open source test automation framework for use with native, hybrid and mobile web apps.
