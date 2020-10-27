@@ -129,3 +129,4 @@
 [BrowserStack](https://www.browserstack.com/) | Browser and app testing.  This paid web tool allows a dev to test their application across multiple browsers running on different operating systems including mobile.
 [Write PHP Online](http://www.writephponline.com/) | Simple free website that allows you to execute PHP code.
 [Exercism](https://exercism.io/) | Exercism is an online, open source and free access platform that offers code practice and guidance in 50 different programming languages.
+[Shape Divider](https://www.shapedivider.app/) | Shape Divider is a tool that you can easily create custom shape dividers and get ready code of it.
