@@ -24,3 +24,4 @@
 [Muzli](https://chrome.google.com/webstore/detail/muzli-2-stay-inspired/glcipcfhmopcgidicgdociohdoicpdfc) | The freshest links about design and interactive, from around the web. A designer's must!
 [CSS Scan](https://chrome.google.com/webstore/detail/css-scan/gieabiemggnpnminflinemaickipbebg) | The fastest and easiest way to check, copy and edit CSS.
 [JSON Viewer](https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh) | The most beautiful and customizable JSON/JSONP highlighter that your eyes have ever seen.
+[Augury](https://chrome.google.com/webstore/detail/augury/elgalmkoelokbchhkhacckoklkejnhcd?hl=en) | Augury is a Google Chrome Dev Tool extension for debugging and visualizing Angular applications at runtime.
