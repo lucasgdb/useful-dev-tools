@@ -55,6 +55,8 @@
 [ohmyzsh](https://ohmyz.sh/) | A delightful, open source, community-driven framework for managing Zsh configuration
 [HTTPie](https://httpie.org/) | A command line HTTP client, similar to cURL, but with a nicer output and syntax.
 [nmap](https://github.com/nmap/nmap) | Nmap the most powerful network mapper.
+[VMware Workstation](https://www.vmware.com/) | VMware allows to run multiple application and operating system workloads on the one server – thus enabling better resource management. By creating a virtual machine that behaves exactly like an actual computer – VMware also allows everything running on that virtual machine to run in its own window.
+[Jupyter Notebook](https://jupyter.org/) | Jupyter Notebook provides you with an easy-to-use, interactive data science environment across many programming languages that doesn't only work as an IDE, but also as a presentation or education tool.
 | **Version Control** |
 [GitHub CLI](https://cli.github.com/) | GitHub CLI brings GitHub to your terminal. Free and open source.
 [GitHub Desktop](https://desktop.github.com/) | A GUI for GitHub.
