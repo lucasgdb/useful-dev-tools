@@ -25,3 +25,6 @@
 [CSS Scan](https://chrome.google.com/webstore/detail/css-scan/gieabiemggnpnminflinemaickipbebg) | The fastest and easiest way to check, copy and edit CSS.
 [JSON Viewer](https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh) | The most beautiful and customizable JSON/JSONP highlighter that your eyes have ever seen.
 [Augury](https://chrome.google.com/webstore/detail/augury/elgalmkoelokbchhkhacckoklkejnhcd?hl=en) | Augury is a Google Chrome Dev Tool extension for debugging and visualizing Angular applications at runtime.
+[CSSViewer](https://chrome.google.com/webstore/detail/cssviewer/ggfgijbpiheegefliciemofobhmofgce?hl=en) | A simple CSS property viewer.
+[Ghostery](https://chrome.google.com/webstore/detail/ghostery-%E2%80%93-privacy-ad-blo/mlomiejdfkolichcflejclcbmpeaniij?hl=en) | Ghostery detects trackers, pixels, and any other embedded snippet on a website and shows which plugins and trackers are installed on the web page you’ve visited
+[Site Spider](https://chrome.google.com/webstore/detail/site-spider-mark-ii/gedjofgioahckekhpgknhchelbpdogok?hl=en%20) | A google chrome extension to find broken links on your site and want to restrict spidering to a specific directory.
