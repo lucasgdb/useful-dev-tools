@@ -96,6 +96,8 @@
 [Postbird](https://www.electronjs.org/apps/postbird) | App to graphically manage your PostgreSQL BDs
 [Robo 3T](https://robomongo.org/) | A GUI for editing and viewing MongoDB Data.
 [Indri](https://www.lemurproject.org/indri.php) | Tool for creating index and querying the index for any size dataset.
+[DB Browser for SQLite](https://sqlitebrowser.org/) | DB Browser for SQLite (DB4S) is a high quality, visual, open source tool to create, design, and edit database files compatible with SQLite.
+
 | **Package Manager** |
 [Chocolatey](https://chocolatey.org) | Software management automation for Windows that wraps installers, executables, zips, and scripts into compiled packages
 [Scoop](https://scoop.sh/) | Scoop is a command-line installer for Windows.
