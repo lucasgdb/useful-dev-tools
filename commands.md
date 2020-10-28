@@ -37,6 +37,8 @@
 `rmdir /S <folder name>` | Remove a directory (folder) along with all the files in it
 `touch` | The touch command is used to create a file
 `history` | Display or manipulate the history list
+`man <comman_name>` | Display user mannual of the command
+`lsblk` | lists information about all available or the specified block devices
 | **Docker** |
 `docker ps` |  List only active containers.
 `docker ps -a` |  List all containers.
