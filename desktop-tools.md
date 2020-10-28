@@ -96,6 +96,7 @@
 [Postbird](https://www.electronjs.org/apps/postbird) | App to graphically manage your PostgreSQL BDs
 [Robo 3T](https://robomongo.org/) | A GUI for editing and viewing MongoDB Data.
 [Indri](https://www.lemurproject.org/indri.php) | Tool for creating index and querying the index for any size dataset.
+[DB Browser for SQLite](https://sqlitebrowser.org/) | DB Browser for SQLite (DB4S) is a high quality, visual, open source tool to create, design, and edit database files compatible with SQLite.
 [MongoDB Compass](https://www.mongodb.com/try/download/compass) | As the GUI for MongoDB, MongoDB Compass allows you to make smarter decisions about document structure, querying, indexing, document validation, and more.
 | **Package Manager** |
 [Chocolatey](https://chocolatey.org) | Software management automation for Windows that wraps installers, executables, zips, and scripts into compiled packages
