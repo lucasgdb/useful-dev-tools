@@ -56,6 +56,9 @@
 `docker tag <image-name>[:tag][username/] <new-image-name>.[:new-tag]` | Creates a new image specifying the “new tag” from an existing image and tag.
 `docker push [registry/][username/]<image-name>[:tag]` | Push an image to a registry.
 `docker system prune` | Remove unused data
+`docker login` | Login to docker hub registry
+`docker --help` | List of commands in Docker
+`docker version` | Get docker version information
 | **Other** |
 `npx add-gitignore` | For adding a git ignore file to your project for a specific language
 `ssh <username>@<some address> (-p <port number>)` | Remotely connect to different server/computer for those that doesn't want to use additional file (e.g. PuTTY)
