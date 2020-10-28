@@ -42,6 +42,10 @@
 [WSL2](https://docs.microsoft.com/en-us/windows/wsl/) | Windows Subsystem for Linux allows you to run a Linux shell and run Linux commands on Windows 10.
 [Wireshark](https://www.wireshark.org/) | Wireshark is an open source, network protocol analyzer.
 [Wakatime](https://wakatime.com/) | Quantify your coding. Open source plugins for automatic programming metrics.
+[Ansible](https://www.ansible.com/) | Tool for automating software provisioning, configuration management,
+and application deployment.
+[Jenkins](https://www.jenkins.io/) | Free and Opensource tool that can be used to automate all sorts of tasks
+releated to building, testing and delivering or deploying software.
 | **Bashs/Terminals/Consoles/Prompts** |
 [ASCIinema](https://asciinema.org/) | Record and share your terminal sessions, the right way.
 [Cmder](https://cmder.net/) | Cmder is software package that provides great console experience even on Windows.
@@ -105,6 +109,7 @@
 [Yarn](https://yarnpkg.com/) | Yarn is a package manager that doubles down as project manager. Whether you work on one-shot projects or large monorepos, as a hobbyist or an enterprise user, we've got you covered.
 [Homebrew](https://brew.sh/) | The missing package manager for macOS (or Linux).
 | **Mobile** |
+[npm](https://www.npmjs.com/) | npm is a package manager for Node JavaScript platform.
 [Adobe XD](https://www.adobe.com/products/xd.html?ef_id=EAIaIQobChMI7qXd4u2p7AIVNz6tBh2Idw-OEAAYASAAEgJYXvD_BwE:G:s&s_kwcid=AL!3085!3!372875864628!b!!g!!!2075907083!76930640392) | UI/UX design tool that is good for making wireframe model for mobile and web app
 [Genymotion Android Emulator](https://www.genymotion.com/) | Cross-platform Android emulator for developers & QA engineers. Develop & automate your tests to deliver best quality apps. On desktop, AWS, GCP & SaaS.
 [Expo](https://expo.io/) | Mobile application development which can run JavaScript. Useful for React Native
