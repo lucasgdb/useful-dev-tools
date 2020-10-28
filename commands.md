@@ -39,6 +39,10 @@
 `history` | Display or manipulate the history list
 `man <comman_name>` | Display user mannual of the command
 `lsblk` | lists information about all available or the specified block devices
+`cat filename` | Displays the file content
+`echo $VARIABLE` | To display value of a variable
+`env` | Displays all environment variables
+`export Variable=value` | To set a value of the environment variable
 | **Docker** |
 `docker ps` |  List only active containers.
 `docker ps -a` |  List all containers.
