@@ -42,10 +42,8 @@
 [WSL2](https://docs.microsoft.com/en-us/windows/wsl/) | Windows Subsystem for Linux allows you to run a Linux shell and run Linux commands on Windows 10.
 [Wireshark](https://www.wireshark.org/) | Wireshark is an open source, network protocol analyzer.
 [Wakatime](https://wakatime.com/) | Quantify your coding. Open source plugins for automatic programming metrics.
-[Ansible](https://www.ansible.com/) | Tool for automating software provisioning, configuration management,
-and application deployment.
-[Jenkins](https://www.jenkins.io/) | Free and Opensource tool that can be used to automate all sorts of tasks
-releated to building, testing and delivering or deploying software.
+[Ansible](https://www.ansible.com/) | Tool for automating software provisioning, configuration management,and application deployment.
+[Jenkins](https://www.jenkins.io/) | Free and Opensource tool that can be used to automate all sorts of tasks releated to building, testing and delivering or deploying software.
 | **Bashs/Terminals/Consoles/Prompts** |
 [ASCIinema](https://asciinema.org/) | Record and share your terminal sessions, the right way.
 [Cmder](https://cmder.net/) | Cmder is software package that provides great console experience even on Windows.
