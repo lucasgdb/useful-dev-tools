@@ -16,6 +16,7 @@
 [GNU Emacs](https://www.gnu.org/software/emacs/) | An extensible, customizable, free/libre text editor — and more.
 [GoLand](https://www.jetbrains.com/go/) | A cross-platform IDE built specially for Go developers. Paid, [check here](https://www.jetbrains.com/community/) if you apply for a free license.
 [IntelliJ IDEA](https://www.jetbrains.com/idea/) | Integrated Development Environment (IDE) for JVM. Paid, [check here](https://www.jetbrains.com/community/) if you apply for a free license.
+[MacDown](https://github.com/MacDownApp/macdown) | MacDown is an open source program for reading and writing MarkDown files on MacOS.
 [NeoVIm](https:https://neovim.io/) | NeoVim is a fork of the original Vim more focus on community contribution, and has new features, such as plugins, more customization and a opensource driven project.
 [Notepad++](https://notepad-plus-plus.org/downloads/) | Text viewer in most languages, easier when you need to open faster code to check something.
 [Lens](https://k8slens.dev/) | Lens is the only IDE you’ll ever need to take control of your Kubernetes clusters. It's open source and free.
