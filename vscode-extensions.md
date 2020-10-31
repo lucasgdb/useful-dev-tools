@@ -109,4 +109,5 @@
 [Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python) | Extension that supports Python language and features like linting, debugging, code navigation, code formatting etc.
 [SonarLint](https://marketplace.visualstudio.com/items?itemName=SonarSource.sonarlint-vscode) | SonarLint highlights Bugs and Security Vulnerabilities as you write code, with remediation guidance so you can fix them before the code is even committed. It supports analysis of JavaScript, TypeScript, Python, Java, HTML & PHP code.
 [Angular Snippets](https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2) | This extension adds new snippets for Angular for Typescript and HTML
+[Colorize](https://marketplace.visualstudio.com/items?itemName=kamikillerto.vscode-colorize) | A vscode extension to help visualize css colors in files.
 [Quokka.ja](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode) | JavaScript and TypeScript playground in your editor.

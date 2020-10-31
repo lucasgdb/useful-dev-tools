@@ -59,6 +59,7 @@
 [nmap](https://github.com/nmap/nmap) | Nmap the most powerful network mapper.
 [VMware Workstation](https://www.vmware.com/) | VMware allows to run multiple application and operating system workloads on the one server – thus enabling better resource management. By creating a virtual machine that behaves exactly like an actual computer – VMware also allows everything running on that virtual machine to run in its own window.
 [Jupyter Notebook](https://jupyter.org/) | Jupyter Notebook provides you with an easy-to-use, interactive data science environment across many programming languages that doesn't only work as an IDE, but also as a presentation or education tool.
+[Hyper](https://hyper.is/) | A terminal built on web technologies
 | **Version Control** |
 [GitHub CLI](https://cli.github.com/) | GitHub CLI brings GitHub to your terminal. Free and open source.
 [GitHub Desktop](https://desktop.github.com/) | A GUI for GitHub.
@@ -120,4 +121,5 @@
 [Chromium](https://www.chromium.org/Home) | Chromium is an open-source browser project that aims to build a safer, faster, and more stable way for all Internet users to experience the web.
 [FireFox Developer Edition](https://www.mozilla.org/pt-BR/firefox/developer/) | The Firefox Developer Edition is a version of Firefox that's tailored for web developers.
 [Google Chrome Dev](https://www.google.com/intl/pt-BR/chrome/dev/) | Chrome version to build sites to the next version of the web. Updated Weekly.
+
 
