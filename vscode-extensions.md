@@ -2,6 +2,7 @@
 
 | Extension | Description |
 | --------- | ----------- |
+[SQLTools](https://marketplace.visualstudio.com/items?itemName=mtxr.sqltools) | Database management done right. Connection explorer, query runner, intellisense, bookmarks, query history. Feel like a database hero!
 [Python Indent](https://marketplace.visualstudio.com/items?itemName=KevinRose.vsc-python-indent) | Correct python indentation.
 [Python Docstring Generator](https://marketplace.visualstudio.com/items?itemName=njpwerner.autodocstring) | Automatically generates detailed docstrings for python functions.
 [Pylance](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance) | A performant, feature-rich language server for Python in VS Code.
