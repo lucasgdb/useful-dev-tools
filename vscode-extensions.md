@@ -22,6 +22,7 @@
 [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) | Launch a development local Server with live reload feature for static & dynamic pages.
 [PHP Intelephense](https://marketplace.visualstudio.com/items?itemName=bmewburn.vscode-intelephense-client) | High performance, feature rich PHP intellisense. (I use it for PHP indentation).
 [Power Mode](https://marketplace.visualstudio.com/items?itemName=hoovercj.vscode-power-mode) | Your code is powerful, unleash it! The extension made popular by Code in the Dark has finally made its way to VS Code.
+[Prisma](https://marketplace.visualstudio.com/items?itemName=Prisma.prisma) | Adds syntax highlighting, formatting, auto-completion, jump-to-definition and linting for .prisma files.
 [Rainbow Brackets](https://marketplace.visualstudio.com/items?itemName=2gua.rainbow-brackets) | Provide rainbow colors for the round brackets, the square brackets and the squiggly brackets.
 [Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode) | The Visual Studio IntelliCode extension provides AI-assisted productivity features for Python, TypeScript/JavaScript and Java developers in Visual Studio Code, with insights based on understanding your code context combined with machine learning.
 [HTML CSS Support](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css) | Class and ID completion for HTML with support for remote CSS files (CDN).
