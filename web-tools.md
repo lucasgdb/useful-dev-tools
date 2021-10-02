@@ -136,5 +136,7 @@
 [Sonarqube](https://www.sonarqube.org/) | Is an open-source platform developed by SonarSource for continuous inspection of code quality to perform automatic reviews with static analysis of code to detect bugs, code smells, and security vulnerabilities on 20+ programming languages. 
 [Bubbly](https://projects.verou.me/bubbly/) | A CSS speech bubbles made easy.
 [Windframe](https://www.devwares.com/windframe/) | A tool to rapidly build and prototype stunning websites using Tailwind CSS
+[Dillinger.io](https://dillinger.io/) | Is an online markdown file editor with a preview that can help you to create or edit .md file for your project
+[Ray.so](https://ray.so/) | A beautiful code converter to SVG, PNG
+[LoremIpsum.io](https://loremipsum.io/) |  Is a placeholder generator, that contains many random generated text, image placeholder for developers!
 [Codewars](https://www.codewars.com/) | An online challenge for all types of coders to complete katas (questions) and move up levels.
-
