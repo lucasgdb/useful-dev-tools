@@ -114,3 +114,5 @@
 [Angular Snippets](https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2) | This extension adds new snippets for Angular for Typescript and HTML
 [Colorize](https://marketplace.visualstudio.com/items?itemName=kamikillerto.vscode-colorize) | A vscode extension to help visualize css colors in files.
 [Quokka.js](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode) | JavaScript and TypeScript playground in your editor.
+[Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer) | Extension that hightlights the end the matching brackets, whether in a function, array, or object!
+[HTML Preview](https://marketplace.visualstudio.com/items?itemName=tht13.html-preview-vscode) | The ability to view HTMl locally.
