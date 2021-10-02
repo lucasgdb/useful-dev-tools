@@ -137,5 +137,5 @@
 [Bubbly](https://projects.verou.me/bubbly/) | A CSS speech bubbles made easy.
 [Windframe](https://www.devwares.com/windframe/) | A tool to rapidly build and prototype stunning websites using Tailwind CSS
 [README.so](https://readme.so/) | README.so is an online README file editor that can help you to create README file for your project
-[ray.so](https://ray.so/) | A beautiful code converter to SVG, PNG
+[Ray.so](https://ray.so/) | A beautiful code converter to SVG, PNG
 [LoremIpsum.io](https://loremipsum.io/) | LoremIpsum.io is a placeholder generator, that contains many random generated text, image placeholder for Developers!
