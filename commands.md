@@ -43,6 +43,7 @@
 `echo $VARIABLE` | To display value of a variable
 `env` | Displays all environment variables
 `export Variable=value` | To set a value of the environment variable
+`less <filename>` | Show files in some page
 | **Docker** |
 `docker ps` |  List only active containers.
 `docker ps -a` |  List all containers.
