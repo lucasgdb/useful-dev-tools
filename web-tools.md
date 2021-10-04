@@ -140,3 +140,6 @@
 [Ray.so](https://ray.so/) | A beautiful code converter to SVG, PNG
 [LoremIpsum.io](https://loremipsum.io/) |  Is a placeholder generator, that contains many random generated text, image placeholder for developers!
 [Codewars](https://www.codewars.com/) | An online challenge for all types of coders to complete katas (questions) and move up levels.
+[Glassmorphism](https://www.glassmorphism.com) | A design style to connect and combine all of the uses of the “frosted glass” effect in the UI.
+[Border Radius](https://border-radius.com) | A tool to insert the desired curve and for each corner get the code instantly.
+[Css Grid Generator](https://cssgrid-generator.netlify.app) | A new and brillant css grid generator.
