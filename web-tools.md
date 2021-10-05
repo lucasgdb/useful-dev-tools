@@ -147,6 +147,3 @@
 [Blob Maker](https://www.blobmaker.app) | Random svg shape maker.
 [Bounce.js](http://www.bouncejs.com) | A custom animation creator.
 [Cssgradient.io](https://cssgradient.io) | A gradients generator.
-
-
-
