@@ -144,3 +144,6 @@
 [Border Radius](https://border-radius.com) | A tool to insert the desired curve and for each corner get the code instantly.
 [Css Grid Generator](https://cssgrid-generator.netlify.app) | A new and brillant css grid generator.
 [Neumorphism.io](https://neumorphism.io/#e0e0e0) | Online tool to generate CSS code of “neumorphism” effect in the UI.
+[Blob Maker](https://www.blobmaker.app) | Random svg shape maker.
+[Bounce.js](http://www.bouncejs.com) | A custom animation creator.
+[Cssgradient.io](https://cssgradient.io) | A gradients generator.
