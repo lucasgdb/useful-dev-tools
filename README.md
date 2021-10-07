@@ -4,12 +4,12 @@
 
 ## Sections
 
-- [Web Tools](web-tools.md)
-- [Desktop Tools](desktop-tools.md)
-- [VSCode Extensions](vscode-extensions.md)
 - [Chrome Extensions](chrome-extensions.md)
 - [Code Playgrounds](code-playgrounds.md)
 - [Commands](commands.md)
+- [Desktop Tools](desktop-tools.md)
+- [VSCode Extensions](vscode-extensions.md)
+- [Web Tools](web-tools.md)
 
 ## Author
 
