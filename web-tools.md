@@ -11,6 +11,7 @@
 [AWS](https://aws.amazon.com/) | Amazon Web Services, an on-demand cloud computing platform.
 [Azure DevOps Services](https://azure.microsoft.com/pt-br/services/devops/) | A full solution for managing projects, including git and pipelines.
 [BASE64 Decode and Encode](https://www.base64decode.org/) | Encode/Decode BASE64 strings or files
+[Beeceptor](https://beeceptor.com/) | Tool for REST API mocking
 [Big Text](https://coolsymbol.com/big-text-generator.html) | Convert text to big text as easy as you think.
 [Blob Maker](https://www.blobmaker.app) | Random svg shape maker.
 [Border Radius](https://border-radius.com) | A tool to insert the desired curve and for each corner get the code instantly.
