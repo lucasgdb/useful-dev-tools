@@ -27,3 +27,13 @@
 [Trinket.io](https://trinket.io/) | Trinket is a website that allows you to create and test code without creating an account. Mainly it is used for python but they have other languages as well. **Features(examples, plans, tutorials)**
 [W3schools](https://www.w3schools.com/) | Completely for those who start front-end development. You can see the examples, descriptions and use case for each web componet. **Features: (examples)**
 [W3Schools Online Code Editor](https://www.w3schools.com/tryit/) | With W3Schools online code editor, you can edit HTML, CSS and JavaScript code, and view the result in your browser.
+[apiDoc](https://apidocjs.com/) | Creates a documentation from API annotations in your source code.
+[GDB online](https://www.onlinegdb.com/) |  Online compiler and debugger tool for C, C++, Python, PHP, Ruby, C#, VB, Perl, Swift, Prolog, Javascript, Pascal, HTML, CSS, JS. Code, Compile, Run and Debug online from anywhere in world.
+[Scrimba](https://scrimba.com/) | Learn to Code with Interactive Tutorials.
+[Google Colab](https://colab.research.google.com/) | Colab notebooks doesn't require configuration and allows anybody to write and execute arbitrary python code through the browser. Is especially great to machine learning, data analysis and education.
+[Kotlin Playground](https://play.kotlinlang.org/) | Kotlin Playground is an online sandbox to explore Kotlin programming language. Browse code samples directly in the browser.
+[Rust online IDE](https://play.rust-lang.org/) | A browser interface to the Rust compiler to experiment with the language.
+[Ellie](https://ellie-app.com/) | Ellie is a web application with an Elixir backend and an Elm frontend. You can explore and try out Elm programming language.
+[Code Anywhere IDE](https://codeanywhere.com/) | CodeAnywhere has two features that stand out for me: Prebuilt container images for 72+ programming languages and frameworks, Connect to anything. Yes, literally anything. You’re not obliged to store your code on CodeAnywhere’s servers. 
+[katacoda](https://www.katacoda.com/) | Learn new technologies using real environments right in your browser 
+
