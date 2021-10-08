@@ -61,6 +61,9 @@
 [Terminator](https://gnometerminator.blogspot.com/p/introduction.html) | A Terminal replacement for Linux (GNOME) that supports tabs and grids.
 [Tmux](https://github.com/tmux/tmux/wiki) | A terminal multiplexer which allows multiple terminal sessions to be accessed simultaneously
 [VMware Workstation](https://www.vmware.com/) | VMware allows to run multiple application and operating system workloads on the one server – thus enabling better resource management. By creating a virtual machine that behaves exactly like an actual computer – VMware also allows everything running on that virtual machine to run in its own window.
+[Jupyter Notebook](https://jupyter.org/) | Jupyter Notebook provides you with an easy-to-use, interactive data science environment across many programming languages that doesn't only work as an IDE, but also as a presentation or education tool.
+[Hyper](https://hyper.is/) | A terminal built on web technologies
+[Windows Terminal](https://www.microsoft.com/en-us/p/windows-terminal) | Windows Terminal is a modern, fast, efficient, powerful, and productive terminal application for users of command-line tools and shells like Command Prompt, PowerShell, and WSL.
 | **Version Control** |
 [Git Bash](https://gitforwindows.org/) | Git for Windows provides a BASH emulation used to run Git from the command line. NIX users should feel right at home, as the BASH emulation behaves just like the "git" command in LINUX and UNIX environments.
 [GitHub CLI](https://cli.github.com/) | GitHub CLI brings GitHub to your terminal. Free and open source.
@@ -85,6 +88,7 @@
 [Sizzy](https://sizzy.co/) | Multiscreen browser for web development
 [Termius](https://termius.com/) | A modern cross-plataform SSH/SFTP Client.
 [Utilso](https://utilso.com) | All-in-one tools for developers. Format JSON, decode Base64, convert timestamps, debug JWT, convert YAML/JSON, code beautify and more. Work entirely offline
+[Microsoft PowerToys](https://docs.microsoft.com/en-us/windows/powertoys/install) | Microsoft PowerToys is a set of freeware system utilities designed for power users developed by Microsoft for use on the Windows operating system.
 [WinsCP](https://winscp.net/) | WinSCP is a free and open-source SFTP, FTP, WebDAV, Amazon S3 and SCP client for Microsoft Windows.
 [yEd](https://www.yworks.com/products/yed) | yEd is a powerful desktop application that can be used to quickly and effectively generate high-quality diagrams.
 | **Debug/Security** |
@@ -124,4 +128,9 @@
 [Chromium](https://www.chromium.org/Home) | Chromium is an open-source browser project that aims to build a safer, faster, and more stable way for all Internet users to experience the web.
 [FireFox Developer Edition](https://www.mozilla.org/pt-BR/firefox/developer/) | The Firefox Developer Edition is a version of Firefox that's tailored for web developers.
 [Google Chrome Dev](https://www.google.com/intl/pt-BR/chrome/dev/) | Chrome version to build sites to the next version of the web. Updated Weekly.
+[Safari for Developers](https://developer.apple.com/safari/) | Safari for Developers is a very powerful tool – depending on the kind of websites and online experiences that you want to build.
+[Opera](https://www.opera.com/computer/beta) | Opera might not be as popular as Chrome or Firefox for developers, but it has a number of benefits to consider.
+[Polypane](https://polypane.app/) | Polypane is a unique kind of browser, specifically designed for developers and designers. This browser is a cross-platform solution and Devtool that experts can use to develop, test, and debug sites as quickly as possible.
+[LT Browser](https://www.lambdatest.com/lt-browser) | LT Browser is a developer-oriented browser that provides users with a development workspace to test their website’s responsiveness over a variety of devices and viewports.
+[Blisk](https://blisk.io/) | Compared to Opera, Chrome, and Firefox, Blisk doesn’t have nearly as much attention online. However, this browser is specifically designed to give designers a development-first workspace where they can develop and test modern applications as quickly as possible. 
 [SauceLabs](https://saucelabs.com/) | Sauce Labs provides the largest automated cloud(browsers/devices) for running Selenium and Appium tests.
