@@ -27,7 +27,7 @@
 | **Terminal** |
 `cat filename` | Displays the file content
 `cd <file path name>` | For setting the directory inside the cmd window to the desired path name
-`cd <file path name>` | For setting the directory inside the cmd window to the desired path name.
+`cd ..` | Moves up a level from the current directory.
 `clear` | The command line screen will be cleared.
 `echo $VARIABLE` | To display value of a variable
 `env` | Displays all environment variables
