@@ -124,3 +124,4 @@
 [Chromium](https://www.chromium.org/Home) | Chromium is an open-source browser project that aims to build a safer, faster, and more stable way for all Internet users to experience the web.
 [FireFox Developer Edition](https://www.mozilla.org/pt-BR/firefox/developer/) | The Firefox Developer Edition is a version of Firefox that's tailored for web developers.
 [Google Chrome Dev](https://www.google.com/intl/pt-BR/chrome/dev/) | Chrome version to build sites to the next version of the web. Updated Weekly.
+[SauceLabs](https://saucelabs.com/) | Sauce Labs provides the largest automated cloud(browsers/devices) for running Selenium and Appium tests.
