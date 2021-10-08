@@ -20,6 +20,7 @@
 [Go full Page](https://chrome.google.com/webstore/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl?hl=en) |The simplest way to take a full page screenshot of your current browser window. Click on the extension icon (or press Alt+Shift+P), watch the extension capture each part of the page, and be transported to a new tab of your screenshot where you can download it as an image or PDF or even just drag it to your desktop.
 [Grammarly](https://chrome.google.com/webstore/detail/grammarly-for-chrome/kbfnbcaeplbcioakkpcpgfkobkghlhen?utm_source=chrome-ntp-icon) |From grammar and spelling to style and tone, Grammarly helps you eliminate writing errors and find the perfect words to express yourself. You’ll get real-time feedback from Grammarly on Gmail, Google Docs, Twitter, LinkedIn, and nearly everywhere else you find yourself writing. 
 [JSON Formatter](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa?hl=en) |Makes JSON easy to read. Moreover, it's also open-source!
+[ChroPath](https://chrome.google.com/webstore/detail/chropath/ljngjbnaijcbncmcnjfhigebomdlkcjo) |ChroPath helps to generate and validate selectors like relative xpath with iframe,svg support. It also generate english testcases!
 [JSON Viewer](https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh) | The most beautiful and customizable JSON/JSONP highlighter that your eyes have ever seen.
 [JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc?hl=en) | Validate and view JSON documents.
 [Loom](https://chrome.google.com/webstore/detail/loom-for-chrome/liecbddmkiiihnedobmlmillhodjkdmb) |With Loom, you can record your screen, voice, and face to create an instantly shareable video in less time than it would take to type an email.
@@ -37,3 +38,4 @@
 [Web Developer Chrome Extension](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm) | A Google Chrome extension that adds a toolbar button to the browser with various web developer tools.
 [WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm) | Great extension for developers that allows you to inspect web fonts by just hovering on them.
 [YouTube Blocker](https://chrome.google.com/webstore/detail/youtube-blocker/oohcfepaadomnocmmkejhnfhcddpdpab) | YouTube Blocker blocks YouTube videos not in the Education, Science & Technology, or Howto & Style categories so you can focus on watching educational videos. 
+
