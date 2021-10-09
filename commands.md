@@ -23,7 +23,10 @@
 `git stash pop` | Restores the most recently stashed changes.
 `git stash push -m <stash_message> <file_path>` | Save a specific file to the stash
 `git reset --hard` | Resets the current branch to the latest commit.
-`git rebase <branch-name>` | Reapply commits from <branch-name> on top of branch that is currently in, help to sync between branch to avoid "n commit behind master"
+`git rebase <branch-name>` | Reapply commits from <branch-name> on top of branch that is currently in, help to sync between branch to avoid "n commit behind 
+master"
+`git stash` | Stores the current working changes so they can be restored at a later time if desired.
+`git status` | for getting the status of the cloned repository folder to see what changes have been made, if any
 | **Windows Terminal** | 
 `attrib` | display file attributes
 `cd <file path name>` | For setting the directory inside the cmd window to the desired path name.

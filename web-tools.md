@@ -146,16 +146,5 @@
 [Wappalyzer](https://www.wappalyzer.com) | Identify technology used on websites.
 [Web Resizer](http://webresizer.com/resizer/) | Make photos faster. (Step 1)
 [Windframe](https://www.devwares.com/windframe/) | A tool to rapidly build and prototype stunning websites using Tailwind CSS
-[Dillinger.io](https://dillinger.io/) | Is an online markdown file editor with a preview that can help you to create or edit .md file for your project
-[Ray.so](https://ray.so/) | A beautiful code converter to SVG, PNG
-[LoremIpsum.io](https://loremipsum.io/) |  Is a placeholder generator, that contains many random generated text, image placeholder for developers!
-[Codewars](https://www.codewars.com/) | An online challenge for all types of coders to complete katas (questions) and move up levels.
-[Glassmorphism](https://www.glassmorphism.com) | A design style to connect and combine all of the uses of the “frosted glass” effect in the UI.
-[Border Radius](https://border-radius.com) | A tool to insert the desired curve and for each corner get the code instantly.
-[Css Grid Generator](https://cssgrid-generator.netlify.app) | A new and brillant css grid generator.
-[Neumorphism.io](https://neumorphism.io/#e0e0e0) | Online tool to generate CSS code of “neumorphism” effect in the UI.
-[Blob Maker](https://www.blobmaker.app) | Random svg shape maker.
-[Bounce.js](http://www.bouncejs.com) | A custom animation creator.
-[Cssgradient.io](https://cssgradient.io) | A gradients generator.
 [Write PHP Online](http://www.writephponline.com/) | Simple free website that allows you to execute PHP code.
 [XML Viewer](https://codebeautify.org/xmlviewer#) | Beautify XML files
