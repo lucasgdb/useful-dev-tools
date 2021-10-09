@@ -146,7 +146,6 @@
 [Wappalyzer](https://www.wappalyzer.com) | Identify technology used on websites.
 [Web Resizer](http://webresizer.com/resizer/) | Make photos faster. (Step 1)
 [Windframe](https://www.devwares.com/windframe/) | A tool to rapidly build and prototype stunning websites using Tailwind CSS
-<<<<<<< HEAD
 [Dillinger.io](https://dillinger.io/) | Is an online markdown file editor with a preview that can help you to create or edit .md file for your project
 [Ray.so](https://ray.so/) | A beautiful code converter to SVG, PNG
 [LoremIpsum.io](https://loremipsum.io/) |  Is a placeholder generator, that contains many random generated text, image placeholder for developers!
@@ -158,7 +157,5 @@
 [Blob Maker](https://www.blobmaker.app) | Random svg shape maker.
 [Bounce.js](http://www.bouncejs.com) | A custom animation creator.
 [Cssgradient.io](https://cssgradient.io) | A gradients generator.
-=======
 [Write PHP Online](http://www.writephponline.com/) | Simple free website that allows you to execute PHP code.
 [XML Viewer](https://codebeautify.org/xmlviewer#) | Beautify XML files
->>>>>>> refs/remotes/origin/master

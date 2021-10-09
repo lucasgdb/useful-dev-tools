@@ -51,6 +51,7 @@
 `vol` | show volume description and serial numbers of the HDDs
 | **Linux Terminal** |
 `cat filename` | Displays the file content
+`cd ..` | Moves up a level from the current directory.
 `cd <file path name>` | For setting the directory inside the cmd window to the desired path name
 `clear` | The command line screen will be cleared.
 `echo $VARIABLE` | To display value of a variable
