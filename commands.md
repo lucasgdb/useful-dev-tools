@@ -22,13 +22,11 @@
 `git show [ commit id ]` | This command is used to list the metadata for the specified commit 
 `git stash pop` | Restores the most recently stashed changes.
 `git stash push -m <stash_message> <file_path>` | Save a specific file to the stash
-`git reset --hard` | Resets the current branch to the latest commit.
-`git rebase <branch-name>` | Reapply commits from <branch-name> on top of branch that is currently in, help to sync between branch to avoid "n commit behind 
-master"
 `git stash` | Stores the current working changes so they can be restored at a later time if desired.
 `git status` | for getting the status of the cloned repository folder to see what changes have been made, if any
 | **Windows Terminal** | 
 `attrib` | display file attributes
+`cd ..` | Moves up a level from the current directory.
 `cd <file path name>` | For setting the directory inside the cmd window to the desired path name.
 `chkdsk` | check volumes
 `chkntfs` | display/change volume check at startup
@@ -63,6 +61,7 @@ master"
 `history` | Display or manipulate the history list
 `less <filename>` | Show files in some page
 `locate <filename>` | Show the directory where the file is located
+`ls –option directory_name` | The output will be the listing of the directory contents.
 `lsblk` | lists information about all available or the specified block devices
 `man <comman_name>` | Display user mannual of the command
 `mkdir new_directory_name` | The user running this command must have suitable rights over the parent directory to create a directory or they will receive an error.
