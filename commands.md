@@ -24,25 +24,52 @@
 `git stash push -m <stash_message> <file_path>` | Save a specific file to the stash
 `git stash` | Stores the current working changes so they can be restored at a later time if desired.
 `git status` | for getting the status of the cloned repository folder to see what changes have been made, if any
-| **Terminal** |
-`cat filename` | Displays the file content
-`cd <file path name>` | For setting the directory inside the cmd window to the desired path name
+| **Windows Terminal** | 
+`attrib` | display file attributes
 `cd ..` | Moves up a level from the current directory.
+`cd <file path name>` | For setting the directory inside the cmd window to the desired path name.
+`chkdsk` | check volumes
+`chkntfs` | display/change volume check at startup
+`cls` | The command line screen will be cleared.
+`defrag` | defragment media
+`diskpart`| volume management
+`driverquery` | display installed devices and their properties
+`format` | format volumes
+`ipconfig` | display IP network settings
+`ls –option directory_name` | The output will be the listing of the directory contents.
+`label` | change volume name
+`mode` | configure interfaces/devices
+`mountvol` | assign/delete drive mountpoints
+`move` | move/rename files
+`mkdir new_directory_name` | The user running this command must have suitable rights over the parent directory to create a directory or they will receive an error.
+`touch` | The touch command is used to create a file
+`rmdir directory_name`| The user running this command must have suitable rights over the parent directory to remove a directory or they will receive an error
+`rename` | rename files
+`replace` |	replace files
+`tree` | display folder structure graphically
+`type` | display content of text files
+`verify` | monitoring whether volumes are written correctly
+`vol` | show volume description and serial numbers of the HDDs
+| **Linux Terminal** |
+`cat filename` | Displays the file content
+`cd ..` | Moves up a level from the current directory.
+`cd <file path name>` | For setting the directory inside the cmd window to the desired path name
 `clear` | The command line screen will be cleared.
 `echo $VARIABLE` | To display value of a variable
 `env` | Displays all environment variables
 `export Variable=value` | To set a value of the environment variable
 `history` | Display or manipulate the history list
 `less <filename>` | Show files in some page
-`lsblk` | lists information about all available or the specified block devices
+`locate <filename>` | Show the directory where the file is located
 `ls –option directory_name` | The output will be the listing of the directory contents.
+`lsblk` | lists information about all available or the specified block devices
 `man <comman_name>` | Display user mannual of the command
 `mkdir new_directory_name` | The user running this command must have suitable rights over the parent directory to create a directory or they will receive an error.
 `mv Source_File_name Destination_File_Name` | Move file from source to destination.
 `pwd` | The current working directory will be displayed.
 `rmdir directory_name`| The user running this command must have suitable rights over the parent directory to remove a directory or they will receive an error
-`rmdir /S <folder name>` | Remove a directory (folder) along with all the files in it
 `rm file_name` | Remove files from the directory.
+`rmdir /S <folder name>` | Remove a directory (folder) along with all the files in it
 `touch` | The touch command is used to create a file
 | **Docker** |
 `docker build -t myimage:latest .` | Build an image called myimage using the Dockerfile in the same folder where the command was executed.
