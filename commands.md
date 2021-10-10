@@ -7,24 +7,24 @@
 `git add --interactive` or `git add -i` | add modified contents in the working tree interactively to the index
 `git branch` | for listing, creating, or deleting branches.
 `git checkout -b <new-branch-name> upstream/master` | for creating a new branch from the latest upstream version
-`git cherry-pick <commmit id(s)>` | This command will apply the changes of the listed git commit hashes in the current branch.
+`git cherry-pick <commit id(s)>` | This command will apply the changes of the listed git commit hashes in the current branch.
 `git clone <url copied from github>` | for creating a clone of your repository on your local machine
 `git commit -m "<description of changes>"` | for committing your changes to github
-`git log` | Show commit logs 
+`git log` | Show commit logs
 `git merge <branch-name>` | merges branch-name into your current branch
-`git pull origin <branch-name>` | downloads the most recent changes to a branch (very useful when working as a team) 
+`git pull origin <branch-name>` | downloads the most recent changes to a branch (very useful when working as a team)
 `git push origin <your-branch-name>` | for pushing your changes to your github repo clone
-`git push --set-upstream <remote> <name-of-your-branch>` or `git push -u origin <branch_name>` | upload newly created branch to remote 
+`git push --set-upstream <remote> <name-of-your-branch>` or `git push -u origin <branch_name>` | upload newly created branch to remote
 `git rebase <branch-name>` | Reapply commits from <branch-name> on top of branch that is currently in, help to sync between branch to avoid "n commit behind master"
 `git remote add upstream <original repository url>` | for setting the original as the upstream remote
 `git reset --hard` | Resets the current branch to the latest commit.
-`git revert <commit id>` | Reverts changes made by specified commit 
-`git show [ commit id ]` | This command is used to list the metadata for the specified commit 
+`git revert <commit id>` | Reverts changes made by specified commit
+`git show [ commit id ]` | This command is used to list the metadata for the specified commit
 `git stash pop` | Restores the most recently stashed changes.
 `git stash push -m <stash_message> <file_path>` | Save a specific file to the stash
 `git stash` | Stores the current working changes so they can be restored at a later time if desired.
 `git status` | for getting the status of the cloned repository folder to see what changes have been made, if any
-| **Windows Terminal** | 
+| **Windows Terminal** |
 `attrib` | display file attributes
 `cd ..` | Moves up a level from the current directory.
 `cd <file path name>` | For setting the directory inside the cmd window to the desired path name.
@@ -63,7 +63,7 @@
 `locate <filename>` | Show the directory where the file is located
 `ls –option directory_name` | The output will be the listing of the directory contents.
 `lsblk` | lists information about all available or the specified block devices
-`man <comman_name>` | Display user mannual of the command
+`man <comman_name>` | Display user manual of the command
 `mkdir new_directory_name` | The user running this command must have suitable rights over the parent directory to create a directory or they will receive an error.
 `mv Source_File_name Destination_File_Name` | Move file from source to destination.
 `pwd` | The current working directory will be displayed.

@@ -38,9 +38,9 @@
 [Docker](https://docker.com) | Easily run local linux-based containers.
 [DockStation](https://dockstation.io/) | Developing with Docker has never been so easy and convenient.
 [Helm](https://helm.sh) | A package manager for kubernetes that allows simple but powerful software installs on a Kubernetes cluster.
-[Jenkins](https://www.jenkins.io/) | Free and Opensource tool that can be used to automate all sorts of tasks releated to building, testing and delivering or deploying software.
+[Jenkins](https://www.jenkins.io/) | Free and Opensource tool that can be used to automate all sorts of tasks related to building, testing and delivering or deploying software.
 [portainer](https://github.com/portainer/portainer) | Portainer is a lightweight management UI which allows you to easily manage your different Docker environments
-[Terraform](https://www.terraform.io/) | Terraform is a tool for building, changing, and versioning infrastructure (IaC). Supports tons of providers not only the major clouds. Essencialy great way to codify your infrastrcuture.
+[Terraform](https://www.terraform.io/) | Terraform is a tool for building, changing, and versioning infrastructure (IaC). Supports tons of providers not only the major clouds. Essentially great way to codify your infrastructure.
 [VirtualBox](https://www.virtualbox.org/) | An open source virtualization product developed by Oracle.
 [Wakatime](https://wakatime.com/) | Quantify your coding. Open source plugins for automatic programming metrics.
 [Wireshark](https://www.wireshark.org/) | Wireshark is an open source, network protocol analyzer.
@@ -57,7 +57,7 @@
 [nmap](https://github.com/nmap/nmap) | Nmap the most powerful network mapper.
 [ohmyzsh](https://ohmyz.sh/) | A delightful, open source, community-driven framework for managing Zsh configuration
 [PuTTY](https://www.putty.org/) | PuTTY is a free and open-source terminal emulator, serial console and network file transfer application. It supports several network protocols, including SCP, SSH, Telnet, rlogin, and raw socket connection.
-[StarShip](https://starship.rs/) | A beatiful, minimal and customizable prompt for most existent shells (included PowerShell).
+[StarShip](https://starship.rs/) | A beautiful, minimal and customizable prompt for most existent shells (included PowerShell).
 [Terminator](https://gnometerminator.blogspot.com/p/introduction.html) | A Terminal replacement for Linux (GNOME) that supports tabs and grids.
 [Tmux](https://github.com/tmux/tmux/wiki) | A terminal multiplexer which allows multiple terminal sessions to be accessed simultaneously
 [VMware Workstation](https://www.vmware.com/) | VMware allows to run multiple application and operating system workloads on the one server – thus enabling better resource management. By creating a virtual machine that behaves exactly like an actual computer – VMware also allows everything running on that virtual machine to run in its own window.
@@ -71,7 +71,7 @@
 [Git Kraken](https://www.gitkraken.com/) | Legendary Git Client for windows, mac and linux. Really practical and robust.
 [Meld](https://meldmerge.org) | An open source and cross-platform visual diff and merge tool to compare files and directories. (Version control comparison)
 [Sourcetree](https://www.sourcetreeapp.com/) | A Simple GIT UI for windows and mac
-[Toggl](https://www.toggl.com) | A smart and usefull time tracker for teams containing helpful integrations like with Github for all plans.
+[Toggl](https://www.toggl.com) | A smart and useful time tracker for teams containing helpful integrations like with Github for all plans.
 [TortoiseGit](https://tortoisegit.org/) | TortoiseGit is a Git revision control client, implemented as an extension to the Windows Shell and based on TortoiseSVN. Open source, it is licensed under the GNU General Public License.
 | **Utils** |
 [Agent Ransack](https://www.mythicsoft.com/agentransack/) | Agent Ransack is a file search tool for finding files on your PC or network drives.
@@ -81,12 +81,12 @@
 [ColorPicker](https://github.com/keshavbhatt/ColorPicker) | A colour picker and colour editor for web designers and digital artists, With Color Picker, identifying the colours, saving and editing is a quick and simple job.
 [Dash](https://kapeli.com/dash) | API Documentation, Cheat sheets, Snippet manager with instant search everything for macOS
 [Icon8](https://icons8.com/app) | Icons8 allows designers to express their ideas giving the right design elements at the right time.
-[Mailspring](https://getmailspring.com/) | Powerful n' fancy cross-plataform mail client.
+[Mailspring](https://getmailspring.com/) | Powerful n' fancy cross-platform mail client.
 [Peek](https://github.com/phw/peek) | App for recording screen areas, e.g. for easily showing UI features of your own apps or for showing a bug in bug reports.
 [Pexels](https://www.pexels.com) | Pexels. Free stock images, photos and videos.
 [Process Explorer](https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer) | Process Explorer is a freeware task manager and system monitor for Microsoft Windows.
 [Sizzy](https://sizzy.co/) | Multiscreen browser for web development
-[Termius](https://termius.com/) | A modern cross-plataform SSH/SFTP Client.
+[Termius](https://termius.com/) | A modern cross-platform SSH/SFTP Client.
 [Utilso](https://utilso.com) | All-in-one tools for developers. Format JSON, decode Base64, convert timestamps, debug JWT, convert YAML/JSON, code beautify and more. Work entirely offline
 [Microsoft PowerToys](https://docs.microsoft.com/en-us/windows/powertoys/install) | Microsoft PowerToys is a set of freeware system utilities designed for power users developed by Microsoft for use on the Windows operating system.
 [WinsCP](https://winscp.net/) | WinSCP is a free and open-source SFTP, FTP, WebDAV, Amazon S3 and SCP client for Microsoft Windows.
@@ -132,5 +132,5 @@
 [Opera](https://www.opera.com/computer/beta) | Opera might not be as popular as Chrome or Firefox for developers, but it has a number of benefits to consider.
 [Polypane](https://polypane.app/) | Polypane is a unique kind of browser, specifically designed for developers and designers. This browser is a cross-platform solution and Devtool that experts can use to develop, test, and debug sites as quickly as possible.
 [LT Browser](https://www.lambdatest.com/lt-browser) | LT Browser is a developer-oriented browser that provides users with a development workspace to test their website’s responsiveness over a variety of devices and viewports.
-[Blisk](https://blisk.io/) | Compared to Opera, Chrome, and Firefox, Blisk doesn’t have nearly as much attention online. However, this browser is specifically designed to give designers a development-first workspace where they can develop and test modern applications as quickly as possible. 
+[Blisk](https://blisk.io/) | Compared to Opera, Chrome, and Firefox, Blisk doesn’t have nearly as much attention online. However, this browser is specifically designed to give designers a development-first workspace where they can develop and test modern applications as quickly as possible.
 [SauceLabs](https://saucelabs.com/) | Sauce Labs provides the largest automated cloud(browsers/devices) for running Selenium and Appium tests.

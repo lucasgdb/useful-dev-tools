@@ -4,7 +4,7 @@
 | --------------- | ----------- |
 [3v4l.org](https://3v4l.org/) | 3v4l.org (leetspeak for eval) is a online PHP shell which allows you run code on more than 250 PHP versions, and compare performance, output and support of features. **Features: (linting, debugger, sharing)**
 [apiDoc](https://apidocjs.com/) | Creates a documentation from API annotations in your source code.
-[Code Anywhere IDE](https://codeanywhere.com/) | CodeAnywhere has two features that stand out for me: Prebuilt container images for 72+ programming languages and frameworks, Connect to anything. Yes, literally anything. You’re not obliged to store your code on CodeAnywhere’s servers. 
+[Code Anywhere IDE](https://codeanywhere.com/) | CodeAnywhere has two features that stand out for me: Prebuilt container images for 72+ programming languages and frameworks, Connect to anything. Yes, literally anything. You’re not obliged to store your code on CodeAnywhere’s servers.
 [CodePen](https://codepen.io/) | Tool for front-end development. You can develop any HTML, CSS, modern web frameworks, javascript based code. Integrate your code to github and possible to collaborate. **Features: (examples, github, adding npm packages, download the code, auto reload)**
 [CodeSandbox](https://codesandbox.io/) | You can run both front-end and back-end (javascript, nodejs, any front end frameworks). Easy to fork from github and modify the code **Features: (examples, github, adding npm packages, auto reload, deploy the app)**
 [Ellie](https://ellie-app.com/) | Ellie is a web application with an Elixir backend and an Elm frontend. You can explore and try out Elm programming language.
@@ -25,7 +25,7 @@
 [SQLFiddle](http://sqlfiddle.com/) | SQLFiddle is a tool for easy online testing and sharing of sql database problems and their solutions. **Features: (examples, boilerplates)**
 [StackBlitz](https://stackblitz.com) | StackBlitz. A nice playground to create, edit & deploy fullstack apps. It supports JavaScript frameworks such as Angular, React, Ionic, TypeScript, Svelte, and RxJs.
 [Trinket.io](https://trinket.io/) | Trinket is a website that allows you to create and test code without creating an account. Mainly it is used for python but they have other languages as well. **Features(examples, plans, tutorials)**
-[W3schools](https://www.w3schools.com/) | Completely for those who start front-end development. You can see the examples, descriptions and use case for each web componet. **Features: (examples)**
+[W3schools](https://www.w3schools.com/) | Completely for those who start front-end development. You can see the examples, descriptions and use case for each web component. **Features: (examples)**
 [W3Schools Online Code Editor](https://www.w3schools.com/tryit/) | With W3Schools online code editor, you can edit HTML, CSS and JavaScript code, and view the result in your browser.
 [apiDoc](https://apidocjs.com/) | Creates a documentation from API annotations in your source code.
 [GDB online](https://www.onlinegdb.com/) |  Online compiler and debugger tool for C, C++, Python, PHP, Ruby, C#, VB, Perl, Swift, Prolog, Javascript, Pascal, HTML, CSS, JS. Code, Compile, Run and Debug online from anywhere in world.
@@ -34,6 +34,6 @@
 [Kotlin Playground](https://play.kotlinlang.org/) | Kotlin Playground is an online sandbox to explore Kotlin programming language. Browse code samples directly in the browser.
 [Rust online IDE](https://play.rust-lang.org/) | A browser interface to the Rust compiler to experiment with the language.
 [Ellie](https://ellie-app.com/) | Ellie is a web application with an Elixir backend and an Elm frontend. You can explore and try out Elm programming language.
-[Code Anywhere IDE](https://codeanywhere.com/) | CodeAnywhere has two features that stand out for me: Prebuilt container images for 72+ programming languages and frameworks, Connect to anything. Yes, literally anything. You’re not obliged to store your code on CodeAnywhere’s servers. 
-[katacoda](https://www.katacoda.com/) | Learn new technologies using real environments right in your browser 
+[Code Anywhere IDE](https://codeanywhere.com/) | CodeAnywhere has two features that stand out for me: Prebuilt container images for 72+ programming languages and frameworks, Connect to anything. Yes, literally anything. You’re not obliged to store your code on CodeAnywhere’s servers.
+[katacoda](https://www.katacoda.com/) | Learn new technologies using real environments right in your browser
 [DartPad](https://dartpad.dev/?null_safety=true) | DartPad is an online code editor for Dart language.

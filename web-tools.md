@@ -1,7 +1,7 @@
 # Web Tools 🌐
 
 | Tool | Description |
-| ---- | ----------- | 
+| ---- | ----------- |
 [3Cols](https://3cols.com/) | A free cloud based code snippet manager for personal and collaborative code.
 [4Devs](https://www.4devs.com.br/) | Personal data generator and validator. Very useful mainly for Brazilians due to CPF, CEP, CNPJ and others.
 [Android Asset Studio](http://romannurik.github.io/AndroidAssetStudio/) | A collection of tools to easily generate assets such as launcher icons for your Android app.
@@ -43,7 +43,7 @@
 [CSS Animate](https://cssanimate.com/) | Online tool for creating native CSS3 Keyframes Animation
 [CSS Compressor](https://csscompressor.com/) | Use CSS Compressor to compress CSS (CSS 1, CSS 2, CSS 2.1 & CSS 3) to reduce CSS code size and make your website load faster.
 [Cssgradient.io](https://cssgradient.io) | A gradients generator.
-[Css Grid Generator](https://cssgrid-generator.netlify.app) | A new and brillant css grid generator.
+[Css Grid Generator](https://cssgrid-generator.netlify.app) | A new and brilliant css grid generator.
 [cssreference](https://cssreference.io/) | cssreference.io is a free visual guide to CSS. It features the most popular properties, and explains them with illustrated and animated examples.
 [CSS Separator Generator](https://wweb.dev/resources/css-separator-generator) | A generator for section separators.
 [CyberChef](https://gchq.github.io/CyberChef/) | The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis.
@@ -64,9 +64,9 @@
 [ExtendsClass](https://extendsclass.com/) | Online developer tools: Playgrounds (Regex, XPath, SQLite), API clients (REST, SOAP), diff (XML, CSV, JSON) and data generators (JSON, CSV).
 [Favicon Generator](https://realfavicongenerator.net) | Favicon generator.
 [Figma](https://www.figma.com) | Figma is a cloud-based design tool that is similar to Sketch in functionality and features, but with big differences that make Figma better for team collaboration.
-[Firebase](https://firebase.google.com) | A Google SaaS backend solutions for cross-plataform applications
+[Firebase](https://firebase.google.com) | A Google SaaS backend solutions for cross-platform applications
 [FontSee](https://fontsee.com/) | Online webfont viewer: Preview how font files look like in the browser.
-[Free Code Camp](https://freecodecamp.org/) | Free training to become a web developer with several modules to study at your own pace. Also has several thousand user contributed YouTube videos in their channel. 
+[Free Code Camp](https://freecodecamp.org/) | Free training to become a web developer with several modules to study at your own pace. Also has several thousand user contributed YouTube videos in their channel.
 [Freeformatter](https://www.freeformatter.com/java-regex-tester.html) | Regex validator for Java
 [Frisby.js](https://www.frisbyjs.com/) | The Easiest REST API Testing Framework Out There.
 [GeeksforGeeks](https://www.geeksforgeeks.org/) | A Computer Science portal for geeks. It contains well written computer science and programming articles, tutorials and implementations for most of the concepts of Software Engineering field.
@@ -128,7 +128,8 @@
 [Sejda PDF Editor](https://www.sejda.com/pdf-editor) | The best online PDF editor tool, easily edit text, put whiteout over text which is not needed and much more.
 [Shape Divider](https://www.shapedivider.app/) | Shape Divider is a tool that you can easily create custom shape dividers and get ready code of it.
 [Shield.io](https://shields.io/) | Create beautiful badges for your markdown document.
-[Sonarqube](https://www.sonarqube.org/) | Is an open-source platform developed by SonarSource for continuous inspection of code quality to perform automatic reviews with static analysis of code to detect bugs, code smells, and security vulnerabilities on 20+ programming languages. 
+[Sonarqube](https://www.sonarqube.org/) | Is an open-source platform developed by SonarSource for continuous inspection of code quality to perform automatic reviews with static analysis of code to detect bugs, code smells, and security vulnerabilities on 20+ programming languages.
+[Squoosh](https://squoosh.app/) | Squoosh is an image compression web app that reduces image sizes through numerous formats.
 [Stack Overflow](https://stackoverflow.com) | Stack Overflow is an open community for anyone that codes. It help you get answers to your toughest coding questions, share knowledge with your coworkers in private, and find your next dream job.
 [svgomg](https://jakearchibald.github.io/svgomg/) | Web GUI for SVGO.
 [Swagger](https://editor.swagger.io/) | an online swagger editor for creating interactive Rest API documentations.
