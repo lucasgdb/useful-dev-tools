@@ -14,13 +14,13 @@
 [Babel JavaScript](https://marketplace.visualstudio.com/items?itemName=mgmcdermott.vscode-language-babel) | VSCode syntax highlighting for today's JavaScript.
 [Beautify](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify) | Beautify javascript, JSON, CSS, Sass, and HTML in Visual Studio Code.
 [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments) | The Better Comments extension will help you create more human-friendly comments in your code.
-[Blueberry Banana](https://marketplace.visualstudio.com/items?itemName=pshershov.blueberry-banana) | Blueberry Banana is an easy-on-the-eyes theme with a cyberpunkish feeling.
+[Blueberry Banana](https://marketplace.visualstudio.com/items?itemName=pshershov.blueberry-banana) | Blueberry Banana is an easy-on-the-eyes theme with a cyberpunk-ish feeling.
 [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks) | It helps you to navigate in your code, moving between important positions easily and quickly. No more need to search for code. It also supports a set of selection commands, which allows you to select bookmarked lines and regions between bookmarked lines. It's really useful for log file analysis.
-[Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer) | Extension that hightlights the end the matching brackets, whether in a function, array, or object!
+[Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer) | Extension that highlights the end the matching brackets, whether in a function, array, or object!
 [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer) | This extension allows matching brackets to be identified with colours. The user can define which characters to match, and which colours to use.
 [Bracket Pair Visualizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2) | This will autohighlight matching brackets with the same colour to make it easier to identify multiple bracket pairs apart.
 [Browser Preview](https://marketplace.visualstudio.com/items?itemName=auchenberg.vscode-browser-preview) | Browser Preview for VS Code enables you to open a real browser preview inside your editor that you can debug.
-[C/C++](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools) | This is very useful visual code extention for C or C++ either for competitive coders or developers.
+[C/C++](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools) | This is very useful visual code extension for C or C++ either for competitive coders or developers.
 [Checkstyle for Java](https://marketplace.visualstudio.com/items?itemName=shengchen.vscode-checkstyle) | A easy way to check problems and fix them.
 [CodeMetrics](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-codemetrics) | Computes complexity in TypeScript / JavaScript / Lua files.
 [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner) | Run code snippet or code file for multiple languages.
@@ -65,7 +65,7 @@
 [indent-rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow) | This extension colorizes the indentation in front of your text alternating four different colors on each step. This makes it easier to find your lines of code, making the process more practical.
 [Intellij Idea Keybindings](https://marketplace.visualstudio.com/items?itemName=k--kato.intellij-idea-keybindings) | For those who once were used to use Intellij or other tools from Jetbrains, this plugin allow you to include the keymaps for popular JetBrains products like IntelliJ Ultimate, WebStorm, PyCharm, PHP Storm, etc.
 [Java Extension Pack](https:marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack) | Java Extension Pack is a collection of popular extensions that can help write, test and debug Java applications in Visual Studio Code.
-[JavaScript (ES6)](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets) | This is very useful visual code extention or snippet for javascript developers especially who writes code in ES6.
+[JavaScript (ES6)](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets) | This is very useful visual code extension or snippet for javascript developers especially who writes code in ES6.
 [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) | Launch a development local Server with live reload feature for static & dynamic pages.
 [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) | Visual Studio Live Share enables you to collaboratively edit and debug with others in real time, regardless what programming languages you're using or app types you're building.
 [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint) | Markdown linting and style checking for Visual Studio Code.
