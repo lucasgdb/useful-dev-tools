@@ -70,7 +70,19 @@
 `rmdir directory_name`| The user running this command must have suitable rights over the parent directory to remove a directory or they will receive an error
 `rm file_name` | Remove files from the directory.
 `rmdir /S <folder name>` | Remove a directory (folder) along with all the files in it
-`touch` | The touch command is used to create a file
+`touch` | The touch command is used to create a file.
+`reboot` | restart the system.
+`seq <number>` | set and print a number sequence.
+`exec <program>` | execute the program.
+`history` | print the list of commands you used.
+| **Mac Terminal** |
+`more` | Lets you view the content of a text file.
+`grep` | Filters a text file on the keyword you specify
+`du` | Shows you the Disk Usage, a useful command to find out how much space is occupied by a folder 
+`brew doctor` | Check brew for potential problems.
+`brew list` | List all the installed formulas.
+`brew cleanup` | Remove older version of installed formula.
+`brew tap homebrew/cask` | Tap the cask repository from GitHub
 | **Docker** |
 `docker build -t myimage:latest .` | Build an image called myimage using the Dockerfile in the same folder where the command was executed.
 `docker build -t [username/]<image-name>[:tag] <dockerfile-path>` | Build an image.
