@@ -64,6 +64,7 @@
 [Jupyter Notebook](https://jupyter.org/) | Jupyter Notebook provides you with an easy-to-use, interactive data science environment across many programming languages that doesn't only work as an IDE, but also as a presentation or education tool.
 [Hyper](https://hyper.is/) | A terminal built on web technologies
 [Windows Terminal](https://www.microsoft.com/en-us/p/windows-terminal) | Windows Terminal is a modern, fast, efficient, powerful, and productive terminal application for users of command-line tools and shells like Command Prompt, PowerShell, and WSL.
+[Fig](https://fig.io/) | Fig adds VSCode-style autocomplete to your existing terminal.
 | **Version Control** |
 [Git Bash](https://gitforwindows.org/) | Git for Windows provides a BASH emulation used to run Git from the command line. NIX users should feel right at home, as the BASH emulation behaves just like the "git" command in LINUX and UNIX environments.
 [GitHub CLI](https://cli.github.com/) | GitHub CLI brings GitHub to your terminal. Free and open source.
