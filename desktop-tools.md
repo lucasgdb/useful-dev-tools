@@ -92,6 +92,7 @@
 [WinsCP](https://winscp.net/) | WinSCP is a free and open-source SFTP, FTP, WebDAV, Amazon S3 and SCP client for Microsoft Windows.
 [yEd](https://www.yworks.com/products/yed) | yEd is a powerful desktop application that can be used to quickly and effectively generate high-quality diagrams.
 [Numi](https://numi.app/) | Beautiful and powerful calculator app for Mac
+[Rectangle](https://rectangleapp.com/) | Move and resize windows in macOS using keyboard shortcuts or snap areas
 | **Debug/Security** |
 [Burp Suite](https://portswigger.net/burp) | Burp Suite is a leading range of cybersecurity tools, brought to you by PortSwigger.
 [Compare It!](https://www.grigsoft.com/wincmp3.htm) | Compare texts, indicating the differences. Practical, light and fast.

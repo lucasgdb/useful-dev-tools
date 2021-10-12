@@ -39,3 +39,4 @@
 [Web Developer Chrome Extension](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm) | A Google Chrome extension that adds a toolbar button to the browser with various web developer tools.
 [WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm) | Great extension for developers that allows you to inspect web fonts by just hovering on them.
 [YouTube Blocker](https://chrome.google.com/webstore/detail/youtube-blocker/oohcfepaadomnocmmkejhnfhcddpdpab) | YouTube Blocker blocks YouTube videos not in the Education, Science & Technology, or Howto & Style categories so you can focus on watching educational videos.
+[Download All Images](https://chrome.google.com/webstore/detail/download-all-images/ifipmflagepipjokmbdecpmjbibjnakm) | Download All Images extension saves all the images in the active tab as a .zip file. It is super useful and quick to use.
