@@ -94,6 +94,7 @@
 [yEd](https://www.yworks.com/products/yed) | yEd is a powerful desktop application that can be used to quickly and effectively generate high-quality diagrams.
 [Numi](https://numi.app/) | Beautiful and powerful calculator app for Mac
 [Rectangle](https://rectangleapp.com/) | Move and resize windows in macOS using keyboard shortcuts or snap areas
+[Rocket](https://matthewpalmer.net/rocket/) | Rocket is a free Mac app that makes typing emoji faster and easier using Slack-style shortcuts.
 | **Debug/Security** |
 [Burp Suite](https://portswigger.net/burp) | Burp Suite is a leading range of cybersecurity tools, brought to you by PortSwigger.
 [Compare It!](https://www.grigsoft.com/wincmp3.htm) | Compare texts, indicating the differences. Practical, light and fast.
