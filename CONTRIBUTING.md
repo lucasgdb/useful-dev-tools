@@ -1,17 +1,19 @@
 # Contributing
 
-## Welcome
+## Welcome!
 
-### Thank you for want to help to contribute to this project! :)
+You are encouraged to contribute to this repository during the hacktoberfest event! 🎉
 
-- fork this repo on github.
-- clone the forked repository to your local system.
-  - `git clone https://github.com/YourUsername/useful-dev-tools.git`
-- make another branch.
+## Follow these steps:
+
+- Fork this repository on Github.
+- Clone the forked repository:
+  - `git clone https://github.com/YOUR_USERNAME/useful-dev-tools.git`
+- Create another branch and enter it:
   - `git branch new-branch`
   - `git switch new-branch`
-- make the new changes.
-- `git add .`
-- `git commit -m "added new tools and vscode extensions"` (example)
-- `git push origin new-branch`
-- open a pull request in the github.
+- Make the changes and then:
+  - `git add .`
+  - `git commit -m "added a new tool! 🎉"`
+  - `git push -u origin new-branch`
+- Open a Pull Request on Github.
