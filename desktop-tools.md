@@ -116,6 +116,7 @@
 [Robo 3T](https://robomongo.org/) | A GUI for editing and viewing MongoDB Data.
 [TablePlus](https://tableplus.com//) | Database management made easy. Modern, native, and friendly GUI tool for relational databases: MySQL, PostgreSQL, SQLite & more
 | **Package Manager** |
+[npm](https://www.npmjs.com/) | npm is a package manager for Node JavaScript platform.
 [Chocolatey](https://chocolatey.org) | Software management automation for Windows that wraps installers, executables, zips, and scripts into compiled packages
 [Homebrew](https://brew.sh/) | The missing package manager for macOS (or Linux).
 [Scoop](https://scoop.sh/) | Scoop is a command-line installer for Windows.
@@ -125,7 +126,6 @@
 [Expo](https://expo.io/) | Mobile application development which can run JavaScript. Useful for React Native
 [Flutter](https://flutter.dev/) | Flutter is Google’s UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase. It is free and open source.
 [Genymotion Android Emulator](https://www.genymotion.com/) | Cross-platform Android emulator for developers & QA engineers. Develop & automate your tests to deliver best quality apps. On desktop, AWS, GCP & SaaS.
-[npm](https://www.npmjs.com/) | npm is a package manager for Node JavaScript platform.
 [Principle](https://principleformac.com/) | Principle makes it easy to design animated and interactive user interfaces.
 | **Browser** |
 [Brave Browser](https://brave.com) | A Chrome-based browser without the tracking and analytics with builtin adblocking.
