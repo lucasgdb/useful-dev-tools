@@ -118,3 +118,4 @@
 [VSCode Styled Components](https://marketplace.visualstudio.com/items?itemName=jpoissonnier.vscode-styled-components) | Syntax highlighting for styled-components. Very useful to develop using styled-components.
 [Vue VSCode Snippets](https://marketplace.visualstudio.com/items?itemName=sdras.vue-vscode-snippets) | Vue.js code snippets for VSCode.
 [Vuln Cost - Security Scanner](https://marketplace.visualstudio.com/items?itemName=snyk-security.vscode-vuln-cost) | Find security vulnerabilities in open source packages while you code in JavaScript, TypeScript and HTML.
+[WakaTime - Dashboard for developers](https://marketplace.visualstudio.com/items?itemName=WakaTime.vscode-wakatime) | WakaTime is committed to making time tracking fully automatic for every programmer. By creating open source plugins for IDEs and text editors, we give powerful insights about how you code, and let you get back to what matters most: creating amazing software.
