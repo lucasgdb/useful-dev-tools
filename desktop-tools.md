@@ -32,6 +32,7 @@
 [VSCodium](https://code.vscodium.com/) | Open Source Binaries of VSCode.
 [Dev-C++](https://www.bloodshed.net/) | Dev-C++ is a full-featured C and C++ IDE for Windows platforms.
 [NetBeans](https://netbeans.apache.org/) | NetBeans is an IDE for Java.
+[Code::Blocks](https://www.codeblocks.org/) | Code::Blocks is a free, open-source cross-platform IDE that supports multiple compilers including GCC, Clang and Visual C++.
 | **Infrastucture/DevOps** |
 [Ansible](https://www.ansible.com/) | Tool for automating software provisioning, configuration management,and application deployment.
 [Apache JMeter](https://jmeter.apache.org/) | The Apache JMeter™ application is open source software, a 100% pure Java application designed to load test functional behavior and measure performance.
