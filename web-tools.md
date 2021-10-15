@@ -92,6 +92,7 @@
 [Hoppscotch](https://hoppscotch.io/) | API request builder.
 [HTML Cleaner](https://html-cleaner.com) | Free HTML, CSS, and JavaScript beautifier.
 [HTML Minifier](https://www.willpeavy.com/minifier/) | Minify HTML and any CSS or JS included in your markup.
+[IconMoon.io](https://icomoon.io/) | Icon Font and SVG Icon sets. More than 5500+ free vector icons.
 [JPEG and PNG Compactor](https://compresspng.com/pt/) | Make photos faster. (Step 2)
 [JS Compressor](https://jscompress.com/) | It's an online JavaScript compressor that allows you to compress and minify all of your JS files by up to 80% of their original size.
 [JSHint](https://jshint.com/) | A tool that helps to detect errors and potential problems in your JavaScript code.
