@@ -66,7 +66,7 @@
 [Figma](https://www.figma.com) | Figma is a cloud-based design tool that is similar to Sketch in functionality and features, but with big differences that make Figma better for team collaboration.
 [Firebase](https://firebase.google.com) | A Google SaaS backend solutions for cross-platform applications
 [FontSee](https://fontsee.com/) | Online webfont viewer: Preview how font files look like in the browser.
-[Font Awesome](https://fontawesome.com) | Font Awesome is a font and icon toolkit based on CSS and Less.
+[Font Awesome](https://fontawesome.com) | Font Awesome is a font and icon toolkit based on CSS and Less. Get vector icons and social logos on your website with Font Awesome.
 [Free Code Camp](https://freecodecamp.org/) | Free training to become a web developer with several modules to study at your own pace. Also has several thousand user contributed YouTube videos in their channel.
 [Freeformatter](https://www.freeformatter.com/java-regex-tester.html) | Regex validator for Java
 [Frisby.js](https://www.frisbyjs.com/) | The Easiest REST API Testing Framework Out There.
