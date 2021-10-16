@@ -24,6 +24,7 @@
 [Repl.it](https://repl.it/) | Repl.it is a web-based application that offers instant programming environment for your favourite language. **Features: (linting, debugger, files and live updates, hosting and Deployment)**
 [Rust online IDE](https://play.rust-lang.org/) | A browser interface to the Rust compiler to experiment with the language.
 [Scrimba](https://scrimba.com/) | Learn to Code with Interactive Tutorials.
+[SoloLearn Code Playground](https://www.sololearn.com/Codes/) | Is a social development environment, with lots of code examples and support for 10+ languages
 [SQLFiddle](http://sqlfiddle.com/) | SQLFiddle is a tool for easy online testing and sharing of sql database problems and their solutions. **Features: (examples, boilerplates)**
 [StackBlitz](https://stackblitz.com) | StackBlitz. A nice playground to create, edit & deploy fullstack apps. It supports JavaScript frameworks such as Angular, React, Ionic, TypeScript, Svelte, and RxJs.
 [Trinket.io](https://trinket.io/) | Trinket is a website that allows you to create and test code without creating an account. Mainly it is used for python but they have other languages as well. **Features(examples, plans, tutorials)**
