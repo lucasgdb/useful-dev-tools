@@ -27,6 +27,7 @@
 [Loom](https://chrome.google.com/webstore/detail/loom-for-chrome/liecbddmkiiihnedobmlmillhodjkdmb) |With Loom, you can record your screen, voice, and face to create an instantly shareable video in less time than it would take to type an email.
 [Muzli](https://chrome.google.com/webstore/detail/muzli-2-stay-inspired/glcipcfhmopcgidicgdociohdoicpdfc) | The freshest links about design and interactive, from around the web. A designer's must!
 [Octotree Chrome Extension](https://www.octotree.io/) |  Octotree is loaded with features that make GitHub code review and exploration awesome. Make your GitHub Dark-Mode.
+[Pesticide for Chrome](https://chrome.google.com/webstore/detail/pesticide-for-chrome-with/eipbgplchlidkojmppclhkechkhmlefi/related) | Inserts the Pesticide CSS into the current page, outlining each element to better see placement on the page.
 [React DevTools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) | Extension to add react developer tools to Google chrome.
 [Redux DevTools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd) | Extension to add redux developer tools to Google chrome.
 [Site Spider](https://chrome.google.com/webstore/detail/site-spider-mark-ii/gedjofgioahckekhpgknhchelbpdogok?hl=en%20) | A google chrome extension to find broken links on your site and want to restrict spidering to a specific directory.
