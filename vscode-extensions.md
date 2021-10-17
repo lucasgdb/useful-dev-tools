@@ -102,6 +102,7 @@
 [Scala Syntax (Official)](https://marketplace.visualstudio.com/items?itemName=scala-lang.scala) | Visual Studio Code extension for syntax highlighting Scala sources.
 [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync) | Synchronize Settings, Snippets, Themes, File Icons, Launch, Keybindings, Workspaces and Extensions Across Multiple Machines Using GitHub Gist.
 [Solargraph](https://github.com/castwide/vscode-solargraph) | Solargraph is a language server that provides intellisense, code completion, and inline documentation for Ruby.
+[Solidity](https://marketplace.visualstudio.com/items?itemName=JuanBlanco.solidity) | Solidity support for Visual Studio code
 [SonarLint](https://marketplace.visualstudio.com/items?itemName=SonarSource.sonarlint-vscode) | SonarLint highlights Bugs and Security Vulnerabilities as you write code, with remediation guidance so you can fix them before the code is even committed. It supports analysis of JavaScript, TypeScript, Python, Java, HTML & PHP code.
 [SQLite](https://marketplace.visualstudio.com/items?itemName=alexcvzz.vscode-sqlite) | VSCode extension to explore and query SQLite databases.
 [SQLTools](https://marketplace.visualstudio.com/items?itemName=mtxr.sqltools) | Database management done right. Connection explorer, query runner, intellisense, bookmarks, query history. Feel like a database hero!
