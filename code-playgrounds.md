@@ -37,3 +37,4 @@
 [Code Anywhere IDE](https://codeanywhere.com/) | CodeAnywhere has two features that stand out for me: Prebuilt container images for 72+ programming languages and frameworks, Connect to anything. Yes, literally anything. You’re not obliged to store your code on CodeAnywhere’s servers.
 [katacoda](https://www.katacoda.com/) | Learn new technologies using real environments right in your browser
 [DartPad](https://dartpad.dev/?null_safety=true) | DartPad is an online code editor for Dart language.
+[Remix - Ethereum IDE](https://remix.ethereum.org/) | Remix IDE allows developing, deploying and administering smart contracts for Ethereum like blockchains. It can also be used as a learning platform.
