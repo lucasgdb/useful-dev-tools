@@ -116,7 +116,6 @@
 [Online GDB](https://www.onlinegdb.com/) | GDB online is an online compiler and debugger tool for C, C++, Python, PHP, Ruby,C#, VB, Perl, Swift, Prolog, Javascript, Pascal, HTML, CSS, JS
 [P5.js](https://p5js.org/) | A JS client-side library for creating graphic and interactive experiences, based on the core principles of Processing.
 [Paper Js](http://paperjs.org/) | An open source vector graphics scripting framework that runs on top of the HTML5 Canvas.
-[Pesticide for Chrome](https://chrome.google.com/webstore/detail/pesticide-for-chrome-with/eipbgplchlidkojmppclhkechkhmlefi/related) | Inserts the Pesticide CSS into the current page, outlining each element to better see placement on the page.
 [Photopea](https://www.photopea.com/) | A online image editor. Very Similar to photoshop.
 [PhpStorm](https://www.jetbrains.com/phpstorm/) | The Best IDE for PHP. PhpStorm = WebStorm + PHP + DB/SQL. Paid, [check here](https://www.jetbrains.com/community/) if you apply for a free license.
 [Powtoon](https://www.powtoon.com/) | A video maker for presentations.
