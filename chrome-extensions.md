@@ -41,4 +41,4 @@
 [YouTube Blocker](https://chrome.google.com/webstore/detail/youtube-blocker/oohcfepaadomnocmmkejhnfhcddpdpab) | YouTube Blocker blocks YouTube videos not in the Education, Science & Technology, or Howto & Style categories so you can focus on watching educational videos.
 [Download All Images](https://chrome.google.com/webstore/detail/download-all-images/ifipmflagepipjokmbdecpmjbibjnakm) | Download All Images extension saves all the images in the active tab as a .zip file. It is super useful and quick to use.
 [Video Speed Controller](https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk?hl=en) | Speed up, slow down, advance and rewind audio/video with shortcuts
-
+[Dark Theme for Chrome](https://chrome.google.com/webstore/detail/dark-theme-for-chrome/pjbgfifennfhnbkhoidkdchbflppjncb) | Convert normal web page to dark theme.
