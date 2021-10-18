@@ -76,7 +76,8 @@
 [Node.js Exec](https://marketplace.visualstudio.com/items?itemName=miramac.vscode-exec-node) | Execute the current file or your selected code with node.js.
 [Numbered Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.numbered-bookmarks) | It helps you to navigate in your code by setting the marker, moving between important markers easily and quickly.
 [Nyan the cat](https://marketplace.visualstudio.com/items?itemName=zhengrenzhe.nyan-cat)  | Put Nyan the cat in your status bar.
-[Open in browser](https://marketplace.visualstudio.com/items?itemName=techer.open-in-browser) | You can open your htlm work in the browser and see how it is.
+[OpenAPI (Swagger) Editor](https://marketplace.visualstudio.com/items?itemName=42Crunch.vscode-openapi) | The extension also integrates with API Contract Security Audit by 42Crunch, so that you can check the quality of your API definition directly in VS Code. It gives a security score for your OpenAPI specification.
+[Open in browser](https://marketplace.visualstudio.com/items?itemName=techer.open-in-browser) | You can open your html work in the browser and see how it is.
 [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) | A plugin that autocompletes filenames. Intellisense will automatically fill or show suggestions as you try and type a path in quotations.
 [Peacock](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock) | Subtly change the workspace color of your workspace.
 [PHPCS](https://marketplace.visualstudio.com/items?itemName=ikappas.phpcs) | php cs adalahThe PHP Coding Standards Fixer (PHP CS Fixer) tool fixes your code to follow standards.
