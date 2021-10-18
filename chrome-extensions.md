@@ -15,6 +15,7 @@
 [Dark Theme for Chrome](https://chrome.google.com/webstore/detail/dark-theme-for-chrome/pjbgfifennfhnbkhoidkdchbflppjncb) | Dark Theme for all websites in Chrome browser with opportunity to exclude any domain or create custom theme. Apply all websites in browser into dark theme and exclude any domain from black theme for better experience. It's possible to create your own custom theme with any color you like.
 [Edit this Cookie](https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg) | Add, delete, edit cookies.
 [Fake Filler Chrome Extension](https://chrome.google.com/webstore/detail/fake-filler/bnjjngeaknajbdcgpfkgnonkmififhfo) | A Google Chrome extension that fills all input fields on a page with randomly generated fake data.
+[Font Finder](https://chrome.google.com/webstore/detail/font-finder/bhiichidigehdgphoambhjbekalahgha) | An easy-to-use font inspector to get CSS styles of the selected element
 [Full Page Screen Capture](https://chrome.google.com/webstore/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl?hl=en) | Take a screenshot of your current page.
 [Ghostery](https://chrome.google.com/webstore/detail/ghostery-%E2%80%93-privacy-ad-blo/mlomiejdfkolichcflejclcbmpeaniij?hl=en) | Ghostery detects trackers, pixels, and any other embedded snippet on a website and shows which plugins and trackers are installed on the web page you’ve visited
 [Go full Page](https://chrome.google.com/webstore/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl?hl=en) |The simplest way to take a full page screenshot of your current browser window. Click on the extension icon (or press Alt+Shift+P), watch the extension capture each part of the page, and be transported to a new tab of your screenshot where you can download it as an image or PDF or even just drag it to your desktop.
@@ -25,8 +26,10 @@
 [JSON Viewer](https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh) | The most beautiful and customizable JSON/JSONP highlighter that your eyes have ever seen.
 [JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc?hl=en) | Validate and view JSON documents.
 [Loom](https://chrome.google.com/webstore/detail/loom-for-chrome/liecbddmkiiihnedobmlmillhodjkdmb) |With Loom, you can record your screen, voice, and face to create an instantly shareable video in less time than it would take to type an email.
+[MetaMask](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn) | Software cryptocurrency wallet used to interact with the Ethereum blockchain.
 [Muzli](https://chrome.google.com/webstore/detail/muzli-2-stay-inspired/glcipcfhmopcgidicgdociohdoicpdfc) | The freshest links about design and interactive, from around the web. A designer's must!
 [Octotree Chrome Extension](https://www.octotree.io/) |  Octotree is loaded with features that make GitHub code review and exploration awesome. Make your GitHub Dark-Mode.
+[Pesticide for Chrome](https://chrome.google.com/webstore/detail/pesticide-for-chrome-with/eipbgplchlidkojmppclhkechkhmlefi/related) | Inserts the Pesticide CSS into the current page, outlining each element to better see placement on the page.
 [React DevTools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) | Extension to add react developer tools to Google chrome.
 [Redux DevTools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd) | Extension to add redux developer tools to Google chrome.
 [Site Spider](https://chrome.google.com/webstore/detail/site-spider-mark-ii/gedjofgioahckekhpgknhchelbpdogok?hl=en%20) | A google chrome extension to find broken links on your site and want to restrict spidering to a specific directory.
@@ -42,3 +45,4 @@
 [Download All Images](https://chrome.google.com/webstore/detail/download-all-images/ifipmflagepipjokmbdecpmjbibjnakm) | Download All Images extension saves all the images in the active tab as a .zip file. It is super useful and quick to use.
 [Video Speed Controller](https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk?hl=en) | Speed up, slow down, advance and rewind audio/video with shortcuts
 [Password Generator](https://chrome.google.com/webstore/detail/password-generator/opdldgbhjmjfoigadonpfngfcefnknbm) | Generate extremelly random password with just a few clicks
+[Dark Theme for Chrome](https://chrome.google.com/webstore/detail/dark-theme-for-chrome/pjbgfifennfhnbkhoidkdchbflppjncb) | Convert normal web page to dark theme.

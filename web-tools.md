@@ -18,6 +18,7 @@
 [Bounce.js](http://www.bouncejs.com) | A custom animation creator.
 [Boxicons](https://boxicons.com/) | High Quality Web Icons Set.
 [BrowserStack](https://www.browserstack.com/) | Browser and app testing.  This paid web tool allows a dev to test their application across multiple browsers running on different operating systems including mobile.
+[BscScan](https://bscscan.com/) | BscScan is the leading blockchain explorer for the Binance Smart Chain, built by the same team behind Etherscan. Besides tracking transactions, verifying smart contracts and other features, BscScan is also the leading validator for BSC.
 [Bubbly](https://projects.verou.me/bubbly/) | A CSS speech bubbles made easy.
 [Can I use](https://caniuse.com) | "Can I use" provides an up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers.
 [Canva](https://www.canva.com/) | Canva is a graphic design platform that allows users to create social media graphics, presentations, posters, logos, documents and other visual content.
@@ -60,6 +61,7 @@
 [DigitalOcean](https://www.digitalocean.com/) | It make it simple to launch in the cloud and scale up as you grow—whether you’re running one virtual machine or ten thousand.
 [Dillinger.io](https://dillinger.io/) | Is an online markdown file editor with a preview that can help you to create or edit .md file for your project
 [Epoch Converter](https://www.epochconverter.com/) | Convert epoch to human-readable dates and viceversa
+[Etherscan](https://etherscan.io/) | Etherscan is the leading BlockChain Explorer, Search, API and Analytics Platform for Ethereum, a decentralized smart contracts platform.
 [Exercism](https://exercism.io/) | Exercism is an online, open source and free access platform that offers code practice and guidance in 50 different programming languages.
 [ExtendsClass](https://extendsclass.com/) | Online developer tools: Playgrounds (Regex, XPath, SQLite), API clients (REST, SOAP), diff (XML, CSV, JSON) and data generators (JSON, CSV).
 [Favicon Generator](https://realfavicongenerator.net) | Favicon generator.
@@ -70,6 +72,7 @@
 [Free Code Camp](https://freecodecamp.org/) | Free training to become a web developer with several modules to study at your own pace. Also has several thousand user contributed YouTube videos in their channel.
 [Freeformatter](https://www.freeformatter.com/java-regex-tester.html) | Regex validator for Java
 [Frisby.js](https://www.frisbyjs.com/) | The Easiest REST API Testing Framework Out There.
+[FTMScan](https://ftmscan.com/) | FTMScan is a Fantom mainnet explorer made by the Etherscan team. The explorer expands the current explorer’s functionality with new features such as top accounts, verified contracts, and statistics, among others.
 [GeeksforGeeks](https://www.geeksforgeeks.org/) | A Computer Science portal for geeks. It contains well written computer science and programming articles, tutorials and implementations for most of the concepts of Software Engineering field.
 [Gerador de CPF e CNPJ](https://chrome.google.com/webstore/detail/gerador-de-cpf-e-cnpj/ieifkajhcbdlbmmjkbmpomooeepmciin?hl=pt-BR) | Perfect for testing.
 [Get Waves](https://getwaves.io/) | Create SVG waves for your next design.
@@ -116,9 +119,9 @@
 [Online GDB](https://www.onlinegdb.com/) | GDB online is an online compiler and debugger tool for C, C++, Python, PHP, Ruby,C#, VB, Perl, Swift, Prolog, Javascript, Pascal, HTML, CSS, JS
 [P5.js](https://p5js.org/) | A JS client-side library for creating graphic and interactive experiences, based on the core principles of Processing.
 [Paper Js](http://paperjs.org/) | An open source vector graphics scripting framework that runs on top of the HTML5 Canvas.
-[Pesticide for Chrome](https://chrome.google.com/webstore/detail/pesticide-for-chrome-with/eipbgplchlidkojmppclhkechkhmlefi/related) | Inserts the Pesticide CSS into the current page, outlining each element to better see placement on the page.
 [Photopea](https://www.photopea.com/) | A online image editor. Very Similar to photoshop.
 [PhpStorm](https://www.jetbrains.com/phpstorm/) | The Best IDE for PHP. PhpStorm = WebStorm + PHP + DB/SQL. Paid, [check here](https://www.jetbrains.com/community/) if you apply for a free license.
+[PolygonScan](https://polygonscan.com/) | PolygonScan allows you to explore and search the Polygon blockchain for transactions, addresses, tokens, prices and other activities taking place on Polygon (MATIC).
 [Powtoon](https://www.powtoon.com/) | A video maker for presentations.
 [Ray.so](https://ray.so/) | A beautiful code converter to SVG, PNG
 [Regex101](https://regex101.com/) | Validator for regex.
