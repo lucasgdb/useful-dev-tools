@@ -6,6 +6,7 @@
 [apiDoc](https://apidocjs.com/) | Creates a documentation from API annotations in your source code.
 [Code Anywhere IDE](https://codeanywhere.com/) | CodeAnywhere has two features that stand out for me: Prebuilt container images for 72+ programming languages and frameworks, Connect to anything. Yes, literally anything. You’re not obliged to store your code on CodeAnywhere’s servers.
 [CodePen](https://codepen.io/) | Tool for front-end development. You can develop any HTML, CSS, modern web frameworks, javascript based code. Integrate your code to github and possible to collaborate. **Features: (examples, github, adding npm packages, download the code, auto reload)**
+[Codeply](https://www.codeply.com/) | Codeply is a web-based HTML/CSS/JavaScript editor that’s integrated with top web development frameworks. **Features: You can use popular front end frameworks such as Bootstrap, Foundation, Materialize, UIkit, Bulma, Tailwind, Vue, React, and Angular.**
 [CodeSandbox](https://codesandbox.io/) | You can run both front-end and back-end (javascript, nodejs, any front end frameworks). Easy to fork from github and modify the code **Features: (examples, github, adding npm packages, auto reload, deploy the app)**
 [DartPad](https://dartpad.dev/?null_safety=true) | DartPad is an online code editor for Dart language.
 [Ellie](https://ellie-app.com/) | Ellie is a web application with an Elixir backend and an Elm frontend. You can explore and try out Elm programming language.
