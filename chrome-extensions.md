@@ -46,3 +46,4 @@
 [Video Speed Controller](https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk?hl=en) | Speed up, slow down, advance and rewind audio/video with shortcuts
 [Password Generator](https://chrome.google.com/webstore/detail/password-generator/opdldgbhjmjfoigadonpfngfcefnknbm) | Generate extremelly random password with just a few clicks
 [Dark Theme for Chrome](https://chrome.google.com/webstore/detail/dark-theme-for-chrome/pjbgfifennfhnbkhoidkdchbflppjncb) | Convert normal web page to dark theme.
+[Fonts Ninja](https://chrome.google.com/webstore/detail/fonts-ninja/eljapbgkmlngdpckoiiibecpemleclhh) | Fonts Ninja lets shows you wich fonts are used in a website.
