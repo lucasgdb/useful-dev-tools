@@ -46,3 +46,4 @@
 [Video Speed Controller](https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk?hl=en) | Speed up, slow down, advance and rewind audio/video with shortcuts
 [Password Generator](https://chrome.google.com/webstore/detail/password-generator/opdldgbhjmjfoigadonpfngfcefnknbm) | Generate extremelly random password with just a few clicks
 [Dark Theme for Chrome](https://chrome.google.com/webstore/detail/dark-theme-for-chrome/pjbgfifennfhnbkhoidkdchbflppjncb) | Convert normal web page to dark theme.
+[PR Maneiro](https://github.com/IgorHalfeld/pr-maneiro) | Make someone happy with a comment on Pull Request.
