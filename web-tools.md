@@ -155,3 +155,4 @@
 [Windframe](https://www.devwares.com/windframe/) | A tool to rapidly build and prototype stunning websites using Tailwind CSS
 [Write PHP Online](http://www.writephponline.com/) | Simple free website that allows you to execute PHP code.
 [XML Viewer](https://codebeautify.org/xmlviewer#) | Beautify XML files
+[You might not need jQuery](https://youmightnotneedjquery.com/) | Provides a list of jQuery commands in Vanilla JS.
