@@ -62,6 +62,7 @@
 [DigitalOcean](https://www.digitalocean.com/) | It make it simple to launch in the cloud and scale up as you grow—whether you’re running one virtual machine or ten thousand.
 [Dillinger.io](https://dillinger.io/) | Is an online markdown file editor with a preview that can help you to create or edit .md file for your project
 [Epoch Converter](https://www.epochconverter.com/) | Convert epoch to human-readable dates and viceversa
+[ERDPlus](https://erdplus.com/) | A database modeling tool for creating Entity Relationship Diagrams, Relational Schemas, Star Schemas, and SQL DDL statements.
 [Etherscan](https://etherscan.io/) | Etherscan is the leading BlockChain Explorer, Search, API and Analytics Platform for Ethereum, a decentralized smart contracts platform.
 [Exercism](https://exercism.io/) | Exercism is an online, open source and free access platform that offers code practice and guidance in 50 different programming languages.
 [ExtendsClass](https://extendsclass.com/) | Online developer tools: Playgrounds (Regex, XPath, SQLite), API clients (REST, SOAP), diff (XML, CSV, JSON) and data generators (JSON, CSV).
