@@ -35,6 +35,7 @@
 [Coggle](https://coggle.it/) | Coggle is a free mind mapping web app. It helps in making hierarchical structures like branching trees to brainstorm ideas, visualize connections across concepts, and collaborate with others.
 [Color Hunt](https://colorhunt.co/) | Color Hunt is a free and open platform for color inspiration with thousands of trendy hand-picked color palettes.
 [Color Shades Generator](https://javisperez.github.io/tailwindcolorshades/#/) | Color Shades Generator for Tailwind CSS.
+[Colormind](http://colormind.io/) | Colormind is a color scheme generator that uses deep learning. It can learn color styles from photographs, movies, and popular art.
 [ColorZilla](https://www.colorzilla.com) | Advanced Eyedropper, Color Picker, Gradient Generator.
 [Conventional Commits](https://www.conventionalcommits.org) | A lightweight convention on top of commit messages.
 [Convertio](https://convertio.co/jpeg-pdf/) | "Convertio" is an easy free file format converter that can help you create PNG, JPEG and PDF files.
