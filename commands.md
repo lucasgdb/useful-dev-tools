@@ -72,6 +72,7 @@
 `rmdir /S <folder name>` | Remove a directory (folder) along with all the files in it
 `touch` | The touch command is used to create a file.
 `reboot` | restart the system.
+`uptime` | show how long system has been running.
 `seq <number>` | set and print a number sequence.
 `exec <program>` | execute the program.
 `history` | print the list of commands you used.
