@@ -111,6 +111,7 @@
 [LeetCode](https://leetcode.com/) | It's an amazing platform to help you enhance your skills and prepare for technical interviews.
 [Lighthouse](https://developers.google.com/web/tools/lighthouse) | Lighthouse is an open-source, automated tool for verify the score and quality of web pages.
 [LoremIpsum.io](https://loremipsum.io/) |  Is a placeholder generator, that contains many random generated text, image placeholder for developers!
+[Lordicons](https://lordicon.com/) | Best set of free and premium icons with lite animations.
 [Marcdown](https://liyasthomas.github.io/marcdown) | A lightweight markdown viewer and editor.
 [MarkDown Editor](https://jbt.github.io/markdown-editor/) | Live (GitHub-flavored) Markdown Editor.
 [MDN Docs](https://developer.mozilla.org/en-US/) | Resources for developers, by developers.
