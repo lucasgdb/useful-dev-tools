@@ -50,3 +50,4 @@
 [YouTube Blocker](https://chrome.google.com/webstore/detail/youtube-blocker/oohcfepaadomnocmmkejhnfhcddpdpab) | YouTube Blocker blocks YouTube videos not in the Education, Science & Technology, or Howto & Style categories so you can focus on watching educational videos.
 [Video Speed Controller](https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk?hl=en) | Speed up, slow down, advance and rewind audio/video with shortcuts
 [PR Maneiro](https://github.com/IgorHalfeld/pr-maneiro) | Make someone happy with a comment on Pull Request.
+[Bitwarden - Free Password Manager](https://chrome.google.com/webstore/detail/bitwarden-free-password-m/nngceckbapebfimnlniiiahkandclblb?hl=en)|A secure and free password manager for all of your devices.
