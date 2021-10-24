@@ -17,6 +17,7 @@
 [Dark Theme for Chrome](https://chrome.google.com/webstore/detail/dark-theme-for-chrome/pjbgfifennfhnbkhoidkdchbflppjncb) | Dark Theme for all websites in Chrome browser with opportunity to exclude any domain or create custom theme. Apply all websites in browser into dark theme and exclude any domain from black theme for better experience. It's possible to create your own custom theme with any color you like.
 [Download All Images](https://chrome.google.com/webstore/detail/download-all-images/ifipmflagepipjokmbdecpmjbibjnakm) | Download All Images extension saves all the images in the active tab as a .zip file. It is super useful and quick to use.
 [Edit this Cookie](https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg) | Add, delete, edit cookies.
+[ElasticSearch Head](https://chrome.google.com/webstore/detail/elasticsearch-head/ffmkiejjmecolpfloofpjologoblkegm) | A web front end for an Elasticsearch cluster.
 [Fake Filler Chrome Extension](https://chrome.google.com/webstore/detail/fake-filler/bnjjngeaknajbdcgpfkgnonkmififhfo) | A Google Chrome extension that fills all input fields on a page with randomly generated fake data.
 [Font Finder](https://chrome.google.com/webstore/detail/font-finder/bhiichidigehdgphoambhjbekalahgha) | An easy-to-use font inspector to get CSS styles of the selected element
 [Full Page Screen Capture](https://chrome.google.com/webstore/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl?hl=en) | Take a screenshot of your current page.
@@ -45,6 +46,7 @@
 [VisBug](https://chrome.google.com/webstore/detail/visbug/cdockenadnadldjbbgcallicgledbeoc?hl=en) | Open source web design debug tools built with JavaScript: a FireBug for designers.Edit any webpage, in any state
 [Vue.js DevTools](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd) | Extension to add VueJs developer tools to Google chrome.
 [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer/gppongmhjkpfnbhagpmjfkannfbllamg?hl=en) |Wappalyzer is a technology profiler that shows you what websites are built with.
+[WAVE Evaluation Tool](https://chrome.google.com/webstore/detail/wave-evaluation-tool/jbbplnpkjmmeebjpijfedlgcdilocofh) | WAVE provides visual feedback about the accessibility of your web content by injecting icons and indicators into your page.
 [Web Developer Chrome Extension](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm) | A Google Chrome extension that adds a toolbar button to the browser with various web developer tools.
 [WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm) | Great extension for developers that allows you to inspect web fonts by just hovering on them.
 [YouTube Blocker](https://chrome.google.com/webstore/detail/youtube-blocker/oohcfepaadomnocmmkejhnfhcddpdpab) | YouTube Blocker blocks YouTube videos not in the Education, Science & Technology, or Howto & Style categories so you can focus on watching educational videos.
