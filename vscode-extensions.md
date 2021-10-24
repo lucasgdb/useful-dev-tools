@@ -9,7 +9,6 @@
 [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag) | Automatically add HTML/XML close tag, same as Visual Studio IDE or Sublime Text does.
 [Auto Import](https://marketplace.visualstudio.com/items?itemName=steoates.autoimport) | Automatically finds, parses and provides code actions and code completion for all available imports. Works with Typescript and TSX.
 [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag) | Automatically rename paired HTML/XML tag, same as Visual Studio IDE does.
-[Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag) | Automatically rename paired HTML/XML tag, same as Visual Studio IDE does.
 [Auto-Save on Window Change](https://marketplace.visualstudio.com/items?itemName=mcright.auto-save) | This will auto-save code each time you switch windows; really useful for JS when switching from editor to browser window a lot.
 [Babel JavaScript](https://marketplace.visualstudio.com/items?itemName=mgmcdermott.vscode-language-babel) | VSCode syntax highlighting for today's JavaScript.
 [Beautify](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify) | Beautify javascript, JSON, CSS, Sass, and HTML in Visual Studio Code.
@@ -25,7 +24,6 @@
 [CodeMetrics](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-codemetrics) | Computes complexity in TypeScript / JavaScript / Lua files.
 [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner) | Run code snippet or code file for multiple languages.
 [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) | The goal of this spell checker is to help catch common spelling errors while keeping the number of false positives low.
-[Code Time](https://marketplace.visualstudio.com/items?itemName=softwaredotcom.swdc-vscode) | Code Time is an open source plugin for automatic programming metrics and time tracking.
 [Code Time](https://marketplace.visualstudio.com/items?itemName=softwaredotcom.swdc-vscode) | Code Time is an open source plugin for automatic programming metrics and time tracking.
 [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight) | This extension styles css/web colors found in your document.
 [Colorize](https://marketplace.visualstudio.com/items?itemName=kamikillerto.vscode-colorize) | A vscode extension to help visualize css colors in files.
@@ -53,6 +51,7 @@
 [Glassit-VSC](https://marketplace.visualstudio.com/items?itemName=s-nlf-fh.glassit) | A VSCode Extension to set window to transparent on Windows platform.
 [Glitch](https://marketplace.visualstudio.com/items?itemName=glitch.glitch) | Collaborative editing and instant application deployment on Glitch from VS Code.
 [GLSL Canvas](https://marketplace.visualstudio.com/items?itemName=circledev.glsl-canvas) |The extension opens a live WebGL preview of GLSL shaders within VSCode by providing a Show glslCanvas command. (Works for .glsl, .frag, and .vert files.)
+[GraphQL](https://marketplace.visualstudio.com/items?itemName=GraphQL.vscode-graphql) | The extension highlights the graphql schema and give some intellisense on them
 [Gremlins tracker](https://marketplace.visualstudio.com/items?itemName=nhoizey.gremlins) | Reveals some characters that can be harmful because they are invisible or looking like legitimate ones. Inspired by Sublime Gremlins.
 [hadolint](https://marketplace.visualstudio.com/items?itemName=exiasr.hadolint) | A smarter Dockerfile linter that helps you build best practice Docker images. The linter is parsing the Dockerfile into an AST and performs rules on top of the AST. It is standing on the shoulders of ShellCheck to lint the Bash code inside RUN instructions.
 [Highlight Matching Tag](https://marketplace.visualstudio.com/items?itemName=vincaslt.highlight-matching-tag) | This extension is intended to provide the missing functionality that should be built-in out of the box in VSCode - to highlight matching opening or closing tags. Optionally it also shows path to tag in the status bar.
@@ -63,7 +62,6 @@
 [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost) | This extension Display import/require package size in the editor.
 [Indented Block Highlighting](https://marketplace.visualstudio.com/items?itemName=byi8220.indented-block-highlighting) | Highlights lines of the block that has the indentation level of the cursor.
 [indent-rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow) | This extension colorizes the indentation in front of your text alternating four different colors on each step. Some may find it helpful in writing code for Nim or Python.
-[indent-rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow) | This extension colorizes the indentation in front of your text alternating four different colors on each step. This makes it easier to find your lines of code, making the process more practical.
 [Intellij Idea Keybindings](https://marketplace.visualstudio.com/items?itemName=k--kato.intellij-idea-keybindings) | For those who once were used to use Intellij or other tools from Jetbrains, this plugin allow you to include the keymaps for popular JetBrains products like IntelliJ Ultimate, WebStorm, PyCharm, PHP Storm, etc.
 [Java Extension Pack](https:marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-pack) | Java Extension Pack is a collection of popular extensions that can help write, test and debug Java applications in Visual Studio Code.
 [JavaScript (ES6)](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets) | This is very useful visual code extension or snippet for javascript developers especially who writes code in ES6.
@@ -76,7 +74,8 @@
 [Node.js Exec](https://marketplace.visualstudio.com/items?itemName=miramac.vscode-exec-node) | Execute the current file or your selected code with node.js.
 [Numbered Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.numbered-bookmarks) | It helps you to navigate in your code by setting the marker, moving between important markers easily and quickly.
 [Nyan the cat](https://marketplace.visualstudio.com/items?itemName=zhengrenzhe.nyan-cat)  | Put Nyan the cat in your status bar.
-[Open in browser](https://marketplace.visualstudio.com/items?itemName=techer.open-in-browser) | You can open your htlm work in the browser and see how it is.
+[OpenAPI (Swagger) Editor](https://marketplace.visualstudio.com/items?itemName=42Crunch.vscode-openapi) | The extension also integrates with API Contract Security Audit by 42Crunch, so that you can check the quality of your API definition directly in VS Code. It gives a security score for your OpenAPI specification.
+[Open in browser](https://marketplace.visualstudio.com/items?itemName=techer.open-in-browser) | You can open your html work in the browser and see how it is.
 [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) | A plugin that autocompletes filenames. Intellisense will automatically fill or show suggestions as you try and type a path in quotations.
 [Peacock](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock) | Subtly change the workspace color of your workspace.
 [PHPCS](https://marketplace.visualstudio.com/items?itemName=ikappas.phpcs) | php cs adalahThe PHP Coding Standards Fixer (PHP CS Fixer) tool fixes your code to follow standards.
@@ -102,15 +101,18 @@
 [Scala Syntax (Official)](https://marketplace.visualstudio.com/items?itemName=scala-lang.scala) | Visual Studio Code extension for syntax highlighting Scala sources.
 [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync) | Synchronize Settings, Snippets, Themes, File Icons, Launch, Keybindings, Workspaces and Extensions Across Multiple Machines Using GitHub Gist.
 [Solargraph](https://github.com/castwide/vscode-solargraph) | Solargraph is a language server that provides intellisense, code completion, and inline documentation for Ruby.
+[Solidity](https://marketplace.visualstudio.com/items?itemName=JuanBlanco.solidity) | Solidity support for Visual Studio code
 [SonarLint](https://marketplace.visualstudio.com/items?itemName=SonarSource.sonarlint-vscode) | SonarLint highlights Bugs and Security Vulnerabilities as you write code, with remediation guidance so you can fix them before the code is even committed. It supports analysis of JavaScript, TypeScript, Python, Java, HTML & PHP code.
 [SQLite](https://marketplace.visualstudio.com/items?itemName=alexcvzz.vscode-sqlite) | VSCode extension to explore and query SQLite databases.
 [SQLTools](https://marketplace.visualstudio.com/items?itemName=mtxr.sqltools) | Database management done right. Connection explorer, query runner, intellisense, bookmarks, query history. Feel like a database hero!
+[SVG](https://marketplace.visualstudio.com/items?itemName=jock.svg) | SVG Coding, Minify, Pretty, Preview All-In-One
 [Swagger Viewer](https://marketplace.visualstudio.com/items?itemName=Arjun.swagger-viewer) | Allows you to display Swagger / OpenAPI specifications written in YAML or JSON in a user-friendly and interactive HTML format
 [TabNine](https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode) | Advanced AI based autocomplete for all programming languages.
 [Thunder Client](https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client) | Rest API Client for VS Code, GUI based Http Client
 [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight) | Highlight TODO, FIXME and other annotations within your code.
 [Trailing Spaces](https://marketplace.visualstudio.com/items?itemName=shardulm94.trailing-spaces) | A VS Code extension that allows you to highlight trailing spaces and delete them in a flash!
 [TSLint](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-tslint-plugin) |Extension that checks TypeScript code for readability, maintainability, and functionality errors.
+[Turbo Console Log](https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log) | Automating the process of writing meaningful log messages.
 [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur) | This extension is useful for Vue.js development. It brings a lot of functionalities like formatting, Emmet, code snippets, linking and errors checking, debugging or highlighting the syntax
 [Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode) | The Visual Studio IntelliCode extension provides AI-assisted productivity features for Python, TypeScript/JavaScript and Java developers in Visual Studio Code, with insights based on understanding your code context combined with machine learning.
 [VSCode Icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons) | Icons for Visual Studio Code (Folders and files).
