@@ -107,6 +107,7 @@
 `docker tag <image-name>[:tag][username/] <new-image-name>.[:new-tag]` | Creates a new image specifying the “new tag” from an existing image and tag.
 `docker version` | Get docker version information
 | **Other** |
+`mysql -h <host(url or ip)> -u <username> -p <database name>` | create a new connection to mysql database and execute SQL queries.
 `mongodump --db database_name --collection collection_name` | Dump your database for backup
 `mongorestore --db database_name path_to_bson_file` | To import your backup file to mongodb
 `npx add-gitignore` | For adding a git ignore file to your project for a specific language

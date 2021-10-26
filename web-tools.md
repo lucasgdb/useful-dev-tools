@@ -91,6 +91,7 @@
 [Gleek.io](https://www.gleek.io) | Free description-to-diagrams tool for developers. Create informal, UML class, object, or entity-relationship diagrams using your keyboard.
 [Glitch](https://glitch.com/) | Build fast, full-stack web apps in your browser with instant hosting, automated deployment, and live help from community members.
 [Google Tables](https://tables.area120.google.com/about) | Tables helps teams easily track & automate tasks, enabling them to save time and work smarter.
+[grep.app](https://grep.app/) | Searches code from over a half million public repositories on GitHub, matching the exact string you enter or even regular expressions.
 [HackerRank](https://www.hackerrank.com/) | An awesome platform to help you enhance your skills by providing problems to solve in a wide range of Computer Science domains.
 [Hackmd](https://hackmd.io/) | Real time, multi-platform, collaborative markdown knowledge base. You can write markdown file together with other people :)
 [Hacktoberfest Checker](https://hacktoberfestchecker.jenko.me/) | A website to know the PR count of hacktoberfest participants.
@@ -111,6 +112,7 @@
 [LeetCode](https://leetcode.com/) | It's an amazing platform to help you enhance your skills and prepare for technical interviews.
 [Lighthouse](https://developers.google.com/web/tools/lighthouse) | Lighthouse is an open-source, automated tool for verify the score and quality of web pages.
 [LoremIpsum.io](https://loremipsum.io/) |  Is a placeholder generator, that contains many random generated text, image placeholder for developers!
+[Lordicons](https://lordicon.com/) | Best set of free and premium icons with lite animations.
 [Marcdown](https://liyasthomas.github.io/marcdown) | A lightweight markdown viewer and editor.
 [MarkDown Editor](https://jbt.github.io/markdown-editor/) | Live (GitHub-flavored) Markdown Editor.
 [MDN Docs](https://developer.mozilla.org/en-US/) | Resources for developers, by developers.
@@ -149,6 +151,7 @@
 [Tinkercad](https://www.tinkercad.com/) | Tinkercad is a free, easy-to-use app for 3D design, electronics, and coding. It's used by teachers, kids, hobbyists, and designers to imagine, design, and make anything!
 [TinyPNG](https://tinypng.com/) | Smart PNG and JPEG compression.
 [Trello](https://trello.com/en) | Trello’s boards, lists, and cards enable you to organize and prioritize your projects in a fun, flexible, and rewarding way.
+[UnSplash](https://unsplash.com) | Over 2 million free high-resolution images brought to you by the world’s most generous community of photographers.
 [Vercel](https://vercel.com/) | Build and deploy apps with 30+ JAMSTACK frameworks.
 [Vimium](https://github.com/philc/vimium) | The Hacker's Browser. Forget about your mouse. Use VIM to navigate on your browser.
 [W3Schools](https://www.w3schools.com/) | The world's largest website for web tutorials.
