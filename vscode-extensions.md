@@ -124,3 +124,5 @@
 [colorize](https://marketplace.visualstudio.com/items?itemName=kamikillerto.vscode-colorize)|This extension your styles files looking for colors and generate a colored background (using the color) for each of them.
 [bloop](https://marketplace.visualstudio.com/items?itemName=bloop.bloop)| It is the library assistant for JS and Typescript devs.
 [Iridium — Node Dependencies](https://marketplace.visualstudio.com/items?itemName=idered.npm)|Manage and analyze your Node.js dependencies.
+[Laravel Extension Pack](https://marketplace.visualstudio.com/items?itemName=onecentlin.laravel-extension-pack) | A collection of extensions for Laravel development. Includes the basic extensions to get started with Laravel development in Visual Studio Code.
+[PHP Productive Pack](https://marketplace.visualstudio.com/items?itemName=onecentlin.php-productive-pack) | PHP essential extensions for enhancing productivities. Includes essential php extensions to enhance PHP development productivity in Visual Studio Code.
