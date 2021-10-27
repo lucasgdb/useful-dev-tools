@@ -91,7 +91,9 @@
 `docker --help` | List of commands in Docker
 `docker history [username/]<image-name>[:tag]` | Check the history of an image.
 `docker images` | List the images.
+`docker inspect [container-name/container-id]` | Retrieves low-level information from the container
 `docker login` | Login to docker hub registry
+`docker logs -f [container-name/container-id]` | Streams the container's STDOUT and STDERR
 `docker ps -a` |  List all containers.
 `docker ps` |  List only active containers.
 `docker push [registry/][username/]<image-name>[:tag]` | Push an image to a registry.
