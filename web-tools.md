@@ -35,6 +35,7 @@
 [Coggle](https://coggle.it/) | Coggle is a free mind mapping web app. It helps in making hierarchical structures like branching trees to brainstorm ideas, visualize connections across concepts, and collaborate with others.
 [Color Hunt](https://colorhunt.co/) | Color Hunt is a free and open platform for color inspiration with thousands of trendy hand-picked color palettes.
 [Color Shades Generator](https://javisperez.github.io/tailwindcolorshades/#/) | Color Shades Generator for Tailwind CSS.
+[Colormind](http://colormind.io/) | Colormind is a color scheme generator that uses deep learning. It can learn color styles from photographs, movies, and popular art.
 [ColorZilla](https://www.colorzilla.com) | Advanced Eyedropper, Color Picker, Gradient Generator.
 [Conventional Commits](https://www.conventionalcommits.org) | A lightweight convention on top of commit messages.
 [Convertio](https://convertio.co/jpeg-pdf/) | "Convertio" is an easy free file format converter that can help you create PNG, JPEG and PDF files.
@@ -62,6 +63,7 @@
 [DigitalOcean](https://www.digitalocean.com/) | It make it simple to launch in the cloud and scale up as you grow—whether you’re running one virtual machine or ten thousand.
 [Dillinger.io](https://dillinger.io/) | Is an online markdown file editor with a preview that can help you to create or edit .md file for your project
 [Epoch Converter](https://www.epochconverter.com/) | Convert epoch to human-readable dates and viceversa
+[ERDPlus](https://erdplus.com/) | A database modeling tool for creating Entity Relationship Diagrams, Relational Schemas, Star Schemas, and SQL DDL statements.
 [Etherscan](https://etherscan.io/) | Etherscan is the leading BlockChain Explorer, Search, API and Analytics Platform for Ethereum, a decentralized smart contracts platform.
 [Exercism](https://exercism.io/) | Exercism is an online, open source and free access platform that offers code practice and guidance in 50 different programming languages.
 [ExtendsClass](https://extendsclass.com/) | Online developer tools: Playgrounds (Regex, XPath, SQLite), API clients (REST, SOAP), diff (XML, CSV, JSON) and data generators (JSON, CSV).
@@ -89,6 +91,7 @@
 [Gleek.io](https://www.gleek.io) | Free description-to-diagrams tool for developers. Create informal, UML class, object, or entity-relationship diagrams using your keyboard.
 [Glitch](https://glitch.com/) | Build fast, full-stack web apps in your browser with instant hosting, automated deployment, and live help from community members.
 [Google Tables](https://tables.area120.google.com/about) | Tables helps teams easily track & automate tasks, enabling them to save time and work smarter.
+[grep.app](https://grep.app/) | Searches code from over a half million public repositories on GitHub, matching the exact string you enter or even regular expressions.
 [HackerRank](https://www.hackerrank.com/) | An awesome platform to help you enhance your skills by providing problems to solve in a wide range of Computer Science domains.
 [Hackmd](https://hackmd.io/) | Real time, multi-platform, collaborative markdown knowledge base. You can write markdown file together with other people :)
 [Hacktoberfest Checker](https://hacktoberfestchecker.jenko.me/) | A website to know the PR count of hacktoberfest participants.
@@ -109,6 +112,7 @@
 [LeetCode](https://leetcode.com/) | It's an amazing platform to help you enhance your skills and prepare for technical interviews.
 [Lighthouse](https://developers.google.com/web/tools/lighthouse) | Lighthouse is an open-source, automated tool for verify the score and quality of web pages.
 [LoremIpsum.io](https://loremipsum.io/) |  Is a placeholder generator, that contains many random generated text, image placeholder for developers!
+[Lordicons](https://lordicon.com/) | Best set of free and premium icons with lite animations.
 [Marcdown](https://liyasthomas.github.io/marcdown) | A lightweight markdown viewer and editor.
 [MarkDown Editor](https://jbt.github.io/markdown-editor/) | Live (GitHub-flavored) Markdown Editor.
 [MDN Docs](https://developer.mozilla.org/en-US/) | Resources for developers, by developers.
@@ -147,6 +151,7 @@
 [Tinkercad](https://www.tinkercad.com/) | Tinkercad is a free, easy-to-use app for 3D design, electronics, and coding. It's used by teachers, kids, hobbyists, and designers to imagine, design, and make anything!
 [TinyPNG](https://tinypng.com/) | Smart PNG and JPEG compression.
 [Trello](https://trello.com/en) | Trello’s boards, lists, and cards enable you to organize and prioritize your projects in a fun, flexible, and rewarding way.
+[UnSplash](https://unsplash.com) | Over 2 million free high-resolution images brought to you by the world’s most generous community of photographers.
 [Vercel](https://vercel.com/) | Build and deploy apps with 30+ JAMSTACK frameworks.
 [Vimium](https://github.com/philc/vimium) | The Hacker's Browser. Forget about your mouse. Use VIM to navigate on your browser.
 [W3Schools](https://www.w3schools.com/) | The world's largest website for web tutorials.
@@ -155,3 +160,4 @@
 [Windframe](https://www.devwares.com/windframe/) | A tool to rapidly build and prototype stunning websites using Tailwind CSS
 [Write PHP Online](http://www.writephponline.com/) | Simple free website that allows you to execute PHP code.
 [XML Viewer](https://codebeautify.org/xmlviewer#) | Beautify XML files
+[You might not need jQuery](https://youmightnotneedjquery.com/) | Provides a list of jQuery commands in Vanilla JS.

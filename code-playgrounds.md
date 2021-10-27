@@ -11,6 +11,7 @@
 [DartPad](https://dartpad.dev/?null_safety=true) | DartPad is an online code editor for Dart language.
 [Ellie](https://ellie-app.com/) | Ellie is a web application with an Elixir backend and an Elm frontend. You can explore and try out Elm programming language.
 [GDB online](https://www.onlinegdb.com/) |  Online compiler and debugger tool for C, C++, Python, PHP, Ruby, C#, VB, Perl, Swift, Prolog, Javascript, Pascal, HTML, CSS, JS. Code, Compile, Run and Debug online from anywhere in world.
+[Glitch](https://glitch.com) | Build fast, full-stack web apps in your browser for free. Mainly supports NodeJS and static sites. 
 [Google Colab](https://colab.research.google.com/) | Colab notebooks doesn't require configuration and allows anybody to write and execute arbitrary python code through the browser. Is especially great to machine learning, data analysis and education.
 [JSBin](https://jsbin.com/) | Those who are learning vanilla JS, HTML, CSS (_intermediate level_). **Features: (examples, adding cdn packages)**
 [JSComplete](https://jscomplete.com/) | Great playground for running ReactJS. Also very good JS, ReactJS, Node tutorials. And many more developer resources such as online books, sites, etc. **Features: (examples, learning resources, auto reload, deploy the app, download the code)**
@@ -31,3 +32,4 @@
 [Trinket.io](https://trinket.io/) | Trinket is a website that allows you to create and test code without creating an account. Mainly it is used for python but they have other languages as well. **Features(examples, plans, tutorials)**
 [W3schools](https://www.w3schools.com/) | Completely for those who start front-end development. You can see the examples, descriptions and use case for each web component. **Features: (examples)**
 [W3Schools Online Code Editor](https://www.w3schools.com/tryit/) | With W3Schools online code editor, you can edit HTML, CSS and JavaScript code, and view the result in your browser.
+[CodingBlocks IDE](https://ide.codingblocks.com/) | With CodingBlocks IDE you can code in C, C++, Java, Python, JavaScript, Rust, Ruby, Go, Kotlin and compile it on the go. Input can be given manually or through file. 
