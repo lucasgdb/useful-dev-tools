@@ -24,6 +24,7 @@
 [CodeMetrics](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-codemetrics) | Computes complexity in TypeScript / JavaScript / Lua files.
 [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner) | Run code snippet or code file for multiple languages.
 [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) | The goal of this spell checker is to help catch common spelling errors while keeping the number of false positives low.
+[Code Stream](https://marketplace.visualstudio.com/items?itemName=CodeStream.codestream) | Create, review and merge GitHub pull requests and GitLab merge requests inside VS Code.
 [Code Time](https://marketplace.visualstudio.com/items?itemName=softwaredotcom.swdc-vscode) | Code Time is an open source plugin for automatic programming metrics and time tracking.
 [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight) | This extension styles css/web colors found in your document.
 [Colorize](https://marketplace.visualstudio.com/items?itemName=kamikillerto.vscode-colorize) | A vscode extension to help visualize css colors in files.

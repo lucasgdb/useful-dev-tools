@@ -10,6 +10,7 @@
 `git cherry-pick <commit id(s)>` | This command will apply the changes of the listed git commit hashes in the current branch.
 `git clone <url copied from github>` | for creating a clone of your repository on your local machine
 `git commit -m "<description of changes>"` | for committing your changes to github
+`git commit --amend -m "<new description of changes>"` | to amend (change) the message of the latest commit
 `git log` | Show commit logs
 `git merge <branch-name>` | merges branch-name into your current branch
 `git pull origin <branch-name>` | downloads the most recent changes to a branch (very useful when working as a team)
