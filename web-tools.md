@@ -13,6 +13,7 @@
 [BASE64 Decode and Encode](https://www.base64decode.org/) | Encode/Decode BASE64 strings or files
 [Beeceptor](https://beeceptor.com/) | Tool for REST API mocking
 [Big Text](https://coolsymbol.com/big-text-generator.html) | Convert text to big text as easy as you think.
+[BitDev](https://bit.dev/) | Bit is a cloud component hub. It is where you publish, document and organize all your reusable components. 
 [Blob Maker](https://www.blobmaker.app) | Random svg shape maker.
 [Bootstrap](https://getbootstrap.com/) | CSS framework directed at responsive, mobile-first front-end web development. Great front-end tool which helps in creating effective and efficient websites.
 [Border Radius](https://border-radius.com) | A tool to insert the desired curve and for each corner get the code instantly.
@@ -101,6 +102,7 @@
 [HTML Cleaner](https://html-cleaner.com) | Free HTML, CSS, and JavaScript beautifier.
 [HTML Minifier](https://www.willpeavy.com/minifier/) | Minify HTML and any CSS or JS included in your markup.
 [IconMoon.io](https://icomoon.io/) | Icon Font and SVG Icon sets. More than 5500+ free vector icons.
+[JavaCodeGeeks](https://www.javacodegeeks.com/) | Java Code Geeks (JCGs) is an independent online community focused on creating the ultimate Java-to-Java developers resource center.
 [JPEG and PNG Compactor](https://compresspng.com/pt/) | Make photos faster. (Step 2)
 [JS Compressor](https://jscompress.com/) | It's an online JavaScript compressor that allows you to compress and minify all of your JS files by up to 80% of their original size.
 [JSHint](https://jshint.com/) | A tool that helps to detect errors and potential problems in your JavaScript code.
@@ -122,6 +124,7 @@
 [Neumorphism.io](https://neumorphism.io/#e0e0e0) | Online tool to generate CSS code of “neumorphism” effect in the UI.
 [NimbleText](https://nimbletext.com/Live) | NimbleText is a text manipulation and code generation tool. It generates text from a pattern and some input values
 [Notion](https://notion.so) | The all-in-one workspace for your notes, tasks, wikis, and databases.
+[Official Developer Android](https://developer.android.com/) | The website includes all the latest updates for the developers and also a fresher who wants to start with Android app development.
 [Online GDB](https://www.onlinegdb.com/) | GDB online is an online compiler and debugger tool for C, C++, Python, PHP, Ruby,C#, VB, Perl, Swift, Prolog, Javascript, Pascal, HTML, CSS, JS
 [P5.js](https://p5js.org/) | A JS client-side library for creating graphic and interactive experiences, based on the core principles of Processing.
 [Paper Js](http://paperjs.org/) | An open source vector graphics scripting framework that runs on top of the HTML5 Canvas.
