@@ -10,6 +10,7 @@
 - [Desktop Tools](desktop-tools.md)
 - [VSCode Extensions](vscode-extensions.md)
 - [Web Tools](web-tools.md)
+- [IOS Apps](ios-apps.md)
 
 ## Author
 
