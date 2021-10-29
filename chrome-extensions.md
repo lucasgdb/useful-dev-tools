@@ -63,3 +63,4 @@
 [PR Maneiro](https://github.com/IgorHalfeld/pr-maneiro) | Make someone happy with a comment on Pull Request.
 [Bitwarden - Free Password Manager](https://chrome.google.com/webstore/detail/bitwarden-free-password-m/nngceckbapebfimnlniiiahkandclblb?hl=en)|A secure and free password manager for all of your devices.
 [Lighthouse Chrome Dev Tool](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk) | Lighthouse is an open-source, automated tool for improving the performance, quality, and correctness of your web apps. 
+[Anima’s Chrome extension for Figma](https://chrome.google.com/webstore/detail/figma-to-code-reacthtmlvu/deogccghoodabgngjnmlobkbkfnflhac) | This cool Chrome extension gives you a button that allows you to translate Figma designs into HTML, React, and Vue code with a click.
