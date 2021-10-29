@@ -11,6 +11,7 @@
 - [VSCode Extensions](vscode-extensions.md)
 - [Web Tools](web-tools.md)
 - [Android Apps](android-apps.md)
+- [IOS Apps](ios-apps.md)
 
 ## Author
 
