@@ -4,6 +4,7 @@
 | --------- | ----------- |
 [Allow CORS: Access-Control-Allow-Origin](https://chrome.google.com/webstore/detail/allow-cors-access-control/lhobafahddgcelffkeicbaginigeejlf?hl=en) | Easily add (Access-Control-Allow-Origin: *) rule to the response header.
 [Alexa Traffic Rank](https://chrome.google.com/webstore/detail/alexa-traffic-rank/cknebhggccemgcnbidipinkifmmegdel?hl=en-US) | Alexa extension helps to make the Web a better place for everybody by contributing to the traffic information that Alexa provides.
+[AngularJS Batarang](https://chrome.google.com/webstore/detail/angularjs-batarang/ighdmehidhipcmcojjgiloacoafjmpfk) | Extends the Developer Tools, adding tools for debugging and profiling AngularJS applications.
 [Angular State Inspector](https://chrome.google.com/webstore/detail/angular-state-inspector/nelkodgfpddgpdbcjinaaalphkfffbem) | Helps you debug Angular component state
 [Augury](https://chrome.google.com/webstore/detail/augury/elgalmkoelokbchhkhacckoklkejnhcd?hl=en) | Augury is a Google Chrome Dev Tool extension for debugging and visualizing Angular applications at runtime.
 [Checkbot](https://www.checkbot.io/) | Browser extension that tests if your website follows 50+ SEO, speed and security best practices. Free tier for smaller websites.
