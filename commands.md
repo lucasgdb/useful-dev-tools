@@ -5,6 +5,7 @@
 | **Git** |
 `git add <filepath>` | for adding your changes to the <filepath>
 `git add --interactive` or `git add -i` | add modified contents in the working tree interactively to the index
+`git bisect` | Use binary search to find the commit that introduced a bug.
 `git branch` | for listing, creating, or deleting branches.
 `git checkout -b <new-branch-name> upstream/master` | for creating a new branch from the latest upstream version
 `git cherry-pick <commit id(s)>` | This command will apply the changes of the listed git commit hashes in the current branch.
