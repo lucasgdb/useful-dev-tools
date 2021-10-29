@@ -5,6 +5,7 @@
 | **Git** |
 `git add <filepath>` | for adding your changes to the <filepath>
 `git add --interactive` or `git add -i` | add modified contents in the working tree interactively to the index
+`git blame` | Show what revision and author last modified each line of a file.
 `git bisect` | Use binary search to find the commit that introduced a bug.
 `git branch` | for listing, creating, or deleting branches.
 `git checkout -b <new-branch-name> upstream/master` | for creating a new branch from the latest upstream version
