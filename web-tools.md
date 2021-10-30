@@ -152,6 +152,7 @@
 [Taskade](https://www.taskade.com/) | All-in-One Collaboration. Chat, Organize, Get Things Done.
 [Teachable Machine](https://teachablemachine.withgoogle.com/) | A fast, easy way to create machine learning models for your sites, apps, and more – no expertise or coding required.
 [The Noun Project](https://thenounproject.com/) | Icons and Photos For Everything.
+[The Prettifier - JavaScript](https://www.prettifier.net/js/) | Enter your JavaScript via direct input or URL to have it formatted and syntax highlighted.
 [Tinkercad](https://www.tinkercad.com/) | Tinkercad is a free, easy-to-use app for 3D design, electronics, and coding. It's used by teachers, kids, hobbyists, and designers to imagine, design, and make anything!
 [TinyPNG](https://tinypng.com/) | Smart PNG and JPEG compression.
 [Trello](https://trello.com/en) | Trello’s boards, lists, and cards enable you to organize and prioritize your projects in a fun, flexible, and rewarding way.
