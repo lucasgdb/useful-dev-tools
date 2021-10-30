@@ -7,6 +7,7 @@
 [AngularJS Batarang](https://chrome.google.com/webstore/detail/angularjs-batarang/ighdmehidhipcmcojjgiloacoafjmpfk) | Extends the Developer Tools, adding tools for debugging and profiling AngularJS applications.
 [Angular State Inspector](https://chrome.google.com/webstore/detail/angular-state-inspector/nelkodgfpddgpdbcjinaaalphkfffbem) | Helps you debug Angular component state
 [Augury](https://chrome.google.com/webstore/detail/augury/elgalmkoelokbchhkhacckoklkejnhcd?hl=en) | Augury is a Google Chrome Dev Tool extension for debugging and visualizing Angular applications at runtime.
+[Axe](https://chrome.google.com/webstore/detail/axe-devtools-web-accessib/lhdoppojpmngadmnindnejefpokejbdd) | Find and fix the accessibility issues in a website
 [Checkbot](https://www.checkbot.io/) | Browser extension that tests if your website follows 50+ SEO, speed and security best practices. Free tier for smaller websites.
 [ColorPick Eyedropper](https://chrome.google.com/webstore/detail/colorpick-eyedropper/ohcpnigalekghcmgcdcenkpelffpdolg?hl=en) | A zoomed eyedropper & color chooser tool that allows you to select color values from webpages and more.
 [Color Picker](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp?hl=en) | ColorZill is one of the most popular Firefox developer extensions with over 5 million downloads is finally available for Chrome!.With ColorZilla you can get a color reading from any point in your browser, quickly adjust this color and paste it into another program. And it can do so much more.
@@ -38,7 +39,7 @@
 [MetaMask](https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn) | Software cryptocurrency wallet used to interact with the Ethereum blockchain.
 [Modify Header Value (HTTP Headers)](https://chrome.google.com/webstore/detail/modify-header-value-http/cbdibdfhahmknbkkojljfncpnhmacdek) | Add, modify or remove a header for any request on desired domains. Useful to add headers to get requests using the browser.
 [Muzli](https://chrome.google.com/webstore/detail/muzli-2-stay-inspired/glcipcfhmopcgidicgdociohdoicpdfc) | The freshest links about design and interactive, from around the web. A designer's must!
-[Nimbus](https://chrome.google.com/webstore/detail/nimbus-screenshot-screen/bpconcjcammlapcogcnnelfmaeghhagj?hl=en) | Screen Capture FULL Web page or any part. Edit screenshots Record screencasts record video from your screen.
+[Nimbus](https://chrome.google.com/webstore/detail/nimbus-screenshot-screen/bpconcjcammlapcogcnnelfmaeghhagj?hl=en) | Screenshot and screen recorder, annotate and crop the screenshots.
 [Octotree Chrome Extension](https://www.octotree.io/) |  Octotree is loaded with features that make GitHub code review and exploration awesome. Make your GitHub Dark-Mode.
 [Password Generator](https://chrome.google.com/webstore/detail/password-generator/opdldgbhjmjfoigadonpfngfcefnknbm) | Generate extremelly random password with just a few clicks.
 [Page Ruler](https://chrome.google.com/webstore/detail/page-ruler-redux/giejhjebcalaheckengmchjekofhhmal) | A Web Developer\Designer ruler to get pixel dimensions and positioning to measure elements on any web page. 
@@ -64,3 +65,4 @@
 [PR Maneiro](https://github.com/IgorHalfeld/pr-maneiro) | Make someone happy with a comment on Pull Request.
 [Bitwarden - Free Password Manager](https://chrome.google.com/webstore/detail/bitwarden-free-password-m/nngceckbapebfimnlniiiahkandclblb?hl=en)|A secure and free password manager for all of your devices.
 [Lighthouse Chrome Dev Tool](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk) | Lighthouse is an open-source, automated tool for improving the performance, quality, and correctness of your web apps. 
+[Anima’s Chrome extension for Figma](https://chrome.google.com/webstore/detail/figma-to-code-reacthtmlvu/deogccghoodabgngjnmlobkbkfnflhac) | This cool Chrome extension gives you a button that allows you to translate Figma designs into HTML, React, and Vue code with a click.
