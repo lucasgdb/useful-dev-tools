@@ -67,6 +67,7 @@
 [JavaScript (ES6)](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets) | This is very useful visual code extension or snippet for javascript developers especially who writes code in ES6.
 [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) | Launch a development local Server with live reload feature for static & dynamic pages.
 [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) | Visual Studio Live Share enables you to collaboratively edit and debug with others in real time, regardless what programming languages you're using or app types you're building.
+[Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) | All you need to write Markdown (keyboard shortcuts, table of contents, auto preview and more)
 [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint) | Markdown linting and style checking for Visual Studio Code.
 [Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced) | Realtime markdown preview inside vscode.
 [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) | The Material Icon Theme provides lots of icons based on Material Design for Visual Studio Code.
