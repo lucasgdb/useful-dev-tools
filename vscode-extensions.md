@@ -110,6 +110,7 @@
 [TabNine](https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode) | Advanced AI based autocomplete for all programming languages.
 [Thunder Client](https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client) | Rest API Client for VS Code, GUI based Http Client
 [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight) | Highlight TODO, FIXME and other annotations within your code.
+[Todo Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree) | This extension quickly searches (using ripgrep) your workspace for comment tags like TODO and FIXME, and displays them in a tree view in the explorer pane. Clicking a TODO within the tree will open the file and put the cursor on the line containing the TODO.
 [Trailing Spaces](https://marketplace.visualstudio.com/items?itemName=shardulm94.trailing-spaces) | A VS Code extension that allows you to highlight trailing spaces and delete them in a flash!
 [TSLint](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-tslint-plugin) |Extension that checks TypeScript code for readability, maintainability, and functionality errors.
 [Turbo Console Log](https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log) | Automating the process of writing meaningful log messages.
