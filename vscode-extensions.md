@@ -108,6 +108,7 @@
 [SVG](https://marketplace.visualstudio.com/items?itemName=jock.svg) | SVG Coding, Minify, Pretty, Preview All-In-One
 [Swagger Viewer](https://marketplace.visualstudio.com/items?itemName=Arjun.swagger-viewer) | Allows you to display Swagger / OpenAPI specifications written in YAML or JSON in a user-friendly and interactive HTML format
 [TabNine](https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode) | Advanced AI based autocomplete for all programming languages.
+[Test Runner for Java](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-test) | Run and debug JUnit or TestNG test cases.
 [Thunder Client](https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client) | Rest API Client for VS Code, GUI based Http Client
 [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight) | Highlight TODO, FIXME and other annotations within your code.
 [Trailing Spaces](https://marketplace.visualstudio.com/items?itemName=shardulm94.trailing-spaces) | A VS Code extension that allows you to highlight trailing spaces and delete them in a flash!
