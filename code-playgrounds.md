@@ -12,6 +12,7 @@
 [Ellie](https://ellie-app.com/) | Ellie is a web application with an Elixir backend and an Elm frontend. You can explore and try out Elm programming language.
 [GDB online](https://www.onlinegdb.com/) |  Online compiler and debugger tool for C, C++, Python, PHP, Ruby, C#, VB, Perl, Swift, Prolog, Javascript, Pascal, HTML, CSS, JS. Code, Compile, Run and Debug online from anywhere in world.
 [Glitch](https://glitch.com) | Build fast, full-stack web apps in your browser for free. Mainly supports NodeJS and static sites. 
+[The Go Playground](https://play.golang.org/) | The Go Playground is a web service that runs on golang.org's servers. 
 [Google Colab](https://colab.research.google.com/) | Colab notebooks doesn't require configuration and allows anybody to write and execute arbitrary python code through the browser. Is especially great to machine learning, data analysis and education.
 [JSBin](https://jsbin.com/) | Those who are learning vanilla JS, HTML, CSS (_intermediate level_). **Features: (examples, adding cdn packages)**
 [JSComplete](https://jscomplete.com/) | Great playground for running ReactJS. Also very good JS, ReactJS, Node tutorials. And many more developer resources such as online books, sites, etc. **Features: (examples, learning resources, auto reload, deploy the app, download the code)**
