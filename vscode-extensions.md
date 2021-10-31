@@ -24,6 +24,7 @@
 [CodeMetrics](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-codemetrics) | Computes complexity in TypeScript / JavaScript / Lua files.
 [Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner) | Run code snippet or code file for multiple languages.
 [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) | The goal of this spell checker is to help catch common spelling errors while keeping the number of false positives low.
+[Code Stream](https://marketplace.visualstudio.com/items?itemName=CodeStream.codestream) | Create, review and merge GitHub pull requests and GitLab merge requests inside VS Code.
 [Code Time](https://marketplace.visualstudio.com/items?itemName=softwaredotcom.swdc-vscode) | Code Time is an open source plugin for automatic programming metrics and time tracking.
 [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight) | This extension styles css/web colors found in your document.
 [Colorize](https://marketplace.visualstudio.com/items?itemName=kamikillerto.vscode-colorize) | A vscode extension to help visualize css colors in files.
@@ -46,8 +47,7 @@
 [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph) | View a Git Graph of your repository, and perform Git actions from the graph.
 [Git History](https://github.com/DonJayamanne/gitHistoryVSCode) | Git History, Search and More (including git log).
 [GitHub Pull Requests and Issues](https://marketplace.visualstudio.com/items?itemName=GitHub.vscode-pull-request-github) | This extension allows you to review and manage GitHub pull requests and issues in Visual Studio Code.
-[GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) | It helps you to visualize code authorship at a glance via Git blame annotations and code lens, seamlessly navigate and explore Git repositories, gain valuable insights via powerful comparison commands, and so much more.
-[GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) | Useful for viewing commit history for the specific files, line. Comparing the current changes with previous commit and view the last change time when clicking on the specific line.
+[GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) | It helps you to visualize code authorship at a glance via Git blame annotations and code lens, seamlessly navigate and explore Git repositories, gain valuable insights via powerful comparison commands, comparing the current changes with previous commit and view the last change time when clicking on the specific line.
 [Glassit-VSC](https://marketplace.visualstudio.com/items?itemName=s-nlf-fh.glassit) | A VSCode Extension to set window to transparent on Windows platform.
 [Glitch](https://marketplace.visualstudio.com/items?itemName=glitch.glitch) | Collaborative editing and instant application deployment on Glitch from VS Code.
 [GLSL Canvas](https://marketplace.visualstudio.com/items?itemName=circledev.glsl-canvas) |The extension opens a live WebGL preview of GLSL shaders within VSCode by providing a Show glslCanvas command. (Works for .glsl, .frag, and .vert files.)
@@ -124,3 +124,5 @@
 [colorize](https://marketplace.visualstudio.com/items?itemName=kamikillerto.vscode-colorize)|This extension your styles files looking for colors and generate a colored background (using the color) for each of them.
 [bloop](https://marketplace.visualstudio.com/items?itemName=bloop.bloop)| It is the library assistant for JS and Typescript devs.
 [Iridium — Node Dependencies](https://marketplace.visualstudio.com/items?itemName=idered.npm)|Manage and analyze your Node.js dependencies.
+[Laravel Extension Pack](https://marketplace.visualstudio.com/items?itemName=onecentlin.laravel-extension-pack) | A collection of extensions for Laravel development. Includes the basic extensions to get started with Laravel development in Visual Studio Code.
+[PHP Productive Pack](https://marketplace.visualstudio.com/items?itemName=onecentlin.php-productive-pack) | PHP essential extensions for enhancing productivities. Includes essential php extensions to enhance PHP development productivity in Visual Studio Code.

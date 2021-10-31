@@ -5,11 +5,14 @@
 | **Git** |
 `git add <filepath>` | for adding your changes to the <filepath>
 `git add --interactive` or `git add -i` | add modified contents in the working tree interactively to the index
+`git blame` | Show what revision and author last modified each line of a file.
+`git bisect` | Use binary search to find the commit that introduced a bug.
 `git branch` | for listing, creating, or deleting branches.
 `git checkout -b <new-branch-name> upstream/master` | for creating a new branch from the latest upstream version
 `git cherry-pick <commit id(s)>` | This command will apply the changes of the listed git commit hashes in the current branch.
 `git clone <url copied from github>` | for creating a clone of your repository on your local machine
 `git commit -m "<description of changes>"` | for committing your changes to github
+`git commit --amend -m "<new description of changes>"` | to amend (change) the message of the latest commit
 `git log` | Show commit logs
 `git merge <branch-name>` | merges branch-name into your current branch
 `git pull origin <branch-name>` | downloads the most recent changes to a branch (very useful when working as a team)
@@ -91,7 +94,9 @@
 `docker --help` | List of commands in Docker
 `docker history [username/]<image-name>[:tag]` | Check the history of an image.
 `docker images` | List the images.
+`docker inspect [container-name/container-id]` | Retrieves low-level information from the container
 `docker login` | Login to docker hub registry
+`docker logs -f [container-name/container-id]` | Streams the container's STDOUT and STDERR
 `docker ps -a` |  List all containers.
 `docker ps` |  List only active containers.
 `docker push [registry/][username/]<image-name>[:tag]` | Push an image to a registry.
