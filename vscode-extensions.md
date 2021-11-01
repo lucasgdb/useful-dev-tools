@@ -15,6 +15,7 @@
 [Beautify](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify) | Beautify javascript, JSON, CSS, Sass, and HTML in Visual Studio Code.
 [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments) | The Better Comments extension will help you create more human-friendly comments in your code.
 [Blueberry Banana](https://marketplace.visualstudio.com/items?itemName=pshershov.blueberry-banana) | Blueberry Banana is an easy-on-the-eyes theme with a cyberpunk-ish feeling.
+[Bloop](https://marketplace.visualstudio.com/items?itemName=bloop.bloop) | See similar code snippets right in the IDE.
 [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks) | It helps you to navigate in your code, moving between important positions easily and quickly. No more need to search for code. It also supports a set of selection commands, which allows you to select bookmarked lines and regions between bookmarked lines. It's really useful for log file analysis.
 [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer) | Extension that highlights the end the matching brackets, whether in a function, array, or object!
 [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer) | This extension allows matching brackets to be identified with colours. The user can define which characters to match, and which colours to use.
