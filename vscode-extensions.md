@@ -43,6 +43,7 @@
 [ES7 React/Redux/GraphQL/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets) | Code snippets for JavaScript(ES6), React, Redux, GraphQL, React-Native.
 [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) | An extension that integrates ESLint into VS Code.
 [Feature Syntax Highlight and Snippets README](https://marketplace.visualstudio.com/items?itemName=Blodwynn.featurehighlight) | This extension provides syntax highlight and snippets for .feature files to enhance productivity. (and make .feature files look pretty)
+[filesize](https://marketplace.visualstudio.com/items?itemName=mkxml.vscode-filesize) | Show the current file size in the status bar
 [Firestore Rules](https://marketplace.visualstudio.com/items?itemName=ChFlick.firecode) |Firestore security rule support for Visual Studio Code. (Works for .rule and .rules files.)
 [Gather](https://github.com/microsoft/vscode-gather) | With one button click on any notebook or Interactive Window cell, Gather uses a static analysis technique to find and then copy all of the dependent code that was used to generate that cell's result into a new notebook or script.
 [Git Graph](https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph) | View a Git Graph of your repository, and perform Git actions from the graph.
