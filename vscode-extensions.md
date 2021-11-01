@@ -119,6 +119,7 @@
 [Turbo Console Log](https://marketplace.visualstudio.com/items?itemName=ChakrounAnas.turbo-console-log) | Automating the process of writing meaningful log messages.
 [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur) | This extension is useful for Vue.js development. It brings a lot of functionalities like formatting, Emmet, code snippets, linking and errors checking, debugging or highlighting the syntax
 [Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode) | The Visual Studio IntelliCode extension provides AI-assisted productivity features for Python, TypeScript/JavaScript and Java developers in Visual Studio Code, with insights based on understanding your code context combined with machine learning.
+[Vim](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim) | Vim emulation for Visual Studio Code
 [VSCode Icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons) | Icons for Visual Studio Code (Folders and files).
 [VSCode Spotify](https://marketplace.visualstudio.com/items?itemName=shyykoserhiy.vscode-spotify) | Use Spotify inside vscode. Provides integration with Spotify Desktop client.
 [VSCode Styled Components](https://marketplace.visualstudio.com/items?itemName=jpoissonnier.vscode-styled-components) | Syntax highlighting for styled-components. Very useful to develop using styled-components.
