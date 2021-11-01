@@ -30,6 +30,7 @@
 [Colorize](https://marketplace.visualstudio.com/items?itemName=kamikillerto.vscode-colorize) | A vscode extension to help visualize css colors in files.
 [Cucumber (Gherkin) Full Support](https://marketplace.visualstudio.com/items?itemName=alexkrechik.cucumberautocomplete) | This extension adds rich language support for the Cucumber (Gherkin) language.
 [CSS Peek](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek) | This extension extends HTML and ejs code editing with Go To Definition and Go To Symbol in Workspace support for css/scss/less (classes and IDs) found in strings within the source code.
+[Data Workspace](https://marketplace.visualstudio.com/items?itemName=ms-mssql.data-workspace-vscode) | Additional common functionality for database projects.
 [Debugger for Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome) | Debug your JavaScript code running in Google Chrome from VS Code.
 [Debugger for Firefox](https://marketplace.visualstudio.com/items?itemName=firefox-devtools.vscode-firefox-debug) | Debug your JavaScript code running in Firefox from VS Code.
 [Discord Presence](https://marketplace.visualstudio.com/items?itemName=icrawl.discord-vscode) | Update your discord status with the newly added rich presence.
