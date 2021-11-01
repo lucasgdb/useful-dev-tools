@@ -79,6 +79,7 @@
 [Open in browser](https://marketplace.visualstudio.com/items?itemName=techer.open-in-browser) | You can open your html work in the browser and see how it is.
 [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) | A plugin that autocompletes filenames. Intellisense will automatically fill or show suggestions as you try and type a path in quotations.
 [Peacock](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock) | Subtly change the workspace color of your workspace.
+[Pester Tests](https://marketplace.visualstudio.com/items?itemName=pspester.pester-test) | Enables you to run PowerShell Pester tests using the VSCode testing feature.
 [PHPCS](https://marketplace.visualstudio.com/items?itemName=ikappas.phpcs) | php cs adalahThe PHP Coding Standards Fixer (PHP CS Fixer) tool fixes your code to follow standards.
 [PHP Intelephense](https://marketplace.visualstudio.com/items?itemName=bmewburn.vscode-intelephense-client) | High performance, feature rich PHP intellisense. (I use it for PHP indentation).
 [Pink-Cat-Boo Theme](https://marketplace.visualstudio.com/items?itemName=ftsamoyed.theme-pink-cat-boo) | It is a cute theme for coder girls. The mainly colours are rose pink, light purple, banana yellow and sky blue.
