@@ -10,6 +10,7 @@
 [Auto Import](https://marketplace.visualstudio.com/items?itemName=steoates.autoimport) | Automatically finds, parses and provides code actions and code completion for all available imports. Works with Typescript and TSX.
 [Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag) | Automatically rename paired HTML/XML tag, same as Visual Studio IDE does.
 [Auto-Save on Window Change](https://marketplace.visualstudio.com/items?itemName=mcright.auto-save) | This will auto-save code each time you switch windows; really useful for JS when switching from editor to browser window a lot.
+[Azure CLI Tools](https://marketplace.visualstudio.com/items?itemName=ms-vscode.azurecli) | Tools for developing and running commands of the Azure CLI.
 [Babel JavaScript](https://marketplace.visualstudio.com/items?itemName=mgmcdermott.vscode-language-babel) | VSCode syntax highlighting for today's JavaScript.
 [Beautify](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify) | Beautify javascript, JSON, CSS, Sass, and HTML in Visual Studio Code.
 [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments) | The Better Comments extension will help you create more human-friendly comments in your code.
