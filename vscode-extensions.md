@@ -67,6 +67,7 @@
 [JavaScript (ES6)](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets) | This is very useful visual code extension or snippet for javascript developers especially who writes code in ES6.
 [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) | Launch a development local Server with live reload feature for static & dynamic pages.
 [Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare) | Visual Studio Live Share enables you to collaboratively edit and debug with others in real time, regardless what programming languages you're using or app types you're building.
+[Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) | All you need to write Markdown (keyboard shortcuts, table of contents, auto preview and more)
 [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint) | Markdown linting and style checking for Visual Studio Code.
 [Markdown Preview Enhanced](https://marketplace.visualstudio.com/items?itemName=shd101wyy.markdown-preview-enhanced) | Realtime markdown preview inside vscode.
 [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) | The Material Icon Theme provides lots of icons based on Material Design for Visual Studio Code.
@@ -109,6 +110,7 @@
 [Swagger Viewer](https://marketplace.visualstudio.com/items?itemName=Arjun.swagger-viewer) | Allows you to display Swagger / OpenAPI specifications written in YAML or JSON in a user-friendly and interactive HTML format
 [Tab Out or Reindent](https://marketplace.visualstudio.com/items?itemName=yeannylam.tab-out-or-reindent) | Press tab to jump out pair or reindent current line, or reindent selection
 [TabNine](https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode) | Advanced AI based autocomplete for all programming languages.
+[Test Runner for Java](https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-test) | Run and debug JUnit or TestNG test cases.
 [Thunder Client](https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client) | Rest API Client for VS Code, GUI based Http Client
 [TODO Highlight](https://marketplace.visualstudio.com/items?itemName=wayou.vscode-todo-highlight) | Highlight TODO, FIXME and other annotations within your code.
 [Todo Tree](https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree) | This extension quickly searches (using ripgrep) your workspace for comment tags like TODO and FIXME, and displays them in a tree view in the explorer pane. Clicking a TODO within the tree will open the file and put the cursor on the line containing the TODO.
