@@ -46,6 +46,7 @@
 [Terraform](https://www.terraform.io/) | Terraform is a tool for building, changing, and versioning infrastructure (IaC). Supports tons of providers not only the major clouds. Essentially great way to codify your infrastructure.
 [VirtualBox](https://www.virtualbox.org/) | An open source virtualization product developed by Oracle.
 [Wakatime](https://wakatime.com/) | Quantify your coding. Open source plugins for automatic programming metrics.
+[Wampserver](https://www.wampserver.com/en/) | Fully fledged webserver for local use on Windows. Includes Apache, PHP, MySQL, MariaDB out of the box and [additional versions of each can be installed with ease](https://wampserver.aviatechno.net/).
 [Wireshark](https://www.wireshark.org/) | Wireshark is an open source, network protocol analyzer.
 [WSL2](https://docs.microsoft.com/en-us/windows/wsl/) | Windows Subsystem for Linux allows you to run a Linux shell and run Linux commands on Windows 10.
 | **Bashs/Terminals/Consoles/Prompts** |
