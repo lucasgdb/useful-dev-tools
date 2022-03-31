@@ -71,6 +71,7 @@
 [tldr](https://tldr.sh/) | Simplified and community-driven man pages
 | **Version Control** |
 [Git Bash](https://gitforwindows.org/) | Git for Windows provides a BASH emulation used to run Git from the command line. NIX users should feel right at home, as the BASH emulation behaves just like the "git" command in LINUX and UNIX environments.
+[GitExtensions](https://gitextensions.github.io/) | Stand-alone git GUI for high productivity. Integrates with Windows Explorer and MS Visual Studio. Native support for Windows, support for NIX/Mac via Mono. Portable install option available.
 [GitHub CLI](https://cli.github.com/) | GitHub CLI brings GitHub to your terminal. Free and open source.
 [GitHub Desktop](https://desktop.github.com/) | A GUI for GitHub.
 [Git Kraken](https://www.gitkraken.com/) | Legendary Git Client for windows, mac and linux. Really practical and robust.
