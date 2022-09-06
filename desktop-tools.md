@@ -52,6 +52,7 @@
 | **Bashs/Terminals/Consoles/Prompts** |
 [ASCIinema](https://asciinema.org/) | Record and share your terminal sessions, the right way.
 [Cmder](https://cmder.net/) | Cmder is software package that provides great console experience even on Windows.
+[ConEmu](https://conemu.github.io/) | ConEmu is an advanced console window where you can run any shell of your choice. Includes tabbed interface and start-up options.
 [DirEnv](https://direnv.net) | DirEnv is a shell extension that augments existing shells with a new feature that can load and unload environment variables depending on the current directory.
 [HTTPie](https://httpie.org/) | A command line HTTP client, similar to cURL, but with a nicer output and syntax.
 [Hyper](https://hyper.is/) | A terminal built on web technologies
