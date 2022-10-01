@@ -106,6 +106,7 @@
 [JPEG and PNG Compactor](https://compresspng.com/pt/) | Make photos faster. (Step 2)
 [JS Compressor](https://jscompress.com/) | It's an online JavaScript compressor that allows you to compress and minify all of your JS files by up to 80% of their original size.
 [JSHint](https://jshint.com/) | A tool that helps to detect errors and potential problems in your JavaScript code.
+[JSON Crack](https://jsoncrack.com/) | Simple visualization tool for your JSON data. No forced structure, paste your JSON and view it instantly. This will visualize your JSON data structure in graph diagram for better understanding of your JSON data structure.
 [JSON Editor Online](https://jsoneditoronline.org/) | JSON Editor Online is a web-based tool to view, edit, and format JSON. It shows your data side by side in a clear, editable treeview and in a code editor.
 [JSON Formatter](https://jsonformatter.org/) | Online JSON Formatter and JSON Validator will format JSON data, and helps to validate, convert JSON to XML, JSON to CSV. Save and Share JSON.
 [JSONLint](https://jsonlint.com/) | Validator and reformatter for JSON.
