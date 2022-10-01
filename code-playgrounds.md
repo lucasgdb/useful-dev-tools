@@ -35,3 +35,4 @@
 [W3schools](https://www.w3schools.com/) | Completely for those who start front-end development. You can see the examples, descriptions and use case for each web component. **Features: (examples)**
 [W3Schools Online Code Editor](https://www.w3schools.com/tryit/) | With W3Schools online code editor, you can edit HTML, CSS and JavaScript code, and view the result in your browser.
 [CodingBlocks IDE](https://ide.codingblocks.com/) | With CodingBlocks IDE you can code in C, C++, Java, Python, JavaScript, Rust, Ruby, Go, Kotlin and compile it on the go. Input can be given manually or through file. 
+[Programiz](https://www.programiz.com/cpp-programming/online-compiler/) | Programiz is an online ide. Its supports following languages - C++, Python, SQL, C, Java, C#, JavaScript, HTML.
