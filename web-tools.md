@@ -13,6 +13,7 @@
 [BASE64 Decode and Encode](https://www.base64decode.org/) | Encode/Decode BASE64 strings or files
 [Beeceptor](https://beeceptor.com/) | Tool for REST API mocking
 [Big Text](https://coolsymbol.com/big-text-generator.html) | Convert text to big text as easy as you think.
+[Bitbucket](https://bitbucket.org/) | Bitbucket is a Git code management tool that gives your team a platform to plan and collaborate on projects.
 [BitDev](https://bit.dev/) | Bit is a cloud component hub. It is where you publish, document and organize all your reusable components. 
 [Blob Maker](https://www.blobmaker.app) | Random svg shape maker.
 [Bootstrap](https://getbootstrap.com/) | CSS framework directed at responsive, mobile-first front-end web development. Great front-end tool which helps in creating effective and efficient websites.
