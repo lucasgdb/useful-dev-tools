@@ -11,6 +11,7 @@
 [Carbonize](https://www.dangercove.com/carbonize) | Generate gorgeous, highly customizable images from your code snippets. Ready to save or share. (macOS client for Carbon)
 [CLIon](https://www.jetbrains.com/clion/) | A cross-platform IDE for C and C++. Paid, [check here](https://www.jetbrains.com/community/) if you apply for a free license.
 [CodeLobster](http://www.codelobster.com/) | It is a free as well as a convenient PHP IDE that is used to develop fully featured web applications.
+[CoffeeCup](https://www.coffeecup.com/) | It is a free well good IDE for web development using HTML.
 [Datagrip](https://www.jetbrains.com/datagrip/) | Database IDE with mostly databases compatibility. Paid, [check here](https://www.jetbrains.com/community/) if you apply for a free license.
 [Eclipse](https://www.eclipse.org/ide/) | The Eclipse IDE is famous for Java Integrated Development Environment (IDE)
 [GNU Emacs](https://www.gnu.org/software/emacs/) | An extensible, customizable, free/libre text editor — and more.
