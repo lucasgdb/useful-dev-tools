@@ -93,6 +93,7 @@
 [Peek](https://github.com/phw/peek) | App for recording screen areas, e.g. for easily showing UI features of your own apps or for showing a bug in bug reports.
 [Pexels](https://www.pexels.com) | Pexels. Free stock images, photos and videos.
 [Process Explorer](https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer) | Process Explorer is a freeware task manager and system monitor for Microsoft Windows.
+[Raycast](https://www.raycast.com/) | Raycast is a blazingly fast, totally extendable launcher. It lets you complete tasks, calculate, share common links, and much more. But only available for macOS.
 [Sizzy](https://sizzy.co/) | Multiscreen browser for web development
 [Termius](https://termius.com/) | A modern cross-platform SSH/SFTP Client.
 [Utilso](https://utilso.com) | All-in-one tools for developers. Format JSON, decode Base64, convert timestamps, debug JWT, convert YAML/JSON, code beautify and more. Work entirely offline
