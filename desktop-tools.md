@@ -24,6 +24,7 @@
 [PyCharm](https://www.jetbrains.com/pycharm/) | The Python IDE for Professional Developers. Available in two versions Community (free), Professional (paid). [Check here](https://www.jetbrains.com/community/) if you apply for a free license.
 [Spyder](https://www.spyder-ide.org/) | Spyder is an open source cross-platform integrated development environment for scientific programming in the Python language.
 [Sublime Text](https://www.sublimetext.com/) | A sophisticated text editor for code, markup and prose.
+[Komodo IDE](https://www.activestate.com/products/komodo-ide/) | A dynamic IDE for langauges like Python, PHP, Perl, Golang, Ruby, Html and more.
 [Thonny Python IDE](https://thonny.org/) | Thonny is an integrated development environment for Python that is designed for beginners.
 [Typora](https://typora.io/) | Typora is a great program for reading and writing MarkDown files.
 [uPyCraft](http://docs.dfrobot.com/upycraft/) | IDE for programming Micropython in microntoller boards.
