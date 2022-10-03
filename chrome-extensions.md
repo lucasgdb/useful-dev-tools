@@ -9,6 +9,7 @@
 [Augury](https://chrome.google.com/webstore/detail/augury/elgalmkoelokbchhkhacckoklkejnhcd?hl=en) | Augury is a Google Chrome Dev Tool extension for debugging and visualizing Angular applications at runtime.
 [Axe](https://chrome.google.com/webstore/detail/axe-devtools-web-accessib/lhdoppojpmngadmnindnejefpokejbdd) | Find and fix the accessibility issues in a website
 [Checkbot](https://www.checkbot.io/) | Browser extension that tests if your website follows 50+ SEO, speed and security best practices. Free tier for smaller websites.
+[Check My Links](https://chrome.google.com/webstore/detail/check-my-links/ojkcdipcgfaekbeaelaapakgnjflfglf) | Check My Links is a link checker that crawls through your webpage and looks for broken links.
 [Clear Cache](https://chrome.google.com/webstore/detail/clear-cache/cppjkneekbjaeellbfkmgnhonkkjfpdn?hl=en) | Clear your cache and browsing data with a single click of a button.
 [ColorPick Eyedropper](https://chrome.google.com/webstore/detail/colorpick-eyedropper/ohcpnigalekghcmgcdcenkpelffpdolg?hl=en) | A zoomed eyedropper & color chooser tool that allows you to select color values from webpages and more.
 [Color Picker](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp?hl=en) | ColorZill is one of the most popular Firefox developer extensions with over 5 million downloads is finally available for Chrome!.With ColorZilla you can get a color reading from any point in your browser, quickly adjust this color and paste it into another program. And it can do so much more.
