@@ -109,6 +109,7 @@
 [JSON Editor Online](https://jsoneditoronline.org/) | JSON Editor Online is a web-based tool to view, edit, and format JSON. It shows your data side by side in a clear, editable treeview and in a code editor.
 [JSON Formatter](https://jsonformatter.org/) | Online JSON Formatter and JSON Validator will format JSON data, and helps to validate, convert JSON to XML, JSON to CSV. Save and Share JSON.
 [JSONLint](https://jsonlint.com/) | Validator and reformatter for JSON.
+[JSON Schema Validator](https://www.jsonschemavalidator.net/) | Validates your JSON against a custom schema, showing where the errors are if it's invalid.
 [JSON Utils](https://jsonutils.com/) | Convert JSON to C#, VB.NET, JavaScript, Java, PHP and TypeScript classes
 [JS Paint](https://jspaint.app/) | it's a web-based remake of MS Paint.
 [KeyCode Info](https://keycode.info/) | Easy visualizer for JavaScript KeyCodes.
