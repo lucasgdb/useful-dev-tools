@@ -168,6 +168,7 @@
 [Web Resizer](http://webresizer.com/resizer/) | Make photos faster. (Step 1)
 [Whats.new](https://whats.new/) | .new is a domain name extension that serves as quick link shortcuts for common web tools used my developers and non-developers alike. whats.new lists these shortcuts. 
 [Windframe](https://www.devwares.com/windframe/) | A tool to rapidly build and prototype stunning websites using Tailwind CSS
+[Wokwi Arduino simulator](https://wokwi.com/) | An online simulator which allows you to connect various Arduino boards with components in a circuit without needing any physical components.
 [Write PHP Online](http://www.writephponline.com/) | Simple free website that allows you to execute PHP code.
 [XML Viewer](https://codebeautify.org/xmlviewer#) | Beautify XML files
 [You might not need jQuery](https://youmightnotneedjquery.com/) | Provides a list of jQuery commands in Vanilla JS.
