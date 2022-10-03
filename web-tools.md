@@ -13,6 +13,7 @@
 [BASE64 Decode and Encode](https://www.base64decode.org/) | Encode/Decode BASE64 strings or files
 [Beeceptor](https://beeceptor.com/) | Tool for REST API mocking
 [Big Text](https://coolsymbol.com/big-text-generator.html) | Convert text to big text as easy as you think.
+[Bitbucket](https://bitbucket.org/) | Bitbucket is a Git code management tool that gives your team a platform to plan and collaborate on projects.
 [BitDev](https://bit.dev/) | Bit is a cloud component hub. It is where you publish, document and organize all your reusable components. 
 [Blob Maker](https://www.blobmaker.app) | Random svg shape maker.
 [Bootstrap](https://getbootstrap.com/) | CSS framework directed at responsive, mobile-first front-end web development. Great front-end tool which helps in creating effective and efficient websites.
@@ -74,6 +75,7 @@
 [Firebase](https://firebase.google.com) | A Google SaaS backend solutions for cross-platform applications
 [FontSee](https://fontsee.com/) | Online webfont viewer: Preview how font files look like in the browser.
 [Font Awesome](https://fontawesome.com) | Font Awesome is a font and icon toolkit based on CSS and Less. Get vector icons and social logos on your website with Font Awesome.
+[Flutter framework](https://flutter.dev) | Awesome framework for easy synchronising web and mobile applications ,also provides easy addition to firebase or anydata base.
 [Free Code Camp](https://freecodecamp.org/) | Free training to become a web developer with several modules to study at your own pace. Also has several thousand user contributed YouTube videos in their channel.
 [Freeformatter](https://www.freeformatter.com/java-regex-tester.html) | Regex validator for Java
 [Frisby.js](https://www.frisbyjs.com/) | The Easiest REST API Testing Framework Out There.
@@ -164,8 +166,11 @@
 [W3Schools](https://www.w3schools.com/) | The world's largest website for web tutorials.
 [Wappalyzer](https://www.wappalyzer.com) | Identify technology used on websites.
 [Web Resizer](http://webresizer.com/resizer/) | Make photos faster. (Step 1)
+[Whats.new](https://whats.new/) | .new is a domain name extension that serves as quick link shortcuts for common web tools used my developers and non-developers alike. whats.new lists these shortcuts. 
 [Windframe](https://www.devwares.com/windframe/) | A tool to rapidly build and prototype stunning websites using Tailwind CSS
+[Wokwi Arduino simulator](https://wokwi.com/) | An online simulator which allows you to connect various Arduino boards with components in a circuit without needing any physical components.
 [Write PHP Online](http://www.writephponline.com/) | Simple free website that allows you to execute PHP code.
 [XML Viewer](https://codebeautify.org/xmlviewer#) | Beautify XML files
 [You might not need jQuery](https://youmightnotneedjquery.com/) | Provides a list of jQuery commands in Vanilla JS.
 [Explainshell](https://explainshell.com/) | Parsing man pages, extracting options, and matching each argument to the relevant help text in the man page to explain a given command line.
+[Confluence](https://www.atlassian.com/software/confluence) | Confluence serves in the form of the web-based corporate Wiki developed by the Australian software company Atlassian.
