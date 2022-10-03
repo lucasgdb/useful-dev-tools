@@ -172,4 +172,5 @@
 [Write PHP Online](http://www.writephponline.com/) | Simple free website that allows you to execute PHP code.
 [XML Viewer](https://codebeautify.org/xmlviewer#) | Beautify XML files
 [You might not need jQuery](https://youmightnotneedjquery.com/) | Provides a list of jQuery commands in Vanilla JS.
+[Explainshell](https://explainshell.com/) | Parsing man pages, extracting options, and matching each argument to the relevant help text in the man page to explain a given command line.
 [Confluence](https://www.atlassian.com/software/confluence) | Confluence serves in the form of the web-based corporate Wiki developed by the Australian software company Atlassian.
