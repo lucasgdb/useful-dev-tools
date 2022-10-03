@@ -103,6 +103,7 @@
 [Hoppscotch](https://hoppscotch.io/) | API request builder.
 [HTML Cleaner](https://html-cleaner.com) | Free HTML, CSS, and JavaScript beautifier.
 [HTML Minifier](https://www.willpeavy.com/minifier/) | Minify HTML and any CSS or JS included in your markup.
+[httpstatus.io](https://httpstatus.io/) | Easily check status codes, response headers, and redirect chains.
 [IconMoon.io](https://icomoon.io/) | Icon Font and SVG Icon sets. More than 5500+ free vector icons.
 [JavaCodeGeeks](https://www.javacodegeeks.com/) | Java Code Geeks (JCGs) is an independent online community focused on creating the ultimate Java-to-Java developers resource center.
 [JPEG and PNG Compactor](https://compresspng.com/pt/) | Make photos faster. (Step 2)
