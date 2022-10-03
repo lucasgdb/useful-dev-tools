@@ -22,6 +22,7 @@
 [MacDown](https://github.com/MacDownApp/macdown) | MacDown is an open source program for reading and writing MarkDown files on MacOS.
 [NeoVIm](https:https://neovim.io/) | NeoVim is a fork of the original Vim more focus on community contribution, and has new features, such as plugins, more customization and a opensource driven project.
 [Notepad++](https://notepad-plus-plus.org/downloads/) | Text viewer in most languages, easier when you need to open faster code to check something.
+[Pre-commit](https://pre-commit.com/) | A framework for managing and maintaining multi-language pre-commit hooks.
 [Protege](https://protege.stanford.edu/) | Open source ontology editor and knowledge management system.
 [PyCharm](https://www.jetbrains.com/pycharm/) | The Python IDE for Professional Developers. Available in two versions Community (free), Professional (paid). [Check here](https://www.jetbrains.com/community/) if you apply for a free license.
 [Spyder](https://www.spyder-ide.org/) | Spyder is an open source cross-platform integrated development environment for scientific programming in the Python language.
