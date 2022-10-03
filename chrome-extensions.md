@@ -9,11 +9,13 @@
 [Augury](https://chrome.google.com/webstore/detail/augury/elgalmkoelokbchhkhacckoklkejnhcd?hl=en) | Augury is a Google Chrome Dev Tool extension for debugging and visualizing Angular applications at runtime.
 [Axe](https://chrome.google.com/webstore/detail/axe-devtools-web-accessib/lhdoppojpmngadmnindnejefpokejbdd) | Find and fix the accessibility issues in a website
 [Checkbot](https://www.checkbot.io/) | Browser extension that tests if your website follows 50+ SEO, speed and security best practices. Free tier for smaller websites.
+[Clear Cache](https://chrome.google.com/webstore/detail/clear-cache/cppjkneekbjaeellbfkmgnhonkkjfpdn?hl=en) | Clear your cache and browsing data with a single click of a button.
 [ColorPick Eyedropper](https://chrome.google.com/webstore/detail/colorpick-eyedropper/ohcpnigalekghcmgcdcenkpelffpdolg?hl=en) | A zoomed eyedropper & color chooser tool that allows you to select color values from webpages and more.
 [Color Picker](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp?hl=en) | ColorZill is one of the most popular Firefox developer extensions with over 5 million downloads is finally available for Chrome!.With ColorZilla you can get a color reading from any point in your browser, quickly adjust this color and paste it into another program. And it can do so much more.
 [Colorzilla](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp) | ColorZilla allows you to get a color reading from any point in the browser. You can quickly adjust the selected color and paste it into your program.
 [Copy Css Selector](https://chrome.google.com/webstore/detail/copy-css-selector/kemkenbgbgodoglfkkejbdcpojnodnkg?hl=en) |selector that’s unique to the element selected. Very useful for quickly getting selector for any element for testing frameworks like Selenium!
 [CSS Scan](https://chrome.google.com/webstore/detail/css-scan/gieabiemggnpnminflinemaickipbebg) | The fastest and easiest way to check, copy and edit CSS.
+[CSS Peeper](https://chrome.google.com/webstore/detail/css-peeper/mbnbehikldjhnfehhnaidhjhoofhpehk?hl=en) | Extract CSS and build beautiful styleguides.
 [CSSViewer](https://chrome.google.com/webstore/detail/cssviewer/ggfgijbpiheegefliciemofobhmofgce?hl=en) | A simple CSS property viewer.
 [ChroPath](https://chrome.google.com/webstore/detail/chropath/ljngjbnaijcbncmcnjfhigebomdlkcjo) |ChroPath helps to generate and validate selectors like relative xpath with iframe,svg support. It also generate english testcases!
 [daily.dev](https://chrome.google.com/webstore/detail/dailydev-news-for-busy-de/jlmpjdjjbgclbocgajdjefcidcncaied?hl=en) | With daily.dev, you will stay updated with the best articles from the best tech publications on any topic.
@@ -42,7 +44,7 @@
 [Nimbus](https://chrome.google.com/webstore/detail/nimbus-screenshot-screen/bpconcjcammlapcogcnnelfmaeghhagj?hl=en) | Screenshot and screen recorder, annotate and crop the screenshots.
 [Octotree Chrome Extension](https://www.octotree.io/) |  Octotree is loaded with features that make GitHub code review and exploration awesome. Make your GitHub Dark-Mode.
 [Password Generator](https://chrome.google.com/webstore/detail/password-generator/opdldgbhjmjfoigadonpfngfcefnknbm) | Generate extremelly random password with just a few clicks.
-[Page Ruler](https://chrome.google.com/webstore/detail/page-ruler-redux/giejhjebcalaheckengmchjekofhhmal) | A Web Developer\Designer ruler to get pixel dimensions and positioning to measure elements on any web page. 
+[Page Ruler](https://chrome.google.com/webstore/detail/page-ruler-redux/giejhjebcalaheckengmchjekofhhmal) | A Web Developer\Designer ruler to get pixel dimensions and positioning to measure elements on any web page.
 [Pesticide for Chrome](https://chrome.google.com/webstore/detail/pesticide-for-chrome-with/eipbgplchlidkojmppclhkechkhmlefi/related) | Inserts the Pesticide CSS into the current page, outlining each element to better see placement on the page.
 [React DevTools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) | Extension to add react developer tools to Google chrome.
 [Redux DevTools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd) | Extension to add redux developer tools to Google chrome.
@@ -51,8 +53,9 @@
 [Site Spider](https://chrome.google.com/webstore/detail/site-spider-mark-ii/gedjofgioahckekhpgknhchelbpdogok?hl=en%20) | A google chrome extension to find broken links on your site and want to restrict spidering to a specific directory.
 [Stylus](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne?hl=en) | Stylus allows you to easily install themes and skins for many popular sites.
 [Svg Export](https://chrome.google.com/webstore/detail/svg-export/naeaaedieihlkmdajjefioajbbdbdjgp?hl=en-GB) | This is great for designers and developers wanting to pull SVGs from sites without having to dive into the source code.
-[Talend API Tester](https://chrome.google.com/webstore/detail/talend-api-tester-free-ed/aejoelaoggembcahagimdiliamlcdmfm?hl=en) | Talend API Tester makes it easy to invoke, discover and test HTTP and REST APIs. 
+[Talend API Tester](https://chrome.google.com/webstore/detail/talend-api-tester-free-ed/aejoelaoggembcahagimdiliamlcdmfm?hl=en) | Talend API Tester makes it easy to invoke, discover and test HTTP and REST APIs.
 [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) | Block Ads and other annoying things on the web
+[UX Check](https://chrome.google.com/webstore/detail/ux-check/giekhiebdpmljgchjojblnekkcgpdobp) | Run a heuristic evaluation on your website
 [Visual Inspector](https://chrome.google.com/webstore/detail/visual-inspector/efaejpgmekdkcngpbghnpcmbpbngoclc) | Capture the UI of some interfaces.
 [VisBug](https://chrome.google.com/webstore/detail/visbug/cdockenadnadldjbbgcallicgledbeoc?hl=en) | Open source web design debug tools built with JavaScript: a FireBug for designers.Edit any webpage, in any state
 [Vue.js DevTools](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd) | Extension to add VueJs developer tools to Google chrome.
@@ -65,7 +68,8 @@
 [Video Speed Controller](https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk?hl=en) | Speed up, slow down, advance and rewind audio/video with shortcuts
 [PR Maneiro](https://github.com/IgorHalfeld/pr-maneiro) | Make someone happy with a comment on Pull Request.
 [Bitwarden - Free Password Manager](https://chrome.google.com/webstore/detail/bitwarden-free-password-m/nngceckbapebfimnlniiiahkandclblb?hl=en)|A secure and free password manager for all of your devices.
-[Lighthouse Chrome Dev Tool](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk) | Lighthouse is an open-source, automated tool for improving the performance, quality, and correctness of your web apps. 
+[Lighthouse Chrome Dev Tool](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk) | Lighthouse is an open-source, automated tool for improving the performance, quality, and correctness of your web apps.
 [Anima’s Chrome extension for Figma](https://chrome.google.com/webstore/detail/figma-to-code-reacthtmlvu/deogccghoodabgngjnmlobkbkfnflhac) | This cool Chrome extension gives you a button that allows you to translate Figma designs into HTML, React, and Vue code with a click.
 [Session Buddy](https://chrome.google.com/webstore/detail/session-buddy/edacconmaakjimmfgnblocblbcdcpbko?hl=en) | Manage and save browser tabs and bookmarks for later use with ease.
 [Aeroleads](https://aeroleads.com/) | Find anyone's email and phone number and also build contact lists. Free credits after the initial free sign-up.
+[Tapermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en) | Tampermonkey is used to run so-called userscripts (sometimes also called Greasemonkey scripts) on websites.

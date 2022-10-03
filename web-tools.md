@@ -13,6 +13,7 @@
 [BASE64 Decode and Encode](https://www.base64decode.org/) | Encode/Decode BASE64 strings or files
 [Beeceptor](https://beeceptor.com/) | Tool for REST API mocking
 [Big Text](https://coolsymbol.com/big-text-generator.html) | Convert text to big text as easy as you think.
+[Bitbucket](https://bitbucket.org/) | Bitbucket is a Git code management tool that gives your team a platform to plan and collaborate on projects.
 [BitDev](https://bit.dev/) | Bit is a cloud component hub. It is where you publish, document and organize all your reusable components. 
 [Blob Maker](https://www.blobmaker.app) | Random svg shape maker.
 [Bootstrap](https://getbootstrap.com/) | CSS framework directed at responsive, mobile-first front-end web development. Great front-end tool which helps in creating effective and efficient websites.
@@ -74,6 +75,7 @@
 [Firebase](https://firebase.google.com) | A Google SaaS backend solutions for cross-platform applications
 [FontSee](https://fontsee.com/) | Online webfont viewer: Preview how font files look like in the browser.
 [Font Awesome](https://fontawesome.com) | Font Awesome is a font and icon toolkit based on CSS and Less. Get vector icons and social logos on your website with Font Awesome.
+[Flutter framework](https://flutter.dev) | Awesome framework for easy synchronising web and mobile applications ,also provides easy addition to firebase or anydata base.
 [Free Code Camp](https://freecodecamp.org/) | Free training to become a web developer with several modules to study at your own pace. Also has several thousand user contributed YouTube videos in their channel.
 [Freeformatter](https://www.freeformatter.com/java-regex-tester.html) | Regex validator for Java
 [Frisby.js](https://www.frisbyjs.com/) | The Easiest REST API Testing Framework Out There.
@@ -106,9 +108,11 @@
 [JPEG and PNG Compactor](https://compresspng.com/pt/) | Make photos faster. (Step 2)
 [JS Compressor](https://jscompress.com/) | It's an online JavaScript compressor that allows you to compress and minify all of your JS files by up to 80% of their original size.
 [JSHint](https://jshint.com/) | A tool that helps to detect errors and potential problems in your JavaScript code.
+[JSON Crack](https://jsoncrack.com/) | Simple visualization tool for your JSON data. No forced structure, paste your JSON and view it instantly. This will visualize your JSON data structure in graph diagram for better understanding of your JSON data structure.
 [JSON Editor Online](https://jsoneditoronline.org/) | JSON Editor Online is a web-based tool to view, edit, and format JSON. It shows your data side by side in a clear, editable treeview and in a code editor.
 [JSON Formatter](https://jsonformatter.org/) | Online JSON Formatter and JSON Validator will format JSON data, and helps to validate, convert JSON to XML, JSON to CSV. Save and Share JSON.
 [JSONLint](https://jsonlint.com/) | Validator and reformatter for JSON.
+[JSON Schema Validator](https://www.jsonschemavalidator.net/) | Validates your JSON against a custom schema, showing where the errors are if it's invalid.
 [JSON Utils](https://jsonutils.com/) | Convert JSON to C#, VB.NET, JavaScript, Java, PHP and TypeScript classes
 [JS Paint](https://jspaint.app/) | it's a web-based remake of MS Paint.
 [KeyCode Info](https://keycode.info/) | Easy visualizer for JavaScript KeyCodes.
@@ -162,6 +166,7 @@
 [W3Schools](https://www.w3schools.com/) | The world's largest website for web tutorials.
 [Wappalyzer](https://www.wappalyzer.com) | Identify technology used on websites.
 [Web Resizer](http://webresizer.com/resizer/) | Make photos faster. (Step 1)
+[Whats.new](https://whats.new/) | .new is a domain name extension that serves as quick link shortcuts for common web tools used my developers and non-developers alike. whats.new lists these shortcuts. 
 [Windframe](https://www.devwares.com/windframe/) | A tool to rapidly build and prototype stunning websites using Tailwind CSS
 [Write PHP Online](http://www.writephponline.com/) | Simple free website that allows you to execute PHP code.
 [XML Viewer](https://codebeautify.org/xmlviewer#) | Beautify XML files
