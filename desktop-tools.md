@@ -11,19 +11,24 @@
 [Carbonize](https://www.dangercove.com/carbonize) | Generate gorgeous, highly customizable images from your code snippets. Ready to save or share. (macOS client for Carbon)
 [CLIon](https://www.jetbrains.com/clion/) | A cross-platform IDE for C and C++. Paid, [check here](https://www.jetbrains.com/community/) if you apply for a free license.
 [CodeLobster](http://www.codelobster.com/) | It is a free as well as a convenient PHP IDE that is used to develop fully featured web applications.
+[CoffeeCup](https://www.coffeecup.com/) | It is a free well good IDE for web development using HTML.
 [Datagrip](https://www.jetbrains.com/datagrip/) | Database IDE with mostly databases compatibility. Paid, [check here](https://www.jetbrains.com/community/) if you apply for a free license.
 [Eclipse](https://www.eclipse.org/ide/) | The Eclipse IDE is famous for Java Integrated Development Environment (IDE)
 [GNU Emacs](https://www.gnu.org/software/emacs/) | An extensible, customizable, free/libre text editor — and more.
 [GoLand](https://www.jetbrains.com/go/) | A cross-platform IDE built specially for Go developers. Paid, [check here](https://www.jetbrains.com/community/) if you apply for a free license.
 [IntelliJ IDEA](https://www.jetbrains.com/idea/) | Integrated Development Environment (IDE) for JVM. Paid, [check here](https://www.jetbrains.com/community/) if you apply for a free license.
+[Joplin](https://joplinapp.org/) | Joplin is an open source note-taking app. .
+[Lapce](https://lapce.dev/) | Lapce is a modern open source text editor built in Rust, focused on performance. 
 [Lens](https://k8slens.dev/) | Lens is the only IDE you’ll ever need to take control of your Kubernetes clusters. It's open source and free.
 [MacDown](https://github.com/MacDownApp/macdown) | MacDown is an open source program for reading and writing MarkDown files on MacOS.
 [NeoVIm](https:https://neovim.io/) | NeoVim is a fork of the original Vim more focus on community contribution, and has new features, such as plugins, more customization and a opensource driven project.
 [Notepad++](https://notepad-plus-plus.org/downloads/) | Text viewer in most languages, easier when you need to open faster code to check something.
+[Pre-commit](https://pre-commit.com/) | A framework for managing and maintaining multi-language pre-commit hooks.
 [Protege](https://protege.stanford.edu/) | Open source ontology editor and knowledge management system.
 [PyCharm](https://www.jetbrains.com/pycharm/) | The Python IDE for Professional Developers. Available in two versions Community (free), Professional (paid). [Check here](https://www.jetbrains.com/community/) if you apply for a free license.
 [Spyder](https://www.spyder-ide.org/) | Spyder is an open source cross-platform integrated development environment for scientific programming in the Python language.
 [Sublime Text](https://www.sublimetext.com/) | A sophisticated text editor for code, markup and prose.
+[Komodo IDE](https://www.activestate.com/products/komodo-ide/) | A dynamic IDE for langauges like Python, PHP, Perl, Golang, Ruby, Html and more.
 [Thonny Python IDE](https://thonny.org/) | Thonny is an integrated development environment for Python that is designed for beginners.
 [Typora](https://typora.io/) | Typora is a great program for reading and writing MarkDown files.
 [uPyCraft](http://docs.dfrobot.com/upycraft/) | IDE for programming Micropython in microntoller boards.
@@ -93,6 +98,7 @@
 [Peek](https://github.com/phw/peek) | App for recording screen areas, e.g. for easily showing UI features of your own apps or for showing a bug in bug reports.
 [Pexels](https://www.pexels.com) | Pexels. Free stock images, photos and videos.
 [Process Explorer](https://docs.microsoft.com/en-us/sysinternals/downloads/process-explorer) | Process Explorer is a freeware task manager and system monitor for Microsoft Windows.
+[Raycast](https://www.raycast.com/) | Raycast is a blazingly fast, totally extendable launcher. It lets you complete tasks, calculate, share common links, and much more. But only available for macOS.
 [Sizzy](https://sizzy.co/) | Multiscreen browser for web development
 [Termius](https://termius.com/) | A modern cross-platform SSH/SFTP Client.
 [Utilso](https://utilso.com) | All-in-one tools for developers. Format JSON, decode Base64, convert timestamps, debug JWT, convert YAML/JSON, code beautify and more. Work entirely offline
@@ -148,3 +154,4 @@
 [Blisk](https://blisk.io/) | Compared to Opera, Chrome, and Firefox, Blisk doesn’t have nearly as much attention online. However, this browser is specifically designed to give designers a development-first workspace where they can develop and test modern applications as quickly as possible.
 [SauceLabs](https://saucelabs.com/) | Sauce Labs provides the largest automated cloud(browsers/devices) for running Selenium and Appium tests.
 [Slack](https://slack.com/intl/en-in/) | Used by developers and non-developers alike, this lightweight communication tool is used by countless software teams across the world.
+[Visual Studio](https://visualstudio.microsoft.com/vs/) | Visual Studio is an integrated environment that offers software developer tools for design and deployment.
