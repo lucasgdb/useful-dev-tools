@@ -166,6 +166,7 @@
 [W3Schools](https://www.w3schools.com/) | The world's largest website for web tutorials.
 [Wappalyzer](https://www.wappalyzer.com) | Identify technology used on websites.
 [Web Resizer](http://webresizer.com/resizer/) | Make photos faster. (Step 1)
+[Whats.new](https://whats.new/) | .new is a domain name extension that serves as quick link shortcuts for common web tools used my developers and non-developers alike. whats.new lists these shortcuts. 
 [Windframe](https://www.devwares.com/windframe/) | A tool to rapidly build and prototype stunning websites using Tailwind CSS
 [Write PHP Online](http://www.writephponline.com/) | Simple free website that allows you to execute PHP code.
 [XML Viewer](https://codebeautify.org/xmlviewer#) | Beautify XML files
