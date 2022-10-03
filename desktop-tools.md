@@ -153,3 +153,4 @@
 [LT Browser](https://www.lambdatest.com/lt-browser) | LT Browser is a developer-oriented browser that provides users with a development workspace to test their website’s responsiveness over a variety of devices and viewports.
 [Blisk](https://blisk.io/) | Compared to Opera, Chrome, and Firefox, Blisk doesn’t have nearly as much attention online. However, this browser is specifically designed to give designers a development-first workspace where they can develop and test modern applications as quickly as possible.
 [SauceLabs](https://saucelabs.com/) | Sauce Labs provides the largest automated cloud(browsers/devices) for running Selenium and Appium tests.
+[Visual Studio](https://visualstudio.microsoft.com/vs/) | Visual Studio is an integrated environment that offers software developer tools for design and deployment.
