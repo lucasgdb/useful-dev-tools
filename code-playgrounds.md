@@ -21,6 +21,7 @@
 [Jupyter Notebook](https://jupyter.org/) | Project Jupyter exists to develop open-source software, open-standards, and services for interactive computing across dozens of programming languages.
 [Katacoda](https://www.katacoda.com/) | Learn new technologies using real environments right in your browser
 [Kotlin Playground](https://play.kotlinlang.org/) | Kotlin Playground is an online sandbox to explore Kotlin programming language. Browse code samples directly in the browser.
+[MermaidJS Live Editor](https://mermaid.live/) | Mermaid is a JavaScript based diagramming and charting tool that uses Markdown-inspired text definitions and a renderer to create and modify complex diagrams. Mermaid allows even non-programmers to easily create detailed and diagrams through the Live Editor
 [PHPFiddle](http://phpfiddle.org/) | PhpFiddle provides Web IDE, Web Tools, APIs, Widgets, PHP Libraries, programming resources and execution environment for PHP/MySQL and HTML/CSS/JavaScript online coding. PhpFiddle allows people to test PHP code snippets, create, test and download simple applications. **Features: (examples, download the codes)**
 [play.golang.org](https://play.golang.org/) | The Go Playground is a web service that runs on golang.org's servers. The service receives a Go program, vets, compiles, links, and runs the program inside a sandbox, then returns the output. **Features: (examples, save code, code linting)**
 [Plunker](https://plnkr.co/) | Plunker is an online community for creating, collaborating on and sharing your web development ideas. Design goals for speed, ease of use and collaboration. **Features: (examples, auto reload, save code, real-time collaboration, customizable syntax editor, code linting, open-source)**
@@ -36,3 +37,4 @@
 [W3Schools Online Code Editor](https://www.w3schools.com/tryit/) | With W3Schools online code editor, you can edit HTML, CSS and JavaScript code, and view the result in your browser.
 [CodingBlocks IDE](https://ide.codingblocks.com/) | With CodingBlocks IDE you can code in C, C++, Java, Python, JavaScript, Rust, Ruby, Go, Kotlin and compile it on the go. Input can be given manually or through file. 
 [Svelte REPL](https://svelte.dev/repl/) | Write Svelte code online and see the result page along with the JavaScript it compiles to, the css styles and the compiler AST Output. 
+[Programiz](https://www.programiz.com/cpp-programming/online-compiler/) | Programiz is an online ide. Its supports following languages - C++, Python, SQL, C, Java, C#, JavaScript, HTML.
