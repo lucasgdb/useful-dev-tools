@@ -14,6 +14,7 @@
 [Colorzilla](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp) | ColorZilla allows you to get a color reading from any point in the browser. You can quickly adjust the selected color and paste it into your program.
 [Copy Css Selector](https://chrome.google.com/webstore/detail/copy-css-selector/kemkenbgbgodoglfkkejbdcpojnodnkg?hl=en) |selector that’s unique to the element selected. Very useful for quickly getting selector for any element for testing frameworks like Selenium!
 [CSS Scan](https://chrome.google.com/webstore/detail/css-scan/gieabiemggnpnminflinemaickipbebg) | The fastest and easiest way to check, copy and edit CSS.
+[CSS Peeper](https://chrome.google.com/webstore/detail/css-peeper/mbnbehikldjhnfehhnaidhjhoofhpehk?hl=en) | Extract CSS and build beautiful styleguides.
 [CSSViewer](https://chrome.google.com/webstore/detail/cssviewer/ggfgijbpiheegefliciemofobhmofgce?hl=en) | A simple CSS property viewer.
 [ChroPath](https://chrome.google.com/webstore/detail/chropath/ljngjbnaijcbncmcnjfhigebomdlkcjo) |ChroPath helps to generate and validate selectors like relative xpath with iframe,svg support. It also generate english testcases!
 [daily.dev](https://chrome.google.com/webstore/detail/dailydev-news-for-busy-de/jlmpjdjjbgclbocgajdjefcidcncaied?hl=en) | With daily.dev, you will stay updated with the best articles from the best tech publications on any topic.
@@ -69,3 +70,4 @@
 [Anima’s Chrome extension for Figma](https://chrome.google.com/webstore/detail/figma-to-code-reacthtmlvu/deogccghoodabgngjnmlobkbkfnflhac) | This cool Chrome extension gives you a button that allows you to translate Figma designs into HTML, React, and Vue code with a click.
 [Session Buddy](https://chrome.google.com/webstore/detail/session-buddy/edacconmaakjimmfgnblocblbcdcpbko?hl=en) | Manage and save browser tabs and bookmarks for later use with ease.
 [Aeroleads](https://aeroleads.com/) | Find anyone's email and phone number and also build contact lists. Free credits after the initial free sign-up.
+[Tapermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en) | Tampermonkey is used to run so-called userscripts (sometimes also called Greasemonkey scripts) on websites.
