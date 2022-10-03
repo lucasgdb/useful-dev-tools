@@ -136,6 +136,7 @@
 [Homebrew](https://brew.sh/) | The missing package manager for macOS (or Linux).
 [Scoop](https://scoop.sh/) | Scoop is a command-line installer for Windows.
 [Yarn](https://yarnpkg.com/) | Yarn is a package manager that doubles down as project manager. Whether you work on one-shot projects or large monorepos, as a hobbyist or an enterprise user, we've got you covered.
+[cargo](https://github.com/rust-lang/cargo) | cargo is a package manager for Rust programming language.
 | **Mobile** |
 [Adobe XD](https://www.adobe.com/products/xd.html?ef_id=EAIaIQobChMI7qXd4u2p7AIVNz6tBh2Idw-OEAAYASAAEgJYXvD_BwE:G:s&s_kwcid=AL!3085!3!372875864628!b!!g!!!2075907083!76930640392) | UI/UX design tool that is good for making wireframe model for mobile and web app
 [Expo](https://expo.io/) | Mobile application development which can run JavaScript. Useful for React Native
