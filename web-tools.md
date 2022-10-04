@@ -119,6 +119,7 @@
 [KeyCode Info](https://keycode.info/) | Easy visualizer for JavaScript KeyCodes.
 [LeetCode](https://leetcode.com/) | It's an amazing platform to help you enhance your skills and prepare for technical interviews.
 [Lighthouse](https://developers.google.com/web/tools/lighthouse) | Lighthouse is an open-source, automated tool for verify the score and quality of web pages.
+[Linode](https://www.linode.com/) | Linode is a cloud hosting provider that provides Linux powered Virtual Machines tools to develop, deploy, and scale applications. 
 [LoremIpsum.io](https://loremipsum.io/) |  Is a placeholder generator, that contains many random generated text, image placeholder for developers!
 [Lordicons](https://lordicon.com/) | Best set of free and premium icons with lite animations.
 [Marcdown](https://liyasthomas.github.io/marcdown) | A lightweight markdown viewer and editor.
