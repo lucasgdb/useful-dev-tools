@@ -176,3 +176,4 @@
 [You might not need jQuery](https://youmightnotneedjquery.com/) | Provides a list of jQuery commands in Vanilla JS.
 [Explainshell](https://explainshell.com/) | Parsing man pages, extracting options, and matching each argument to the relevant help text in the man page to explain a given command line.
 [Confluence](https://www.atlassian.com/software/confluence) | Confluence serves in the form of the web-based corporate Wiki developed by the Australian software company Atlassian.
+[CSS box shadow generator](https://cssgenerator.org/box-shadow-css-generator.html) | A box-shadow CSS generator that helps you quickly generate box-shadow CSS declarations for your website.
