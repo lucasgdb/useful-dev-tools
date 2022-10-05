@@ -8,6 +8,7 @@
 [Angular State Inspector](https://chrome.google.com/webstore/detail/angular-state-inspector/nelkodgfpddgpdbcjinaaalphkfffbem) | Helps you debug Angular component state
 [Augury](https://chrome.google.com/webstore/detail/augury/elgalmkoelokbchhkhacckoklkejnhcd?hl=en) | Augury is a Google Chrome Dev Tool extension for debugging and visualizing Angular applications at runtime.
 [Axe](https://chrome.google.com/webstore/detail/axe-devtools-web-accessib/lhdoppojpmngadmnindnejefpokejbdd) | Find and fix the accessibility issues in a website
+[Blackbox - Select. Copy. Paste & Search](https://chrome.google.com/webstore/detail/blackbox-select-copy-past/mcgbeeipkmelnpldkobichboakdfaeon) | Fastest Way to Copy Code from Videos & Images. BLACKBOX is the fastest way to extract code from videos!
 [Checkbot](https://www.checkbot.io/) | Browser extension that tests if your website follows 50+ SEO, speed and security best practices. Free tier for smaller websites.
 [Check My Links](https://chrome.google.com/webstore/detail/check-my-links/ojkcdipcgfaekbeaelaapakgnjflfglf) | Check My Links is a link checker that crawls through your webpage and looks for broken links.
 [Clear Cache](https://chrome.google.com/webstore/detail/clear-cache/cppjkneekbjaeellbfkmgnhonkkjfpdn?hl=en) | Clear your cache and browsing data with a single click of a button.
