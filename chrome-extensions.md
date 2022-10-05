@@ -25,6 +25,7 @@
 [Download All Images](https://chrome.google.com/webstore/detail/download-all-images/ifipmflagepipjokmbdecpmjbibjnakm) | Download All Images extension saves all the images in the active tab as a .zip file. It is super useful and quick to use.
 [Edit this Cookie](https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg) | Add, delete, edit cookies.
 [ElasticSearch Head](https://chrome.google.com/webstore/detail/elasticsearch-head/ffmkiejjmecolpfloofpjologoblkegm) | A web front end for an Elasticsearch cluster.
+[Email Finder](https://chrome.google.com/webstore/detail/email-finder-by-snovio/einnffiilpmgldkapbikhkeicohlaapj) | This is an easy to use email finder with an inbuilt email verifier, email drip campaigns and a lot of free tools.
 [Fake Filler Chrome Extension](https://chrome.google.com/webstore/detail/fake-filler/bnjjngeaknajbdcgpfkgnonkmififhfo) | A Google Chrome extension that fills all input fields on a page with randomly generated fake data.
 [Font Finder](https://chrome.google.com/webstore/detail/font-finder/bhiichidigehdgphoambhjbekalahgha) | An easy-to-use font inspector to get CSS styles of the selected element
 [Font Ninja](https://chrome.google.com/webstore/detail/fonts-ninja/eljapbgkmlngdpckoiiibecpemleclhh) | Turn on the extension on any website to discover which fonts and style were used.
