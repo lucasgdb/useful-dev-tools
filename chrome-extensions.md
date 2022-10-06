@@ -78,3 +78,4 @@
 [Session Buddy](https://chrome.google.com/webstore/detail/session-buddy/edacconmaakjimmfgnblocblbcdcpbko?hl=en) | Manage and save browser tabs and bookmarks for later use with ease.
 [Aeroleads](https://aeroleads.com/) | Find anyone's email and phone number and also build contact lists. Free credits after the initial free sign-up.
 [Tapermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en) | Tampermonkey is used to run so-called userscripts (sometimes also called Greasemonkey scripts) on websites.
+[Live editor for CSS, Less & Sass - Magic CSS](https://chrome.google.com/webstore/detail/live-editor-for-css-less/ifhikkcafabcgolfjegfcgloomalapol) | Live preview of CSS/Less/Sass code changes. Auto-save file, autocomplete, Less/Sass to CSS, beautify, CSS reloader, lint. The code you write will be saved in the browser extension's storage space or the site's local storage.
