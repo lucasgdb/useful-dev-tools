@@ -78,3 +78,4 @@
 [Session Buddy](https://chrome.google.com/webstore/detail/session-buddy/edacconmaakjimmfgnblocblbcdcpbko?hl=en) | Manage and save browser tabs and bookmarks for later use with ease.
 [Aeroleads](https://aeroleads.com/) | Find anyone's email and phone number and also build contact lists. Free credits after the initial free sign-up.
 [Tapermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en) | Tampermonkey is used to run so-called userscripts (sometimes also called Greasemonkey scripts) on websites.
+[Cookie-Editor](https://chrome.google.com/webstore/detail/cookie-editor/hlkenndednhfkekhgcdicdfddnkalmdm)Cookie Editor allows you to quickly create, edit and delete cookies without leaving your tab.
