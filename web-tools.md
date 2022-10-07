@@ -28,6 +28,7 @@
 [Carbon](https://carbon.now.sh) | Create and share beautiful images of your source code.
 [Check My SSL](https://ssl.spacegoat.io/) | A website that provides you with information about the SSL certificate on a particular website. Helps when debugging SSL issues.
 [Choose an License](https://choosealicense.com/) | An open source license protects contributors and users. Businesses and savvy developers won’t touch a project without this protection.
+[Cloudping.info](https://cloudping.info/) | A website that allows you to measure latency from your browser to different data centers of major cloud providers such as AWS.
 [CodeAbbey](https://www.codeabbey.com/) | Website that contains collection of programming problems to practice solving, learn to program and code, and win certificates.
 [Codeclimate](https://codeclimate.com/) | Online code quality metrics analyzer
 [Codeforces](https://codeforces.com/) | Codeforces is a website that hosts competitive programming contests and helps you so much in Problem Solving.
