@@ -96,6 +96,7 @@
 [Ganache](https://www.trufflesuite.com/ganache) | Quickly fire up a personal Ethereum blockchain which you can use to run tests, execute commands, and inspect state while controlling how the chain operates.
 [Icon8](https://icons8.com/app) | Icons8 allows designers to express their ideas giving the right design elements at the right time.
 [Mailspring](https://getmailspring.com/) | Powerful n' fancy cross-platform mail client.
+[Meeter](https://www.trymeeter.com/) | A useful tool that resides on your Mac OS menu bar that pulls online conference details from your calendar so you can quickly join meetings without having to dig through your calendar or email for the correct link.
 [Microsoft PowerToys](https://docs.microsoft.com/en-us/windows/powertoys/install) | Microsoft PowerToys is a set of freeware system utilities designed for power users developed by Microsoft for use on the Windows operating system.
 [Numi](https://numi.app/) | Beautiful and powerful calculator app for Mac
 [Peek](https://github.com/phw/peek) | App for recording screen areas, e.g. for easily showing UI features of your own apps or for showing a bug in bug reports.
