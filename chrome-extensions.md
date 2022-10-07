@@ -49,6 +49,7 @@
 [Password Generator](https://chrome.google.com/webstore/detail/password-generator/opdldgbhjmjfoigadonpfngfcefnknbm) | Generate extremelly random password with just a few clicks.
 [Page Ruler](https://chrome.google.com/webstore/detail/page-ruler-redux/giejhjebcalaheckengmchjekofhhmal) | A Web Developer\Designer ruler to get pixel dimensions and positioning to measure elements on any web page.
 [Pesticide for Chrome](https://chrome.google.com/webstore/detail/pesticide-for-chrome-with/eipbgplchlidkojmppclhkechkhmlefi/related) | Inserts the Pesticide CSS into the current page, outlining each element to better see placement on the page.
+[Raindrop.io](https://chrome.google.com/webstore/detail/raindropio/ldgfbffkinooeloadekpmfoklnobpien?hl=en) | A bookmark management tool that allows you to quickly save webpages as bookmarks, save highlights, save tabs, etc. Furthermore, it has a web application that allows to view your content in an intuitive way.
 [React DevTools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi) | Extension to add react developer tools to Google chrome.
 [Redux DevTools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd) | Extension to add redux developer tools to Google chrome.
 [Refined GitHub](https://chrome.google.com/webstore/detail/refined-github/hlepfoohegkhhmjieoechaddaejaokhf?hl=en) | Simplifies the GitHub interface and adds useful features.
