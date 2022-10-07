@@ -81,3 +81,4 @@
 [Aeroleads](https://aeroleads.com/) | Find anyone's email and phone number and also build contact lists. Free credits after the initial free sign-up.
 [Tapermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en) | Tampermonkey is used to run so-called userscripts (sometimes also called Greasemonkey scripts) on websites.
 [Live editor for CSS, Less & Sass - Magic CSS](https://chrome.google.com/webstore/detail/live-editor-for-css-less/ifhikkcafabcgolfjegfcgloomalapol) | Live preview of CSS/Less/Sass code changes. Auto-save file, autocomplete, Less/Sass to CSS, beautify, CSS reloader, lint. The code you write will be saved in the browser extension's storage space or the site's local storage.
+[Momentum](https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca?hl=en) | Replace new tab page with a personal dashboard to help you get focused, stay organized, and keep motivated to achieve your goals.
