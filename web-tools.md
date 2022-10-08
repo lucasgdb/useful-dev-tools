@@ -16,6 +16,7 @@
 [Bitbucket](https://bitbucket.org/) | Bitbucket is a Git code management tool that gives your team a platform to plan and collaborate on projects.
 [BitDev](https://bit.dev/) | Bit is a cloud component hub. It is where you publish, document and organize all your reusable components. 
 [Blob Maker](https://www.blobmaker.app) | Random svg shape maker.
+[Blotter](https://blotter.js.org/) | JavaScript API for drawing unconventional text effects
 [Bootstrap](https://getbootstrap.com/) | CSS framework directed at responsive, mobile-first front-end web development. Great front-end tool which helps in creating effective and efficient websites.
 [Border Radius](https://border-radius.com) | A tool to insert the desired curve and for each corner get the code instantly.
 [Bounce.js](http://www.bouncejs.com) | A custom animation creator.
