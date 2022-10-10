@@ -61,6 +61,7 @@
 [DB Fiddle](https://www.db-fiddle.com/) | An online SQL database playground for testing, debugging and sharing SQL snippets. Supports MySQL, PostgreSQL and SQLite.
 [DeployBot](https://deploybot.com/) | Instantly build and ship code anywhere in one consistent process for your entire team.
 [Deployer](https://deployer.org/) | A deployment tool for PHP.
+[Deta](https://www.deta.sh/) | Build and deploy applications for free, forever.
 [DevDocs](https://devdocs.io/) | API documentation and works offline.
 [DevHints](https://devhints.io/) | Rico's cheat sheets.
 [DevHub](https://devhubapp.com/) | TweetDeck for GitHub. See repo activities and manage your notifications by creating columns with filters, saving items for later and more.
