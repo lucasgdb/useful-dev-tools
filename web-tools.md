@@ -98,6 +98,7 @@
 [Gleek.io](https://www.gleek.io) | Free description-to-diagrams tool for developers. Create informal, UML class, object, or entity-relationship diagrams using your keyboard.
 [Glitch](https://glitch.com/) | Build fast, full-stack web apps in your browser with instant hosting, automated deployment, and live help from community members.
 [Google Tables](https://tables.area120.google.com/about) | Tables helps teams easily track & automate tasks, enabling them to save time and work smarter.
+[Google Fonts](https://fonts.google.com/) | Google Fonts is a library of 1455 free & open source font families and APIs for convenient use via CSS and Android.
 [grep.app](https://grep.app/) | Searches code from over a half million public repositories on GitHub, matching the exact string you enter or even regular expressions.
 [HackerRank](https://www.hackerrank.com/) | An awesome platform to help you enhance your skills by providing problems to solve in a wide range of Computer Science domains.
 [Hackmd](https://hackmd.io/) | Real time, multi-platform, collaborative markdown knowledge base. You can write markdown file together with other people :)
