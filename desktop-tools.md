@@ -93,6 +93,7 @@
 [ColorPicker](https://github.com/keshavbhatt/ColorPicker) | A colour picker and colour editor for web designers and digital artists, With Color Picker, identifying the colours, saving and editing is a quick and simple job.
 [Cyberduck](https://cyberduck.io/) | Cyberduck is an open-source client for FTP and SFTP, WebDAV, and cloud storage, available for macOS and Windows licensed under the GPL.
 [Dash](https://kapeli.com/dash) | API Documentation, Cheat sheets, Snippet manager with instant search everything for macOS
+[DevToys](https://devtoys.app/) | An offline application for Windows that helps developers in daily tasks such as formatting JSON, comparing text, testing RegExp, compressing images...
 [Ganache](https://www.trufflesuite.com/ganache) | Quickly fire up a personal Ethereum blockchain which you can use to run tests, execute commands, and inspect state while controlling how the chain operates.
 [Icon8](https://icons8.com/app) | Icons8 allows designers to express their ideas giving the right design elements at the right time.
 [Mailspring](https://getmailspring.com/) | Powerful n' fancy cross-platform mail client.
