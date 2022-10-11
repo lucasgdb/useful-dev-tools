@@ -159,3 +159,4 @@
 [Slack](https://slack.com/intl/en-in/) | Used by developers and non-developers alike, this lightweight communication tool is used by countless software teams across the world.
 [Visual Studio](https://visualstudio.microsoft.com/vs/) | Visual Studio is an integrated environment that offers software developer tools for design and deployment.
 [Unity](https://unity.com/) | Unity is a cross-platform game engine created by Unity Technologies. Unity is available as a development platform for Microsoft Windows, Mac OS, Linux.
+[Studio 3T](https://studio3t.com/) | Studio 3T is the professional GUI, IDE & client for MongoDB. It's a toll to improve efficiency for a variety of tasks, including query creation, data exploration, import/export, code development, and more — with or without an understanding of the MongoDB query language.
