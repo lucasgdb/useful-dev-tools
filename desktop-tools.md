@@ -156,3 +156,5 @@
 [SauceLabs](https://saucelabs.com/) | Sauce Labs provides the largest automated cloud(browsers/devices) for running Selenium and Appium tests.
 [Slack](https://slack.com/intl/en-in/) | Used by developers and non-developers alike, this lightweight communication tool is used by countless software teams across the world.
 [Visual Studio](https://visualstudio.microsoft.com/vs/) | Visual Studio is an integrated environment that offers software developer tools for design and deployment.
+[Studio 3T](https://studio3t.com/) | Studio 3T is the professional GUI, IDE & client for MongoDB. It's a tool to  improve efficiency for a variety of tasks, including query creation, data exploration, import/export, code development, and more - with or without an understanding of the MongoDB query language.
+
