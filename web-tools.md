@@ -150,6 +150,7 @@
 [Regexr](https://regexr.com/) | Regex parser
 [Repl.it](https://repl.it) | Powerful and simple online compiler, IDE, interpreter, and REPL
 [Requestbin](https://requestbin.com) | Inspect HTTP events, webhooks, etc.
+[Readme.so](https://readme.so/) | A simple editor allows you to quickly add and customize all the sections you need for your project's readme.
 [Screely.com](https://www.screely.com/) | Instantly turn a screenshot into a browser mockup.
 [Screenshot.rocks](https://screenshot.rocks/) | Create beautiful browser mockups in seconds
 [Sejda PDF Editor](https://www.sejda.com/pdf-editor) | The best online PDF editor tool, easily edit text, put whiteout over text which is not needed and much more.
