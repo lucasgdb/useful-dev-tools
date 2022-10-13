@@ -36,6 +36,7 @@
 [CodeKit](https://codekitapp.com/) | Using this tool, web app development work can be done faster as it minifies, combines and syntax-checks JavaScript.
 [CodePen](https://codepen.io) | Online community for testing and sharing HTML, CSS and JavaScript code snippets.
 [Codespaces](https://github.com/features/codespaces) | Codespaces is your instant dev environment from Github
+[Codethesaur.us](https://codethesaur.us/) | Compare language components from languages you know and don't know, or just use it as a language reference cheat sheet.
 [Codewars](https://www.codewars.com/) | An online challenge for all types of coders to complete katas (questions) and move up levels.
 [Coggle](https://coggle.it/) | Coggle is a free mind mapping web app. It helps in making hierarchical structures like branching trees to brainstorm ideas, visualize connections across concepts, and collaborate with others.
 [Color Hunt](https://colorhunt.co/) | Color Hunt is a free and open platform for color inspiration with thousands of trendy hand-picked color palettes.
