@@ -37,7 +37,7 @@
 [CodePen](https://codepen.io) | Online community for testing and sharing HTML, CSS and JavaScript code snippets.
 [Codespaces](https://github.com/features/codespaces) | Codespaces is your instant dev environment from Github
 [Codewars](https://www.codewars.com/) | An online challenge for all types of coders to complete katas (questions) and move up levels.
-[Codingame](www.codingame.com) | CodinGame is a challenge-based training platform for programmers where you can improve your coding skills with fun exercises. Available for developers and recruiters.
+[Codingame](https://www.codingame.com) | CodinGame is a challenge-based training platform for programmers where you can improve your coding skills with fun exercises. Available for developers and recruiters.
 [Coggle](https://coggle.it/) | Coggle is a free mind mapping web app. It helps in making hierarchical structures like branching trees to brainstorm ideas, visualize connections across concepts, and collaborate with others.
 [Color Hunt](https://colorhunt.co/) | Color Hunt is a free and open platform for color inspiration with thousands of trendy hand-picked color palettes.
 [Color Shades Generator](https://javisperez.github.io/tailwindcolorshades/#/) | Color Shades Generator for Tailwind CSS.
