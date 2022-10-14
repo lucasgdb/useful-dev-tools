@@ -62,6 +62,7 @@
 [Responsive Viewer](https://chrome.google.com/webstore/detail/responsive-viewer/inmopeiepgfljkpkidclfgbgbmfcennb) | Show multiple screens once, Responsive design tester.
 [Site Spider](https://chrome.google.com/webstore/detail/site-spider-mark-ii/gedjofgioahckekhpgknhchelbpdogok?hl=en%20) | A google chrome extension to find broken links on your site and want to restrict spidering to a specific directory.
 [Stylus](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne?hl=en) | Stylus allows you to easily install themes and skins for many popular sites.
+[Session Buddy](https://chrome.google.com/webstore/detail/session-buddy/edacconmaakjimmfgnblocblbcdcpbko) | Session Buddy is one of the most popular session managers that allows the developers to manage their tabs by saving the open tabs as collections to be restored later. It can also recover the tabs after a crash.
 [Svg Export](https://chrome.google.com/webstore/detail/svg-export/naeaaedieihlkmdajjefioajbbdbdjgp?hl=en-GB) | This is great for designers and developers wanting to pull SVGs from sites without having to dive into the source code.
 [Talend API Tester](https://chrome.google.com/webstore/detail/talend-api-tester-free-ed/aejoelaoggembcahagimdiliamlcdmfm?hl=en) | Talend API Tester makes it easy to invoke, discover and test HTTP and REST APIs.
 [uBlock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) | Block Ads and other annoying things on the web
