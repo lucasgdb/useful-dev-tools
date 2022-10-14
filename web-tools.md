@@ -190,4 +190,9 @@
 [Explainshell](https://explainshell.com/) | Parsing man pages, extracting options, and matching each argument to the relevant help text in the man page to explain a given command line.
 [Confluence](https://www.atlassian.com/software/confluence) | Confluence serves in the form of the web-based corporate Wiki developed by the Australian software company Atlassian.
 [CSS box shadow generator](https://cssgenerator.org/box-shadow-css-generator.html) | A box-shadow CSS generator that helps you quickly generate box-shadow CSS declarations for your website.
-[QRCode Generator](https://qrcode-generator.lucasbittencourt.dev/) | A website to generate customized QRCodes. ✨ Open Source ✨
+[QRCode Generator](https://qrcode-generator.lucasbittencourt.dev/) | A website to generate customized QRCodes. 
+[aciTIME](https://www.actitime.com/timesheet-for-productivity) | An intelligent timesheet tool, actiTIME, can be of great help for developers and their managers in attaining scope management and provide thorough reports.
+[Total](https://total.wpexplorer.com/) | A WordPress theme that is complete, easy to configure and customize, lightning-fast, affordable , and which will make your website convert better.
+[Startup-stash](https://startupstash.com/) | Startup Stash is the world’s largest online directory of tools and resources for startups and entrepreneurs.
+[React-admin-Template](https://themeselection.com/item/category/react-admin-templates/) | f you are a developer looking for developer-friendly, easy-to-use, and responsive React Admin Templates, then ThemeSelection is the right place for you
+✨ Open Source ✨
