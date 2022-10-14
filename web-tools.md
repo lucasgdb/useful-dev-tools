@@ -157,6 +157,7 @@
 [Sejda PDF Editor](https://www.sejda.com/pdf-editor) | The best online PDF editor tool, easily edit text, put whiteout over text which is not needed and much more.
 [Shape Divider](https://www.shapedivider.app/) | Shape Divider is a tool that you can easily create custom shape dividers and get ready code of it.
 [Shield.io](https://shields.io/) | Create beautiful badges for your markdown document.
+[Shortpixel](https://shortpixel.com/) | Image optimizer to increase your website's speed and SEO ranking.
 [Sonarqube](https://www.sonarqube.org/) | Is an open-source platform developed by SonarSource for continuous inspection of code quality to perform automatic reviews with static analysis of code to detect bugs, code smells, and security vulnerabilities on 20+ programming languages.
 [Squoosh](https://squoosh.app/) | Squoosh is an image compression web app that reduces image sizes through numerous formats.
 [Stack Overflow](https://stackoverflow.com) | Stack Overflow is an open community for anyone that codes. It help you get answers to your toughest coding questions, share knowledge with your coworkers in private, and find your next dream job.
