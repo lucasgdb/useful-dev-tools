@@ -194,5 +194,5 @@
 [aciTIME](https://www.actitime.com/timesheet-for-productivity) | An intelligent timesheet tool, actiTIME, can be of great help for developers and their managers in attaining scope management and provide thorough reports.
 [Total](https://total.wpexplorer.com/) | A WordPress theme that is complete, easy to configure and customize, lightning-fast, affordable , and which will make your website convert better.
 [Startup-stash](https://startupstash.com/) | Startup Stash is the world’s largest online directory of tools and resources for startups and entrepreneurs.
-[React-admin-Template](https://themeselection.com/item/category/react-admin-templates/) | f you are a developer looking for developer-friendly, easy-to-use, and responsive React Admin Templates, then ThemeSelection is the right place for you
+
 ✨ Open Source ✨
