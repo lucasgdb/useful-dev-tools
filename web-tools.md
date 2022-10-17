@@ -191,3 +191,4 @@
 [Confluence](https://www.atlassian.com/software/confluence) | Confluence serves in the form of the web-based corporate Wiki developed by the Australian software company Atlassian.
 [CSS box shadow generator](https://cssgenerator.org/box-shadow-css-generator.html) | A box-shadow CSS generator that helps you quickly generate box-shadow CSS declarations for your website.
 [QRCode Generator](https://qrcode-generator.lucasbittencourt.dev/) | A website to generate customized QRCodes. ✨ Open Source ✨
+[tutorialspoint](https://www.tutorialspoint.com/index.htm) | A website ranging from programming languages to web designing to academics. 
