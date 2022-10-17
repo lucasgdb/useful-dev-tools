@@ -192,3 +192,9 @@
 [CSS box shadow generator](https://cssgenerator.org/box-shadow-css-generator.html) | A box-shadow CSS generator that helps you quickly generate box-shadow CSS declarations for your website.
 [QRCode Generator](https://qrcode-generator.lucasbittencourt.dev/) | A website to generate customized QRCodes. ✨ Open Source ✨
 [tutorialspoint](https://www.tutorialspoint.com/index.htm) | A website ranging from programming languages to web designing to academics. 
+[Myhours](https://myhours.com/) | Organize projects, Track time, and Report your work.
+[ProfileMe](https://www.profileme.dev/) | Easily create amazing README files for your GitHub profiles. It is easy to use and time-saving.
+[Eleventy](https://www.11ty.dev/) | A simpler static site generator
+[Transform Tool](https://transform.tools/) | This tool can convert any code from one type to another. For example, HTML to JSX, CSS to JS, etc.
+[GT Metrix](https://gtmetrix.com/) | With this tool, you can find how fast your site load and what is slowing it down.
+[Locofy](http://Locofy.ai) | Locofy converts Figma design to production-ready apps. (Supports React, React Native, HTML-CSS, Gatsby, Next.js, Popular UI libraries like Material, Chakra, Bootstrap, are also supported)
