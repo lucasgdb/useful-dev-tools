@@ -32,6 +32,7 @@
 [Cloudping.info](https://cloudping.info/) | A website that allows you to measure latency from your browser to different data centers of major cloud providers such as AWS.
 [CodeAbbey](https://www.codeabbey.com/) | Website that contains collection of programming problems to practice solving, learn to program and code, and win certificates.
 [Codeclimate](https://codeclimate.com/) | Online code quality metrics analyzer
+[CodeChef](https://www.codechef.com/) | Code-Chef is an online competitive programming community of global programmers.
 [Codeforces](https://codeforces.com/) | Codeforces is a website that hosts competitive programming contests and helps you so much in Problem Solving.
 [CodeKit](https://codekitapp.com/) | Using this tool, web app development work can be done faster as it minifies, combines and syntax-checks JavaScript.
 [CodePen](https://codepen.io) | Online community for testing and sharing HTML, CSS and JavaScript code snippets.
