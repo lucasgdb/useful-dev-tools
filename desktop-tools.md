@@ -110,7 +110,11 @@
 [Termius](https://termius.com/) | A modern cross-platform SSH/SFTP Client.
 [Utilso](https://utilso.com) | All-in-one tools for developers. Format JSON, decode Base64, convert timestamps, debug JWT, convert YAML/JSON, code beautify and more. Work entirely offline
 [WinsCP](https://winscp.net/) | WinSCP is a free and open-source SFTP, FTP, WebDAV, Amazon S3 and SCP client for Microsoft Windows.
+[stats](https://github.com/exelban/stats) | Stats is a tool for macOS which provides information on CPU, memory, GPU, disk and various other system related informations on your menu bar in real time.
 [yEd](https://www.yworks.com/products/yed) | yEd is a powerful desktop application that can be used to quickly and effectively generate high-quality diagrams.
+[alt-tab](https://alt-tab-macos.netlify.app/) | alt-tab is a tool that provides functionalities of a windows shortcut alt+tab which helps you to switch between multiple windows along with that you can perform many operations like minimize, maximize, quit, etc.
+[flycut](https://github.com/TermiT/Flycut) | flycut is a clipboard manager tool for macOS and stores your copy history. It's based on an open source app called Jumpcut.
+[Notion](https://www.notion.so/) | A tool which provides more than just taking notes. Create new templates or choose templates from its library and track your work effectively.
 | **Debug/Security** |
 [BloomRPC](https://github.com/bloomrpc/bloomrpc) | A client for exploring and querying GRPC services.
 [Burp Suite](https://portswigger.net/burp) | Burp Suite is a leading range of cybersecurity tools, brought to you by PortSwigger.
