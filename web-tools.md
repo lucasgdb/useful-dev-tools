@@ -24,6 +24,7 @@
 [BrowserStack](https://www.browserstack.com/) | Browser and app testing.  This paid web tool allows a dev to test their application across multiple browsers running on different operating systems including mobile.
 [BscScan](https://bscscan.com/) | BscScan is the leading blockchain explorer for the Binance Smart Chain, built by the same team behind Etherscan. Besides tracking transactions, verifying smart contracts and other features, BscScan is also the leading validator for BSC.
 [Bubbly](https://projects.verou.me/bubbly/) | A CSS speech bubbles made easy.
+[Bundlephobia](https://bundlephobia.com/) | Find the size of any javascript package and its effect on your frontend bundle.
 [Can I use](https://caniuse.com) | "Can I use" provides an up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers.
 [Canva](https://www.canva.com/) | Canva is a graphic design platform that allows users to create social media graphics, presentations, posters, logos, documents and other visual content.
 [Carbon](https://carbon.now.sh) | Create and share beautiful images of your source code.
