@@ -44,6 +44,7 @@
 [HTML Tree Generator](https://chrome.google.com/webstore/detail/html-tree-generator/dlbbmhhaadfnbbdnjalilhdakfmiffeg) | Html is really a tree of elements, css is what defines the layout. This extension displays any page as a tree.
 [HTML Validator](https://chrome.google.com/webstore/detail/html-validator/mpbelhhnfhfjnaehkcnnaknldmnocglk) | It adds HTML validation inside Developer Tools of Chrome. The number of errors of a HTML page is seen with an icon in the browser status bar.
 [JavaScript and CSS Code Beautifier](https://chrome.google.com/webstore/detail/javascript-and-css-code-b/iiglodndmmefofehaibmaignglbpdald) | Beautify CSS, JavaScript and JSON code when you open a .css/.js/.json file.
+[JSON Formatter](https://chrome.google.com/webstore/detail/json-formatter/nheccekoienfcnaiegopcdbjanfgcojh) | Format any JSON data displayed on the browser.
 [JSON Formatter](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa?hl=en) |Makes JSON easy to read. Moreover, it's also open-source!
 [JSON Viewer](https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh) | The most beautiful and customizable JSON/JSONP highlighter that your eyes have ever seen.
 [JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc?hl=en) | Validate and view JSON documents.
