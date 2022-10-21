@@ -140,6 +140,7 @@
 [Chocolatey](https://chocolatey.org) | Software management automation for Windows that wraps installers, executables, zips, and scripts into compiled packages
 [Homebrew](https://brew.sh/) | The missing package manager for macOS (or Linux).
 [npm](https://www.npmjs.com/) | npm is a package manager for Node JavaScript platform.
+[pip](https://pypi.org/project/pip/) | pip is the package installer for Python. You can use pip to install packages from the Python Package Index and other indexes.
 [Scoop](https://scoop.sh/) | Scoop is a command-line installer for Windows.
 [Yarn](https://yarnpkg.com/) | Yarn is a package manager that doubles down as project manager. Whether you work on one-shot projects or large monorepos, as a hobbyist or an enterprise user, we've got you covered.
 [cargo](https://github.com/rust-lang/cargo) | cargo is a package manager for Rust programming language.
