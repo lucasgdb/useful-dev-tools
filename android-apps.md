@@ -12,9 +12,3 @@
 [Figma Mirror](https://play.google.com/store/apps/details?id=com.figma.mirror&hl=en&gl=US) | Figma Mirror allows you to view your designs from the Figma desktop app live across all of your Android devices.
 [Hacker's Keyboard](https://play.google.com/store/apps/details?id=org.pocketworkstation.pckeyboard&hl=en&gl=US) | Hacker’s Keyboard is an alternative input method on Android that provides advanced inputs much like you get on a desktop keyboard.
 [Termux](https://play.google.com/store/apps/details?id=com.termux&hl=en&gl=US) | Termux combines powerful terminal emulation with an extensive Linux package collection.
-
-
-
-
-
-
