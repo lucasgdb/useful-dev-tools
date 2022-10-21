@@ -11,3 +11,4 @@
 [Hacker's Keyboard](https://play.google.com/store/apps/details?id=org.pocketworkstation.pckeyboard&hl=en&gl=US) | Hacker’s Keyboard is an alternative input method on Android that provides advanced inputs much like you get on a desktop keyboard.
 [Code Editor - Compiler & IDE](https://play.google.com/store/apps/details?id=com.rhmsoft.code) | Code editor is an optimized text editor focused on coding. It is a handy tool for development on Android.
 [Database Designer](https://play.google.com/store/apps/details?id=com.klim.dbdesigner) | Easy, light, and fast application for database design. Database can be designed without the need of PC.
+[APK Explorer & Editor](https://apk-editor.github.io/) | APK Explorer & Editor (AEE), includes a set of open-source tools mainly designed to check out what's inside installed APK's
