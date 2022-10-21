@@ -19,6 +19,7 @@
 [Colorzilla](https://chrome.google.com/webstore/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp) | ColorZilla allows you to get a color reading from any point in the browser. You can quickly adjust the selected color and paste it into your program.
 [Competitive-Companion](https://chrome.google.com/webstore/detail/competitive-companion/cjnmckjndlpiamhfimnnjmnckgghkjbl) | Competitive Companion parses competitive programming problems and contests and sends the parsed data to various tools like CHelper and Hightail. At the moment it supports 68 online judges, including most major ones like Codeforces and UVa Online Judge.
 [Copy Css Selector](https://chrome.google.com/webstore/detail/copy-css-selector/kemkenbgbgodoglfkkejbdcpojnodnkg?hl=en) |selector that’s unique to the element selected. Very useful for quickly getting selector for any element for testing frameworks like Selenium!
+[Corporate Ipsum](https://chrome.google.com/webstore/detail/corporate-ipsum/lfmadckmfehehmdnmhaebniooenedcbb) | A lorem ipsum generator with a corporate bent.
 [CSS Scan](https://chrome.google.com/webstore/detail/css-scan/gieabiemggnpnminflinemaickipbebg) | The fastest and easiest way to check, copy and edit CSS.
 [CSS Peeper](https://chrome.google.com/webstore/detail/css-peeper/mbnbehikldjhnfehhnaidhjhoofhpehk?hl=en) | Extract CSS and build beautiful styleguides.
 [CSSViewer](https://chrome.google.com/webstore/detail/cssviewer/ggfgijbpiheegefliciemofobhmofgce?hl=en) | A simple CSS property viewer.
