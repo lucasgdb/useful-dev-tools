@@ -155,7 +155,8 @@
 [Readme.so](https://readme.so/) | A simple editor allows you to quickly add and customize all the sections you need for your project's readme.
 [Screely.com](https://www.screely.com/) | Instantly turn a screenshot into a browser mockup.
 [Screenshot.rocks](https://screenshot.rocks/) | Create beautiful browser mockups in seconds
-[Sejda PDF Editor](https://www.sejda.com/pdf-editor) | The best online PDF editor tool, easily edit text, put whiteout over text which is not needed and much more.
+[Scrimba](https://scrimba.com/) | Scrimba allows you to code along in real time using an on-screen editor during the web developoment tutorials. Free courses available as well as pro version. 
+[Sejda PDF Editor](https://www.sejda.com/pdf-editor) |  The best online PDF editor tool, easily edit text, put whiteout over text which is not needed and much more.
 [Shape Divider](https://www.shapedivider.app/) | Shape Divider is a tool that you can easily create custom shape dividers and get ready code of it.
 [Shield.io](https://shields.io/) | Create beautiful badges for your markdown document.
 [Shortpixel](https://shortpixel.com/) | Image optimizer to increase your website's speed and SEO ranking.
