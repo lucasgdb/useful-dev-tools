@@ -162,6 +162,7 @@
 [Shield.io](https://shields.io/) | Create beautiful badges for your markdown document.
 [Shortpixel](https://shortpixel.com/) | Image optimizer to increase your website's speed and SEO ranking.
 [Sonarqube](https://www.sonarqube.org/) | Is an open-source platform developed by SonarSource for continuous inspection of code quality to perform automatic reviews with static analysis of code to detect bugs, code smells, and security vulnerabilities on 20+ programming languages.
+[Speedtest](https://www.speedtest.net) | Speedtest.net, also known as Speedtest by Ookla, is a web service that provides free analysis of Internet access performance metrics, such as connection data rate and latency.
 [Squoosh](https://squoosh.app/) | Squoosh is an image compression web app that reduces image sizes through numerous formats.
 [Stack Overflow](https://stackoverflow.com) | Stack Overflow is an open community for anyone that codes. It help you get answers to your toughest coding questions, share knowledge with your coworkers in private, and find your next dream job.
 [Storytale](https://storytale.io/) | Storytale is a service that provides high quality illustrations of a constantly increasing collection. It helps designers and project owners, who are looking for vector and 3D graphics.
