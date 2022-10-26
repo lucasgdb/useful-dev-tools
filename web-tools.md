@@ -76,6 +76,7 @@
 [Etherscan](https://etherscan.io/) | Etherscan is the leading BlockChain Explorer, Search, API and Analytics Platform for Ethereum, a decentralized smart contracts platform.
 [Exercism](https://exercism.io/) | Exercism is an online, open source and free access platform that offers code practice and guidance in 50 different programming languages.
 [ExtendsClass](https://extendsclass.com/) | Online developer tools: Playgrounds (Regex, XPath, SQLite), API clients (REST, SOAP), diff (XML, CSV, JSON) and data generators (JSON, CSV).
+[Fast Speedtest](https://fast.com/) | In seconds, FAST.com's simple Internet speed test will estimate your ISP speed.
 [Favicon Generator](https://realfavicongenerator.net) | Favicon generator.
 [Figma](https://www.figma.com) | Figma is a cloud-based design tool that is similar to Sketch in functionality and features, but with big differences that make Figma better for team collaboration.
 [Firebase](https://firebase.google.com) | A Google SaaS backend solutions for cross-platform applications
