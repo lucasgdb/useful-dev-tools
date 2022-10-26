@@ -76,6 +76,7 @@
 [Etherscan](https://etherscan.io/) | Etherscan is the leading BlockChain Explorer, Search, API and Analytics Platform for Ethereum, a decentralized smart contracts platform.
 [Exercism](https://exercism.io/) | Exercism is an online, open source and free access platform that offers code practice and guidance in 50 different programming languages.
 [ExtendsClass](https://extendsclass.com/) | Online developer tools: Playgrounds (Regex, XPath, SQLite), API clients (REST, SOAP), diff (XML, CSV, JSON) and data generators (JSON, CSV).
+[Fast Speedtest](https://fast.com/) | In seconds, FAST.com's simple Internet speed test will estimate your ISP speed.
 [Favicon Generator](https://realfavicongenerator.net) | Favicon generator.
 [Figma](https://www.figma.com) | Figma is a cloud-based design tool that is similar to Sketch in functionality and features, but with big differences that make Figma better for team collaboration.
 [Firebase](https://firebase.google.com) | A Google SaaS backend solutions for cross-platform applications
@@ -103,6 +104,7 @@
 [Google Tables](https://tables.area120.google.com/about) | Tables helps teams easily track & automate tasks, enabling them to save time and work smarter.
 [Google Fonts](https://fonts.google.com/) | Google Fonts is a library of 1455 free & open source font families and APIs for convenient use via CSS and Android.
 [grep.app](https://grep.app/) | Searches code from over a half million public repositories on GitHub, matching the exact string you enter or even regular expressions.
+[HackerEarth](https://www.hackerearth.com/) | An awesome platform to help you enhance your skills by solving problems that companies ask for interviews from a wide range of Computer Science domains. Also Hackathons, Programming Challenges, And Coding Competitions to participate, learn and win.
 [HackerRank](https://www.hackerrank.com/) | An awesome platform to help you enhance your skills by providing problems to solve in a wide range of Computer Science domains.
 [Hackmd](https://hackmd.io/) | Real time, multi-platform, collaborative markdown knowledge base. You can write markdown file together with other people :)
 [Hacktoberfest Checker](https://hacktoberfestchecker.jenko.me/) | A website to know the PR count of hacktoberfest participants.
@@ -162,6 +164,7 @@
 [Shield.io](https://shields.io/) | Create beautiful badges for your markdown document.
 [Shortpixel](https://shortpixel.com/) | Image optimizer to increase your website's speed and SEO ranking.
 [Sonarqube](https://www.sonarqube.org/) | Is an open-source platform developed by SonarSource for continuous inspection of code quality to perform automatic reviews with static analysis of code to detect bugs, code smells, and security vulnerabilities on 20+ programming languages.
+[Speedtest](https://www.speedtest.net) | Speedtest.net, also known as Speedtest by Ookla, is a web service that provides free analysis of Internet access performance metrics, such as connection data rate and latency.
 [Squoosh](https://squoosh.app/) | Squoosh is an image compression web app that reduces image sizes through numerous formats.
 [Stack Overflow](https://stackoverflow.com) | Stack Overflow is an open community for anyone that codes. It help you get answers to your toughest coding questions, share knowledge with your coworkers in private, and find your next dream job.
 [Storytale](https://storytale.io/) | Storytale is a service that provides high quality illustrations of a constantly increasing collection. It helps designers and project owners, who are looking for vector and 3D graphics.
