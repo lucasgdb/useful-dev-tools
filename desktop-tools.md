@@ -62,7 +62,6 @@
 [Fig](https://fig.io/) | Fig adds VSCode-style autocomplete to your existing terminal.
 [HTTPie](https://httpie.org/) | A command line HTTP client, similar to cURL, but with a nicer output and syntax.
 [Hyper](https://hyper.is/) | A terminal built on web technologies
-[Hyper](https://hyper.is/) | A terminal built on web technologies
 [iTerm2](https://www.iterm2.com/) | A terminal emulator for macOS to replace Terminal.
 [Jupyter Notebook](https://jupyter.org/) | Jupyter Notebook provides you with an easy-to-use, interactive data science environment across many programming languages that doesn't only work as an IDE, but also as a presentation or education tool.
 [Jupyter Notebook](https://jupyter.org/) | Jupyter Notebook provides you with an easy-to-use, interactive data science environment across many programming languages that doesn't only work as an IDE, but also as a presentation or education tool.
