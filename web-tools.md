@@ -49,6 +49,7 @@
 [Conventional Commits](https://www.conventionalcommits.org) | A lightweight convention on top of commit messages.
 [Convertio](https://convertio.co/jpeg-pdf/) | "Convertio" is an easy free file format converter that can help you create PNG, JPEG and PDF files.
 [Coolors](https://coolors.co/) | The super fast color schemes generator! Create the perfect palette or get inspired by thousands of beautiful color schemes.
+[Coursera](https://www.coursera.org/courses) | It is an U.S.-based massive open online course provider. It works with universities and other organizations to offer online courses, certifications, and degrees in a variety of subjects.
 [cron-job.org](https://cron-job.org/en/) | Free Cron job scheduler.
 [Crontab guru](https://crontab.guru/) | A cron expression generator.
 [CSS Animate](https://cssanimate.com/) | Online tool for creating native CSS3 Keyframes Animation
@@ -181,6 +182,8 @@
 [Tinkercad](https://www.tinkercad.com/) | Tinkercad is a free, easy-to-use app for 3D design, electronics, and coding. It's used by teachers, kids, hobbyists, and designers to imagine, design, and make anything!
 [TinyPNG](https://tinypng.com/) | Smart PNG and JPEG compression.
 [Trello](https://trello.com/en) | Trello’s boards, lists, and cards enable you to organize and prioritize your projects in a fun, flexible, and rewarding way.
+[Udacity](https://www.udacity.com/) | It offers massive open online courses. Focused more on vocational courses for professionals. Content co-created with industry leading companies.It is famous for it's Nanodegree courses. Freemium model.
+[Udemy](https://www.udemy.com/) | Udemy is an online learning and teaching marketplace with over 204000 courses and 54 million students. Learn programming, marketing, data science and more.
 [UnSplash](https://unsplash.com) | Over 2 million free high-resolution images brought to you by the world’s most generous community of photographers.
 [World Vector Logo](https://worldvectorlogo.com/) | Download vector logos of brands you love. 
 [Vercel](https://vercel.com/) | Build and deploy apps with 30+ JAMSTACK frameworks.
