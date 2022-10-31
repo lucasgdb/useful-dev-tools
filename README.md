@@ -10,6 +10,7 @@
 - [Web Tools](web-tools.md)
 - [Android Apps](android-apps.md)
 - [IOS Apps](ios-apps.md)
+- [Productivity Apps for Developers](productivity-apps.md)
 
 ## Author
 
