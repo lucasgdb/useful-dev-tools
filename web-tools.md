@@ -6,6 +6,7 @@
 [4Devs](https://www.4devs.com.br/) | Personal data generator and validator. Very useful mainly for Brazilians due to CPF, CEP, CNPJ and others.
 [Android Asset Studio](http://romannurik.github.io/AndroidAssetStudio/) | A collection of tools to easily generate assets such as launcher icons for your Android app.
 [Animista](http://animista.net/) | CSS ANIMATIONS ON DEMAND
+[App Icon Resizer](https://resizeappicon.com) | A simple service to resize your app icon to all needed resolutions.
 [ASCII Art Generator](https://www.ascii-art-generator.org/) | This free online Ascii Art creator allows you to convert images to color or monochrome Ascii Art.
 [AWS Cloud9](https://aws.amazon.com/cloud9/) | AWS Cloud9 is a cloud-based integrated development environment (IDE) that lets you write, run, and debug your code with just a browser.
 [AWS](https://aws.amazon.com/) | Amazon Web Services, an on-demand cloud computing platform.
