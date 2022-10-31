@@ -32,6 +32,7 @@
 [Choose an License](https://choosealicense.com/) | An open source license protects contributors and users. Businesses and savvy developers won’t touch a project without this protection.
 [Cloudping.info](https://cloudping.info/) | A website that allows you to measure latency from your browser to different data centers of major cloud providers such as AWS.
 [CodeAbbey](https://www.codeabbey.com/) | Website that contains collection of programming problems to practice solving, learn to program and code, and win certificates.
+[Codecademy](https://www.codecademy.com/) | Codecademy is an online interactive platform that offers free coding classes in 12 different programming languages including Python, Java, Go, JavaScript, Ruby, SQL, C++, C#, Swift, and Sass, as well as markup languages HTML and CSS. Freemium model. Courses are free but certificate or degree after completion is paid.
 [Codeclimate](https://codeclimate.com/) | Online code quality metrics analyzer
 [CodeChef](https://www.codechef.com/) | Code-Chef is an online competitive programming community of global programmers.
 [Codeforces](https://codeforces.com/) | Codeforces is a website that hosts competitive programming contests and helps you so much in Problem Solving.
@@ -49,6 +50,7 @@
 [Conventional Commits](https://www.conventionalcommits.org) | A lightweight convention on top of commit messages.
 [Convertio](https://convertio.co/jpeg-pdf/) | "Convertio" is an easy free file format converter that can help you create PNG, JPEG and PDF files.
 [Coolors](https://coolors.co/) | The super fast color schemes generator! Create the perfect palette or get inspired by thousands of beautiful color schemes.
+[Coursera](https://www.coursera.org/courses) | It is an U.S.-based massive open online course provider. It works with universities and other organizations to offer online courses, certifications, and degrees in a variety of subjects.
 [cron-job.org](https://cron-job.org/en/) | Free Cron job scheduler.
 [Crontab guru](https://crontab.guru/) | A cron expression generator.
 [CSS Animate](https://cssanimate.com/) | Online tool for creating native CSS3 Keyframes Animation
@@ -65,12 +67,14 @@
 [DeployBot](https://deploybot.com/) | Instantly build and ship code anywhere in one consistent process for your entire team.
 [Deployer](https://deployer.org/) | A deployment tool for PHP.
 [Deta](https://www.deta.sh/) | Build and deploy applications for free, forever.
+[Dev](https://dev.to/) | Dev.to is a blogging platform where developers publish articles on topics that help other developers solve a problem or learn something new, stay up-to-date and grow their careers. Dev.to serves as a community of software developers getting together to help one another out.
 [DevDocs](https://devdocs.io/) | API documentation and works offline.
 [DevHints](https://devhints.io/) | Rico's cheat sheets.
 [DevHub](https://devhubapp.com/) | TweetDeck for GitHub. See repo activities and manage your notifications by creating columns with filters, saving items for later and more.
 [DiffNow](https://www.diffnow.com/) | Very useful for comparing codes, files, folders or urls.
 [DigitalOcean](https://www.digitalocean.com/) | It make it simple to launch in the cloud and scale up as you grow—whether you’re running one virtual machine or ten thousand.
 [Dillinger.io](https://dillinger.io/) | Is an online markdown file editor with a preview that can help you to create or edit .md file for your project
+[edX](https://www.edx.org/) | edX is an American massive open online course provider created by Harvard and MIT. It hosts online university-level courses in a wide range of disciplines to a worldwide student body, including some courses at no charge. It also conducts research into learning based on how people use its platform.
 [Epoch Converter](https://www.epochconverter.com/) | Convert epoch to human-readable dates and viceversa
 [ERDPlus](https://erdplus.com/) | A database modeling tool for creating Entity Relationship Diagrams, Relational Schemas, Star Schemas, and SQL DDL statements.
 [Etherscan](https://etherscan.io/) | Etherscan is the leading BlockChain Explorer, Search, API and Analytics Platform for Ethereum, a decentralized smart contracts platform.
@@ -181,6 +185,8 @@
 [Tinkercad](https://www.tinkercad.com/) | Tinkercad is a free, easy-to-use app for 3D design, electronics, and coding. It's used by teachers, kids, hobbyists, and designers to imagine, design, and make anything!
 [TinyPNG](https://tinypng.com/) | Smart PNG and JPEG compression.
 [Trello](https://trello.com/en) | Trello’s boards, lists, and cards enable you to organize and prioritize your projects in a fun, flexible, and rewarding way.
+[Udacity](https://www.udacity.com/) | It offers massive open online courses. Focused more on vocational courses for professionals. Content co-created with industry leading companies.It is famous for it's Nanodegree courses. Freemium model.
+[Udemy](https://www.udemy.com/) | Udemy is an online learning and teaching marketplace with over 204000 courses and 54 million students. Learn programming, marketing, data science and more.
 [UnSplash](https://unsplash.com) | Over 2 million free high-resolution images brought to you by the world’s most generous community of photographers.
 [World Vector Logo](https://worldvectorlogo.com/) | Download vector logos of brands you love. 
 [Vercel](https://vercel.com/) | Build and deploy apps with 30+ JAMSTACK frameworks.
