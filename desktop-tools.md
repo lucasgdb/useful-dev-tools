@@ -47,6 +47,7 @@
 [DockStation](https://dockstation.io/) | Developing with Docker has never been so easy and convenient.
 [Helm](https://helm.sh) | A package manager for kubernetes that allows simple but powerful software installs on a Kubernetes cluster.
 [Jenkins](https://www.jenkins.io/) | Free and Opensource tool that can be used to automate all sorts of tasks related to building, testing and delivering or deploying software.
+[Laragon](https://laragon.org/) | Laragon is a portable, isolated, fast & powerful universal development environment for PHP, Node.js, Python, Java, Go, Ruby. It is fast, lightweight, easy-to-use and easy-to-extend.
 [portainer](https://github.com/portainer/portainer) | Portainer is a lightweight management UI which allows you to easily manage your different Docker environments
 [Terraform](https://www.terraform.io/) | Terraform is a tool for building, changing, and versioning infrastructure (IaC). Supports tons of providers not only the major clouds. Essentially great way to codify your infrastructure.
 [VirtualBox](https://www.virtualbox.org/) | An open source virtualization product developed by Oracle.
@@ -66,7 +67,6 @@
 [HTTPie](https://httpie.org/) | A command line HTTP client, similar to cURL, but with a nicer output and syntax.
 [Hyper](https://hyper.is/) | A terminal built on web technologies
 [iTerm2](https://www.iterm2.com/) | A terminal emulator for macOS to replace Terminal.
-[Jupyter Notebook](https://jupyter.org/) | Jupyter Notebook provides you with an easy-to-use, interactive data science environment across many programming languages that doesn't only work as an IDE, but also as a presentation or education tool.
 [Jupyter Notebook](https://jupyter.org/) | Jupyter Notebook provides you with an easy-to-use, interactive data science environment across many programming languages that doesn't only work as an IDE, but also as a presentation or education tool.
 [MobaXterm](https://mobaxterm.mobatek.net/) | Free X server for Windows with tabbed SSH terminal, telnet, RDP, VNC, Xdmcp, Mosh and X11-forwarding.
 [nmap](https://github.com/nmap/nmap) | Nmap the most powerful network mapper.
@@ -96,11 +96,13 @@
 [Cyberduck](https://cyberduck.io/) | Cyberduck is an open-source client for FTP and SFTP, WebDAV, and cloud storage, available for macOS and Windows licensed under the GPL.
 [Dash](https://kapeli.com/dash) | API Documentation, Cheat sheets, Snippet manager with instant search everything for macOS
 [DevToys](https://devtoys.app/) | An offline application for Windows that helps developers in daily tasks such as formatting JSON, comparing text, testing RegExp, compressing images...
+[Everything](https://www.voidtools.com/) | Everything is an application to locate files and folders by name instantly with its quick file indexing.
 [Ganache](https://www.trufflesuite.com/ganache) | Quickly fire up a personal Ethereum blockchain which you can use to run tests, execute commands, and inspect state while controlling how the chain operates.
 [Icon8](https://icons8.com/app) | Icons8 allows designers to express their ideas giving the right design elements at the right time.
 [Mailspring](https://getmailspring.com/) | Powerful n' fancy cross-platform mail client.
 [Meeter](https://www.trymeeter.com/) | A useful tool that resides on your Mac OS menu bar that pulls online conference details from your calendar so you can quickly join meetings without having to dig through your calendar or email for the correct link.
 [Microsoft PowerToys](https://docs.microsoft.com/en-us/windows/powertoys/install) | Microsoft PowerToys is a set of freeware system utilities designed for power users developed by Microsoft for use on the Windows operating system.
+[Microsoft Power Automate](https://powerautomate.microsoft.com/en-us/) | Streamline repetitive tasks and business processes with Microsoft Power Automate, so you can focus your attention where it’s needed most.
 [Numi](https://numi.app/) | Beautiful and powerful calculator app for Mac
 [Peek](https://github.com/phw/peek) | App for recording screen areas, e.g. for easily showing UI features of your own apps or for showing a bug in bug reports.
 [Pexels](https://www.pexels.com) | Pexels. Free stock images, photos and videos.
@@ -132,6 +134,7 @@
 | **Database** |
 [DB Browser for SQLite](https://sqlitebrowser.org/) | DB Browser for SQLite (DB4S) is a high quality, visual, open source tool to create, design, and edit database files compatible with SQLite.
 [DBeaver](https://dbeaver.io) | Free multi-platform database tool for developers, SQL programmers, database administrators and analysts. Supports all popular databases: MySQL, PostgreSQL, SQLite, Oracle, DB2, SQL Server...
+[HeidiSQL](https://www.heidisql.com/) | HeidiSQL lets you see and edit data and structures from computers running one of the database systems MariaDB, MySQL, Microsoft SQL, PostgreSQL and SQLite.
 [Indri](https://www.lemurproject.org/indri.php) | Tool for creating index and querying the index for any size dataset.
 [MongoDB Compass](https://www.mongodb.com/try/download/compass) | As the GUI for MongoDB, MongoDB Compass allows you to make smarter decisions about document structure, querying, indexing, document validation, and more.
 [pgAdmin](http://postgresapp.com/) | A full-featured PostgreSQL install for MacOS.
@@ -152,6 +155,7 @@
 [Flutter](https://flutter.dev/) | Flutter is Google’s UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase. It is free and open source.
 [Genymotion Android Emulator](https://www.genymotion.com/) | Cross-platform Android emulator for developers & QA engineers. Develop & automate your tests to deliver best quality apps. On desktop, AWS, GCP & SaaS.
 [Principle](https://principleformac.com/) | Principle makes it easy to design animated and interactive user interfaces.
+[Vysor](https://www.vysor.io/) | Vysor is a screen mirroring app in the network & admin category for putting iOS or Android straight into desktop.
 | **Browser** |
 [Blisk](https://blisk.io/) | Compared to Opera, Chrome, and Firefox, Blisk doesn’t have nearly as much attention online. However, this browser is specifically designed to give designers a development-first workspace where they can develop and test modern applications as quickly as possible.
 [Brave Browser](https://brave.com) | A Chrome-based browser without the tracking and analytics with builtin adblocking.
