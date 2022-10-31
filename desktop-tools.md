@@ -54,6 +54,9 @@
 [Wampserver](https://www.wampserver.com/en/) | Fully fledged webserver for local use on Windows. Includes Apache, PHP, MySQL, MariaDB out of the box and [additional versions of each can be installed with ease](https://wampserver.aviatechno.net/).
 [Wireshark](https://www.wireshark.org/) | Wireshark is an open source, network protocol analyzer.
 [WSL2](https://docs.microsoft.com/en-us/windows/wsl/) | Windows Subsystem for Linux allows you to run a Linux shell and run Linux commands on Windows 10.
+[Traefik](https://doc.traefik.io/traefik/) | Traefik is an open-source Edge Router that makes publishing your services a fun and easy experience.
+
+
 | **Bashs/Terminals/Consoles/Prompts** |
 [ASCIinema](https://asciinema.org/) | Record and share your terminal sessions, the right way.
 [Cmder](https://cmder.net/) | Cmder is software package that provides great console experience even on Windows.
