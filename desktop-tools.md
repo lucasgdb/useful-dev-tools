@@ -22,6 +22,7 @@
 [Joplin](https://joplinapp.org/) | Joplin is an open source note-taking app. .
 [Lapce](https://lapce.dev/) | Lapce is a modern open source text editor built in Rust, focused on performance. 
 [Lens](https://k8slens.dev/) | Lens is the only IDE you’ll ever need to take control of your Kubernetes clusters. It's open source and free.
+[Linx](https://linx.software/) | Low-code IDE to build, debug and host APIs, integrations and automations. 
 [MacDown](https://github.com/MacDownApp/macdown) | MacDown is an open source program for reading and writing MarkDown files on MacOS.
 [NeoVIm](https:https://neovim.io/) | NeoVim is a fork of the original Vim more focus on community contribution, and has new features, such as plugins, more customization and a opensource driven project.
 [NetBeans](https://netbeans.apache.org/) | NetBeans is an IDE for Java.
