@@ -38,6 +38,7 @@
 [CodeChef](https://www.codechef.com/) | Code-Chef is an online competitive programming community of global programmers.
 [Codeforces](https://codeforces.com/) | Codeforces is a website that hosts competitive programming contests and helps you so much in Problem Solving.
 [CodeKit](https://codekitapp.com/) | Using this tool, web app development work can be done faster as it minifies, combines and syntax-checks JavaScript.
+[CodeMagic](https://code-magic.vercel.app/) | An all in one developer styling tool that gives you short codes to add fun/quick styles to your projects 
 [CodePen](https://codepen.io) | Online community for testing and sharing HTML, CSS and JavaScript code snippets.
 [Codespaces](https://github.com/features/codespaces) | Codespaces is your instant dev environment from Github
 [Codethesaur.us](https://codethesaur.us/) | Compare language components from languages you know and don't know, or just use it as a language reference cheat sheet.
