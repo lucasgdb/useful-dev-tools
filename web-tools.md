@@ -66,6 +66,7 @@
 [DBDiagram](https://dbdiagram.io/) | A free, simple tool to draw ER diagrams by just writing code.
 [DB-engines](https://db-engines.com/) | Ranks database management systems by popularity. Ranking criteria include number of search engine results, Stack Overflow discussions etc.
 [DB Fiddle](https://www.db-fiddle.com/) | An online SQL database playground for testing, debugging and sharing SQL snippets. Supports MySQL, PostgreSQL and SQLite.
+[DebugBear Speed Test](https://www.debugbear.com/test/website-speed) | Test website speed and get recommendations to make your website faster.
 [DeployBot](https://deploybot.com/) | Instantly build and ship code anywhere in one consistent process for your entire team.
 [Deployer](https://deployer.org/) | A deployment tool for PHP.
 [Deta](https://www.deta.sh/) | Build and deploy applications for free, forever.
