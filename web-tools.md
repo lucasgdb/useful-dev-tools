@@ -216,3 +216,4 @@
 [Transform Tool](https://transform.tools/) | This tool can convert any code from one type to another. For example, HTML to JSX, CSS to JS, etc.
 [GT Metrix](https://gtmetrix.com/) | With this tool, you can find how fast your site load and what is slowing it down.
 [Locofy](http://Locofy.ai) | Locofy converts Figma design to production-ready apps. (Supports React, React Native, HTML-CSS, Gatsby, Next.js, Popular UI libraries like Material, Chakra, Bootstrap, are also supported)
+[ERD Lab](https://www.erdlab.io/) | Free cloud based entity relationship diagram (ERD) tool made for developers.
