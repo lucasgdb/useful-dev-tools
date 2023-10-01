@@ -2,6 +2,7 @@
 
 | Extension | Description |
 | --------- | ----------- |
+[AdBlock — best ad blocker](https://chrome.google.com/webstore/detail/adblock-%E2%80%94-best-ad-blocker/gighmmpiobklfepjocnamgkkbiglidom) | Block pop ups, ads, and annoying banners (even remove video ads!) on YouTube, Facebook, Twitch, and all your favorite sites.
 [Allow CORS: Access-Control-Allow-Origin](https://chrome.google.com/webstore/detail/allow-cors-access-control/lhobafahddgcelffkeicbaginigeejlf?hl=en) | Easily add (Access-Control-Allow-Origin: *) rule to the response header.
 [Alexa Traffic Rank](https://chrome.google.com/webstore/detail/alexa-traffic-rank/cknebhggccemgcnbidipinkifmmegdel?hl=en-US) | Alexa extension helps to make the Web a better place for everybody by contributing to the traffic information that Alexa provides.
 [Altair GraphQL Client](https://chrome.google.com/webstore/detail/altair-graphql-client/flnheeellpciglgpaodhkhmapeljopja?hl=en-US) | Altair extension is a client available for all platforms (MacOS, Windows, Linux, Chrome, Firefox) that allows to test GraphQL queries  with any GraphQL server you are authorized to access from any platform you are on. 
