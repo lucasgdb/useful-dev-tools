@@ -99,3 +99,4 @@
 [Bug Magnet](https://chrome.google.com/webstore/detail/bug-magnet/efhedldbjahpgjcneebmbolkalbhckfi?hl=id) | Exploratory testing assistant, adds common problematic values and edge cases to the context menu (right-click) for editable elements, so you can keep them handy and access them easily during exploratory testing sessions.
 [HTML Tree Generator](https://chrome.google.com/webstore/detail/html-tree-generator/dlbbmhhaadfnbbdnjalilhdakfmiffeg) | Html is really a tree of elements, css is what defines the layout. This extension displays any page as a tree.
 [Temp Mail](https://chrome.google.com/webstore/detail/temp-mail-disposable-temp/inojafojbhdpnehkhhfjalgjjobnhomj?hl=en)| Temporary disposable email address. Protect your email from spam, bots and phishing with TempMail.
+[Color Fish](https://chrome.google.com/webstore/detail/colorfish-%F0%9F%90%A0-color-picker/ejfgcoabhgdgaafjeindjmegacbklcin) | Open-Source Color Picker for Websites and Desktop Apps
