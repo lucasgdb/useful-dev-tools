@@ -218,3 +218,4 @@
 [Locofy](http://Locofy.ai) | Locofy converts Figma design to production-ready apps. (Supports React, React Native, HTML-CSS, Gatsby, Next.js, Popular UI libraries like Material, Chakra, Bootstrap, are also supported)
 [ERD Lab](https://www.erdlab.io/) | Free cloud based entity relationship diagram (ERD) tool made for developers.
 [Framer Motion](https://www.framer.com/motion/) | Complete documentation of the Framer Motion animation library. A production-ready motion library for React.
+[Motion style guide](https://monday.com/lp/motion/) | Bringing our product to life. Motion helps make a UI expressive and easy to use.
